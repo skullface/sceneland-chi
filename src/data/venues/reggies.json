@@ -120,6 +120,15 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "ZACK FEDOR & THE LONG GOODBYES",
+      "BLAKE BURKHART"
+    ],
+    "date": "2023-09-04T20:00:00",
+    "link": "https://www.reggieslive.com/show/south-loop-comedy-music-14/",
+    "venue": "Reggie\u2019s"
+  },
+  {
     "date": "2023-09-04T20:00:00",
     "link": "https://www.reggieslive.com/show/bingo-with-tyler-68/",
     "venue": "Reggie\u2019s"
@@ -783,10 +792,10 @@
   },
   {
     "artist": [
-      "FRANK BANG AND THE SECRET STASH"
+      "FRANK BANG THREE"
     ],
     "date": "2023-10-15T20:00:00",
-    "link": "https://www.reggieslive.com/show/frank-bang-and-the-secret-stash-2/",
+    "link": "https://www.reggieslive.com/show/frank-bang-three-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -798,6 +807,7 @@
     "artist": [
       "TEMPLE OF THE FUZZ WITCH",
       "ANCIENT DAYS",
+      "TWIN WIZARD",
       "GRIM REEFER"
     ],
     "date": "2023-10-16T20:00:00",
@@ -1157,7 +1167,8 @@
       "SUFFOCATION",
       "INCANTATION",
       "SKELETAL REMAINS",
-      "STABBING"
+      "STABBING",
+      "CASKET ROBBERY"
     ],
     "date": "2023-11-15T20:00:00",
     "link": "https://www.reggieslive.com/show/suffocation-incantation/",
