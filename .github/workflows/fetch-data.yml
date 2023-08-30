@@ -1,0 +1,48 @@
+name: Fetch data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '59 8 * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+      - name: Setup dependencies
+        run: |
+          pip install -r requirements.txt
+          npm install
+      - name: Get data
+        run: |
+          input_directory="script/venues"
+          output_directory="src/data/venues"
+
+          for input_file in ${input_directory}/*.py; do
+            venue_name=$(basename "$input_file" .py)
+            output_file="${output_directory}/${venue_name}.json"
+            
+            python "$input_file" > "$output_file"
+            echo "✅ ${venue_name}.json"
+          done
+      - name: Merge data
+        run: |
+          python script/merge.py
+          npm run format:data
+          echo "---------------------------"
+          echo "⬆️ allShows.js was merged ✅"
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 🤖 update data
+          branch: ${{ github.head_ref }}
