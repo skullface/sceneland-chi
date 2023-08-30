@@ -11,7 +11,7 @@ calendar = soup.find('div', class_='tw-plugin-calendar-list')
 shows = calendar.find_all('div', class_='tw-cal-event')
 
 def should_skip_artist(artist_text):
-  excluded_keywords = ['Extraordinary Popular Delusions', 'Bluegrass Brunch', 'Chicago Underground Comedy', 'CANCELLED -', 'Splice Series']
+  excluded_keywords = ['Extraordinary Popular Delusions', 'Bluegrass Brunch', 'Chicago Underground Comedy', 'CANCELLED', 'Splice Series']
   return any(keyword in artist_text for keyword in excluded_keywords)
 
 all_shows_list = []
