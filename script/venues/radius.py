@@ -28,8 +28,7 @@ for show in shows:
     all_shows_data['artist'] = [headliner.text.strip()]
   else:
     all_shows_data['artist'] = [headliner.text.strip()] + [opener.text.strip().replace(' | ', ', ')]
-  
-  
+
   link = headliner.find('a')
   all_shows_data['link'] = link.get('href')
   
