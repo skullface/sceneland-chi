@@ -1,0 +1,553 @@
+[
+  {
+    "artist": [
+      "Wilmette, Four Stars, Take The Reins"
+    ],
+    "date": "2023-08-31T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/wilmette-four-stars-take-the-reins/13454438",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Pale Lungs, Safe Bet, Stillwell"
+    ],
+    "date": "2023-09-02T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/pale-lungs-safe-bet-stillwell/13332238",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "TWIN COAST, WESTERN BISEXUAL, DAUNDRY, MINIVAN, SOAPS, Scott Cortez"
+    ],
+    "date": "2023-09-02T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/twin-coast-western-bisexual-daundry-minivan-soaps-scott-cortez/13498968",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Surf Curse, Floatie"
+    ],
+    "date": "2023-09-05T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/surf-curse-floatie/13288208",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Hulvey - The Beautiful Tour"
+    ],
+    "date": "2023-09-06T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/hulvey-the-beautiful-tour/13229288",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "MADISON RYANN WARD, Peter CottonTale"
+    ],
+    "date": "2023-09-07T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/madison-ryann-ward-peter-cottontale/13409928",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Sugar: The Nu-Metal Party - 17+"
+    ],
+    "date": "2023-09-08T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sugar-the-nu-metal-party-17/13209848",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Modern Nun, Heet Deth, The Laughing Hearts, Orisun"
+    ],
+    "date": "2023-09-09T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/modern-nun-heet-deth-the-laughing-hearts-orisun/13454238",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Old and Dirty, Young and freaky"
+    ],
+    "date": "2023-09-09T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/old-and-dirty-young-and-freaky/13506688",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "The Buttertones, New Misphoria"
+    ],
+    "date": "2023-09-10T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-buttertones-new-misphoria/13461088",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Destined"
+    ],
+    "date": "2023-09-11T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/destined/13537438",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Liam Taylor, Josh Trimble, JANET BLACKWELL"
+    ],
+    "date": "2023-09-13T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/liam-taylor-josh-trimble-janet-blackwell/13494638",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "John Mark McMillan, TAYLOR LEONHARDT"
+    ],
+    "date": "2023-09-14T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/john-mark-mcmillan-taylor-leonhardt/13347208",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Whitehall , THE COURTS, Cloud Houses"
+    ],
+    "date": "2023-09-15T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/whitehall-the-courts-cloud-houses/13182298",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Bay Ledges, MISHEGAS"
+    ],
+    "date": "2023-09-15T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/bay-ledges-mishegas/13245418",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "NIGHTOSPHERE, INTERNET DATING, Bleached Cross, STALLED"
+    ],
+    "date": "2023-09-16T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/nightosphere-internet-dating-bleached-cross-stalled/13458178",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "True Widow, Virgin Mother"
+    ],
+    "date": "2023-09-16T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/true-widow-virgin-mother/13425868",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "PERREOLOGIA"
+    ],
+    "date": "2023-09-16T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/perreologia/13519458",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Sammy Rash, Good Problem"
+    ],
+    "date": "2023-09-17T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sammy-rash-good-problem/13365398",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "For Lack of a Term, RISK, Lp Trixie, Wine Dark Sea"
+    ],
+    "date": "2023-09-18T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/for-lack-of-a-term-risk-lp-trixie-wine-dark-sea/13537348",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Grieves, Marley B, TOMCANTSLEEP"
+    ],
+    "date": "2023-09-19T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/grieves-marley-b-tomcantsleep/13348378",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Jake Miller: Note To Self Tour"
+    ],
+    "date": "2023-09-20T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/jake-miller-note-to-self-tour/13238748",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Ali a.k.a Mind"
+    ],
+    "date": "2023-09-20T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/ali-a-k-a-mind/13517338",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "THXSOMCH"
+    ],
+    "date": "2023-09-21T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/thxsomch/13303798",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Calicoloco, SOCIAL CIG, HANNAH SANDOZ, MOLLY COMPTON"
+    ],
+    "date": "2023-09-22T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/calicoloco-social-cig-hannah-sandoz-molly-compton/13475948",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "SOUR GUTS - Olivia Rodrigo Dance Night"
+    ],
+    "date": "2023-09-22T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sour-guts-olivia-rodrigo-dance-night/13498708",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "EMERG A.K.A. THE PILSEN PRODIGY"
+    ],
+    "date": "2023-09-23T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/emerg-a-k-a-the-pilsen-prodigy/13506798",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "PALADIN, Lutharo"
+    ],
+    "date": "2023-09-24T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/paladin-lutharo/13461138",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Kid Quill: Good People Tour"
+    ],
+    "date": "2023-09-24T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/kid-quill-good-people-tour/13298978",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "YUNGATITA"
+    ],
+    "date": "2023-09-26T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/yungatita/13358858",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Riovaz - RioRave II: Disturb the Norm"
+    ],
+    "date": "2023-09-26T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/riovaz-riorave-ii-disturb-the-norm/13292848",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "KAT AND THE HURRICANE, Disaster Kid, BILLY JOEL JR., DOGBOD"
+    ],
+    "date": "2023-09-27T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/kat-and-the-hurricane-disaster-kid-billy-joel-jr-dogbod/13506878",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "AUTOPILOT"
+    ],
+    "date": "2023-09-29T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/autopilot/13457398",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "THE HUSTLE (DANCE PARTY)"
+    ],
+    "date": "2023-09-29T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-hustle-dance-party/13326978",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Turning Birds"
+    ],
+    "date": "2023-09-30T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/turning-birds/13519448",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "DYLAN."
+    ],
+    "date": "2023-09-30T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/dylan/13479308",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "BabyJake, Hotel Fiction, Lunde"
+    ],
+    "date": "2023-10-01T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/babyjake-hotel-fiction-lunde/13230458",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Anita Velveeta, SAWAMURA NO HITTER, Crush Fund, Kitty Litter"
+    ],
+    "date": "2023-10-02T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/anita-velveeta-sawamura-no-hitter-crush-fund-kitty-litter/13540378",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "mssv, Eli Winter"
+    ],
+    "date": "2023-10-02T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/mssv-eli-winter/13226008",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Dead Poet Society , Public Theater , The Keystones"
+    ],
+    "date": "2023-10-03T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/dead-poet-society-public-theater-the-keystones/13430438",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "DAWN OF OUROBOROS, FIRES IN THE DISTANCE, Varaha, Dismalimerence"
+    ],
+    "date": "2023-10-04T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/dawn-of-ouroboros-fires-in-the-distance-varaha-dismalimerence/13454478",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Zulu, Soul Glo, Playytime"
+    ],
+    "date": "2023-10-07T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/zulu-soul-glo-playytime/13449788",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Scowl, Militarie Gun, Big Laugh, Enervate"
+    ],
+    "date": "2023-10-08T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/scowl-militarie-gun-big-laugh-enervate/13229188",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Ollie Wride, Parallels"
+    ],
+    "date": "2023-10-09T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/ollie-wride-parallels/13381168",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "underscores, Torr"
+    ],
+    "date": "2023-10-11T20:00:00",
+    "sold_out": true,
+    "link": "https://www.subt.net/event/tw-eventinfo/underscores-torr/13298858",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "MUSTARD SERVICE, JW Francis"
+    ],
+    "date": "2023-10-12T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/mustard-service-jw-francis/13506788",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Spy, Buggin, Toner , Mask"
+    ],
+    "date": "2023-10-13T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/spy-buggin-toner-mask/13517978",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "EMO BAND LIVE BAND EMO & POP PUNK KARAOKE"
+    ],
+    "date": "2023-10-13T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/emo-band-live-band-emo-pop-punk-karaoke/12951145",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Perspective... A Lovely Hand To Hold, Carpool, Options"
+    ],
+    "date": "2023-10-14T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/perspective-a-lovely-hand-to-hold-carpool-options/13396048",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Playboy Manbaby"
+    ],
+    "date": "2023-10-17T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/playboy-manbaby/13514438",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "EASY HONEY, Northwest, The Back Alley"
+    ],
+    "date": "2023-10-18T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/easy-honey-northwest-the-back-alley/13365118",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Sam Nelson"
+    ],
+    "date": "2023-10-19T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sam-nelson/13421018",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "UNDER THE SEA RAVE"
+    ],
+    "date": "2023-10-20T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/under-the-sea-rave/13558158",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "David Rosales"
+    ],
+    "date": "2023-10-22T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/david-rosales/13487728",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "TRAUNA, BOY BANDICOOT, MOONY"
+    ],
+    "date": "2023-10-23T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/trauna-boy-bandicoot-moony/13537508",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "FRENSHIP, Bizzy"
+    ],
+    "date": "2023-10-26T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/frenship-bizzy/13343218",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "BL\u00dc EYES, AVERY LYNCH"
+    ],
+    "date": "2023-10-27T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/blu-eyes-avery-lynch/13318798",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "ADDISON GRACE, MADILYN MEI, BRYE"
+    ],
+    "date": "2023-10-28T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/addison-grace-madilyn-mei-brye/13427148",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "2000s Hip Hop HALLOWEEN Party"
+    ],
+    "date": "2023-10-28T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/2000s-hip-hop-halloween-party/13454368",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Bluphoria, Noah Vonne"
+    ],
+    "date": "2023-11-04T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/bluphoria-noah-vonne/13468838",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Royal & The Serpent"
+    ],
+    "date": "2023-11-04T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/royal-the-serpent/13511278",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Pain of Truth, Conservative Military Image, LIFE'S QUESTION, Vomit Forth, BREAK THE CYCLE"
+    ],
+    "date": "2023-11-08T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/pain-of-truth-conservative-military-image-lifes-question-vomit-forth-break-the-cycle/13557768",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Far Caspian"
+    ],
+    "date": "2023-11-13T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/far-caspian/13281868",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Beauty School Dropout, Not A Toy, Ava Maybee"
+    ],
+    "date": "2023-11-15T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/beauty-school-dropout-not-a-toy-ava-maybee/13526948",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "TINY BIT OF GIANTS BLOOD, Seth Limmer & The Broken Promises"
+    ],
+    "date": "2023-11-18T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/tiny-bit-of-giants-blood-seth-limmer-the-broken-promises/13514728",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "MUSIC FOR THE MASSES: DARK 80'S NEW WAVE NITE"
+    ],
+    "date": "2023-11-18T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/music-for-the-masses-dark-80s-new-wave-nite/13458678",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Jazmin Bean"
+    ],
+    "date": "2023-11-22T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/jazmin-bean/13454408",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Motherfolk, Kevin Devine"
+    ],
+    "date": "2023-12-08T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/motherfolk-kevin-devine/13518148",
+    "venue": "Subterranean"
+  }
+]

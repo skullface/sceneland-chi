@@ -3,6 +3,13 @@ import json
 import sh
 import os
 
+input_file_path = 'src/data/venues/reggies.json'
+with open(input_file_path, 'r') as input_file:
+  file_content = input_file.read()
+new_content = file_content.replace(']\n[', ',')
+with open(input_file_path, 'w') as output_file:
+  output_file.write(new_content)
+
 read_files = glob.glob('src/data/venues/*.json')
 all_shows = []
 
