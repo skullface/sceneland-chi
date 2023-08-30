@@ -28,6 +28,10 @@ for show in shows:
       sold_out = True
     
     artist_text = artist.text.strip()
+    
+    if artist_text == 'FREE MONDAY w':
+      continue
+
     if any(keyword in artist_text for keyword in ['DAY PASS', 'Empty Bottle Yoga', 'Hard Country Honky Tonk', 'Fantasy Brunch']):
       continue
     artists_list.append(artist_text.replace('*SOLD OUT* ', '').replace(' - ', ': '))
