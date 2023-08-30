@@ -28,6 +28,12 @@ for url_page in url_pages:
         ...
       elif 'Bingo with Tyler' in artist.text.strip():
         ...
+      elif 'UNDERGROUND WONDER' in artist.text.strip():
+        ...
+      elif 'Underground Wonder' in artist.text.strip():
+        ...
+      elif 'WRESTLING' in artist.text.strip():
+        ...
       elif 'MR. BLOTTO' in artist.text.strip():
         ...
       elif 'MICHAEL JOHNSON' in artist.text.strip():
@@ -40,7 +46,7 @@ for url_page in url_pages:
         ...
       else:
         all_shows_data['artist'] = artists_list
-      artists_list.append(artist.text.strip())
+      artists_list.append(artist.text.strip().replace(' / ', ', '))
     date = show.find('time')
     all_shows_data['date'] = date.get('datetime') + 'T20:00:00'
     link = show.find('a', class_='expandshow')
@@ -48,5 +54,5 @@ for url_page in url_pages:
     all_shows_data['venue'] = 'Reggie’s'
     all_shows_list.append(all_shows_data)
 
-  all_shows_json = json.dumps(all_shows_list, indent=2)
-  print(all_shows_json)
+all_shows_json = json.dumps(all_shows_list, indent=2)
+print(all_shows_json)

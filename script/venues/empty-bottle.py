@@ -30,13 +30,15 @@ for show in shows:
       sold_out = False
     if 'DAY PASS' in artist.text.strip():
       ...
+    elif "Empty Bottle Yoga" in artist.text.strip():
+      ...
     elif 'Hard Country Honky Tonk' in artist.text.strip():
       ...
     elif 'Fantasy Brunch' in artist.text.strip():
       ...
     else:
       all_shows_data['artist'] = artists_list
-    artists_list.append(artist.text.strip().replace('*SOLD OUT* ', '').replace('FREE MONDAY w', ''))
+    artists_list.append(artist.text.strip().replace('*SOLD OUT* ', '').replace(' - ', ': '))
   if sold_out:
     all_shows_data['sold_out'] = True
   link = show.find('a', class_='buy-button')
