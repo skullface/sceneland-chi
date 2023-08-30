@@ -34,6 +34,7 @@ for show in shows:
 
   if artists_list:
     all_shows_data = {}
+    all_shows_data['artist'] = artists_list
 
     if sold_out:
       all_shows_data['sold_out'] = True
