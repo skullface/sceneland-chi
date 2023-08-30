@@ -8,8 +8,8 @@ const MyApp: AppType = ({ Component, pageProps }) => {
   const router = useRouter()
 
   useEffect(() => {
-    Fathom.load('TK', {
-      includedDomains: ['TK'],
+    Fathom.load('VUYLHUEU', {
+      includedDomains: ['312.show'],
     })
 
     function onRouteChangeComplete() {
