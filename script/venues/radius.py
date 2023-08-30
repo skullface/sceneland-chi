@@ -3,6 +3,7 @@ from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
 import time
+from datetime import datetime
 
 url = 'https://www.radius-chicago.com/events'
 options = FirefoxOptions()
@@ -31,10 +32,33 @@ for show in shows:
 
   link = headliner.find('a')
   all_shows_data['link'] = link.get('href')
-  
+
   date = show.find('span', class_='date')
-  date = date.text.strip().replace('Aug ', '2023-08-').replace('Sep ', '2023-09-').replace('Oct ', '2023-10-').replace('Nov ', '2023-11-').replace('Dec ', '2023-12-').replace('Jan ', '2024-01-').replace('Feb ', '2024-02-').replace('Mar ', '2024-03-').replace('Apr ', '2024-04-').replace('May ', '2024-05-').replace('Jun ', '2024-06-').replace('Jul ', '2024-07-').replace('Mon, ', '').replace('Tue, ', '').replace('Wed, ', '').replace('Thu, ', '').replace('Fri, ', '').replace('Sat, ', '').replace('Sun, ', '').replace(', 2023', '').replace(', 2024', '') + 'T20:00:00'
-  all_shows_data['date'] = date.replace('-1T', '-01T').replace('-2T', '-02T').replace('-3T', '-03T').replace('-4T', '-04T').replace('-5T', '-05T').replace('-6T', '-06T').replace('-7T', '-07T').replace('-8T', '-08T').replace('-9T', '-09T')
+  date_text = date.text.strip()
+  time = show.find('span', class_='time')
+  time_text = time.text.strip()
+  time_text = time_text.replace(' ', '').replace('Doors', '')
+  time_text = ''.join(time_text.split())
+
+  # Extract day, month, and year from date_text
+  day_of_week, date_part = date_text.split(',', maxsplit=1)
+  date_part = date_part.strip()
+  date_part_cleaned = ' '.join(date_part.split())  # Remove extra spaces
+  month, day, year = date_part_cleaned.split()
+  
+  # Convert month abbreviation to month number
+  month_number = datetime.strptime(month, '%b').month
+
+  # Construct the full date string
+  full_date_text = f'{month} {day} {year}'
+
+  # Parse the full_date_text and time_text into datetime objects
+  parsed_date = datetime.strptime(full_date_text, '%b %d, %Y')
+  parsed_time = datetime.strptime(time_text, '%I:%M%p').time()
+
+  # Construct the desired output string
+  parsed_datetime = f'{parsed_date:%Y-%m-%d}T{parsed_time:%H:%M:%S}'
+  all_shows_data['date'] = parsed_datetime
 
   all_shows_data['venue'] = 'Radius'
   all_shows_list.append(all_shows_data)

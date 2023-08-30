@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 session = requests.Session()
 page = session.get('https://www.beatkitchen.com/calendar', headers={'User-Agent': 'Mozilla/5.0'})
@@ -32,11 +32,13 @@ for show in shows:
   if sold_out:
     all_shows_data['sold_out'] = True
 
-  date = show.find('span', class_='tw-event-date')
-  date = datetime.strptime(date.text.strip(), '%B %d, %Y')
+  date = show.find('span', class_='tw-event-date').text.strip()
+  date = datetime.strptime(date, '%B %d, %Y')
   if date < current_date:
     continue
-  all_shows_data['date'] = str(date).replace(' 00:00:00', 'T20:00:00')
+  time = show.find('span', class_='tw-event-time').text.strip()
+  time = datetime.strptime(time, '%I:%M %p').time()
+  all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
 
   all_shows_data['venue'] = 'Beat Kitchen'
 

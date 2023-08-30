@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
+from datetime import datetime
 
 url_base = 'https://www.subt.net/?twpage='
 url_pages = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -22,7 +23,6 @@ for url_page in url_pages:
   for show in shows:
     all_shows_data = {}
     artist = show.find('span', class_='artisteventsname')
-    date = show.find('span', class_='artisteventdate')
     link = show.find_all('a')[1]
     link_to_ticketweb = show.find_all('a')[2]
 
@@ -30,10 +30,14 @@ for url_page in url_pages:
     if should_skip_artist(artist_text):
       continue
     all_shows_data['artist'] = [artist_text]
-  
-    date = date.text.strip().replace('Mon ', '').replace('Tue ', '').replace('Wed ', '').replace('Thu ', '').replace('Fri ', '').replace('Sat ', '').replace('Sun ', '').replace(', 2023', '').replace(', 2024', '')
-    date = date.replace('August ', '2023-08-').replace('September ', '2023-09-').replace('October ', '2023-10-').replace('November ', '2023-11-').replace('December ', '2023-12-').replace('January ', '2024-01-').replace('February ', '2024-02-').replace('March ', '2024-03-').replace('April ', '2024-04-').replace('May ', '2024-05-').replace('June ', '2024-06-').replace('July ', '2024-07-') + 'T20:00:00'
-    all_shows_data['date'] = date.replace('-1T', '-01T').replace('-2T', '-02T').replace('-3T', '-03T').replace('-4T', '-04T').replace('-5T', '-05T').replace('-6T', '-06T').replace('-7T', '-07T').replace('-8T', '-08T').replace('-9T', '-09T')
+
+    date = show.find('span', class_='artisteventdate').text.strip()
+    time = show.find('span', class_='artisteventshowtime').text.strip()
+    parsed_date = datetime.strptime(date, '%a %B %d, %Y')
+    parsed_time = datetime.strptime(time, '%I:%M %p').time()
+    parsed_datetime = f'{parsed_date:%Y-%m-%d}T{parsed_time:%H:%M:%S}'
+    all_shows_data['date'] = parsed_datetime
+
     if link_to_ticketweb.text.strip() == 'Sold Out!':
       all_shows_data['sold_out'] = True
     all_shows_data['link'] = link.get('href')

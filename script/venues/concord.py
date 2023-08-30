@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 session = requests.Session()
 page = session.get('https://concordmusichall.com/calendar/', headers={'User-Agent': 'Mozilla/5.0'})
@@ -28,9 +28,25 @@ for show in shows:
   link = show.find_all('a')[1]
   all_shows_data['link'] = link.get('href')
   
-  date = show.find('p', class_='date')
-  date = date.text.strip().replace("Aug ", "2023-08-").replace("Sep ", "2023-09-").replace("Oct ", "2023-10-").replace("Nov ", "2023-11-").replace("Dec ", "2023-12-").replace("Jan ", "2024-01-").replace("Feb ", "2024-02-").replace("Mar ", "2024-03-").replace("Apr ", "2024-04-").replace("May ", "2024-05-").replace("Jun ", "2024-06-").replace("Jul ", "2024-07-") + "T20:00:00"
-  all_shows_data['date'] = date.replace("-1T", "-01T").replace("-2T", "-02T").replace("-3T", "-03T").replace("-4T", "-04T").replace("-5T", "-05T").replace("-6T", "-06T").replace("-7T", "-07T").replace("-8T", "-08T").replace("-9T", "-09T")
+  date = show.find('p', class_='date').text.strip()
+  time = show.find('p', class_='doors').text.strip()
+  time = time.replace('Doors @ ', '')
+
+  current_date = datetime.now().date()
+  year = current_date.year
+
+  month, day = date.split()
+  month_number = datetime.strptime(month, '%b').month
+
+  if month_number < current_date.month:
+    year = current_date.year + 1
+  else:
+    year = current_date.year
+
+  date = date + ' ' + str(year)
+  date = datetime.strptime(date, '%b %d %Y')
+  time = datetime.strptime(time, '%I:%M %p').time()
+  all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
 
   all_shows_data['venue'] = 'Concord Music Hall'
   all_shows_list.append(all_shows_data)
