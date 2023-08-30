@@ -46,10 +46,9 @@ export default function Page({ shows }: PageProps) {
 
   // Overwrite specific venue names to group them together
   const venueMapping: { [key: string]: string } = {
-    'Beachland Ballroom': 'Beachland',
-    'Beachland Tavern': 'Beachland',
-    'Mahall’s Apartment': 'Mahall’s',
-    'The Roxy at Mahall’s': 'Mahall’s',
+    'Garfield Park Conservatory': 'Empty Bottle',
+    'Rockefeller Chapel at University of Chicago': 'Empty Bottle',
+    'Co-Prosperity Sphere': 'Empty Bottle',
   }
 
   // Create an array of all unique venues

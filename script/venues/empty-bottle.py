@@ -47,7 +47,7 @@ for show in shows:
   all_shows_data['date'] = date.replace('-1T', '-01T').replace('-2T', '-02T').replace('-3T', '-03T').replace('-4T', '-04T').replace('-5T', '-05T').replace('-6T', '-06T').replace('-7T', '-07T').replace('-8T', '-08T').replace('-9T', '-09T')
   venue = show.find('a', class_='event-venue')
   if venue:
-    all_shows_data['venue'] = venue.text.strip().replace('At: ', '') + ' (via Empty Bottle)'
+    all_shows_data['venue'] = venue.text.strip().replace('At: ', '')
   else:
     all_shows_data['venue'] = 'Empty Bottle'
   all_shows_list.append(all_shows_data)
