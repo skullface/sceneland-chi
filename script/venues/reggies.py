@@ -16,37 +16,20 @@ for url_page in url_pages:
   shows = calendar.find_all('article', class_='show')
 
   for show in shows:
-    all_shows_data = {} 
+    all_shows_data = {}
+
     artists_elements = show.find('hgroup').findChildren(class_='band-title')
     artists_list = []
+    excluded_keywords = ['Open Mic', 'SOX SUNDAYS', 'Tabletop Fleapit', 'Bingo with Tyler', 'UNDERGROUND WONDER', 'Underground Wonder', 'WRESTLING', 'MR. BLOTTO', 'MICHAEL JOHNSON', 'MICHAEL ROBINSON', 'TAILGATE PARTY', 'ART SHOW']
     for artist in artists_elements:
-      if 'Open Mic' in artist.text.strip():
-        ...
-      elif 'SOX SUNDAYS' in artist.text.strip():
-        ...
-      elif 'Tabletop Fleapit' in artist.text.strip():
-        ...
-      elif 'Bingo with Tyler' in artist.text.strip():
-        ...
-      elif 'UNDERGROUND WONDER' in artist.text.strip():
-        ...
-      elif 'Underground Wonder' in artist.text.strip():
-        ...
-      elif 'WRESTLING' in artist.text.strip():
-        ...
-      elif 'MR. BLOTTO' in artist.text.strip():
-        ...
-      elif 'MICHAEL JOHNSON' in artist.text.strip():
-        ...
-      elif 'MICHAEL ROBINSON' in artist.text.strip():
-        ...
-      elif 'TAILGATE PARTY' in artist.text.strip():
-        ...
-      elif 'ART SHOW' in artist.text.strip():
-        ...
-      else:
+      artist_text = artist.text.strip()
+      # Check if artist text contains any excluded keyword
+      if any(keyword in artist_text for keyword in excluded_keywords):
+        continue
+      artists_list.append(artist_text.replace(' / ', ', '))
+    if artists_list:
         all_shows_data['artist'] = artists_list
-      artists_list.append(artist.text.strip().replace(' / ', ', '))
+
     date = show.find('time')
     all_shows_data['date'] = date.get('datetime') + 'T20:00:00'
     link = show.find('a', class_='expandshow')
