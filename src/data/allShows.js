@@ -1,21 +1,5 @@
 export const allShows = [
   {
-    artist: ['LUKE\u2019S JAZZ TRIO'],
-    date: '2023-08-31T20:00:00',
-    link: 'https://www.reggieslive.com/show/lukes-jazz-trio-at-reggies-on-the-beach/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: [
-      'LYNYRD SKYNYRD (Pronounced \u2018L\u0115h-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd) (performed by American Hustle)',
-      'JANIS JOPLIN \u201cPEARL\u201d (performed by Rotten Randy & The Cosmic Jokers)',
-      'FOREIGNER \u201cRECORDS\u201d (performed by FoCo)',
-    ],
-    date: '2023-08-31T20:00:00',
-    link: 'https://www.reggieslive.com/show/jim-ryans-classic-albums-night-42/',
-    venue: 'Reggie\u2019s',
-  },
-  {
     date: '2023-09-01T20:00:00',
     link: 'https://www.reggieslive.com/show/underground-wonder-bar-at-reggies-on-the-beach/',
     venue: 'Reggie\u2019s',
@@ -357,7 +341,7 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: ['BRANDON JAMES', 'MAX KAPLAN & THE MAGICS'],
+    artist: ['MIKEYEVERYTHING', 'BRANDON JAMES', 'MAX KAPLAN & THE MAGICS'],
     date: '2023-09-24T20:00:00',
     link: 'https://www.reggieslive.com/show/timeless-sounds-6/',
     venue: 'Reggie\u2019s',
@@ -949,7 +933,7 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: ['ULCERATE', 'ALTARS', 'TBA'],
+    artist: ['ULCERATE', 'ALTARS', 'MISANTHROPY', 'MUDTOMB'],
     date: '2023-11-16T20:00:00',
     link: 'https://www.reggieslive.com/show/ulcerate-2/',
     venue: 'Reggie\u2019s',
@@ -1110,6 +1094,12 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
+    artist: ['PAT MCCURDY'],
+    date: '2023-12-20T20:00:00',
+    link: 'https://www.reggieslive.com/show/pat-mccurdy-11/',
+    venue: 'Reggie\u2019s',
+  },
+  {
     date: '2023-12-23T20:00:00',
     link: 'https://www.reggieslive.com/show/open-mic-comedy-103/',
     venue: 'Reggie\u2019s',
@@ -1155,12 +1145,6 @@ export const allShows = [
     date: '2024-04-20T20:00:00',
     link: 'https://www.reggieslive.com/show/uli-jon-roth-4/',
     venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['Ace Enders'],
-    link: 'https://link.dice.fm/o2921b98f570',
-    date: '2023-08-31T19:00:00',
-    venue: 'Cobra Lounge',
   },
   {
     artist: ['Q101 Riot Fest Ticket Drop'],
@@ -1332,7 +1316,7 @@ export const allShows = [
     venue: 'Cobra Lounge',
   },
   {
-    artist: ['Holy Fawn'],
+    artist: ['Holy Fawn, Caracara'],
     link: 'https://link.dice.fm/ece023f498ef',
     date: '2023-10-16T18:30:00',
     venue: 'Cobra Lounge',
@@ -1396,16 +1380,6 @@ export const allShows = [
     link: 'https://link.dice.fm/B8e4af873485',
     date: '2023-11-22T19:00:00',
     venue: 'Cobra Lounge',
-  },
-  {
-    artist: [
-      'Scorched Tundra XIII Featuring: CANDY',
-      'Nicole Dollanganger',
-      'Without Waves',
-    ],
-    link: 'https://www.ticketweb.com/event/scorched-tundra-xiii-featuring-candy-empty-bottle-tickets/13350518',
-    date: '2023-08-31T20:00:00',
-    venue: 'Empty Bottle',
   },
   {
     artist: [
@@ -1850,12 +1824,6 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
-    artist: ['Better Love, Tiny Kingdoms, The Weekend Run Club'],
-    link: 'https://www.beatkitchen.com/event-details/13432258/better-love-tiny-kingdoms-the-weekend-run-club',
-    date: '2023-09-01T20:00:00',
-    venue: 'Beat Kitchen',
-  },
-  {
     artist: ['Detour North, Bad Planning, Massattack, RISK.'],
     link: 'https://www.beatkitchen.com/event-details/13212758/detour-north-bad-planning-massattack-risk',
     date: '2023-09-02T20:00:00',
@@ -1906,8 +1874,8 @@ export const allShows = [
     venue: 'Beat Kitchen',
   },
   {
-    artist: ['Bad Luck.'],
-    link: 'https://www.beatkitchen.com/event-details/13432268/bad-luck',
+    artist: ['Bad Luck., The Flips, Dead Dog'],
+    link: 'https://www.beatkitchen.com/event-details/13432268/bad-luck-the-flips-dead-dog',
     date: '2023-09-11T20:00:00',
     venue: 'Beat Kitchen',
   },
@@ -1952,8 +1920,8 @@ export const allShows = [
     venue: 'Beat Kitchen',
   },
   {
-    artist: ['NEW FRIENDS'],
-    link: 'https://www.beatkitchen.com/event-details/13414778/new-friends',
+    artist: ['NEW FRIENDS, Disco Nap'],
+    link: 'https://www.beatkitchen.com/event-details/13414778/new-friends-disco-nap',
     date: '2023-09-18T20:00:00',
     venue: 'Beat Kitchen',
   },
@@ -2183,12 +2151,6 @@ export const allShows = [
     link: 'https://www.beatkitchen.com/event-details/12951195/emo-band-live-band-emo-pop-punk-karaoke',
     date: '2024-01-27T20:00:00',
     venue: 'Beat Kitchen',
-  },
-  {
-    artist: ['The Fly Honeys'],
-    link: 'https://www.ticketweb.com/event/the-fly-honeys-thalia-hall-tickets/13328508',
-    date: '2023-08-31T20:00:00',
-    venue: 'Thalia Hall',
   },
   {
     artist: ['The Fly Honeys'],
@@ -2951,6 +2913,7 @@ export const allShows = [
   },
   {
     artist: ['LP Giobbi'],
+    sold_out: true,
     link: 'https://concordmusichall.com/calendar/lp-giobbi/',
     date: '2023-12-02T20:00:00',
     venue: 'Concord Music Hall',
@@ -3106,10 +3069,61 @@ export const allShows = [
     venue: 'Radius',
   },
   {
-    artist: ['Wilmette, Four Stars, Take The Reins'],
-    date: '2023-08-31T20:00:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/wilmette-four-stars-take-the-reins/13454438',
-    venue: 'Subterranean',
+    artist: ['deadmau5'],
+    link: 'https://www.radius-chicago.com/events/detail/489989',
+    date: '2023-10-28T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['RL Grime Presents: PLAY\u2122live', 'JAWNS, 33 Below'],
+    link: 'https://www.radius-chicago.com/events/detail/497054',
+    date: '2023-11-03T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Apashe', 'Wasiu, Ymir'],
+    link: 'https://www.radius-chicago.com/events/detail/491294',
+    date: '2023-11-04T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Armin van Buuren'],
+    link: 'https://www.radius-chicago.com/events/detail/495584',
+    date: '2023-11-10T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Gera MX & Nanpa Basico'],
+    link: 'https://www.radius-chicago.com/events/detail/493025',
+    date: '2023-11-12T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Lil Uzi Vert - PINK TAPE TOUR'],
+    link: 'https://www.radius-chicago.com/events/detail/497894',
+    date: '2023-12-04T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: [
+      'August Burns Red: Rescue & Restore 10 Year Anniversary Tour',
+      'Spite, Brand of Sacrifice, Crystal Lake',
+    ],
+    link: 'https://www.radius-chicago.com/events/detail/495859',
+    date: '2023-12-05T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['LSDREAM', 'ZINGARA, Chmura'],
+    link: 'https://www.radius-chicago.com/events/detail/489550',
+    date: '2023-12-08T20:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['elrow'],
+    link: 'https://www.radius-chicago.com/events/detail/500653',
+    date: '2023-12-16T20:00:00',
+    venue: 'Radius',
   },
   {
     artist: ['Pale Lungs, Safe Bet, Stillwell'],
@@ -3267,6 +3281,12 @@ export const allShows = [
     venue: 'Subterranean',
   },
   {
+    artist: ['Rusted Hearts, SIN., COMMIT THIS TO MEMORY, The Midshift'],
+    date: '2023-09-23T20:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/rusted-hearts-sin-commit-this-to-memory-the-midshift/13568278',
+    venue: 'Subterranean',
+  },
+  {
     artist: ['EMERG A.K.A. THE PILSEN PRODIGY'],
     date: '2023-09-23T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/emerg-a-k-a-the-pilsen-prodigy/13506798',
@@ -3286,9 +3306,9 @@ export const allShows = [
     venue: 'Subterranean',
   },
   {
-    artist: ['YUNGATITA'],
+    artist: ['YUNGATITA, ROM'],
     date: '2023-09-26T20:00:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/yungatita/13358858',
+    link: 'https://www.subt.net/event/tw-eventinfo/yungatita-rom/13358858',
     venue: 'Subterranean',
   },
   {

@@ -175,5 +175,81 @@
     "link": "https://www.radius-chicago.com/events/detail/489988",
     "date": "2023-10-27T20:00:00",
     "venue": "Radius"
+  },
+  {
+    "artist": [
+      "deadmau5"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/489989",
+    "date": "2023-10-28T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "RL Grime Presents: PLAY\u2122live",
+      "JAWNS, 33 Below"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/497054",
+    "date": "2023-11-03T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Apashe",
+      "Wasiu, Ymir"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/491294",
+    "date": "2023-11-04T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Armin van Buuren"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/495584",
+    "date": "2023-11-10T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Gera MX & Nanpa Basico"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/493025",
+    "date": "2023-11-12T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Lil Uzi Vert - PINK TAPE TOUR"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/497894",
+    "date": "2023-12-04T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "August Burns Red: Rescue & Restore 10 Year Anniversary Tour",
+      "Spite, Brand of Sacrifice, Crystal Lake"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/495859",
+    "date": "2023-12-05T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "LSDREAM",
+      "ZINGARA, Chmura"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/489550",
+    "date": "2023-12-08T20:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "elrow"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/500653",
+    "date": "2023-12-16T20:00:00",
+    "venue": "Radius"
   }
 ]
