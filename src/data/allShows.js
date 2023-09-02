@@ -1,15 +1,5 @@
 export const allShows = [
   {
-    date: '2023-09-01T20:00:00',
-    link: 'https://www.reggieslive.com/show/underground-wonder-bar-at-reggies-on-the-beach/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    date: '2023-09-01T20:00:00',
-    link: 'https://www.reggieslive.com/show/circle-6-wrestling-2/',
-    venue: 'Reggie\u2019s',
-  },
-  {
     artist: [
       'KURT TRAVIS',
       'AMARIONETTE',
@@ -138,6 +128,12 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
+    artist: ['DRAB'],
+    date: '2023-09-08T20:00:00',
+    link: 'https://www.reggieslive.com/show/drab/',
+    venue: 'Reggie\u2019s',
+  },
+  {
     artist: ['OZ NOY, DENNIS CHAMBERS, JIMMY HASLIP', 'MARBIN'],
     date: '2023-09-09T20:00:00',
     link: 'https://www.reggieslive.com/show/oz-noy-dennis-chambers-jimmy-haslip/',
@@ -253,9 +249,10 @@ export const allShows = [
   },
   {
     artist: [
+      'VOICE OF ADDICTION',
       'ESCAPE FROM THE ZOO (members of Days n Daze)',
       'HOLY LOCUST',
-      'TBA',
+      'ACTION\u2019S DICTUM',
     ],
     date: '2023-09-17T20:00:00',
     link: 'https://www.reggieslive.com/show/escape-from-the-zoo/',
@@ -496,7 +493,13 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: ['MONUMENTS', 'FOR THE FALLEN DREAMS', 'VRSTY', 'TBA'],
+    artist: [
+      'MONUMENTS',
+      'FOR THE FALLEN DREAMS',
+      'VRSTY',
+      'WITHOUT WAVES',
+      'DREAM ALAZIA',
+    ],
     date: '2023-10-07T20:00:00',
     link: 'https://www.reggieslive.com/show/monuments-2/',
     venue: 'Reggie\u2019s',
@@ -869,6 +872,17 @@ export const allShows = [
   },
   {
     artist: [
+      'MR. KINGPIN',
+      'DJ CHUCK WREN (Jump Up Records)',
+      'DJ DARREN REGGAE',
+      'DJ SOUTH SIDE ERIC KEOGH',
+    ],
+    date: '2023-11-11T20:00:00',
+    link: 'https://www.reggieslive.com/show/mr-kingpin/',
+    venue: 'Reggie\u2019s',
+  },
+  {
+    artist: [
       'ANTI-HEROS',
       'NOI!SE',
       'FEAR CITY',
@@ -1032,6 +1046,17 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
+    artist: [
+      'HARLEM HAYFIELD',
+      'WHT.RBBT.OBJ',
+      'CHOCOLATE IN YOUR POCKET',
+      'MATT CARTER BAND',
+    ],
+    date: '2023-12-02T20:00:00',
+    link: 'https://www.reggieslive.com/show/harlem-hayfield/',
+    venue: 'Reggie\u2019s',
+  },
+  {
     date: '2023-12-02T20:00:00',
     link: 'https://www.reggieslive.com/show/open-mic-comedy-100/',
     venue: 'Reggie\u2019s',
@@ -1145,18 +1170,6 @@ export const allShows = [
     date: '2024-04-20T20:00:00',
     link: 'https://www.reggieslive.com/show/uli-jon-roth-4/',
     venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['Q101 Riot Fest Ticket Drop'],
-    link: 'https://link.dice.fm/wa7607833735',
-    date: '2023-09-01T18:00:00',
-    venue: 'Cobra Lounge',
-  },
-  {
-    artist: ['Flake, Sweet Bike, Background Character, Bottom Bunk'],
-    link: 'https://link.dice.fm/Cb044ec80cca',
-    date: '2023-09-01T19:00:00',
-    venue: 'Cobra Lounge',
   },
   {
     artist: ['Nico Play, Javier Reyes, M.e.h.'],
@@ -1304,9 +1317,9 @@ export const allShows = [
     venue: 'Cobra Lounge',
   },
   {
-    artist: ['Sham 69'],
-    link: 'https://link.dice.fm/b7a7562ffada',
-    date: '2023-10-12T18:30:00',
+    artist: ['Body Thief, Coletta'],
+    link: 'https://link.dice.fm/ne2656f8fe9f',
+    date: '2023-10-12T18:00:00',
     venue: 'Cobra Lounge',
   },
   {
@@ -1382,14 +1395,10 @@ export const allShows = [
     venue: 'Cobra Lounge',
   },
   {
-    artist: [
-      'Scorched Tundra XIII Featuring: Cloakroom',
-      'Osi And The Jupiter',
-      'Luggage',
-    ],
-    link: 'https://www.ticketweb.com/event/scorched-tundra-xiii-featuring-cloakroom-empty-bottle-tickets/13350548',
-    date: '2023-09-01T20:00:00',
-    venue: 'Empty Bottle',
+    artist: ['Sham 69'],
+    link: 'https://link.dice.fm/b7a7562ffada',
+    date: '2024-03-13T18:30:00',
+    venue: 'Cobra Lounge',
   },
   {
     artist: [
@@ -1439,7 +1448,8 @@ export const allShows = [
   },
   {
     artist: ['SPIRIT OF THE BEEHIVE', 'Lynyn'],
-    link: 'https://www.ticketweb.com/event/spirit-of-the-beehive-empty-bottle-tickets/13461188',
+    sold_out: true,
+    link: 'https://www.ticketweb.com/event/sold-out-spirit-of-the-empty-bottle-tickets/13461188',
     date: '2023-09-06T20:00:00',
     venue: 'Empty Bottle',
   },
@@ -1567,12 +1577,6 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
-    artist: ['Steve Mason (of The Beta Band)'],
-    link: 'https://www.ticketweb.com/event/steve-mason-of-the-beta-empty-bottle-tickets/13314918',
-    date: '2023-09-21T20:00:00',
-    venue: 'Empty Bottle',
-  },
-  {
     artist: ['312unes Presents: Alien Nosejob', 'Ace of Spit', 'Clickbait'],
     link: 'https://www.ticketweb.com/event/312unes-presents-alien-nosejob-empty-bottle-tickets/13404098',
     date: '2023-09-22T20:00:00',
@@ -1654,6 +1658,12 @@ export const allShows = [
     artist: ['Provider', 'CalicoLoco', 'North By North', 'Lavender Point'],
     link: 'https://www.ticketweb.com/event/provider-calicoloco-north-empty-bottle-tickets/13453848',
     date: '2023-10-05T20:00:00',
+    venue: 'Empty Bottle',
+  },
+  {
+    artist: ['Patter', 'Youbet', 'Floatie'],
+    link: 'https://www.ticketweb.com/event/patter-youbet-floatie-empty-bottle-tickets/13578668',
+    date: '2023-10-06T20:00:00',
     venue: 'Empty Bottle',
   },
   {
@@ -1824,12 +1834,6 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
-    artist: ['Detour North, Bad Planning, Massattack, RISK.'],
-    link: 'https://www.beatkitchen.com/event-details/13212758/detour-north-bad-planning-massattack-risk',
-    date: '2023-09-02T20:00:00',
-    venue: 'Beat Kitchen',
-  },
-  {
     artist: ['LOCAL BAND MOVIE PREMIERE, Cut Your Losses, Superkick'],
     link: 'https://www.beatkitchen.com/event-details/13414438/local-band-movie-premiere-cut-your-losses-superkick',
     date: '2023-09-03T20:00:00',
@@ -1920,8 +1924,8 @@ export const allShows = [
     venue: 'Beat Kitchen',
   },
   {
-    artist: ['NEW FRIENDS, Disco Nap'],
-    link: 'https://www.beatkitchen.com/event-details/13414778/new-friends-disco-nap',
+    artist: ['NEW FRIENDS, Amira Jazeera, Disco Nap'],
+    link: 'https://www.beatkitchen.com/event-details/13414778/new-friends-amira-jazeera-disco-nap',
     date: '2023-09-18T20:00:00',
     venue: 'Beat Kitchen',
   },
@@ -2151,12 +2155,6 @@ export const allShows = [
     link: 'https://www.beatkitchen.com/event-details/12951195/emo-band-live-band-emo-pop-punk-karaoke',
     date: '2024-01-27T20:00:00',
     venue: 'Beat Kitchen',
-  },
-  {
-    artist: ['The Fly Honeys'],
-    link: 'https://www.ticketweb.com/event/the-fly-honeys-thalia-hall-tickets/13329058',
-    date: '2023-09-01T20:00:00',
-    venue: 'Thalia Hall',
   },
   {
     artist: ['The Fly Honeys'],
@@ -2511,6 +2509,12 @@ export const allShows = [
     artist: ['NIA ARCHIVES: UP YA ARCHIVES USA TOUR'],
     link: 'https://www.ticketweb.com/event/nia-archives-up-ya-archives-thalia-hall-tickets/13503128',
     date: '2023-11-03T20:00:00',
+    venue: 'Thalia Hall',
+  },
+  {
+    artist: ['Rosie Tucker'],
+    link: 'https://www.ticketweb.com/event/rosie-tucker-tack-room-tickets/13561698',
+    date: '2023-11-04T20:00:00',
     venue: 'Thalia Hall',
   },
   {
@@ -2932,18 +2936,6 @@ export const allShows = [
     link: 'https://concordmusichall.com/calendar/story-of-the-year-20-years-of-page-avenue/',
     date: '2024-01-26T20:00:00',
     venue: 'Concord Music Hall',
-  },
-  {
-    artist: ['Eric Prydz, Adam Beyer, Cristoph', 'Hummingbird'],
-    link: 'https://www.radius-chicago.com/events/detail/492686',
-    date: '2023-09-01T20:00:00',
-    venue: 'Radius',
-  },
-  {
-    artist: ['Boris Brejcha', 'Moritz Hofbauer, Ann Clue, Deniz Bul'],
-    link: 'https://www.radius-chicago.com/events/detail/492698',
-    date: '2023-09-01T20:00:00',
-    venue: 'Radius',
   },
   {
     artist: ['John Summit', 'Nic Fanciulli, Chase West, Rika B'],
@@ -3381,6 +3373,12 @@ export const allShows = [
     venue: 'Subterranean',
   },
   {
+    artist: ['SIN., DAYLONGSIGH, Ryan Borens, SHOTGUN FUNERAL'],
+    date: '2023-10-07T20:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/sin-daylongsigh-ryan-borens-shotgun-funeral/13487488',
+    venue: 'Subterranean',
+  },
+  {
     artist: ['Zulu, Soul Glo, Playytime'],
     date: '2023-10-07T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/zulu-soul-glo-playytime/13449788',
@@ -3428,6 +3426,12 @@ export const allShows = [
     artist: ['Perspective... A Lovely Hand To Hold, Carpool, Options'],
     date: '2023-10-14T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/perspective-a-lovely-hand-to-hold-carpool-options/13396048',
+    venue: 'Subterranean',
+  },
+  {
+    artist: ['MALCOLM TODD, CHARLIE ADDIS'],
+    date: '2023-10-15T20:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/malcolm-todd-charlie-addis/13531458',
     venue: 'Subterranean',
   },
   {
@@ -3508,6 +3512,12 @@ export const allShows = [
     ],
     date: '2023-11-08T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/pain-of-truth-conservative-military-image-lifes-question-vomit-forth-break-the-cycle/13557768',
+    venue: 'Subterranean',
+  },
+  {
+    artist: ['Lurk, INSTILL, Turquoise'],
+    date: '2023-11-10T20:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/lurk-instill-turquoise/13572858',
     venue: 'Subterranean',
   },
   {

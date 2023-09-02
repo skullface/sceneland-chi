@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Q101 Riot Fest Ticket Drop"
-    ],
-    "link": "https://link.dice.fm/wa7607833735",
-    "date": "2023-09-01T18:00:00",
-    "venue": "Cobra Lounge"
-  },
-  {
-    "artist": [
-      "Flake, Sweet Bike, Background Character, Bottom Bunk"
-    ],
-    "link": "https://link.dice.fm/Cb044ec80cca",
-    "date": "2023-09-01T19:00:00",
-    "venue": "Cobra Lounge"
-  },
-  {
-    "artist": [
       "Nico Play, Javier Reyes, M.e.h."
     ],
     "link": "https://link.dice.fm/M1065544f960",
@@ -202,10 +186,10 @@
   },
   {
     "artist": [
-      "Sham 69"
+      "Body Thief, Coletta"
     ],
-    "link": "https://link.dice.fm/b7a7562ffada",
-    "date": "2023-10-12T18:30:00",
+    "link": "https://link.dice.fm/ne2656f8fe9f",
+    "date": "2023-10-12T18:00:00",
     "venue": "Cobra Lounge"
   },
   {
@@ -296,6 +280,14 @@
     ],
     "link": "https://link.dice.fm/B8e4af873485",
     "date": "2023-11-22T19:00:00",
+    "venue": "Cobra Lounge"
+  },
+  {
+    "artist": [
+      "Sham 69"
+    ],
+    "link": "https://link.dice.fm/b7a7562ffada",
+    "date": "2024-03-13T18:30:00",
     "venue": "Cobra Lounge"
   }
 ]

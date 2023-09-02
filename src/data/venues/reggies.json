@@ -1,15 +1,5 @@
 [
   {
-    "date": "2023-09-01T20:00:00",
-    "link": "https://www.reggieslive.com/show/underground-wonder-bar-at-reggies-on-the-beach/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-01T20:00:00",
-    "link": "https://www.reggieslive.com/show/circle-6-wrestling-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "artist": [
       "KURT TRAVIS",
       "AMARIONETTE",
@@ -169,6 +159,14 @@
   },
   {
     "artist": [
+      "DRAB"
+    ],
+    "date": "2023-09-08T20:00:00",
+    "link": "https://www.reggieslive.com/show/drab/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "OZ NOY, DENNIS CHAMBERS, JIMMY HASLIP",
       "MARBIN"
     ],
@@ -323,9 +321,10 @@
   },
   {
     "artist": [
+      "VOICE OF ADDICTION",
       "ESCAPE FROM THE ZOO (members of Days n Daze)",
       "HOLY LOCUST",
-      "TBA"
+      "ACTION\u2019S DICTUM"
     ],
     "date": "2023-09-17T20:00:00",
     "link": "https://www.reggieslive.com/show/escape-from-the-zoo/",
@@ -622,7 +621,8 @@
       "MONUMENTS",
       "FOR THE FALLEN DREAMS",
       "VRSTY",
-      "TBA"
+      "WITHOUT WAVES",
+      "DREAM ALAZIA"
     ],
     "date": "2023-10-07T20:00:00",
     "link": "https://www.reggieslive.com/show/monuments-2/",
@@ -1074,6 +1074,17 @@
   },
   {
     "artist": [
+      "MR. KINGPIN",
+      "DJ CHUCK WREN (Jump Up Records)",
+      "DJ DARREN REGGAE",
+      "DJ SOUTH SIDE ERIC KEOGH"
+    ],
+    "date": "2023-11-11T20:00:00",
+    "link": "https://www.reggieslive.com/show/mr-kingpin/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "ANTI-HEROS",
       "NOI!SE",
       "FEAR CITY",
@@ -1257,6 +1268,17 @@
     ],
     "date": "2023-12-01T20:00:00",
     "link": "https://www.reggieslive.com/show/chicago-emos-not-dead/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "HARLEM HAYFIELD",
+      "WHT.RBBT.OBJ",
+      "CHOCOLATE IN YOUR POCKET",
+      "MATT CARTER BAND"
+    ],
+    "date": "2023-12-02T20:00:00",
+    "link": "https://www.reggieslive.com/show/harlem-hayfield/",
     "venue": "Reggie\u2019s"
   },
   {
