@@ -3,6 +3,7 @@ from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
 import time
+from datetime import datetime
 
 url = 'https://www.emptybottle.com/'
 options = FirefoxOptions()
@@ -47,9 +48,24 @@ for show in shows:
     all_shows_data['link'] = link.get('href')
 
     date = show.find('div', class_='date')
-    date = date.text.strip().replace('Mon ', '').replace('Tue ', '').replace('Wed ', '').replace('Thu ', '').replace('Fri ', '').replace('Sat ', '').replace('Sun ', '')
-    date = date.replace('August ', '2023-08-').replace('September ', '2023-09-').replace('October ', '2023-10-').replace('November ', '2023-11-').replace('December ', '2023-12-').replace('January ', '2024-01-').replace('February ', '2024-02-').replace('March ', '2024-03-').replace('April ', '2024-04-').replace('May ', '2024-05-').replace('June ', '2024-06-').replace('July ', '2024-07-') + 'T20:00:00'
-    all_shows_data['date'] = date.replace('-1T', '-01T').replace('-2T', '-02T').replace('-3T', '-03T').replace('-4T', '-04T').replace('-5T', '-05T').replace('-6T', '-06T').replace('-7T', '-07T').replace('-8T', '-08T').replace('-9T', '-09T')
+    time = show.find('div', class_='start-time')
+    date = date.text.strip()
+    
+    current_date = datetime.now().date()
+    year = current_date.year
+
+    month, day = date.split(maxsplit=2)[1:3]
+    month_number = datetime.strptime(month, '%B').month
+
+    if month_number < current_date.month:
+      year = current_date.year + 1
+    else:
+      year = current_date.year
+      
+    date = date + ', ' + str(year)
+    date = datetime.strptime(date, '%a %B %d, %Y')
+    time = datetime.strptime(time.text.strip(), '%I:%M%p').time()
+    all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
 
     venue = show.find('a', class_='event-venue')
     if venue:
