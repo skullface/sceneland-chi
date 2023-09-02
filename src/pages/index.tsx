@@ -204,7 +204,7 @@ export default function Page({ shows }: PageProps) {
               : 'mt-0.5 opacity-100 md:mt-1'
           }`}
         >
-          Shows upcoming in CLE, updated daily
+          Shows upcoming in CHI, updated daily
         </h1>
       </header>
 
