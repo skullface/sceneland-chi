@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Scorched Tundra XIII Featuring: CANDY",
-      "Nicole Dollanganger",
-      "Without Waves"
-    ],
-    "link": "https://www.ticketweb.com/event/scorched-tundra-xiii-featuring-candy-empty-bottle-tickets/13350518",
-    "date": "2023-08-31T20:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Scorched Tundra XIII Featuring: Cloakroom",
-      "Osi And The Jupiter",
-      "Luggage"
-    ],
-    "link": "https://www.ticketweb.com/event/scorched-tundra-xiii-featuring-cloakroom-empty-bottle-tickets/13350548",
-    "date": "2023-09-01T20:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Scorched Tundra XIII Featuring: Portrayal of Guilt",
       "Firebreather",
       "GAG",
@@ -81,7 +61,8 @@
       "SPIRIT OF THE BEEHIVE",
       "Lynyn"
     ],
-    "link": "https://www.ticketweb.com/event/spirit-of-the-beehive-empty-bottle-tickets/13461188",
+    "sold_out": true,
+    "link": "https://www.ticketweb.com/event/sold-out-spirit-of-the-empty-bottle-tickets/13461188",
     "date": "2023-09-06T20:00:00",
     "venue": "Empty Bottle"
   },
@@ -251,14 +232,6 @@
   },
   {
     "artist": [
-      "Steve Mason (of The Beta Band)"
-    ],
-    "link": "https://www.ticketweb.com/event/steve-mason-of-the-beta-empty-bottle-tickets/13314918",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "312unes Presents: Alien Nosejob",
       "Ace of Spit",
       "Clickbait"
@@ -378,6 +351,16 @@
     ],
     "link": "https://www.ticketweb.com/event/provider-calicoloco-north-empty-bottle-tickets/13453848",
     "date": "2023-10-05T20:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Patter",
+      "Youbet",
+      "Floatie"
+    ],
+    "link": "https://www.ticketweb.com/event/patter-youbet-floatie-empty-bottle-tickets/13578668",
+    "date": "2023-10-06T20:00:00",
     "venue": "Empty Bottle"
   },
   {
