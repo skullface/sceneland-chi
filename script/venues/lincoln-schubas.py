@@ -1,12 +1,19 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
+import time
 from datetime import datetime
 
-session = requests.Session()
-page = session.get('https://lh-st.com', headers={'User-Agent': 'Mozilla/5.0'})
+url = 'https://lh-st.com'
+options = FirefoxOptions()
+options.add_argument('--headless')
+browser = webdriver.Firefox(options=options)
+browser.implicitly_wait(10)
+browser.get(url)
+time.sleep(5)
 
-soup = BeautifulSoup(page.content, 'html.parser')
+soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', class_='tessera-card-deck')
 shows = calendar.find_all('div', class_='tessera-show-card')
 
@@ -31,7 +38,7 @@ for show in shows:
       artists_list.append(headliner)
       all_shows_data['artist'] = artists_list
 
-  sold_out = show.find('div', class_='show-banner-tag')
+  sold_out = show.find('a', class_='sold-out-button')
   if sold_out:
     all_shows_data['sold_out'] = True
 
