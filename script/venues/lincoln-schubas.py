@@ -17,15 +17,19 @@ for show in shows:
 
   headliners = show.find_all('h4', class_='card-title')
   openers = show.find('div', class_='tessera-additionalArtists')
+  artists_list = []
+
   for headliner in headliners:
-    headliner.text.strip()
-  if openers:
-    if openers.text.strip() == 'Guest':
-      all_shows_data['artist'] = [headliner.text.strip()]
+    headliner = headliner.text.strip()
+    if 'Open Mic' in headliner:
+      continue
+    if openers and openers.text.strip() != 'Guest':
+      opener = openers.text.strip().replace(' + ', ', ')
+      artists_list.append(f"{headliner}, {opener}")
+      all_shows_data['artist'] = artists_list
     else:
-      all_shows_data['artist'] = [headliner.text.strip() + ', ' + openers.text.strip().replace(' + ', ', ')]
-  else:
-    all_shows_data['artist'] = [headliner.text.strip()]
+      artists_list.append(headliner)
+      all_shows_data['artist'] = artists_list
 
   sold_out = show.find('div', class_='show-banner-tag')
   if sold_out:
