@@ -1,33 +1,5 @@
 export const allShows = [
   {
-    date: '2023-09-03T20:00:00',
-    link: 'https://www.reggieslive.com/show/free-sox-sunday-29/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['YACHT ROCK-ETTES', 'BOB STROGER'],
-    date: '2023-09-03T20:00:00',
-    link: 'https://www.reggieslive.com/show/bob-stroger-yacht-rock-ettes-at-reggies-on-the-beach/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['BLANKSLATE', 'EM GRACE', 'BILLY JOEL JR.', 'NATALIE'],
-    date: '2023-09-03T20:00:00',
-    link: 'https://www.reggieslive.com/show/blankslate/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    date: '2023-09-03T20:00:00',
-    link: 'https://www.reggieslive.com/show/underground-wonder-bar-alumni-reunion/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['LITTLE IMAGE', 'HASTINGS', 'LEVI EVANS'],
-    date: '2023-09-03T20:00:00',
-    link: 'https://www.reggieslive.com/show/little-image/',
-    venue: 'Reggie\u2019s',
-  },
-  {
     artist: ['ZACK FEDOR & THE LONG GOODBYES', 'BLAKE BURKHART'],
     date: '2023-09-04T20:00:00',
     link: 'https://www.reggieslive.com/show/south-loop-comedy-music-14/',
@@ -1149,14 +1121,6 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: [
-      'Distant and Left To Suffer with Justice For The Damned, Cabal, Astray We Bloom',
-    ],
-    link: 'https://link.dice.fm/hc99a088b68c',
-    date: '2023-09-03T18:00:00',
-    venue: 'Cobra Lounge',
-  },
-  {
     artist: ['Mutilation Barbecue, Carrion Throne, Primal Code, Selenoplexia'],
     link: 'https://link.dice.fm/gef78ce2b218',
     date: '2023-09-05T19:00:00',
@@ -1370,23 +1334,6 @@ export const allShows = [
     link: 'https://link.dice.fm/b7a7562ffada',
     date: '2024-03-13T18:30:00',
     venue: 'Cobra Lounge',
-  },
-  {
-    artist: ['Sacred Bones and Empty Bottle present Plantasia'],
-    link: 'https://www.ticketweb.com/event/sacred-bones-and-empty-bottle-garfield-park-conservatory-tickets/13405428',
-    date: '2023-09-03T18:00:00',
-    venue: 'Garfield Park Conservatory',
-  },
-  {
-    artist: [
-      'Cut Cats Summer Binger with POM',
-      'Edging',
-      'Abject Horror',
-      'Repent',
-    ],
-    link: 'https://www.ticketweb.com/event/cut-cats-summer-binger-with-empty-bottle-tickets/13506958',
-    date: '2023-09-03T21:00:00',
-    venue: 'Empty Bottle',
   },
   {
     artist: ['Sacred Bones and Empty Bottle present Plantasia'],
@@ -2117,12 +2064,6 @@ export const allShows = [
     venue: 'Beat Kitchen',
   },
   {
-    artist: ['The Fly Honeys'],
-    link: 'https://www.ticketweb.com/event/the-fly-honeys-thalia-hall-tickets/13329078',
-    date: '2023-09-03T20:00:00',
-    venue: 'Thalia Hall',
-  },
-  {
     artist: ['Wave to Earth North America Tour, slchld'],
     link: 'https://www.ticketweb.com/event/sold-out-wave-to-earth-thalia-hall-tickets/13170278',
     sold_out: true,
@@ -2667,16 +2608,6 @@ export const allShows = [
   },
   {
     artist: [
-      'ARC AFTER DARK: Hot Since 82',
-      'Derrick Carter, Ben Rau, Nicky B',
-    ],
-    sold_out: true,
-    link: 'https://concordmusichall.com/calendar/arc-after-dark-hot-since-82/',
-    date: '2023-09-02T22:00:00',
-    venue: 'Concord Music Hall',
-  },
-  {
-    artist: [
       'ARC AFTER DARK: Vintage Culture b2b Carlita',
       'Fleur Shore, JuJu',
     ],
@@ -2884,30 +2815,6 @@ export const allShows = [
     link: 'https://concordmusichall.com/calendar/story-of-the-year-20-years-of-page-avenue/',
     date: '2024-01-26T18:00:00',
     venue: 'Concord Music Hall',
-  },
-  {
-    artist: ['John Summit', 'Nic Fanciulli, Chase West, Rika B'],
-    link: 'https://www.radius-chicago.com/events/detail/492690',
-    date: '2023-09-02T22:00:00',
-    venue: 'Radius',
-  },
-  {
-    artist: ['Patrick Topping', 'Loco Dice, DJ Heather, Ose'],
-    link: 'https://www.radius-chicago.com/events/detail/492710',
-    date: '2023-09-02T22:00:00',
-    venue: 'Radius',
-  },
-  {
-    artist: ['Tale of Us, Dixon, Kevin de Vries', 'Girasole'],
-    link: 'https://www.radius-chicago.com/events/detail/492695',
-    date: '2023-09-03T22:00:00',
-    venue: 'Radius',
-  },
-  {
-    artist: ['Sara Landry', 'Volvox, Patrixia, Chess Knight'],
-    link: 'https://www.radius-chicago.com/events/detail/492728',
-    date: '2023-09-03T22:00:00',
-    venue: 'Radius',
   },
   {
     artist: ['Dance Gavin Dance', 'SiM, Rain City Drive, Within Destruction'],
