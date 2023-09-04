@@ -35,8 +35,7 @@ for url_page in url_pages:
     time = show.find('span', class_='artisteventshowtime').text.strip()
     parsed_date = datetime.strptime(date, '%a %B %d, %Y')
     parsed_time = datetime.strptime(time, '%I:%M %p').time()
-    parsed_datetime = f'{parsed_date:%Y-%m-%d}T{parsed_time:%H:%M:%S}'
-    all_shows_data['date'] = parsed_datetime
+    all_shows_data['date'] = f'{parsed_date:%Y-%m-%d}T{parsed_time:%H:%M:%S}'
 
     if link_to_ticketweb.text.strip() == 'Sold Out!':
       all_shows_data['sold_out'] = True
