@@ -20,9 +20,9 @@ for show in shows:
   openers = show.find(id='evSubHead').text.strip().replace(' * ', ', ')
 
   if openers:
-    all_shows_data['artist'] = headliner + ', ' + openers
+    all_shows_data['artist'] = [headliner + ', ' + openers]
   else:
-    all_shows_data['artist'] = headliner
+    all_shows_data['artist'] = [headliner]
 
   link = show.find_all('a')[1]
   all_shows_data['link'] = link.get('href')

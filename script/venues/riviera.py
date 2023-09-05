@@ -20,9 +20,9 @@ for show in shows:
   openers = show.find('h4', class_='tagline')
 
   if openers:
-    all_shows_data['artist'] = headliner.text.strip() + ', ' + openers.text.strip()
+    all_shows_data['artist'] = [headliner.text.strip() + ', ' + openers.text.strip()]
   else:
-    all_shows_data['artist'] = headliner.text.strip()
+    all_shows_data['artist'] = [headliner.text.strip()]
 
   link = show.find_all('a')[1]
   all_shows_data['link'] = link.get('href')
