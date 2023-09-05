@@ -70,9 +70,10 @@ for show in shows:
   if sold_out:
     all_shows_data['sold_out'] = True
 
-  venue = show.find('a', class_='venueLink').text.strip()
-  all_shows_data['venue'] = venue
-  all_shows_list.append(all_shows_data)
+  venue = show.find('a', class_='venueLink').text.strip().replace('All-Building Event', 'Metro')
+  if venue == 'Metro':
+    all_shows_data['venue'] = 'Metro'
+    all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
 print(all_shows_json)

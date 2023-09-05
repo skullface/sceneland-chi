@@ -860,12 +860,6 @@ export const allShows = [
     venue: 'Metro',
   },
   {
-    artist: ['Blue Hawaii, TRQPiTECA (DJ Set)'],
-    link: 'https://metrochicago.com/event/blue-hawaii/sleeping-village/chicago--illinois/',
-    date: '2023-10-11T20:00:00',
-    venue: 'Sleeping Village',
-  },
-  {
     artist: ['The Revivalists'],
     link: 'https://metrochicago.com/event/the-revivalists/metro-chicago/chicago-illinois/',
     date: '2023-10-11T20:00:00',
@@ -912,12 +906,6 @@ export const allShows = [
     link: 'https://metrochicago.com/event/tirzah/metro-chicago/chicago-illinois/',
     date: '2023-10-18T20:00:00',
     venue: 'Metro',
-  },
-  {
-    artist: ['Jitwam (Live), Joe Powers, Leja Hazer'],
-    link: 'https://metrochicago.com/event/jitwam-live/sleeping-village/chicago--illinois/',
-    date: '2023-10-18T21:00:00',
-    venue: 'Sleeping Village',
   },
   {
     artist: ['Divino Ni\u00f1o, Victor Internet, Heartgaze'],
@@ -967,7 +955,7 @@ export const allShows = [
     ],
     link: 'https://metrochicago.com/event/all-building-hallo-queen-feat/all-building-event/chicago-illinois/',
     date: '2023-10-29T21:00:00',
-    venue: 'All-Building Event',
+    venue: 'Metro',
   },
   {
     artist: ['Del Water Gap, Kristiane'],
@@ -1043,12 +1031,6 @@ export const allShows = [
     link: 'https://metrochicago.com/event/the-armed/metro-chicago/chicago-illinois/',
     date: '2023-12-16T20:00:00',
     venue: 'Metro',
-  },
-  {
-    artist: ["Plaid, Abstract Science DJ's (afterparty)"],
-    link: 'https://metrochicago.com/event/plaid/sleeping-village/chicago--illinois/',
-    date: '2024-01-10T21:00:00',
-    venue: 'Sleeping Village',
   },
   {
     artist: [
