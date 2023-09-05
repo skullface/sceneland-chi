@@ -1,0 +1,350 @@
+[
+  {
+    "artist": "Joe Gatto's Night of Comedy",
+    "link": "https://www.jamusa.com/events/detail/joe-gatto-483411",
+    "date": "2023-09-07T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Poppy, Pom Pom Squad",
+    "link": "https://www.jamusa.com/events/detail/poppy-494794",
+    "date": "2023-09-08T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Leyendas Legendarias",
+    "link": "https://www.jamusa.com/events/detail/leyendas-legendarias-486918",
+    "date": "2023-09-09T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Giggly Squad",
+    "link": "https://www.jamusa.com/events/detail/giggly-squad-461525",
+    "date": "2023-09-10T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Josh Wolf",
+    "link": "https://www.jamusa.com/events/detail/josh-wolf-491100",
+    "date": "2023-09-14T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "KING BACH - TRUTH OR DARE TOUR",
+    "link": "https://www.jamusa.com/events/detail/king-bach-laugh-now-laugh-later-481939",
+    "date": "2023-09-15T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Herb Alpert & Lani Hall",
+    "link": "https://www.jamusa.com/events/detail/herb-alpert-lani-hall-481720",
+    "date": "2023-09-16T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Dean Lewis, Sara Kays",
+    "link": "https://www.jamusa.com/events/detail/dean-lewis-481473",
+    "date": "2023-09-19T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Lovett or Leave It",
+    "link": "https://www.jamusa.com/events/detail/lovett-or-leave-it-476092",
+    "date": "2023-09-21T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "moe.",
+    "link": "https://www.jamusa.com/events/detail/moe-490106",
+    "date": "2023-09-22T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Nothing But Thieves, Kid Kapichi",
+    "link": "https://www.jamusa.com/events/detail/nothing-but-thieves-475787",
+    "date": "2023-09-23T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Andrew Ripp, Blessing Offor, Rachael Lampa",
+    "link": "https://www.jamusa.com/events/detail/andrew-ripp-493833",
+    "date": "2023-09-24T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Bruno Major, Lindsey Lomis",
+    "link": "https://www.jamusa.com/events/detail/bruno-major-484515",
+    "date": "2023-09-25T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Wombats, Red Rum Club",
+    "link": "https://www.jamusa.com/events/detail/the-wombats-477528",
+    "date": "2023-09-27T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Lil Rel Howery",
+    "link": "https://www.jamusa.com/events/detail/lil-rel-howery-498580",
+    "date": "2023-09-28T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Brian Jonestown Massacre",
+    "link": "https://www.jamusa.com/events/detail/the-brian-jonestown-massacre-491562",
+    "date": "2023-09-29T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Yung Bleu",
+    "link": "https://www.jamusa.com/events/detail/yung-bleu-490619",
+    "date": "2023-09-30T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Welcome to Night Vale",
+    "link": "https://www.jamusa.com/events/detail/welcome-to-night-vale-490078",
+    "date": "2023-10-03T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Young Fathers",
+    "link": "https://www.jamusa.com/events/detail/young-fathers-483498",
+    "date": "2023-10-04T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Jessie Ware",
+    "link": "https://www.jamusa.com/events/detail/jessie-ware-482260",
+    "date": "2023-10-05T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Michelle Wolf",
+    "link": "https://www.jamusa.com/events/detail/michelle-wolf-482173",
+    "date": "2023-10-06T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Michelle Wolf",
+    "link": "https://www.jamusa.com/events/detail/michelle-wolf-492979",
+    "date": "2023-10-06T21:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Little Dragon",
+    "link": "https://www.jamusa.com/events/detail/little-dragon-489061",
+    "date": "2023-10-07T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Seu Jorge and Daniel Jobim",
+    "link": "https://www.jamusa.com/events/detail/seu-jorge-and-daniel-jobim-494981",
+    "date": "2023-10-11T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Chats, Cosmic Psychos, THE SCHIZOPHONICS, GYMSHORTS",
+    "link": "https://www.jamusa.com/events/detail/the-chats-477811",
+    "date": "2023-10-12T18:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Darkness",
+    "link": "https://www.jamusa.com/events/detail/the-darkness-487523",
+    "date": "2023-10-13T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Tom Odell, Seafret, Jane's Party",
+    "link": "https://www.jamusa.com/events/detail/tom-odell-482692",
+    "date": "2023-10-14T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Little Feat: The Albums Tour",
+    "link": "https://www.jamusa.com/events/detail/little-feat-482325",
+    "date": "2023-10-15T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Little Feat: The Albums Tour",
+    "link": "https://www.jamusa.com/events/detail/little-feat-482326",
+    "date": "2023-10-16T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Aunty Donna",
+    "link": "https://www.jamusa.com/events/detail/aunty-donna-475315",
+    "date": "2023-10-17T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Ann Wilson of Heart & Tripsitter",
+    "link": "https://www.jamusa.com/events/detail/ann-wilson-of-heart-tripsitter-497902",
+    "date": "2023-10-19T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Rachel Hollis",
+    "link": "https://www.jamusa.com/events/detail/rachel-hollis-496411",
+    "date": "2023-10-20T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Pinky Patel",
+    "link": "https://www.jamusa.com/events/detail/pinky-patel-486281",
+    "date": "2023-10-21T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Don Broco and The Home Team, Skyler Acord, The Color 8",
+    "link": "https://www.jamusa.com/events/detail/don-broco-and-the-home-team-491560",
+    "date": "2023-10-24T18:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Christine and the Queens",
+    "link": "https://www.jamusa.com/events/detail/christine-and-the-queens-487258",
+    "date": "2023-10-26T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Roosevelt, Touch Sensitive",
+    "link": "https://www.jamusa.com/events/detail/roosevelt-486535",
+    "date": "2023-10-27T20:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "An Evening With Kings of Convenience",
+    "link": "https://www.jamusa.com/events/detail/kings-of-convenience-479765",
+    "date": "2023-10-28T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Faye Webster, MOVED FROM THE VIC TO THE RIVIERA THEATRE",
+    "link": "https://www.jamusa.com/events/detail/faye-webster-vic",
+    "date": "2023-10-29T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Dusty Slay: Live!",
+    "link": "https://www.jamusa.com/events/detail/dusty-slay-live-494775",
+    "date": "2023-11-02T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Dan Cummins",
+    "link": "https://www.jamusa.com/events/detail/dan-cummins-492260",
+    "date": "2023-11-03T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Ari Shaffir",
+    "link": "https://www.jamusa.com/events/detail/ari-shaffir-479553",
+    "date": "2023-11-04T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Ari Shaffir",
+    "link": "https://www.jamusa.com/events/detail/ari-shaffir-483535",
+    "date": "2023-11-04T21:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Dexys",
+    "link": "https://www.jamusa.com/events/detail/dexys-495457",
+    "date": "2023-11-06T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Cat Empire, with Special Guest High Fade",
+    "link": "https://www.jamusa.com/events/detail/the-cat-empire-491114",
+    "date": "2023-11-07T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Mammoth WVH, Nita Strauss",
+    "link": "https://www.jamusa.com/events/detail/mammoth-wvh-493913",
+    "date": "2023-11-09T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Kasabian",
+    "link": "https://www.jamusa.com/events/detail/kasabian-490551",
+    "date": "2023-11-11T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Kishi Bashi",
+    "link": "https://www.jamusa.com/events/detail/kishi-bashi-497747",
+    "date": "2023-11-12T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Baroness, Chat Pile",
+    "link": "https://www.jamusa.com/events/detail/baroness-490465",
+    "date": "2023-11-15T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "The Moth Mainstage",
+    "link": "https://www.jamusa.com/events/detail/the-moth-mainstage-490604",
+    "date": "2023-11-16T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Misfit: A Gary Gulman Stand Up Comedy and Book Tour",
+    "link": "https://www.jamusa.com/events/detail/gary-gulman-483704",
+    "date": "2023-11-17T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Phoebe Robinson",
+    "link": "https://www.jamusa.com/events/detail/phoebe-robinson-478475",
+    "date": "2023-11-18T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Chris Fleming",
+    "link": "https://www.jamusa.com/events/detail/chris-fleming-500617",
+    "date": "2023-12-09T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Margaret Cho: Live and LIVID!",
+    "link": "https://www.jamusa.com/events/detail/margaret-cho-live-and-livid-494824",
+    "date": "2023-12-16T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Ms. Pat",
+    "link": "https://www.jamusa.com/events/detail/ms-pat-474978",
+    "date": "2024-01-13T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Jared Freid",
+    "link": "https://www.jamusa.com/events/detail/jared-freid-498805",
+    "date": "2024-03-02T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Jared Freid",
+    "link": "https://www.jamusa.com/events/detail/jared-freid-500515",
+    "date": "2024-03-02T22:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "JIMBO'S DRAG CIRCUS",
+    "link": "https://www.jamusa.com/events/detail/jimbo-s-drag-circus-495388",
+    "date": "2024-04-13T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": "Stephanie Miller",
+    "link": "https://www.jamusa.com/events/detail/sexy-liberal-tour-487785",
+    "date": "2024-08-17T20:00:00",
+    "venue": "The Vic Theatre"
+  }
+]
