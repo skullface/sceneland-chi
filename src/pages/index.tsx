@@ -84,8 +84,17 @@ export default function Page({ shows }: PageProps) {
       selectedVenues.includes(venueMapping[show.venue] || show.venue),
   )
 
+  // Get the current date and time
+  const currentDate = new Date()
+
+  // Ignore shows that have already happened
+  const filteredCurrentShows = filteredShows.filter((show) => {
+    const showDate = new Date(show.date)
+    return showDate >= currentDate
+  })
+
   // Sort filtered shows chronologically by show date
-  const sortedFilteredShows = filteredShows.sort(
+  const sortedFilteredShows = filteredCurrentShows.sort(
     (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime(),
   )
 
@@ -149,21 +158,14 @@ export default function Page({ shows }: PageProps) {
         })
 
         if (
-          (dayOfWeek === 5 && weekStartToTodayDiff >= -2) ||
-          (dayOfWeek === 6 && weekStartToTodayDiff >= -1) ||
-          (dayOfWeek === 0 &&
-            weekStartToTodayDiff >= -7 &&
-            weekStartToTodayDiff < 0)
-        ) {
-          groupLabel = 'This weekend'
-        } else if (
-          dayOfWeek >= 1 &&
-          dayOfWeek <= 3 &&
-          weekStartToTodayDiff >= -7 &&
+          (dayOfWeek === 5 || dayOfWeek === 6 || dayOfWeek === 0) &&
+          weekStartToTodayDiff >= -6 &&
           weekStartToTodayDiff < 0
         ) {
+          groupLabel = 'This weekend'
+        } else if (weekStartToTodayDiff >= -6 && weekStartToTodayDiff < 0) {
           groupLabel = 'This week'
-        } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 7) {
+        } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 6) {
           groupLabel = 'Next week'
         } else {
           groupPrefix = 'Week of'
