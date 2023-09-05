@@ -35,6 +35,9 @@ for show in shows:
     continue
   all_shows_data['artist'] = [artist.replace('SOLD OUT - ', '').replace(' - ', ': ')]
 
+  link = show.find('a', class_='buy-button')
+  all_shows_data['link'] = link.get('href')
+
   date = show.find('div', class_='date').text.strip()
   time = show.find('div', class_='start-time').text.strip()
   time = time.replace('Doors: ', '')
@@ -49,7 +52,7 @@ for show in shows:
     year = current_date.year + 1
   else:
     year = current_date.year
-    
+
   date = date + ', ' + str(year)
   date = datetime.strptime(date, '%a %B %d, %Y')
   time = datetime.strptime(time, '%I:%M%p').time()
