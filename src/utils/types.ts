@@ -1,5 +1,5 @@
 export type ShowProps = {
-  link?: string
+  link: string
   sold_out?: boolean
   artist?: string[]
   venue: string
