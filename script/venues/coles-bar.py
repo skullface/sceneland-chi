@@ -53,7 +53,7 @@ for show in shows:
 
   all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
 
-  all_shows_data['venue'] = 'Salt Shed'
+  all_shows_data['venue'] = 'Cole’s Bar'
   all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
