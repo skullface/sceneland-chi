@@ -522,10 +522,11 @@
   },
   {
     "artist": [
+      "MURPHY\u2019S LAW + THE RUMJACKS + THE BAR STOOL PREACHERS (CO-HEADLINE)",
+      "MURPHY\u2019S LAW",
       "THE RUMJACKS (from Australia)",
       "THE BAR STOOL PREACHERS",
-      "GRADE 2",
-      "SPECIAL GUESTS"
+      "GRADE 2"
     ],
     "date": "2023-10-06T20:00:00",
     "link": "https://www.reggieslive.com/show/the-rumjacks/",
@@ -1036,6 +1037,15 @@
   },
   {
     "artist": [
+      "DWARVES",
+      "DIRECT HIT!"
+    ],
+    "date": "2023-11-12T20:00:00",
+    "link": "https://www.reggieslive.com/show/dwarves-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "THE BLUES CRUSADERS (performing Peter Green and Danny Kirwan era Fleetwood Mac)",
       "TODD BEEBE",
       "\u201cFLEETWOOD MAC IN CHICAGO\u201d BOOK SIGNING"
@@ -1171,6 +1181,17 @@
   {
     "date": "2023-11-28T20:00:00",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-107/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "JER + VIAL CO-HEADLINE",
+      "JER",
+      "VIAL",
+      "BOY JR."
+    ],
+    "date": "2023-11-30T20:00:00",
+    "link": "https://www.reggieslive.com/show/jer-vial/",
     "venue": "Reggie\u2019s"
   },
   {

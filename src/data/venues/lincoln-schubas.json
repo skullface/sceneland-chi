@@ -12,7 +12,6 @@
     "artist": [
       "Paris Texas"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-06-2023-paris-texas/",
     "date": "2023-09-06T19:30:00",
     "venue": "Lincoln Hall"
@@ -131,7 +130,7 @@
   },
   {
     "artist": [
-      "Kula Shaker"
+      "Kula Shaker, Space Gators"
     ],
     "link": "https://lh-st.com/shows/09-13-2023-kula-shaker/",
     "date": "2023-09-13T20:00:00",
@@ -202,7 +201,6 @@
     "artist": [
       "Ryan Beatty"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-17-2023-ryan-beatty/",
     "date": "2023-09-17T19:30:00",
     "venue": "Lincoln Hall"
@@ -219,7 +217,6 @@
     "artist": [
       "An Evening With Tori Kelly"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-18-2023-tori-kelly/",
     "date": "2023-09-18T20:30:00",
     "venue": "Lincoln Hall"
@@ -252,7 +249,6 @@
     "artist": [
       "Corook, morgen"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-21-2023-corook/",
     "date": "2023-09-21T19:30:00",
     "venue": "Schubas"
@@ -269,7 +265,6 @@
     "artist": [
       "Lauren Mayberry"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-22-2023-lauren-mayberry/",
     "date": "2023-09-22T20:00:00",
     "venue": "Lincoln Hall"
@@ -294,7 +289,6 @@
     "artist": [
       "Oracle Sisters, Ryder the Eagle"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-23-2023-oracle-sisters/",
     "date": "2023-09-23T20:00:00",
     "venue": "Schubas"
@@ -311,7 +305,6 @@
     "artist": [
       "Richy Mitch & The Coal Miners, Evan Honer"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-24-2023-richy-mitch-and-the-coal-miners/",
     "date": "2023-09-24T19:30:00",
     "venue": "Lincoln Hall"
@@ -330,7 +323,6 @@
     "artist": [
       "Medium Build, Rett Madison"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/09-25-2023-medium-build/",
     "date": "2023-09-25T19:30:00",
     "venue": "Schubas"
@@ -450,7 +442,6 @@
     "artist": [
       "Cian Ducrot"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-02-2023-cian-ducrot/",
     "date": "2023-10-02T19:30:00",
     "venue": "Lincoln Hall"
@@ -507,7 +498,6 @@
     "artist": [
       "Tommy Lefroy, Haley Blais"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-06-2023-tommy-lefroy/",
     "date": "2023-10-06T20:00:00",
     "venue": "Schubas"
@@ -540,7 +530,6 @@
     "artist": [
       "Hemlocke Springs"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-08-2023-hemlocke-springs/",
     "date": "2023-10-08T20:00:00",
     "venue": "Schubas"
@@ -797,7 +786,6 @@
     "artist": [
       "grentperez"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-28-2023-grentperez/",
     "date": "2023-10-28T20:00:00",
     "venue": "Lincoln Hall"
@@ -911,7 +899,6 @@
     "artist": [
       "EMEI"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/11-08-2023-emei/",
     "date": "2023-11-08T19:30:00",
     "venue": "Schubas"
@@ -944,7 +931,6 @@
     "artist": [
       "Ben Kweller"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/11-11-2023-ben-kweller/",
     "date": "2023-11-11T21:00:00",
     "venue": "Lincoln Hall"
@@ -967,6 +953,14 @@
   },
   {
     "artist": [
+      "Flyte"
+    ],
+    "link": "https://lh-st.com/shows/11-13-2023-flyte/",
+    "date": "2023-11-13T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Helena Deland, Jana Horn"
     ],
     "link": "https://lh-st.com/shows/11-14-2023-helena-deland/",
@@ -985,7 +979,6 @@
     "artist": [
       "Atarashii Gakko!"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/11-15-2023-atarashii-gakko/",
     "date": "2023-11-15T20:00:00",
     "venue": "Lincoln Hall"
@@ -1050,10 +1043,26 @@
   },
   {
     "artist": [
+      "Elyanna"
+    ],
+    "link": "https://lh-st.com/shows/11-20-2023-elyanna/",
+    "date": "2023-11-20T19:30:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Boy Golden"
     ],
     "link": "https://lh-st.com/shows/11-20-2023-boy-golden/",
     "date": "2023-11-20T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Pardyalone"
+    ],
+    "link": "https://lh-st.com/shows/11-22-2023-pardyalone/",
+    "date": "2023-11-22T20:00:00",
     "venue": "Schubas"
   },
   {
@@ -1063,6 +1072,14 @@
     "link": "https://lh-st.com/shows/11-24-2023-sydney-sprague/",
     "date": "2023-11-24T20:00:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Ama Lou"
+    ],
+    "link": "https://lh-st.com/shows/11-30-2023-ama-lou/",
+    "date": "2023-11-30T19:00:00",
+    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -1078,6 +1095,14 @@
     ],
     "link": "https://lh-st.com/shows/12-02-2023-darci/",
     "date": "2023-12-02T21:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Strawberry Guy"
+    ],
+    "link": "https://lh-st.com/shows/12-03-2023-strawberry-guy/",
+    "date": "2023-12-03T19:30:00",
     "venue": "Schubas"
   },
   {
@@ -1148,7 +1173,6 @@
     "artist": [
       "The Prize Fighter Inferno"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/02-24-2024-the-prize-fighter-inferno/",
     "date": "2024-02-24T20:00:00",
     "venue": "Lincoln Hall"
@@ -1160,6 +1184,22 @@
     "link": "https://lh-st.com/shows/03-20-2024-josiah-and-the-bonnevilles/",
     "date": "2024-03-20T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Big Something, The Ries Brothers"
+    ],
+    "link": "https://lh-st.com/shows/04-20-2024-big-something/",
+    "date": "2024-04-20T20:30:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Jordan Mackampa"
+    ],
+    "link": "https://lh-st.com/shows/04-24-2024-jordan-mackampa/",
+    "date": "2024-04-24T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [

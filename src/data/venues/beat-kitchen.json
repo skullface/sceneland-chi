@@ -97,9 +97,9 @@
   },
   {
     "artist": [
-      "NEW FRIENDS, Amira Jazeera, Disco Nap"
+      "NEW FRIENDS, Ma\u00ebl & Jonas, Amira Jazeera, Disco Nap"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13414778/new-friends-amira-jazeera-disco-nap",
+    "link": "https://www.beatkitchen.com/event-details/13414778/new-friends-mael-jonas-amira-jazeera-disco-nap",
     "date": "2023-09-18T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -137,9 +137,9 @@
   },
   {
     "artist": [
-      "Zand, LUCY LOONE"
+      "Zand, LUCY LOONE, Dawn Division"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13196518/zand-lucy-loone",
+    "link": "https://www.beatkitchen.com/event-details/13196518/zand-lucy-loone-dawn-division",
     "date": "2023-09-23T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -225,10 +225,26 @@
   },
   {
     "artist": [
+      "Lola Young"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13535358/lola-young",
+    "date": "2023-10-08T19:30:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
       "Kneecap"
     ],
     "link": "https://www.beatkitchen.com/event-details/13134915/kneecap",
     "date": "2023-10-09T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "THREEZERO, Yna, Chaepter"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13558138/threezero-yna-chaepter",
+    "date": "2023-10-10T20:00:00",
     "venue": "Beat Kitchen"
   },
   {

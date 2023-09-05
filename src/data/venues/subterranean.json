@@ -36,10 +36,10 @@
   },
   {
     "artist": [
-      "Modern Nun, Heet Deth, The Laughing Hearts, Orisun"
+      "Modern Nun, Heet Deth, Orisun, The Laughing Hearts"
     ],
     "date": "2023-09-09T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/modern-nun-heet-deth-the-laughing-hearts-orisun/13454238",
+    "link": "https://www.subt.net/event/tw-eventinfo/modern-nun-heet-deth-orisun-the-laughing-hearts/13454238",
     "venue": "Subterranean"
   },
   {
@@ -188,6 +188,14 @@
   },
   {
     "artist": [
+      "Frail Body, WE WEREN'T INVITED, DEMSFIGHTINWORDS, BLACKWATER SNIPER, BIRD LAW, Malinche"
+    ],
+    "date": "2023-09-23T19:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/frail-body-we-werent-invited-demsfightinwords-blackwater-sniper-bird-law-malinche/13591768",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "Rusted Hearts, SIN., COMMIT THIS TO MEMORY, The Midshift"
     ],
     "date": "2023-09-23T19:00:00",
@@ -302,7 +310,7 @@
   },
   {
     "artist": [
-      "Dead Poet Society , Public Theater , The Keystones"
+      "Dead Poet Society, Public Theater , The Keystones"
     ],
     "date": "2023-10-03T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/dead-poet-society-public-theater-the-keystones/13430438",
@@ -556,6 +564,14 @@
     ],
     "date": "2023-12-08T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/motherfolk-kevin-devine/13518148",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Princess Chelsea, Kitty"
+    ],
+    "date": "2023-12-09T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/princess-chelsea-kitty/13579048",
     "venue": "Subterranean"
   }
 ]

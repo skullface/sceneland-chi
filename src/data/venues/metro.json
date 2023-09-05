@@ -1,298 +1,412 @@
 [
   {
-    "artist": "Boris + Melvins: Twins of Evil Tour, Mr. Phylzzz",
+    "artist": [
+      "Boris + Melvins: Twins of Evil Tour, Mr. Phylzzz"
+    ],
     "link": "https://metrochicago.com/event/boris-melvins/metro-chicago/chicago-illinois/",
     "date": "2023-09-08T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "FJAAK, Hyperactive, Jason Patrick",
+    "artist": [
+      "FJAAK, Hyperactive, Jason Patrick"
+    ],
     "link": "https://metrochicago.com/event/fjaak/metro-chicago/chicago-illinois/",
     "date": "2023-09-09T22:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Viagra Boys",
+    "artist": [
+      "Viagra Boys, Enola Gay"
+    ],
     "link": "https://metrochicago.com/event/viagra-boys/metro-chicago/chicago-illinois/",
     "date": "2023-09-15T23:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Thursday (War All The Time album play) & Braid",
+    "artist": [
+      "Thursday (War All The Time album play) & Braid"
+    ],
     "link": "https://metrochicago.com/event/thursday-war-all-the-time-album-play-braid/metro-chicago/chicago-illinois/",
     "date": "2023-09-16T23:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Swans, Norman Westberg",
+    "artist": [
+      "Swans, Norman Westberg"
+    ],
     "link": "https://metrochicago.com/event/swans/metro-chicago/chicago-illinois/",
     "date": "2023-09-21T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "IAMX, TWIN TRIBES, ASH CODE, NUOVO TESTAMENTO, HARSH SYMMETRY, BLOODY KNIVES",
+    "artist": [
+      "IAMX, TWIN TRIBES, ASH CODE, NUOVO TESTAMENTO, HARSH SYMMETRY, BLOODY KNIVES"
+    ],
     "link": "https://metrochicago.com/event/iamx/metro-chicago/chicago-illinois/",
     "date": "2023-09-22T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Front Line Assembly, A SPLIT SECOND, 16 VOLT, ACUMEN NATION, KANGA, MVTANT",
+    "artist": [
+      "Front Line Assembly, A SPLIT SECOND, 16 VOLT, ACUMEN NATION, KANGA, MVTANT"
+    ],
     "link": "https://metrochicago.com/event/front-line-assembly-2/metro-chicago/chicago-illinois/",
     "date": "2023-09-23T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Godflesh, LEAD INTO GOLD, SIERRA, RABBIT JUNK, LANA DEL RABIES, CEL GENESIS",
+    "artist": [
+      "Godflesh, LEAD INTO GOLD, SIERRA, RABBIT JUNK, LANA DEL RABIES, CEL GENESIS"
+    ],
     "link": "https://metrochicago.com/event/godflesh/metro-chicago/chicago-illinois/",
     "date": "2023-09-24T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "You Me At Six \u2013 The Truth Decay Tour, MOTHICA, Wolf & Bear",
+    "artist": [
+      "You Me At Six \u2013 The Truth Decay Tour, MOTHICA, Wolf & Bear"
+    ],
     "link": "https://metrochicago.com/event/you-me-at-six-the-truth-decay-tour/metro-chicago/chicago-illinois/",
     "date": "2023-09-26T18:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Fiddlehead, Buggin', Lifeguard, Restraining Order",
+    "artist": [
+      "Fiddlehead, Buggin', Lifeguard, Restraining Order"
+    ],
     "link": "https://metrochicago.com/event/fiddlehead/metro-chicago/chicago-illinois/",
     "date": "2023-09-28T18:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "George Clanton, Frost Children, Death's Dynamic Shroud",
+    "artist": [
+      "George Clanton, Frost Children, Death's Dynamic Shroud"
+    ],
     "link": "https://metrochicago.com/event/george-clanton/metro-chicago/chicago-illinois/",
     "date": "2023-09-29T21:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Wolves in the Throne Room: Crypt of Ancestral Knowledge Tour, Blackbraid, Gaerea, Hoaxed",
+    "artist": [
+      "Wolves in the Throne Room: Crypt of Ancestral Knowledge Tour, Blackbraid, Gaerea, Hoaxed"
+    ],
     "link": "https://metrochicago.com/event/wolves-in-the-throne-room-crypt-of-ancestral-knowledge-tour/metro-chicago/chicago-illinois/",
     "date": "2023-09-30T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "The Matt and Kim Tour, featuring Matt and Kim, Pkew Pkew Pkew",
+    "artist": [
+      "The Matt and Kim Tour, featuring Matt and Kim, Pkew Pkew Pkew"
+    ],
     "link": "https://metrochicago.com/event/the-matt-and-kim-tour-featuring-matt-and-kim/metro-chicago/chicago-illinois/",
     "date": "2023-10-03T20:00:00",
     "sold_out": true,
     "venue": "Metro"
   },
   {
-    "artist": "Hojean, Kevin Holliday",
+    "artist": [
+      "Hojean, Kevin Holliday"
+    ],
     "link": "https://metrochicago.com/event/hojean/metro-chicago/chicago-illinois/",
     "date": "2023-10-04T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Tangerine Dream",
+    "artist": [
+      "Tangerine Dream"
+    ],
     "link": "https://metrochicago.com/event/tangerine-dream/metro-chicago/chicago-illinois/",
     "date": "2023-10-05T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink",
+    "artist": [
+      "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink"
+    ],
     "link": "https://metrochicago.com/event/kennyhoopla-raised-by-wolves-tour/metro-chicago/chicago-illinois/",
     "date": "2023-10-06T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "VNV Nation, Traitrs",
+    "artist": [
+      "VNV Nation, Traitrs"
+    ],
     "link": "https://metrochicago.com/event/vnv-nation/metro-chicago/chicago-illinois/",
     "date": "2023-10-07T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Arkells, Robert DeLong",
+    "artist": [
+      "Arkells, Robert DeLong"
+    ],
     "link": "https://metrochicago.com/event/arkells/metro-chicago/chicago-illinois/",
     "date": "2023-10-08T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "yeule, SASAMI",
+    "artist": [
+      "yeule, SASAMI"
+    ],
     "link": "https://metrochicago.com/event/yeule/metro-chicago/chicago-illinois/",
     "date": "2023-10-10T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Blue Hawaii, TRQPiTECA (DJ Set)",
+    "artist": [
+      "Blue Hawaii, TRQPiTECA (DJ Set)"
+    ],
     "link": "https://metrochicago.com/event/blue-hawaii/sleeping-village/chicago--illinois/",
     "date": "2023-10-11T20:00:00",
     "venue": "Sleeping Village"
   },
   {
-    "artist": "Everything Everything, Pierre Kwenders",
+    "artist": [
+      "The Revivalists"
+    ],
+    "link": "https://metrochicago.com/event/the-revivalists/metro-chicago/chicago-illinois/",
+    "date": "2023-10-11T20:00:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "Everything Everything, Pierre Kwenders"
+    ],
     "link": "https://metrochicago.com/event/everything-everything/metro-chicago/chicago-illinois/",
     "date": "2023-10-12T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Botch, FACS, Sweet Cobra",
+    "artist": [
+      "Botch, FACS, Sweet Cobra"
+    ],
     "link": "https://metrochicago.com/event/botch/metro-chicago/chicago-illinois/",
     "date": "2023-10-13T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Botch, FACS, Special Guest TBA",
+    "artist": [
+      "Botch, FACS, Special Guest TBA"
+    ],
     "link": "https://metrochicago.com/event/botch-2/metro-chicago/chicago-illinois/",
     "date": "2023-10-14T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Nation of Language, Miss Grit",
+    "artist": [
+      "Nation of Language, Miss Grit"
+    ],
     "link": "https://metrochicago.com/event/nation-of-language/metro-chicago/chicago-illinois/",
     "date": "2023-10-15T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "tobi lou \u2013 Parrish Blue Tour, grouptherapy",
+    "artist": [
+      "tobi lou \u2013 Parrish Blue Tour, grouptherapy"
+    ],
     "link": "https://metrochicago.com/event/tobi-lou-the-parrish-blue-tour/metro-chicago/chicago-illinois/",
     "date": "2023-10-16T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Sextile & N8NOFACE",
+    "artist": [
+      "Sextile & N8NOFACE"
+    ],
     "link": "https://metrochicago.com/event/sextile-n8noface/metro-chicago/chicago-illinois/",
     "date": "2023-10-17T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Tirzah",
+    "artist": [
+      "Tirzah"
+    ],
     "link": "https://metrochicago.com/event/tirzah/metro-chicago/chicago-illinois/",
     "date": "2023-10-18T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Jitwam (Live), Joe Powers, Leja Hazer",
+    "artist": [
+      "Jitwam (Live), Joe Powers, Leja Hazer"
+    ],
     "link": "https://metrochicago.com/event/jitwam-live/sleeping-village/chicago--illinois/",
     "date": "2023-10-18T21:00:00",
     "venue": "Sleeping Village"
   },
   {
-    "artist": "Divino Ni\u00f1o, Victor Internet, Heartgaze",
+    "artist": [
+      "Divino Ni\u00f1o, Victor Internet, Heartgaze"
+    ],
     "link": "https://metrochicago.com/event/divino-nino/metro-chicago/chicago-illinois/",
     "date": "2023-10-19T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "The National Parks: 8th Wonder Tour, Zach Seabaugh",
+    "artist": [
+      "The National Parks: 8th Wonder Tour, Zach Seabaugh"
+    ],
     "link": "https://metrochicago.com/event/the-national-parks-8th-wonder-tour/metro-chicago/chicago-illinois/",
     "date": "2023-10-20T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "Soft Kill, Prize Horse, Downward",
+    "artist": [
+      "Soft Kill, Prize Horse, Downward"
+    ],
     "link": "https://metrochicago.com/event/soft-kill/metro-chicago/chicago-illinois/",
     "date": "2023-10-21T21:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Pelican, Uniform, Upper Wilds",
+    "artist": [
+      "Pelican, Uniform, Upper Wilds"
+    ],
     "link": "https://metrochicago.com/event/pelican/metro-chicago/chicago-illinois/",
     "date": "2023-10-24T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Nightly: Wear Your Heart Out Tour, Knox, Nightbreakers",
+    "artist": [
+      "Nightly: Wear Your Heart Out Tour, Knox, Nightbreakers"
+    ],
     "link": "https://metrochicago.com/event/nightly-wear-your-heart-out-tour/metro-chicago/chicago-illinois/",
     "date": "2023-10-25T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Clown Core",
+    "artist": [
+      "Clown Core"
+    ],
     "link": "https://metrochicago.com/event/clown-core/metro-chicago/chicago-illinois/",
     "date": "2023-10-26T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Neil Frances",
+    "artist": [
+      "Neil Frances"
+    ],
     "link": "https://metrochicago.com/event/neil-frances/metro-chicago/chicago-illinois/",
     "date": "2023-10-27T21:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "All Building Hallo-Queen! feat., Derrick Carter, DJ Holographic, Mark Grusane, Justin Cudmore, Michael Serafini, Garrett David, Sorbet // Hosted by Lucy Stoole, Nico // Guest hosts Christi Davinci, Olaysia, Synthetic",
+    "artist": [
+      "All Building Hallo-Queen! feat., Derrick Carter, DJ Holographic, Mark Grusane, Justin Cudmore, Michael Serafini, Garrett David, Sorbet // Hosted by Lucy Stoole, Nico // Guest hosts Christi Davinci, Olaysia, Synthetic"
+    ],
     "link": "https://metrochicago.com/event/all-building-hallo-queen-feat/all-building-event/chicago-illinois/",
     "date": "2023-10-29T21:00:00",
     "venue": "All-Building Event"
   },
   {
-    "artist": "Del Water Gap, Kristiane",
+    "artist": [
+      "Del Water Gap, Kristiane"
+    ],
     "link": "https://metrochicago.com/event/del-water-gap/metro-chicago/chicago-illinois/",
     "date": "2023-10-31T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "Barns Courtney",
+    "artist": [
+      "Barns Courtney"
+    ],
     "link": "https://metrochicago.com/event/barns-courtney/metro-chicago/chicago-illinois/",
     "date": "2023-11-01T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "Alan Palomo \u2013 Tours A World Of Hassle, Glove",
+    "artist": [
+      "Alan Palomo \u2013 Tours A World Of Hassle, Glove"
+    ],
     "link": "https://metrochicago.com/event/alan-palomo-tours-a-world-of-hassle/metro-chicago/chicago-illinois/",
     "date": "2023-11-02T21:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Hiss Golden Messenger, with special guest Sylvie",
+    "artist": [
+      "Hiss Golden Messenger, with special guest Sylvie"
+    ],
     "link": "https://metrochicago.com/event/hiss-golden-messenger/metro-chicago/chicago-illinois/",
     "date": "2023-11-04T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "Paul Cauthen \u2013 This Road I\u2019m On Tour, with Special Guest: Tanner Usrey",
+    "artist": [
+      "Paul Cauthen \u2013 This Road I\u2019m On Tour, with Special Guest: Tanner Usrey"
+    ],
     "link": "https://metrochicago.com/event/paul-cauthen-this-road-im-on-tour/metro-chicago/chicago-illinois/",
     "date": "2023-11-05T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Zack Fox, Sky Jetta",
+    "artist": [
+      "Zack Fox, Sky Jetta"
+    ],
     "link": "https://metrochicago.com/event/zack-fox/metro-chicago/chicago-illinois/",
     "date": "2023-11-08T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Angel Du$t, Candy, BIB, 9Million",
+    "artist": [
+      "Angel Du$t, Candy, BIB, 9Million"
+    ],
     "link": "https://metrochicago.com/event/angel-dut/metro-chicago/chicago-illinois/",
     "date": "2023-11-09T19:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Half Moon Run, Billie Marten",
+    "artist": [
+      "Half Moon Run, Billie Marten"
+    ],
     "link": "https://metrochicago.com/event/half-moon-run/metro-chicago/chicago-illinois/",
     "date": "2023-11-11T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Beach Fossils \u2013 The Bunny Tour, Turnover",
+    "artist": [
+      "Beach Fossils \u2013 The Bunny Tour, Turnover"
+    ],
     "link": "https://metrochicago.com/event/beach-fossils-the-bunny-tour/metro-chicago/chicago-illinois/",
     "date": "2023-11-15T19:30:00",
     "venue": "Metro"
   },
   {
-    "artist": "Lucero and Jason Boland & The Stragglers",
+    "artist": [
+      "Lucero and Jason Boland & The Stragglers"
+    ],
     "link": "https://metrochicago.com/event/lucero-and-jason-boland-the-stragglers/metro-chicago/chicago-illinois/",
     "date": "2023-11-17T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "The Japanese House, quinnie, Ally Evenson",
+    "artist": [
+      "The Japanese House, quinnie, Ally Evenson"
+    ],
     "link": "https://metrochicago.com/event/the-japanese-house/metro-chicago/chicago-illinois/",
     "date": "2023-12-03T20:00:00",
     "sold_out": true,
     "venue": "Metro"
   },
   {
-    "artist": "The Armed, Model/Actriz",
+    "artist": [
+      "The Armed, Model/Actriz"
+    ],
     "link": "https://metrochicago.com/event/the-armed/metro-chicago/chicago-illinois/",
     "date": "2023-12-16T20:00:00",
     "venue": "Metro"
   },
   {
-    "artist": "Plaid, Abstract Science DJ's (afterparty)",
+    "artist": [
+      "Plaid, Abstract Science DJ's (afterparty)"
+    ],
     "link": "https://metrochicago.com/event/plaid/sleeping-village/chicago--illinois/",
     "date": "2024-01-10T21:00:00",
     "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "Poison The Well \u2013 Performing The Album \u201cYou Come Before You\u201d, SeeYouSpaceCowboy..., Volcano"
+    ],
+    "link": "https://metrochicago.com/event/poison-the-well-performing-the-album-you-come-before-you/metro-chicago/chicago-illinois/",
+    "date": "2024-01-12T19:30:00",
+    "venue": "Metro"
   }
 ]

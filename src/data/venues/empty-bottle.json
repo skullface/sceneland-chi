@@ -4,7 +4,8 @@
       "Alex Cameron & Roy Molloy",
       "Tenci"
     ],
-    "link": "https://www.ticketweb.com/event/alex-cameron-roy-molloy-empty-bottle-tickets/13493928",
+    "sold_out": true,
+    "link": "https://www.ticketweb.com/event/sold-out-alex-cameron-empty-bottle-tickets/13493928",
     "date": "2023-09-05T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -278,9 +279,10 @@
   },
   {
     "artist": [
-      "Loraine James"
+      "Loraine James",
+      "Semiratruth"
     ],
-    "link": "https://www.ticketweb.com/event/loraine-james-empty-bottle-tickets/13358828",
+    "link": "https://www.ticketweb.com/event/loraine-james-semiratruth-empty-bottle-tickets/13358828",
     "date": "2023-10-01T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -357,6 +359,17 @@
   },
   {
     "artist": [
+      "AWEFUL (Record Release)",
+      "Lollygagger",
+      "Beastii",
+      "DJ Ivanna Riot"
+    ],
+    "link": "https://www.ticketweb.com/event/aweful-record-release-lollygagger-empty-bottle-tickets/13560498",
+    "date": "2023-10-11T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "CIVIC",
       "Ganser"
     ],
@@ -420,9 +433,11 @@
   },
   {
     "artist": [
-      "Pixel Grip"
+      "Pixel Grip",
+      "Body Shop",
+      "Cae Mon\u0101e"
     ],
-    "link": "https://www.ticketweb.com/event/pixel-grip-empty-bottle-tickets/13478908",
+    "link": "https://www.ticketweb.com/event/pixel-grip-body-shop-empty-bottle-tickets/13478908",
     "date": "2023-10-20T22:00:00",
     "venue": "Empty Bottle"
   },
@@ -527,6 +542,16 @@
     ],
     "link": "https://www.ticketweb.com/event/el-camino-acid-the-empty-bottle-tickets/13515958",
     "date": "2023-11-18T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Able Baker",
+      "Precocious Neophyte",
+      "sunshy"
+    ],
+    "link": "https://www.ticketweb.com/event/free-monday-w-able-baker-empty-bottle-tickets/13579268",
+    "date": "2023-11-20T21:00:00",
     "venue": "Empty Bottle"
   },
   {

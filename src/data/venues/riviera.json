@@ -1,246 +1,328 @@
 [
   {
-    "artist": "Tate McRae, charlieonnafriday",
+    "artist": [
+      "Tate McRae, charlieonnafriday"
+    ],
     "link": "https://www.jamusa.com/events/detail/tate-mcrae-490101",
     "date": "2023-09-05T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Local Natives, Chartreuse",
+    "artist": [
+      "Local Natives, Chartreuse"
+    ],
     "link": "https://www.jamusa.com/events/detail/local-natives-484760",
     "date": "2023-09-08T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "The Teskey Brothers, Minor Gold",
+    "artist": [
+      "The Teskey Brothers, Minor Gold"
+    ],
     "link": "https://www.jamusa.com/events/detail/the-teskey-brothers-472839",
     "date": "2023-09-09T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "DIVINE BAAZIGAR TOUR, RIAR SAAB",
+    "artist": [
+      "DIVINE BAAZIGAR TOUR, RIAR SAAB"
+    ],
     "link": "https://www.jamusa.com/events/detail/divine-497755",
     "date": "2023-09-15T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Not Another D&D Podcast",
+    "artist": [
+      "Not Another D&D Podcast"
+    ],
     "link": "https://www.jamusa.com/events/detail/not-another-d-d-podcast-483413",
     "date": "2023-09-16T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Coheed and Cambria, w/ Special Guests Deafheaven",
+    "artist": [
+      "Coheed and Cambria, w/ Special Guests Deafheaven"
+    ],
     "link": "https://www.jamusa.com/events/detail/coheed-and-cambria-466652",
     "date": "2023-09-19T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Little Simz",
+    "artist": [
+      "Little Simz"
+    ],
     "link": "https://www.jamusa.com/events/detail/little-simz-479944",
     "date": "2023-09-20T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "The Disco Biscuits, SunSquabi",
+    "artist": [
+      "The Disco Biscuits, SunSquabi"
+    ],
     "link": "https://www.jamusa.com/events/detail/the-disco-biscuits-490364",
     "date": "2023-09-21T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Royal Blood, Bad Nerves",
+    "artist": [
+      "Royal Blood, Bad Nerves"
+    ],
     "link": "https://www.jamusa.com/events/detail/royal-blood-487426",
     "date": "2023-09-23T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Teddy Swims",
+    "artist": [
+      "Teddy Swims"
+    ],
     "link": "https://www.jamusa.com/events/detail/teddy-swims-488310",
     "date": "2023-09-24T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Asking Alexandria & The HU, Zero 9:36",
+    "artist": [
+      "Asking Alexandria & The HU, Zero 9:36"
+    ],
     "link": "https://www.jamusa.com/events/detail/asking-alexandria-the-hu-489281",
     "date": "2023-09-26T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "tripleS",
+    "artist": [
+      "tripleS"
+    ],
     "link": "https://www.jamusa.com/events/detail/triples-495884",
     "date": "2023-09-28T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "St. Paul & The Broken Bones, Abraham Alexander",
+    "artist": [
+      "St. Paul & The Broken Bones, Abraham Alexander"
+    ],
     "link": "https://www.jamusa.com/events/detail/st-paul-the-broken-bones-483496",
     "date": "2023-09-29T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "slowdive, with special guests",
+    "artist": [
+      "slowdive, with special guests"
+    ],
     "link": "https://www.jamusa.com/events/detail/slowdive-490081",
     "date": "2023-10-03T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Sammy Rae & The Friends, KAINA",
+    "artist": [
+      "Sammy Rae & The Friends, KAINA"
+    ],
     "link": "https://www.jamusa.com/events/detail/sammy-rae-the-friends-474432",
     "date": "2023-10-04T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Violent Femmes",
+    "artist": [
+      "Violent Femmes"
+    ],
     "link": "https://www.jamusa.com/events/detail/violent-femmes-488262",
     "date": "2023-10-05T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Grace Potter, The Cactus Blossoms",
+    "artist": [
+      "Grace Potter, The Cactus Blossoms"
+    ],
     "link": "https://www.jamusa.com/events/detail/grace-potter-490625",
     "date": "2023-10-07T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "The Wonder Years, Anxious, Sweet Pill, Action/Adventure",
+    "artist": [
+      "The Wonder Years, Anxious, Sweet Pill, Action/Adventure"
+    ],
     "link": "https://www.jamusa.com/events/detail/the-wonder-years-487736",
     "date": "2023-10-08T17:45:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "RAYE, Absolutely",
+    "artist": [
+      "RAYE, Absolutely"
+    ],
     "link": "https://www.jamusa.com/events/detail/raye-486656",
     "date": "2023-10-10T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Noname",
+    "artist": [
+      "Noname"
+    ],
     "link": "https://www.jamusa.com/events/detail/noname-498804",
     "date": "2023-10-11T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Lucinda Williams and Her Band",
+    "artist": [
+      "Lucinda Williams and Her Band"
+    ],
     "link": "https://www.jamusa.com/events/detail/lucinda-williams-and-her-band-492357",
     "date": "2023-10-13T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Streetlight Manifesto",
+    "artist": [
+      "Streetlight Manifesto"
+    ],
     "link": "https://www.jamusa.com/events/detail/streetlight-manifesto-485262",
     "date": "2023-10-14T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Polyphia, DOMi & JD Beck",
+    "artist": [
+      "Polyphia, DOMi & JD Beck"
+    ],
     "link": "https://www.jamusa.com/events/detail/polyphia-476102",
     "date": "2023-10-19T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Stephen Sanchez, Stephen Day",
+    "artist": [
+      "Stephen Sanchez, Stephen Day"
+    ],
     "link": "https://www.jamusa.com/events/detail/stephen-sanchez-466898",
     "date": "2023-10-20T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Eric Nam, Jamie Miller",
+    "artist": [
+      "Eric Nam, Jamie Miller"
+    ],
     "link": "https://www.jamusa.com/events/detail/eric-nam-490883",
     "date": "2023-10-21T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Bullet For My Valentine, Of Mice & Men, Vended",
+    "artist": [
+      "Bullet For My Valentine, Of Mice & Men, Vended"
+    ],
     "link": "https://www.jamusa.com/events/detail/bullet-for-my-valentine-492306",
     "date": "2023-10-22T18:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Russell Dickerson, Restless Road",
+    "artist": [
+      "Russell Dickerson, Restless Road"
+    ],
     "link": "https://www.jamusa.com/events/detail/russell-dickerson-485369",
     "date": "2023-10-27T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Faye Webster, Upchuck",
+    "artist": [
+      "Faye Webster, Upchuck"
+    ],
     "link": "https://www.jamusa.com/events/detail/faye-webster-490367",
     "date": "2023-10-29T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Ben Howard",
+    "artist": [
+      "Ben Howard"
+    ],
     "link": "https://www.jamusa.com/events/detail/ben-howard-486572",
     "date": "2023-11-01T20:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Nicole Byer",
+    "artist": [
+      "Nicole Byer"
+    ],
     "link": "https://www.jamusa.com/events/detail/nicole-byer-492929",
     "date": "2023-11-03T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Michael Che",
+    "artist": [
+      "Michael Che"
+    ],
     "link": "https://www.jamusa.com/events/detail/michael-che-497498",
     "date": "2023-11-04T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "The Wait Wait Stand Up Tour",
+    "artist": [
+      "The Wait Wait Stand Up Tour"
+    ],
     "link": "https://www.jamusa.com/events/detail/wait-wait-don-t-tell-me-497483",
     "date": "2023-11-05T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Manic Focus  & Boogie T.rio",
+    "artist": [
+      "Manic Focus  & Boogie T.rio"
+    ],
     "link": "https://www.jamusa.com/events/detail/manic-focus-boogie-t-rio-498636",
     "date": "2023-11-10T21:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Hannah Berner",
+    "artist": [
+      "Hannah Berner"
+    ],
     "link": "https://www.jamusa.com/events/detail/hannah-berner-483433",
     "date": "2023-11-11T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Jeremy Zucker",
+    "artist": [
+      "Jeremy Zucker"
+    ],
     "link": "https://www.jamusa.com/events/detail/jeremy-zucker-487594",
     "date": "2023-11-14T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Lil Darkie and the Collapse of Modern Society",
+    "artist": [
+      "Lil Darkie and the Collapse of Modern Society"
+    ],
     "link": "https://www.jamusa.com/events/detail/lil-darkie-and-the-collapse-of-modern-society-489439",
     "date": "2023-11-15T19:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Carly Pearce, Adam Doleac",
+    "artist": [
+      "Carly Pearce, Adam Doleac"
+    ],
     "link": "https://www.jamusa.com/events/detail/carly-pearce-500733",
     "date": "2023-11-16T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Dark Star Orchestra",
+    "artist": [
+      "Dark Star Orchestra"
+    ],
     "link": "https://www.jamusa.com/events/detail/dark-star-orchestra-492424",
     "date": "2023-11-18T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Andrew McMahon in the Wilderness, Michigander, Arlie",
+    "artist": [
+      "Andrew McMahon in the Wilderness, Michigander, Arlie"
+    ],
     "link": "https://www.jamusa.com/events/detail/andrew-mcmahon-in-the-wilderness-490213",
     "date": "2023-12-08T18:30:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "G Jones, Mala, Sayer",
+    "artist": [
+      "G Jones, Mala, Sayer"
+    ],
     "link": "https://www.jamusa.com/events/detail/g-jones-494376",
     "date": "2024-01-13T21:00:00",
     "venue": "Riviera Theatre"
   },
   {
-    "artist": "Gilberto Santa Rosa",
+    "artist": [
+      "Gilberto Santa Rosa"
+    ],
     "link": "https://www.jamusa.com/events/detail/gilberto-santa-rosa-498703",
     "date": "2024-03-23T19:30:00",
     "venue": "Riviera Theatre"
