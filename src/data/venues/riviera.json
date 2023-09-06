@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Tate McRae, charlieonnafriday"
-    ],
-    "link": "https://www.jamusa.com/events/detail/tate-mcrae-490101",
-    "date": "2023-09-05T19:00:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
       "Local Natives, Chartreuse"
     ],
     "link": "https://www.jamusa.com/events/detail/local-natives-484760",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/russell-dickerson-485369",
     "date": "2023-10-27T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Flo Milli, with Special Guest Maiya The Don"
+    ],
+    "link": "https://www.jamusa.com/events/detail/flo-milli-501448",
+    "date": "2023-10-28T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
