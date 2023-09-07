@@ -105,6 +105,14 @@
   },
   {
     "artist": [
+      "Asking Alexandria & The HU, Zero 9:36"
+    ],
+    "link": "https://www.jamusa.com/events/detail/asking-alexandria-the-hu-489281",
+    "date": "2023-09-26T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "The Wombats, Red Rum Club"
     ],
     "link": "https://www.jamusa.com/events/detail/the-wombats-477528",
@@ -137,7 +145,7 @@
   },
   {
     "artist": [
-      "Welcome to Night Vale"
+      "Welcome to Night Vale, with Musical Guest: Juliana Finch"
     ],
     "link": "https://www.jamusa.com/events/detail/welcome-to-night-vale-490078",
     "date": "2023-10-03T19:30:00",
@@ -301,6 +309,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/faye-webster-vic",
     "date": "2023-10-29T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Sampha"
+    ],
+    "link": "https://www.jamusa.com/events/detail/sampha-501156",
+    "date": "2023-11-01T20:00:00",
     "venue": "The Vic Theatre"
   },
   {

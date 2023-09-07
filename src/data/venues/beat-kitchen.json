@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Chicago Sound Collective"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13500708/chicago-sound-collective",
-    "date": "2023-09-06T19:30:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
-      "Diners, Rust Ring, Mairy"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13293228/diners-rust-ring-mairy",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "BLINKER, Precocious Neophyte, Chaepter, James Barrs"
     ],
     "link": "https://www.beatkitchen.com/event-details/13446038/blinker-precocious-neophyte-chaepter-james-barrs",
@@ -297,6 +281,14 @@
   },
   {
     "artist": [
+      "Sad Park"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13579488/sad-park",
+    "date": "2023-10-19T19:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
       "Passafire, Telula"
     ],
     "link": "https://www.beatkitchen.com/event-details/13469398/passafire-telula",
@@ -366,6 +358,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13327508/demob-happy",
     "date": "2023-11-16T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "Webbed Wing, Soul Blind, bosses"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13535648/webbed-wing-soul-blind-bosses",
+    "date": "2023-11-17T20:00:00",
     "venue": "Beat Kitchen"
   },
   {

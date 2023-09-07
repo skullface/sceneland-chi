@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Wave to Earth North America Tour, slchld"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-wave-to-earth-thalia-hall-tickets/13170278",
-    "sold_out": true,
-    "date": "2023-09-05T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Claud: Supermodels Tour Part 1, Boyish and School of Rock Highwood"
-    ],
-    "link": "https://www.ticketweb.com/event/claud-supermodels-tour-part-1-thalia-hall-tickets/13186608",
-    "date": "2023-09-06T18:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Afrotrak Presents: Uncle Waffles (Chicago) 'In the Round'"
     ],
     "link": "https://www.ticketweb.com/event/afrotrak-presents-uncle-waffles-chicago-thalia-hall-tickets/13486448",
@@ -164,9 +147,9 @@
   },
   {
     "artist": [
-      "The Midnight"
+      "The Midnight, Replicant"
     ],
-    "link": "https://www.ticketweb.com/event/the-midnight-thalia-hall-tickets/13111005",
+    "link": "https://www.ticketweb.com/event/the-midnight-with-replicant-thalia-hall-tickets/13111005",
     "date": "2023-09-29T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -499,6 +482,14 @@
   },
   {
     "artist": [
+      "No Party For Cao Dong Commit Tour 2023"
+    ],
+    "link": "https://www.ticketweb.com/event/no-party-for-cao-dong-thalia-hall-tickets/13535138",
+    "date": "2023-11-14T18:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Josh Johnson"
     ],
     "link": "https://www.ticketweb.com/event/josh-johnson-thalia-hall-tickets/13128785",
@@ -616,6 +607,14 @@
     ],
     "link": "https://www.ticketweb.com/event/ratboys-with-disq-thalia-hall-tickets/13318228",
     "date": "2023-12-22T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Rebirth Brass Band"
+    ],
+    "link": "https://www.ticketweb.com/event/rebirth-brass-band-thalia-hall-tickets/13574118",
+    "date": "2024-01-13T19:00:00",
     "venue": "Thalia Hall"
   },
   {

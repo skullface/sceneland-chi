@@ -1,14 +1,5 @@
 [
   {
-    "sold_out": true,
-    "artist": [
-      "Tove Lo Dirt Femme Tour"
-    ],
-    "link": "https://www.ticketmaster.com/sold-out-tove-lo-dirt-femme-chicago-illinois-09-06-2023/event/04005D6B878D1408",
-    "date": "2023-09-06T19:00:00",
-    "venue": "Salt Shed"
-  },
-  {
     "artist": [
       "Jai Wolf: Blue Babu Live"
     ],
@@ -46,22 +37,6 @@
     ],
     "link": "https://www.ticketmaster.com/kaytramine-with-lou-phelps-madison-lst-chicago-illinois-09-12-2023/event/04005EEBCF451C96",
     "date": "2023-09-12T17:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
-      "Caamp: Presented by WXRT"
-    ],
-    "link": "https://www.ticketmaster.com/caamp-presented-by-wxrt-chicago-illinois-09-14-2023/event/04005E50D4E13399",
-    "date": "2023-09-14T17:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
-      "Caamp: Presented by WXRT"
-    ],
-    "link": "https://www.ticketmaster.com/caamp-presented-by-wxrt-chicago-illinois-09-15-2023/event/04005E50D52033D8",
-    "date": "2023-09-15T17:00:00",
     "venue": "Salt Shed"
   },
   {
@@ -302,6 +277,14 @@
     ],
     "link": "https://www.ticketmaster.com/riot-fest-presents-the-menzingers-chicago-illinois-11-25-2023/event/04005EEED33E3C5B",
     "date": "2023-11-25T18:30:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "Duke Dumont"
+    ],
+    "link": "https://www.ticketmaster.com/duke-dumont-chicago-illinois-12-22-2023/event/04005F22CCD73021",
+    "date": "2023-12-22T20:00:00",
     "venue": "Salt Shed"
   },
   {

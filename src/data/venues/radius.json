@@ -141,6 +141,15 @@
   },
   {
     "artist": [
+      "RL Grime Presents: PLAY\u2122live",
+      "JAWNS, 33 Below"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/501689",
+    "date": "2023-11-04T19:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
       "Apashe",
       "Wasiu, Ymir"
     ],
@@ -162,48 +171,6 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/493025",
     "date": "2023-11-12T19:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "Kaskade: Redux"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/501724",
-    "date": "2023-11-17T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "Lil Uzi Vert - PINK TAPE TOUR"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/497894",
-    "date": "2023-12-04T18:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "August Burns Red: Rescue & Restore 10 Year Anniversary Tour",
-      "Spite, Brand of Sacrifice, Crystal Lake"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/495859",
-    "date": "2023-12-05T18:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "LSDREAM",
-      "ZINGARA, Chmura"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/489550",
-    "date": "2023-12-08T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "elrow"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/500653",
-    "date": "2023-12-16T21:00:00",
     "venue": "Radius"
   }
 ]

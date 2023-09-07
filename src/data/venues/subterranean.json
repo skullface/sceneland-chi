@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Surf Curse, Floatie"
-    ],
-    "date": "2023-09-05T19:15:00",
-    "sold_out": true,
-    "link": "https://www.subt.net/event/tw-eventinfo/surf-curse-floatie/13288208",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "Hulvey - The Beautiful Tour"
-    ],
-    "date": "2023-09-06T19:30:00",
-    "sold_out": true,
-    "link": "https://www.subt.net/event/tw-eventinfo/hulvey-the-beautiful-tour/13229288",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "MADISON RYANN WARD, Peter CottonTale"
     ],
     "date": "2023-09-07T20:00:00",
@@ -56,6 +38,14 @@
     ],
     "date": "2023-09-10T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/the-buttertones-new-misphoria/13461088",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "The Buttertones, New Misphoria"
+    ],
+    "date": "2023-09-11T18:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-buttertones-new-misphoria/13597988",
     "venue": "Subterranean"
   },
   {
@@ -254,6 +244,14 @@
   },
   {
     "artist": [
+      "D2X, Sonny"
+    ],
+    "date": "2023-09-28T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/d2x-sonny/13597288",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "AUTOPILOT"
     ],
     "date": "2023-09-29T18:30:00",
@@ -400,6 +398,14 @@
   },
   {
     "artist": [
+      "Chamber, TRACHEOTOMY"
+    ],
+    "date": "2023-10-14T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/chamber-tracheotomy/13579288",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "MALCOLM TODD, CHARLIE ADDIS"
     ],
     "date": "2023-10-15T19:00:00",
@@ -452,6 +458,14 @@
     ],
     "date": "2023-10-23T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/trauna-boy-bandicoot-moony/13537508",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Rozwell Kid"
+    ],
+    "date": "2023-10-24T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/rozwell-kid/13577988",
     "venue": "Subterranean"
   },
   {

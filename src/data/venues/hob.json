@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Electric Callboy Tekkno World Tour 2023"
-    ],
-    "link": "https://concerts.livenation.com/electric-callboy-tekkno-world-tour-2023-chicago-illinois-09-06-2023/event/04005E41FEE75253",
-    "date": "2023-09-06T17:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Phum Viphurit x Mild Orange x Brandon"
     ],
     "link": "https://concerts.livenation.com/phum-viphurit-x-mild-orange-x-chicago-illinois-09-07-2023/event/04005EC6C8B63FED",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/moon-taxi-chicago-illinois-11-18-2023/event/04005EB2C0AB2AB4",
     "date": "2023-11-18T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Daniel Seavey"
+    ],
+    "link": "https://concerts.livenation.com/daniel-seavey-chicago-illinois-11-19-2023/event/04005F0FFEA94391",
+    "date": "2023-11-19T19:00:00",
     "venue": "House of Blues"
   }
 ]
