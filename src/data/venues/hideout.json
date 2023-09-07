@@ -25,9 +25,9 @@
   },
   {
     "artist": [
-      "Kaleta & Super Yamba Band"
+      "Kaleta & Super Yamba Band with DJ Khali Melon"
     ],
-    "link": "https://hideoutchicago.com/event/kaleta-super-yamba-band-2/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/kaleta-super-yamba-band-with-dj-khali-melon/hideout-chicago/chicago/",
     "date": "2023-09-09T20:30:00",
     "venue": "Hideout"
   },
@@ -114,9 +114,9 @@
   },
   {
     "artist": [
-      "Katie Alice Greer with Courtesy"
+      "Katie Alice Greer with Courtesy and Ovef Ow"
     ],
-    "link": "https://hideoutchicago.com/event/katie-alice-greer-with-courtesy/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/katie-alice-greer-with-courtesy-and-ovef-ow/hideout-chicago/chicago/",
     "date": "2023-09-20T20:30:00",
     "venue": "Hideout"
   },
@@ -138,9 +138,9 @@
   },
   {
     "artist": [
-      "Strange Ranger"
+      "Strange Ranger with Husk"
     ],
-    "link": "https://hideoutchicago.com/event/strange-ranger-with-special-guests/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/strange-ranger-with-husk/hideout-chicago/chicago/",
     "date": "2023-09-22T21:30:00",
     "venue": "Hideout"
   },
@@ -150,6 +150,22 @@
     ],
     "link": "https://hideoutchicago.com/event/reaction-formation/hideout-chicago/chicago/",
     "date": "2023-09-24T15:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Broken Planet"
+    ],
+    "link": "https://hideoutchicago.com/event/broken-planet-2/hideout-chicago/chicago/",
+    "date": "2023-09-26T20:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Broken Planet"
+    ],
+    "link": "https://hideoutchicago.com/event/broken-planet-3/hideout-chicago/chicago/",
+    "date": "2023-09-27T20:00:00",
     "venue": "Hideout"
   },
   {
@@ -170,9 +186,9 @@
   },
   {
     "artist": [
-      "Pearl and The Oysters with Estereomance"
+      "Pearl and The Oysters with Estereomance and Corn on My Dinner Plate"
     ],
-    "link": "https://hideoutchicago.com/event/pearl-and-the-oysters-with-estereomance/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/pearl-and-the-oysters-with-estereomance-and-corn-on-my-dinner-plate/hideout-chicago/chicago/",
     "date": "2023-09-29T21:30:00",
     "venue": "Hideout"
   },
@@ -237,7 +253,7 @@
       "Black Opry Revue: Tylar Bryant, Sug Daniels and Grace Givertz"
     ],
     "link": "https://hideoutchicago.com/event/black-opry-revue-tylar-bryant-sug-daniels-and-grace-givertz/hideout-chicago/chicago/",
-    "date": "2023-10-07T20:00:00",
+    "date": "2023-10-07T19:30:00",
     "venue": "Hideout"
   },
   {
@@ -262,6 +278,14 @@
     ],
     "link": "https://hideoutchicago.com/event/jon-langford-and-his-fancy-men-with-dennis-j-leise-and-sally-timms/hideout-chicago/chicago/",
     "date": "2023-10-10T19:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "The Bandulus with The Drastics"
+    ],
+    "link": "https://hideoutchicago.com/event/the-bandulus-with-the-drastics/hideout-chicago/chicago/",
+    "date": "2023-10-11T20:30:00",
     "venue": "Hideout"
   },
   {
@@ -347,10 +371,50 @@
   },
   {
     "artist": [
+      "DAVi MUSiC with Tyresta and Jnana"
+    ],
+    "link": "https://hideoutchicago.com/event/davi-music-with-tyresta-and-jnana/hideout-chicago/chicago/",
+    "date": "2023-10-24T20:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef/hideout-chicago/chicago/",
+    "date": "2023-10-25T19:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef-2/hideout-chicago/chicago/",
+    "date": "2023-10-26T18:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
       "Coyote Island and Certainly So"
     ],
     "link": "https://hideoutchicago.com/event/coyote-island-and-certainly-so/hideout-chicago/chicago/",
     "date": "2023-10-26T21:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef: More Feelings"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings/hideout-chicago/chicago/",
+    "date": "2023-10-27T19:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef: More Feelings"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-2/hideout-chicago/chicago/",
+    "date": "2023-10-28T19:00:00",
     "venue": "Hideout"
   },
   {

@@ -141,6 +141,15 @@
   },
   {
     "artist": [
+      "RL Grime Presents: PLAY\u2122live",
+      "JAWNS, 33 Below"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/501689",
+    "date": "2023-11-04T19:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
       "Apashe",
       "Wasiu, Ymir"
     ],
@@ -162,14 +171,6 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/493025",
     "date": "2023-11-12T19:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "Kaskade: Redux"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/501724",
-    "date": "2023-11-17T22:00:00",
     "venue": "Radius"
   }
 ]

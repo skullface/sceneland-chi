@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Escape The Fate",
-      "Point North, Stitched Up Heart, Garzi, Night Spice"
-    ],
-    "link": "https://concordmusichall.com/calendar/escape-the-fate/",
-    "date": "2023-09-05T17:30:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "12th Planet",
       "BANDLEZ"
     ],
@@ -262,6 +253,14 @@
     ],
     "link": "https://concordmusichall.com/calendar/j-worra/",
     "date": "2023-12-08T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "Irina Kairatovna"
+    ],
+    "link": "https://concordmusichall.com/calendar/irina-kairatovna/",
+    "date": "2023-12-17T21:00:00",
     "venue": "Concord Music Hall"
   },
   {
