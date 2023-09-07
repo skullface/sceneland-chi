@@ -23,7 +23,6 @@ for url_page in url_pages:
     excluded_keywords = ['Open Mic', 'SOX SUNDAYS', 'Tabletop Fleapit', 'Bingo with Tyler', 'UNDERGROUND WONDER', 'Underground Wonder', 'WRESTLING', 'MR. BLOTTO', 'MICHAEL JOHNSON', 'MICHAEL ROBINSON', 'TAILGATE PARTY', 'ART SHOW']
     for artist in artists_elements:
       artist_text = artist.text.strip()
-      # Check if artist text contains any excluded keyword
       if any(keyword in artist_text for keyword in excluded_keywords):
         continue
       artists_list.append(artist_text.replace(' / ', ', '))
@@ -31,7 +30,7 @@ for url_page in url_pages:
         all_shows_data['artist'] = artists_list
 
     date = show.find('time')
-    all_shows_data['date'] = date.get('datetime') + 'T20:00:00'
+    all_shows_data['date'] = date.get('datetime')
     link = show.find('a', class_='expandshow')
     all_shows_data['link'] = link.get('href')
     all_shows_data['venue'] = 'Reggie’s'
