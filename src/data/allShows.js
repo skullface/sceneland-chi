@@ -4642,6 +4642,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Hozier - Unreal Unearth Tour 2023'],
+    link: 'https://concerts.livenation.com/hozier-unreal-unearth-tour-2023-chicago-illinois-09-12-2023/event/04005E6F84741090',
+    date: '2023-09-12T19:30:00',
+    venue: 'Northerly Island',
+  },
+  {
     artist: ['Jason Aldean: Highway Desperado Tour 2023'],
     link: 'https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-tinley-park-illinois-09-09-2023/event/04005E48DD683B57',
     date: '2023-09-09T19:30:00',
