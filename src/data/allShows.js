@@ -1,5 +1,23 @@
 export const allShows = [
   {
+    artist: ['Karol G: Ma\u00f1ana Ser\u00e1 Bonito Tour'],
+    link: 'https://www.ticketmaster.com/karol-g-manana-sera-bonito-tour-chicago-illinois-09-15-2023/event/04005EC3B7F04064',
+    date: '2023-09-15T19:00:00',
+    venue: 'Soldier Field',
+  },
+  {
+    artist: ['Metallica: M72 World Tour'],
+    link: 'https://www.ticketmaster.com/metallica-m72-world-tour-friday-ticket-chicago-illinois-08-09-2024/event/04005E2A512A4777',
+    date: '2024-08-09T18:00:00',
+    venue: 'Soldier Field',
+  },
+  {
+    artist: ['Metallica: M72 World Tour'],
+    link: 'https://www.ticketmaster.com/metallica-m72-world-tour-sunday-ticket-chicago-illinois-08-11-2024/event/04005E2A012347D0',
+    date: '2024-08-11T18:00:00',
+    venue: 'Soldier Field',
+  },
+  {
     artist: ['Piso 21'],
     link: 'https://www.jamusa.com/events/detail/piso-21-482421',
     date: '2023-09-09T19:00:00',
@@ -4622,6 +4640,24 @@ export const allShows = [
     link: 'https://concerts.livenation.com/daniel-seavey-chicago-illinois-11-19-2023/event/04005F0FFEA94391',
     date: '2023-11-19T19:00:00',
     venue: 'House of Blues',
+  },
+  {
+    artist: ['Jason Aldean: Highway Desperado Tour 2023'],
+    link: 'https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-tinley-park-illinois-09-09-2023/event/04005E48DD683B57',
+    date: '2023-09-09T19:30:00',
+    venue: 'Tinley Park Amphitheatre',
+  },
+  {
+    artist: ['Fuerza Regida - Otra Peda Tour 2023'],
+    link: 'https://concerts.livenation.com/fuerza-regida-otra-peda-tour-2023-tinley-park-illinois-09-23-2023/event/04005E8EE59338C0',
+    date: '2023-09-23T20:00:00',
+    venue: 'Tinley Park Amphitheatre',
+  },
+  {
+    artist: ['Niall Horan: "THE SHOW" LIVE ON TOUR 2024'],
+    link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-tinley-park-illinois-07-09-2024/event/04005EB3F6EA498C',
+    date: '2024-07-09T19:30:00',
+    venue: 'Tinley Park Amphitheatre',
   },
   {
     artist: ["Afrotrak Presents: Uncle Waffles (Chicago) 'In the Round'"],
