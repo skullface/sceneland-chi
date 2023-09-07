@@ -200,6 +200,16 @@
   },
   {
     "artist": [
+      "Ghost Days",
+      "Flowerbabe",
+      "Jerry Russo"
+    ],
+    "link": "https://lh-st.com/shows/09-18-2023-100-off-bands/",
+    "date": "2023-09-18T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "An Evening With Tori Kelly"
     ],
     "sold_out": true,
@@ -332,6 +342,14 @@
     ],
     "link": "https://lh-st.com/shows/09-25-2023-schtick/",
     "date": "2023-09-25T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Human Bloom, Duane Powell"
+    ],
+    "link": "https://lh-st.com/shows/09-26-2023-human-bloom/",
+    "date": "2023-09-26T20:00:00",
     "venue": "Schubas"
   },
   {
@@ -469,6 +487,16 @@
     "link": "https://lh-st.com/shows/10-04-2023-two-lanes/",
     "date": "2023-10-04T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Lettering",
+      "Demo Division",
+      "Bottom Bunk"
+    ],
+    "link": "https://lh-st.com/shows/10-04-2023-100-off-bands/",
+    "date": "2023-10-04T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
