@@ -9,6 +9,9 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_LAST_UPDATED_AT: lastUpdatedAt,
   },
+  experimental: {
+    largePageDataBytes: 128 * 2000, // double the default of 128KB
+  }
 }
 
 module.exports = nextConfig
