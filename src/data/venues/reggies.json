@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "ZACK FEDOR"
-    ],
-    "date": "2023-09-07",
-    "link": "https://www.reggieslive.com/show/zack-fedor-at-reggies-on-the-beach/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "MUSTARD PLUG",
-      "THE TOASTERS",
-      "HALF PAST TWO",
-      "MALAFACHA",
-      "DJ CHUCK WREN (Jump Up Records)"
-    ],
-    "date": "2023-09-07",
-    "link": "https://www.reggieslive.com/show/mustard-plug-4/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "PROF PINKERTONS IRRELEVANT ORCHESTRA",
-      "DUVED DUNAYEVSKY",
-      "DANIEL GARLITSKY"
-    ],
-    "date": "2023-09-07",
-    "link": "https://www.reggieslive.com/show/prof-pinkertons-irrelevant-orchestra/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "THE BUFFALO RYDERS",
-      "IRIS MARLOWE",
-      "NICK WILKINSON"
-    ],
-    "date": "2023-09-07",
-    "link": "https://www.reggieslive.com/show/the-buffalo-ryders/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "Q101 \u2013 RIOT FEST TICKET DROP"
     ],
     "date": "2023-09-08",
@@ -195,6 +155,14 @@
   },
   {
     "artist": [
+      "DEADLY DAPPER"
+    ],
+    "date": "2023-09-15",
+    "link": "https://www.reggieslive.com/show/wearable-art-pop-up/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "DADBOD",
       "LITTLE BIG FAT"
     ],
@@ -287,6 +255,16 @@
   },
   {
     "artist": [
+      "JUNIOR STOPKA",
+      "TINA YOUKHANA",
+      "GOATBELLY"
+    ],
+    "date": "2023-09-20",
+    "link": "https://www.reggieslive.com/show/junior-stopka-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "ZAO",
       "CAPRA",
       "YOUR SPIRIT DIES",
@@ -294,6 +272,16 @@
     ],
     "date": "2023-09-20",
     "link": "https://www.reggieslive.com/show/zao/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "MARILEE",
+      "TONY CASTRO",
+      "JC AND THE REUP BAND"
+    ],
+    "date": "2023-09-20",
+    "link": "https://www.reggieslive.com/show/jazz-and-jokes-10/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -474,6 +462,17 @@
     ],
     "date": "2023-10-01",
     "link": "https://www.reggieslive.com/show/wynne/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "RUDE ECHOES",
+      "JESSE RAY AND THE CAROLINA CATFISH",
+      "FIRE CAT!",
+      "EM GRACE & THE UNDERCUTS"
+    ],
+    "date": "2023-10-01",
+    "link": "https://www.reggieslive.com/show/rude-echoes/",
     "venue": "Reggie\u2019s"
   },
   {

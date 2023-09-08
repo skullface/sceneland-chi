@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Phum Viphurit x Mild Orange x Brandon"
-    ],
-    "link": "https://concerts.livenation.com/phum-viphurit-x-mild-orange-x-chicago-illinois-09-07-2023/event/04005EC6C8B63FED",
-    "date": "2023-09-07T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Taylor Party: Taylor Swift Night: 21+"
     ],
     "link": "https://concerts.livenation.com/the-taylor-party-taylor-swift-night-chicago-illinois-09-08-2023/event/04005EDDC6142579",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/daniel-seavey-chicago-illinois-11-19-2023/event/04005F0FFEA94391",
     "date": "2023-11-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Wild Nothing"
+    ],
+    "link": "https://concerts.livenation.com/wild-nothing-chicago-illinois-11-20-2023/event/04005F0FBE9628DF",
+    "date": "2023-11-20T19:00:00",
     "venue": "House of Blues"
   }
 ]

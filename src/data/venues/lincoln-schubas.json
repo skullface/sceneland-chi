@@ -1,27 +1,6 @@
 [
   {
     "artist": [
-      "Tep No Presents: The Forever Summer Tour, Bella Foe, DJ Moonlanding"
-    ],
-    "link": "https://lh-st.com/shows/09-07-2023-tep-no-presents-the-forever-summer-tour/",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "link": "https://lh-st.com/shows/09-07-2023-schubas-open-mic/",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Dogs In A Pile, Zoofunkyou"
-    ],
-    "link": "https://lh-st.com/shows/09-07-2023-dogs-in-a-pile/",
-    "date": "2023-09-07T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "The North 41, Nasty Snacks",
       "LowDown Brass Band, Nasty Snacks"
     ],
@@ -43,6 +22,7 @@
       "feral",
       "Alex Leeds"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-08-2023-meet-me-upstairs/",
     "date": "2023-09-08T21:00:00",
     "venue": "Schubas"

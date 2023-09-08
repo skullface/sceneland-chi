@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Neu Blume with Charlie Reed and Fran (solo)"
-    ],
-    "link": "https://hideoutchicago.com/event/neu-blume-with-charlie-reed-and-fran-solo/hideout-chicago/chicago/",
-    "date": "2023-09-07T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "LP\u2019s Happy Hour: Zachariah Parker"
     ],
     "link": "https://hideoutchicago.com/event/lps-happy-hour-zachariah-parker/hideout-chicago/chicago/",
@@ -399,6 +391,15 @@
     ],
     "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings/hideout-chicago/chicago/",
     "date": "2023-10-27T19:00:00",
+    "sold_out": true,
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef: More Feelings"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-3/hideout-chicago/chicago/",
+    "date": "2023-10-27T22:00:00",
     "venue": "Hideout"
   },
   {
@@ -407,6 +408,15 @@
     ],
     "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-2/hideout-chicago/chicago/",
     "date": "2023-10-28T19:00:00",
+    "sold_out": true,
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ramy Youssef: More Feelings"
+    ],
+    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-4/hideout-chicago/chicago/",
+    "date": "2023-10-28T22:00:00",
     "venue": "Hideout"
   },
   {

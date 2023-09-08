@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Ondara: The Rebirth Tour",
-      "Katacombs"
-    ],
-    "link": "https://www.ticketweb.com/event/ondara-the-rebirth-tour-empty-bottle-tickets/13419558",
-    "date": "2023-09-07T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "HIDE",
       "Plack Blague",
       "Lengua Salvaje",
@@ -30,7 +21,7 @@
       "DJ Raudy"
     ],
     "link": "https://www.ticketweb.com/event/hide-tim-kinsella-empty-bottle-tickets/13425618",
-    "date": "2023-09-09T22:00:00",
+    "date": "2023-09-09T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -185,9 +176,10 @@
   },
   {
     "artist": [
-      "MAN ON MAN"
+      "MAN ON MAN",
+      "Brent Penny"
     ],
-    "link": "https://www.ticketweb.com/event/man-on-man-empty-bottle-tickets/13322258",
+    "link": "https://www.ticketweb.com/event/man-on-man-brent-empty-bottle-tickets/13322258",
     "date": "2023-09-23T21:00:00",
     "venue": "Empty Bottle"
   },

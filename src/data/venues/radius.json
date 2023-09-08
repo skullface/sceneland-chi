@@ -72,6 +72,14 @@
   },
   {
     "artist": [
+      "ZHU"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/490290",
+    "date": "2023-10-13T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
       "San Holo Presents Existential Dance Music",
       "ford., wes mills"
     ],
@@ -132,6 +140,15 @@
   },
   {
     "artist": [
+      "ANOTR",
+      "Desiree, Monty Kiddo"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/501911",
+    "date": "2023-10-28T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
       "RL Grime Presents: PLAY\u2122live",
       "JAWNS, 33 Below"
     ],
@@ -155,22 +172,6 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/491294",
     "date": "2023-11-04T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "Armin van Buuren"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/495584",
-    "date": "2023-11-10T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "Gera MX & Nanpa Basico"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/493025",
-    "date": "2023-11-12T19:00:00",
     "venue": "Radius"
   }
 ]
