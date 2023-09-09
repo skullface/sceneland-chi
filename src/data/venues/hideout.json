@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "LP\u2019s Happy Hour: Zachariah Parker"
-    ],
-    "link": "https://hideoutchicago.com/event/lps-happy-hour-zachariah-parker/hideout-chicago/chicago/",
-    "date": "2023-09-08T18:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
-      "Justice Hill and Nightime Love with Basic Comfort"
-    ],
-    "link": "https://hideoutchicago.com/event/justice-hill-and-nightime-love-with-basic-comfort/hideout-chicago/chicago/",
-    "date": "2023-09-08T21:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Kaleta & Super Yamba Band with DJ Khali Melon"
     ],
     "link": "https://hideoutchicago.com/event/kaleta-super-yamba-band-with-dj-khali-melon/hideout-chicago/chicago/",
@@ -387,26 +371,27 @@
   },
   {
     "artist": [
-      "Ramy Youssef: More Feelings"
+      "*SOLD OUT* Ramy Youssef: More Feelings"
     ],
-    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/sold-out-ramy-youssef-more-feelings/hideout-chicago/chicago/",
     "date": "2023-10-27T19:00:00",
     "sold_out": true,
     "venue": "Hideout"
   },
   {
     "artist": [
-      "Ramy Youssef: More Feelings"
+      "*SOLD OUT* Ramy Youssef: More Feelings"
     ],
-    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-3/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/sold-out-ramy-youssef-more-feelings-3/hideout-chicago/chicago/",
     "date": "2023-10-27T22:00:00",
+    "sold_out": true,
     "venue": "Hideout"
   },
   {
     "artist": [
-      "Ramy Youssef: More Feelings"
+      "*SOLD OUT* Ramy Youssef: More Feelings"
     ],
-    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-2/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/sold-out-ramy-youssef-more-feelings-2/hideout-chicago/chicago/",
     "date": "2023-10-28T19:00:00",
     "sold_out": true,
     "venue": "Hideout"
@@ -415,8 +400,9 @@
     "artist": [
       "Ramy Youssef: More Feelings"
     ],
-    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings-4/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/ramy-youssef-more-feelings/hideout-chicago/chicago/",
     "date": "2023-10-28T22:00:00",
+    "sold_out": true,
     "venue": "Hideout"
   },
   {

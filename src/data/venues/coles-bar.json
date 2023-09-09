@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Daisychain, Thompson Springs, Reilly Downes & The Acid Cowboys"
-    ],
-    "link": "https://colesbarchicago.com/event/daisychain-thompson-springs-reilly-downes-the-acid-cowboys/coles-bar/n-milwaukee-illinois/",
-    "date": "2023-09-08T22:00:00",
-    "venue": "Cole\u2019s Bar"
-  },
-  {
-    "artist": [
       "You Folk, Pale Shade, Close Kept"
     ],
     "link": "https://colesbarchicago.com/event/you-folk-pale-shade-close-kept/coles-bar/n-milwaukee-illinois/",
@@ -73,6 +65,14 @@
   },
   {
     "artist": [
+      "Piraguas Y Piropos, Rosalba Valdez, Emil Rojo Band"
+    ],
+    "link": "https://colesbarchicago.com/event/piraguas-y-piropos-rosalba-valdez-emil-rojo-band/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-09-22T22:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
       "Chiboyjimmy, JJay, Jyou, Kon, Deus"
     ],
     "link": "https://colesbarchicago.com/event/chiboyjimmy-jjay-jyou-kon-deus/coles-bar/n-milwaukee-illinois/",
@@ -89,9 +89,9 @@
   },
   {
     "artist": [
-      "Panda Riot, Twin Drugs (Richmond VA), Documa (mems. of Cloakroom)"
+      "Panda Riot, Twin Drugs (Richmond VA), Rose Lake"
     ],
-    "link": "https://colesbarchicago.com/event/panda-riot-twin-drugs-richmond-va-documa-mems-of-cloakroom/coles-bar/n-milwaukee-illinois/",
+    "link": "https://colesbarchicago.com/event/panda-riot-twin-drugs-richmond-va-rose-lake/coles-bar/n-milwaukee-illinois/",
     "date": "2023-09-24T22:00:00",
     "venue": "Cole\u2019s Bar"
   },
@@ -157,6 +157,14 @@
     ],
     "link": "https://colesbarchicago.com/event/perfect-mash-a-dating-show-2/coles-bar/n-milwaukee-illinois/",
     "date": "2023-10-17T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Oddysseys, Forty Feet Fall, Lithia"
+    ],
+    "link": "https://colesbarchicago.com/event/oddysseys-forty-feet-fall-lithia/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-10-24T22:00:00",
     "venue": "Cole\u2019s Bar"
   },
   {

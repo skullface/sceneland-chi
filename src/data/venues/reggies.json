@@ -1,44 +1,6 @@
 [
   {
     "artist": [
-      "Q101 \u2013 RIOT FEST TICKET DROP"
-    ],
-    "date": "2023-09-08",
-    "link": "https://www.reggieslive.com/show/q101-riot-fest-ticket-drop/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-08",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-84/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "SK\u00c1LD",
-      "FABIO BRIENZA (dark soundscapes and improvisation series)"
-    ],
-    "date": "2023-09-08",
-    "link": "https://www.reggieslive.com/show/skald/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "GREG JACKS & BROTHER HELP"
-    ],
-    "date": "2023-09-08",
-    "link": "https://www.reggieslive.com/show/greg-jacks-brother-help/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "DRAB"
-    ],
-    "date": "2023-09-08",
-    "link": "https://www.reggieslive.com/show/drab/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "OZ NOY, DENNIS CHAMBERS, JIMMY HASLIP",
       "MARBIN"
     ],
@@ -143,14 +105,6 @@
     ],
     "date": "2023-09-14",
     "link": "https://www.reggieslive.com/show/tallah/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "CLUB CRIB"
-    ],
-    "date": "2023-09-14",
-    "link": "https://www.reggieslive.com/show/club-crib/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -872,6 +826,18 @@
   },
   {
     "artist": [
+      "DRAWN & QUARTERED + FULCI CO-HEADLINE",
+      "DRAWN & QUARTERED",
+      "FULCI",
+      "MOLDER",
+      "PRIMAL CODE"
+    ],
+    "date": "2023-10-27",
+    "link": "https://www.reggieslive.com/show/drawn-quartered/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "HULDER",
       "PIG\u2019S BLOOD",
       "TBA"
@@ -955,6 +921,14 @@
   },
   {
     "artist": [
+      "HYRYDER (Grateful Dead Tribute)"
+    ],
+    "date": "2023-11-03",
+    "link": "https://www.reggieslive.com/show/hyryder/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "WOOKIEFOOT",
       "TBA"
     ],
@@ -983,6 +957,17 @@
     ],
     "date": "2023-11-04",
     "link": "https://www.reggieslive.com/show/wookiefoot-21/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "GOATWHORE",
+      "WITHERED",
+      "SPITER",
+      "TBA"
+    ],
+    "date": "2023-11-05",
+    "link": "https://www.reggieslive.com/show/goatwhore-4/",
     "venue": "Reggie\u2019s"
   },
   {

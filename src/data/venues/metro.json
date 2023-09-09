@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Boris + Melvins: Twins of Evil Tour, Mr. Phylzzz"
-    ],
-    "link": "https://metrochicago.com/event/boris-melvins/metro-chicago/chicago-illinois/",
-    "date": "2023-09-08T19:30:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "FJAAK, Hyperactive, Jason Patrick"
     ],
     "link": "https://metrochicago.com/event/fjaak/metro-chicago/chicago-illinois/",
@@ -158,6 +150,7 @@
     ],
     "link": "https://metrochicago.com/event/the-revivalists/metro-chicago/chicago-illinois/",
     "date": "2023-10-11T20:00:00",
+    "sold_out": true,
     "venue": "Metro"
   },
   {

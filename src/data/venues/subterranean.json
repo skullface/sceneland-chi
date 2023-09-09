@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "Sugar: The Nu-Metal Party - 17+"
-    ],
-    "date": "2023-09-08T21:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/sugar-the-nu-metal-party-17/13209848",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "Modern Nun, Heet Deth, Orisun, The Laughing Hearts"
+      "Heet Deth, Orisun, The Laughing Hearts"
     ],
     "date": "2023-09-09T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/modern-nun-heet-deth-orisun-the-laughing-hearts/13454238",
+    "link": "https://www.subt.net/event/tw-eventinfo/heet-deth-orisun-the-laughing-hearts/13454238",
     "venue": "Subterranean"
   },
   {
@@ -429,6 +421,14 @@
   },
   {
     "artist": [
+      "Sun-Riser, The Laughing Hearts, Multimagic, JohnJonJohn"
+    ],
+    "date": "2023-10-21T19:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sun-riser-the-laughing-hearts-multimagic-johnjonjohn/13535968",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "David Rosales"
     ],
     "date": "2023-10-22T20:00:00",
@@ -569,6 +569,14 @@
     ],
     "date": "2023-12-09T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/princess-chelsea-kitty/13579048",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Joey Valence & Brae"
+    ],
+    "date": "2024-01-29T19:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/joey-valence-brae/13602778",
     "venue": "Subterranean"
   }
 ]

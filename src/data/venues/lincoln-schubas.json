@@ -1,36 +1,9 @@
 [
   {
     "artist": [
-      "The North 41, Nasty Snacks",
-      "LowDown Brass Band, Nasty Snacks"
-    ],
-    "link": "https://lh-st.com/shows/09-08-2023-the-north-41/",
-    "date": "2023-09-08T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Rhea the Second, J Bambii, Demetruest, Bonita Appleblunt"
-    ],
-    "link": "https://lh-st.com/shows/09-08-2023-rhea-the-second/",
-    "date": "2023-09-08T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "ted dB",
-      "feral",
-      "Alex Leeds"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-08-2023-meet-me-upstairs/",
-    "date": "2023-09-08T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "School of Rock Park Ridge's \"Back to School\" Show"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-09-2023-school-of-rock-park-ridge-back-to-school/",
     "date": "2023-09-09T10:30:00",
     "venue": "Schubas"
@@ -207,14 +180,6 @@
   },
   {
     "artist": [
-      "Nitefire, Bottom Bunk, Schlupp"
-    ],
-    "link": "https://lh-st.com/shows/09-19-2023-nitefire/",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Minivan, Cruel, Fruitleather"
     ],
     "link": "https://lh-st.com/shows/09-20-2023-minivan/",
@@ -240,7 +205,7 @@
   },
   {
     "artist": [
-      "Lauren Mayberry"
+      "Lauren Mayberry, ggwendolyn"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/09-22-2023-lauren-mayberry/",
@@ -1020,6 +985,14 @@
   },
   {
     "artist": [
+      "Balming Tiger"
+    ],
+    "link": "https://lh-st.com/shows/11-16-2023-balming-tiger/",
+    "date": "2023-11-16T19:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Miel de Montagne, The Thing"
     ],
     "link": "https://lh-st.com/shows/11-16-2023-miel-de-montagne/",
@@ -1154,6 +1127,15 @@
     ],
     "link": "https://lh-st.com/shows/12-06-2023-dylan-matthew/",
     "date": "2023-12-06T19:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Xavier Omar",
+      "Elhae"
+    ],
+    "link": "https://lh-st.com/shows/12-07-2023-xavier-omar-elhae/",
+    "date": "2023-12-07T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

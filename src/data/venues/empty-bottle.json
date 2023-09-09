@@ -2,18 +2,6 @@
   {
     "artist": [
       "HIDE",
-      "Plack Blague",
-      "Lengua Salvaje",
-      "DJ Club Drippy",
-      "DJ Raudy"
-    ],
-    "link": "https://www.ticketweb.com/event/hide-plack-blague-empty-bottle-tickets/13425608",
-    "date": "2023-09-08T22:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "HIDE",
       "Tim Kinsella & Jenny Pulse (Record Release Show)",
       "Cube",
       "The Ineffectuals",
@@ -331,6 +319,16 @@
   },
   {
     "artist": [
+      "Cat Mullins & The Holy Lonesome",
+      "M.E.H.",
+      "Family Junket"
+    ],
+    "link": "https://www.ticketweb.com/event/cat-mullins-the-holy-empty-bottle-tickets/13593798",
+    "date": "2023-10-10T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "AWEFUL (Record Release)",
       "Lollygagger",
       "Beastii",
@@ -449,6 +447,17 @@
   },
   {
     "artist": [
+      "Rich Jones",
+      "ShrapKnel",
+      "J Bambii",
+      "Udababy"
+    ],
+    "link": "https://www.ticketweb.com/event/rich-jones-shrapknel-empty-bottle-tickets/13598248",
+    "date": "2023-11-04T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "An Evening With: Mating Ritual",
       "Loviet"
     ],
@@ -501,9 +510,10 @@
   {
     "artist": [
       "Palehound",
-      "alexalone"
+      "alexalone",
+      "OK Cool"
     ],
-    "link": "https://www.ticketweb.com/event/palehound-alexalone-empty-bottle-tickets/13275208",
+    "link": "https://www.ticketweb.com/event/palehound-alexalone-ok-empty-bottle-tickets/13275208",
     "date": "2023-11-17T22:00:00",
     "venue": "Empty Bottle"
   },
@@ -528,9 +538,10 @@
   },
   {
     "artist": [
-      "Speedy Ortiz"
+      "Speedy Ortiz",
+      "Spacemoth"
     ],
-    "link": "https://www.ticketweb.com/event/speedy-ortiz-empty-bottle-tickets/13466608",
+    "link": "https://www.ticketweb.com/event/speedy-ortiz-spacemoth-empty-bottle-tickets/13466608",
     "date": "2023-11-21T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -557,6 +568,14 @@
     ],
     "link": "https://www.ticketweb.com/event/sapphic-factory-queer-joy-party-empty-bottle-tickets/13468168",
     "date": "2024-01-06T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Steve Mason (of The Beta Band)"
+    ],
+    "link": "https://www.ticketweb.com/event/steve-mason-of-the-beta-empty-bottle-tickets/13314918",
+    "date": "2024-04-16T21:00:00",
     "venue": "Empty Bottle"
   }
 ]

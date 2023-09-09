@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Iliza"
-    ],
-    "link": "https://www.msg.com/calendar/the-chicago-theatre-september-2023-iliza/07005E8CF2F64264",
-    "date": "2023-09-08T19:00:00",
-    "venue": "Chicago Theatre"
-  },
-  {
-    "artist": [
       "Corey Holcomb"
     ],
     "link": "https://www.msg.com/calendar/the-chicago-theatre-september-2023-corey-holcomb/07005E9BBD563A02",
@@ -365,6 +357,14 @@
     ],
     "link": "https://www.msg.com/calendar/the-chicago-theatre-may-2024-matt-rife/07005EBF80F51047",
     "date": "2024-06-02T17:00:00",
+    "venue": "Chicago Theatre"
+  },
+  {
+    "artist": [
+      "Keane"
+    ],
+    "link": "https://www.msg.com/calendar/the-chicago-theatre-september-2024-keane/07005F25A6981682",
+    "date": "2024-09-18T20:00:00",
     "venue": "Chicago Theatre"
   }
 ]

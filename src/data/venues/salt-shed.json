@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Tash Sultana: North American Tour 2023"
-    ],
-    "link": "https://www.ticketmaster.com/tash-sultana-north-american-tour-2023-chicago-illinois-09-08-2023/event/04005E95CA7B2F21",
-    "date": "2023-09-08T19:30:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
       "An Evening with: Ween"
     ],
     "link": "https://www.ticketmaster.com/an-evening-with-ween-chicago-illinois-09-09-2023/event/04005E71D20B32B8",
     "date": "2023-09-09T17:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "Tash Sultana: North American Tour 2023"
+    ],
+    "link": "https://www.ticketmaster.com/tash-sultana-north-american-tour-2023-chicago-illinois-09-08-2023/event/04005E95CA7B2F21",
+    "date": "2023-09-08T19:30:00",
     "venue": "Salt Shed"
   },
   {
@@ -129,6 +129,14 @@
     ],
     "link": "https://www.ticketmaster.com/sold-out-rtjx-presents-rtj4-chicago-illinois-09-30-2023/event/04005E78A8FD1B1F",
     "date": "2023-09-30T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "LYRICAL LEMONADE 10 Year Anniversary"
+    ],
+    "link": "https://www.ticketmaster.com/lyrical-lemonade-10-year-anniversary-chicago-illinois-10-01-2023/event/04005F288C88150B",
+    "date": "2023-10-01T18:30:00",
     "venue": "Salt Shed"
   },
   {
