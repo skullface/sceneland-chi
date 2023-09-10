@@ -1,32 +1,6 @@
 [
   {
     "artist": [
-      "School of Rock Park Ridge's \"Back to School\" Show"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-09-2023-school-of-rock-park-ridge-back-to-school/",
-    "date": "2023-09-09T10:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "McKinley Dixon, Semiratruth, Orion Meadows"
-    ],
-    "link": "https://lh-st.com/shows/09-09-2023-mckinley-dixon/",
-    "date": "2023-09-09T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "of Montreal, Locate S,1"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-09-2023-of-montreal/",
-    "date": "2023-09-09T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Pub Choir"
     ],
     "link": "https://lh-st.com/shows/09-10-2023-pub-choir/",
@@ -37,6 +11,7 @@
     "artist": [
       "Karaoke Storytellers"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-10-2023-karaoke-storytellers/",
     "date": "2023-09-10T19:00:00",
     "venue": "Schubas"

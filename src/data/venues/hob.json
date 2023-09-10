@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Taylor Party: Taylor Swift Night: 21+"
-    ],
-    "link": "https://concerts.livenation.com/the-taylor-party-taylor-swift-night-chicago-illinois-09-08-2023/event/04005EDDC6142579",
-    "date": "2023-09-08T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "United We Dance"
     ],
     "link": "https://concerts.livenation.com/united-we-dance-chicago-illinois-09-09-2023/event/04005F12C7D12C8E",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/wild-nothing-chicago-illinois-11-20-2023/event/04005F0FBE9628DF",
     "date": "2023-11-20T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Deafheaven"
+    ],
+    "link": "https://concerts.livenation.com/deafheaven-chicago-illinois-11-26-2023/event/04005EF9B4641CC5",
+    "date": "2023-11-26T18:00:00",
     "venue": "House of Blues"
   }
 ]
