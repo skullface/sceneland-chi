@@ -1,16 +1,5 @@
 export const allShows = [
   {
-    artist: ['ZACK FEDOR', 'BLAKE BURKHART'],
-    date: '2023-09-11',
-    link: 'https://www.reggieslive.com/show/zacks-open-mic/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    date: '2023-09-11',
-    link: 'https://www.reggieslive.com/show/bingo-with-tyler-69/',
-    venue: 'Reggie\u2019s',
-  },
-  {
     artist: ['THAT MEXICAN OT', 'DRODI'],
     date: '2023-09-12',
     link: 'https://www.reggieslive.com/show/that-mexican-ot/',
@@ -2274,12 +2263,6 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
-    artist: ['Dead Lucid', 'Vinyl Palace', 'ChinaRose'],
-    link: 'https://www.ticketweb.com/event/free-monday-w-dead-lucid-empty-bottle-tickets/13481478',
-    date: '2023-09-11T21:00:00',
-    venue: 'Empty Bottle',
-  },
-  {
     artist: ['Empty Bottle Record and Book Fair', 'Secretly DJs'],
     link: 'https://www.ticketweb.com/event/empty-bottle-record-and-book-empty-bottle-tickets/13535888',
     date: '2023-09-13T19:00:00',
@@ -3230,13 +3213,6 @@ export const allShows = [
     venue: 'Chicago Theatre',
   },
   {
-    artist: ['Theater Oobleck Presents \u201cSyndrome\u201d'],
-    link: 'https://hideoutchicago.com/event/theater-oobleck-presents-syndrome/hideout-chicago/chicago/',
-    date: '2023-09-11T19:00:00',
-    sold_out: true,
-    venue: 'Hideout',
-  },
-  {
     artist: ['Weaklung with The Swabs and Sanctioner'],
     link: 'https://hideoutchicago.com/event/weaklung-with-the-swabs-and-sanctioner/hideout-chicago/chicago/',
     date: '2023-09-12T21:00:00',
@@ -4134,12 +4110,6 @@ export const allShows = [
     venue: 'Aragon Ballroom',
   },
   {
-    artist: ['The Chicago Moth StorySLAM'],
-    link: 'https://lh-st.com/shows/09-11-2023-the-chicago-moth-storyslam/',
-    date: '2023-09-11T19:00:00',
-    venue: 'Lincoln Hall',
-  },
-  {
     artist: ['Kamaal Williams with Isaiah Collier, Fess Grandiose'],
     link: 'https://lh-st.com/shows/09-12-2023-kamaal-williams/',
     date: '2023-09-12T20:00:00',
@@ -4773,6 +4743,12 @@ export const allShows = [
     venue: 'Lincoln Hall',
   },
   {
+    artist: ['julie, Blimp'],
+    link: 'https://lh-st.com/shows/11-06-2023-julie/',
+    date: '2023-11-06T20:00:00',
+    venue: 'Schubas',
+  },
+  {
     artist: ['An Evening With Mike Doughty and Ghost of Vroom'],
     link: 'https://lh-st.com/shows/11-07-2023-mike-doughty-ghost-of-vroom/',
     date: '2023-11-07T20:00:00',
@@ -5318,12 +5294,6 @@ export const allShows = [
     link: 'https://www.beatkitchen.com/event-details/12951195/emo-band-live-band-emo-pop-punk-karaoke',
     date: '2024-01-27T21:00:00',
     venue: 'Beat Kitchen',
-  },
-  {
-    artist: ['S.Rock'],
-    link: 'https://link.dice.fm/Jc89ec683e11',
-    date: '2023-09-11T19:00:00',
-    venue: 'Sleeping Village',
   },
   {
     artist: ['DBN: Adelaide (Album Release), Sydney Cramer, Rain Garden'],
@@ -6935,12 +6905,6 @@ export const allShows = [
     venue: 'Gman Tavern',
   },
   {
-    artist: ['Video Game Music DJ Night with Equip & Mukqs'],
-    link: 'https://colesbarchicago.com/event/video-game-music-dj-night-with-equip-mukqs-4/coles-bar/n-milwaukee-illinois/',
-    date: '2023-09-11T21:00:00',
-    venue: 'Cole\u2019s Bar',
-  },
-  {
     artist: ['Flowurz, PHNX, BET SPORTS'],
     link: 'https://colesbarchicago.com/event/flowurz-phnx-bet-sports/coles-bar/n-milwaukee-illinois/',
     date: '2023-09-12T22:00:00',
@@ -7388,18 +7352,6 @@ export const allShows = [
     link: 'https://metrochicago.com/event/poison-the-well-performing-the-album-you-come-before-you/metro-chicago/chicago-illinois/',
     date: '2024-01-12T19:30:00',
     venue: 'Metro',
-  },
-  {
-    artist: ['The Buttertones, New Misphoria'],
-    date: '2023-09-11T18:30:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/the-buttertones-new-misphoria/13597988',
-    venue: 'Subterranean',
-  },
-  {
-    artist: ['Destined'],
-    date: '2023-09-11T22:00:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/destined/13537438',
-    venue: 'Subterranean',
   },
   {
     artist: ['Liam Taylor, Josh Trimble, JANET BLACKWELL'],

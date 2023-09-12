@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Chicago Moth StorySLAM"
-    ],
-    "link": "https://lh-st.com/shows/09-11-2023-the-chicago-moth-storyslam/",
-    "date": "2023-09-11T19:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Kamaal Williams with Isaiah Collier, Fess Grandiose"
     ],
     "link": "https://lh-st.com/shows/09-12-2023-kamaal-williams/",
@@ -842,6 +834,14 @@
     "link": "https://lh-st.com/shows/11-05-2023-girl-god/",
     "date": "2023-11-05T19:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "julie, Blimp"
+    ],
+    "link": "https://lh-st.com/shows/11-06-2023-julie/",
+    "date": "2023-11-06T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
