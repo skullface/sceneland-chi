@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "An Evening With CAKE"
-    ],
-    "link": "https://www.ticketmaster.com/an-evening-with-cake-chicago-illinois-09-10-2023/event/04005E953632490F",
-    "date": "2023-09-10T17:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
       "KAYTRAMIN\u00c9 with Lou Phelps & Madison LST"
     ],
     "link": "https://www.ticketmaster.com/kaytramine-with-lou-phelps-madison-lst-chicago-illinois-09-12-2023/event/04005EEBCF451C96",
@@ -253,6 +245,14 @@
     ],
     "link": "https://www.ticketmaster.com/altj-10th-anniversary-of-an-awesome-chicago-illinois-11-19-2023/event/04005EF3EFF3478D",
     "date": "2023-11-19T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "Galantis"
+    ],
+    "link": "https://www.ticketmaster.com/galantis-chicago-illinois-11-22-2023/event/04005F28F3195728",
+    "date": "2023-11-22T19:00:00",
     "venue": "Salt Shed"
   },
   {

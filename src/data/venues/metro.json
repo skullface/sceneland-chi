@@ -163,7 +163,7 @@
   },
   {
     "artist": [
-      "Botch, FACS, Special Guest TBA"
+      "Botch, FACS, REZN"
     ],
     "link": "https://metrochicago.com/event/botch-2/metro-chicago/chicago-illinois/",
     "date": "2023-10-14T20:00:00",
@@ -259,7 +259,7 @@
   },
   {
     "artist": [
-      "All Building Hallo-Queen! feat., Derrick Carter, DJ Holographic, Mark Grusane, Justin Cudmore, Michael Serafini, Garrett David, Sorbet // Hosted by Lucy Stoole, Nico // Guest hosts Christi Davinci, Olaysia, Synthetic"
+      "All Building Hallo-Queen! feat., Derrick Carter, DJ Holographic, Mark Grusane, Justin Cudmore, Michael Serafini, Garrett David, Sorrbet // Hosted by Lucy Stoole, Nico // Guest hosts Christi Davinci, Olaysia, Synthetic"
     ],
     "link": "https://metrochicago.com/event/all-building-hallo-queen-feat/all-building-event/chicago-illinois/",
     "date": "2023-10-29T21:00:00",
@@ -352,6 +352,14 @@
     "link": "https://metrochicago.com/event/the-japanese-house/metro-chicago/chicago-illinois/",
     "date": "2023-12-03T20:00:00",
     "sold_out": true,
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "Ginger Root \u2013 Playing City Slicker & Nisemono Cover to Cover"
+    ],
+    "link": "https://metrochicago.com/event/ginger-root-playing-city-slicker-nisemono-cover-to-cover/metro-chicago/chicago-illinois/",
+    "date": "2023-12-10T20:00:00",
     "venue": "Metro"
   },
   {

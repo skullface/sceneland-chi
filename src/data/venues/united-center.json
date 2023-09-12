@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Eason Chan"
-    ],
-    "date": "2023-09-10T20:00:00",
-    "link": "https://www.unitedcenter.com/events/2023/09/10/eason-chan-fear-and-dreams-world-tour/",
-    "venue": "United Center"
-  },
-  {
-    "artist": [
-      "Aerosmith"
-    ],
-    "date": "2023-09-15T19:00:00",
-    "link": "https://www.unitedcenter.com/events/2023/09/15/aerosmith-peace-out-the-farewell-tour/",
-    "venue": "United Center"
-  },
-  {
-    "artist": [
       "50 Cent"
     ],
     "date": "2023-09-16T19:00:00",
@@ -169,6 +153,14 @@
   },
   {
     "artist": [
+      "Rod Wave"
+    ],
+    "date": "2023-11-22T20:00:00",
+    "link": "https://www.unitedcenter.com/events/2023/11/22/rod-wave-nostalgia-tour/",
+    "venue": "United Center"
+  },
+  {
+    "artist": [
       "Doja Cat"
     ],
     "date": "2023-12-13T19:30:00",
@@ -197,6 +189,14 @@
     ],
     "date": "2024-02-12T19:30:00",
     "link": "https://www.unitedcenter.com/events/2023/10/02/playboi-carti-the-antagonist-tour/",
+    "venue": "United Center"
+  },
+  {
+    "artist": [
+      "Aerosmith - RESCHEDULED"
+    ],
+    "date": "2024-02-14T19:00:00",
+    "link": "https://www.unitedcenter.com/events/2023/09/15/aerosmith-peace-out-the-farewell-tour/",
     "venue": "United Center"
   },
   {

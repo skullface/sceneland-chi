@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hamza Namira"
-    ],
-    "link": "https://www.ticketweb.com/event/hamza-namira-thalia-hall-tickets/13452658",
-    "date": "2023-09-10T18:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "By Chicago, For Chicago w/ Peter CottonTale: presented by Habitat Sartorial"
     ],
     "link": "https://www.ticketweb.com/event/by-chicago-for-chicago-w-thalia-hall-tickets/13514488",
@@ -36,7 +28,8 @@
     "artist": [
       "Osees, Cel Ray and CB Radio Gorgeous"
     ],
-    "link": "https://www.ticketweb.com/event/osees-with-cel-ray-and-thalia-hall-tickets/12863705",
+    "link": "https://www.ticketweb.com/event/sold-out-osees-with-cel-thalia-hall-tickets/12863705",
+    "sold_out": true,
     "date": "2023-09-15T19:30:00",
     "venue": "Thalia Hall"
   },
@@ -484,7 +477,8 @@
     "artist": [
       "No Party For Cao Dong Commit Tour 2023"
     ],
-    "link": "https://www.ticketweb.com/event/no-party-for-cao-dong-thalia-hall-tickets/13535138",
+    "link": "https://www.ticketweb.com/event/sold-out-no-party-for-thalia-hall-tickets/13535138",
+    "sold_out": true,
     "date": "2023-11-14T18:00:00",
     "venue": "Thalia Hall"
   },

@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Pub Choir"
-    ],
-    "link": "https://lh-st.com/shows/09-10-2023-pub-choir/",
-    "date": "2023-09-10T19:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Karaoke Storytellers"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-10-2023-karaoke-storytellers/",
-    "date": "2023-09-10T19:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "The Chicago Moth StorySLAM"
     ],
     "link": "https://lh-st.com/shows/09-11-2023-the-chicago-moth-storyslam/",
@@ -79,7 +62,7 @@
   },
   {
     "artist": [
-      "Pluko"
+      "Pluko, Pods"
     ],
     "link": "https://lh-st.com/shows/09-15-2023-pluko/",
     "date": "2023-09-15T21:00:00",
@@ -339,6 +322,7 @@
     "artist": [
       "Happy Landing, Illinois Joy"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-30-2023-happy-landing/",
     "date": "2023-09-30T20:00:00",
     "venue": "Schubas"
@@ -369,7 +353,7 @@
   },
   {
     "artist": [
-      "Cian Ducrot"
+      "Cian Ducrot, Corey Harper"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/10-02-2023-cian-ducrot/",
@@ -911,7 +895,7 @@
   },
   {
     "artist": [
-      "The Ladybug Transistor"
+      "The Ladybug Transistor, Twin Coast"
     ],
     "link": "https://lh-st.com/shows/11-12-2023-the-ladybug-transistor/",
     "date": "2023-11-12T19:00:00",

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "United We Dance"
-    ],
-    "link": "https://concerts.livenation.com/united-we-dance-chicago-illinois-09-09-2023/event/04005F12C7D12C8E",
-    "date": "2023-09-09T21:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Kany Garcia USA Tour 2023"
     ],
     "link": "https://concerts.livenation.com/kany-garcia-usa-tour-2023-chicago-illinois-09-13-2023/event/04005EA339C85143",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/deafheaven-chicago-illinois-11-26-2023/event/04005EF9B4641CC5",
     "date": "2023-11-26T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Miserable Faith"
+    ],
+    "link": "https://concerts.livenation.com/miserable-faith-chicago-illinois-11-29-2023/event/04005F21B9B92960",
+    "date": "2023-11-29T18:00:00",
     "venue": "House of Blues"
   }
 ]

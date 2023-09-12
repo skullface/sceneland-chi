@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Giggly Squad"
-    ],
-    "link": "https://www.jamusa.com/events/detail/giggly-squad-461525",
-    "date": "2023-09-10T19:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Josh Wolf"
     ],
     "link": "https://www.jamusa.com/events/detail/josh-wolf-491100",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/phoebe-robinson-478475",
     "date": "2023-11-18T19:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Giggly Squad"
+    ],
+    "link": "https://www.jamusa.com/events/detail/giggly-squad-461525",
+    "date": "2023-12-03T19:30:00",
     "venue": "The Vic Theatre"
   },
   {
