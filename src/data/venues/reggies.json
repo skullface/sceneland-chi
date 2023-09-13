@@ -1,20 +1,6 @@
 [
   {
     "artist": [
-      "THAT MEXICAN OT",
-      "DRODI"
-    ],
-    "date": "2023-09-12",
-    "link": "https://www.reggieslive.com/show/that-mexican-ot/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-12",
-    "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-76/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "THE ANGEL COLON BAND"
     ],
     "date": "2023-09-14",
@@ -414,6 +400,18 @@
   },
   {
     "artist": [
+      "ANIRIA TURNEY (Atlanta, GA)",
+      "CHRISTINA GUTIERREZ (Chicago, IL)",
+      "ELIANA LA CASA (Chicago, IL)",
+      "SOLI SANTOS (Chicago, IL)",
+      "JANICE RODRIGUEZ (Chicago, IL)"
+    ],
+    "date": "2023-10-06",
+    "link": "https://www.reggieslive.com/show/2nd-annual-latina-comedy-festival-the-loca-show/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "MURPHY\u2019S LAW + THE RUMJACKS + THE BAR STOOL PREACHERS (CO-HEADLINE)",
       "MURPHY\u2019S LAW",
       "THE RUMJACKS (from Australia)",
@@ -422,6 +420,22 @@
     ],
     "date": "2023-10-06",
     "link": "https://www.reggieslive.com/show/the-rumjacks/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "ANNA LUCERO (Chicago, IL)",
+      "ELIZABETH PILAR (NY, NY)",
+      "HILARY JIMENEZ (Chicago, IL)",
+      "IRMA RUIZ (San Antonio, TX)",
+      "JESS MARTINEZ (Chicago, IL)",
+      "CHONA E (San Antonio, TX)",
+      "MICHELLE CANTU (San Antonio, TX)",
+      "MYSIA CHABERT (Temple, TX)",
+      "MOLINA MOLINA (Seattle, WA)"
+    ],
+    "date": "2023-10-06",
+    "link": "https://www.reggieslive.com/show/2nd-annual-latina-comedy-festival-the-sucia-show/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -491,15 +505,6 @@
     "venue": "Reggie\u2019s"
   },
   {
-    "artist": [
-      "CATBAMBOO",
-      "SWEET MYTHS"
-    ],
-    "date": "2023-10-09",
-    "link": "https://www.reggieslive.com/show/catbamboo-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-10-10",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-97/",
     "venue": "Reggie\u2019s"
@@ -533,6 +538,16 @@
     ],
     "date": "2023-10-13",
     "link": "https://www.reggieslive.com/show/after-forever-highspeeddirt/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "DEAD FEATHERS",
+      "ASTRAL HAND",
+      "ILIJA AND THE SPOMENIKS"
+    ],
+    "date": "2023-10-13",
+    "link": "https://www.reggieslive.com/show/dead-feathers-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -581,8 +596,8 @@
     "artist": [
       "TEMPLE OF THE FUZZ WITCH",
       "ANCIENT DAYS",
-      "TWIN WIZARD",
-      "GRIM REEFER"
+      "GRIM REEFER",
+      "BLUNT"
     ],
     "date": "2023-10-16",
     "link": "https://www.reggieslive.com/show/temple-of-the-fuzz-witch/",
@@ -707,7 +722,8 @@
   },
   {
     "artist": [
-      "SOFT MACHINE"
+      "SOFT MACHINE",
+      "MARBIN"
     ],
     "date": "2023-10-24",
     "link": "https://www.reggieslive.com/show/soft-machine/",
@@ -850,6 +866,15 @@
     ],
     "date": "2023-11-02",
     "link": "https://www.reggieslive.com/show/tyla-yaweh/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "THE STEEPWATER BAND",
+      "THE MIDNIGHT CALLS"
+    ],
+    "date": "2023-11-03",
+    "link": "https://www.reggieslive.com/show/the-steepwater-band-3/",
     "venue": "Reggie\u2019s"
   },
   {

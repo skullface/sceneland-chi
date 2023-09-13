@@ -4,7 +4,7 @@
       "KINGDOM"
     ],
     "link": "https://www.jamusa.com/events/detail/kingdom-487675",
-    "date": "2023-09-13T19:00:00",
+    "date": "2023-09-13T20:00:00",
     "venue": "Park West"
   },
   {
@@ -377,10 +377,26 @@
   },
   {
     "artist": [
+      "Freddy Jones Band"
+    ],
+    "link": "https://www.jamusa.com/events/detail/freddy-jones-band-502355",
+    "date": "2023-12-30T19:30:00",
+    "venue": "Park West"
+  },
+  {
+    "artist": [
       "Couch, Alisa Amador"
     ],
     "link": "https://www.jamusa.com/events/detail/couch-493713",
     "date": "2024-01-26T20:00:00",
+    "venue": "Park West"
+  },
+  {
+    "artist": [
+      "Ryan Hamilton"
+    ],
+    "link": "https://www.jamusa.com/events/detail/ryan-hamilton-502066",
+    "date": "2024-02-24T19:00:00",
     "venue": "Park West"
   }
 ]

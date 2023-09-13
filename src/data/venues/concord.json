@@ -100,7 +100,8 @@
   },
   {
     "artist": [
-      "NoCap"
+      "NoCap",
+      "Lil Poppa, ITS HAB, LG Malique"
     ],
     "link": "https://concordmusichall.com/calendar/nocap/",
     "date": "2023-10-12T18:30:00",
@@ -204,6 +205,15 @@
   },
   {
     "artist": [
+      "Shallou",
+      "Origami Human"
+    ],
+    "link": "https://concordmusichall.com/calendar/shallou/",
+    "date": "2023-11-24T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
       "Citizen",
       "Narrow Head, Modern Color"
     ],
@@ -236,6 +246,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/j-worra/",
     "date": "2023-12-08T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "From Ashes To New",
+      "w/ The Word Alive, Catch Your Breath, and Ekoh"
+    ],
+    "link": "https://concordmusichall.com/calendar/from-ashes-to-new/",
+    "date": "2023-12-13T17:30:00",
     "venue": "Concord Music Hall"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KAYTRAMIN\u00c9 with Lou Phelps & Madison LST"
-    ],
-    "link": "https://www.ticketmaster.com/kaytramine-with-lou-phelps-madison-lst-chicago-illinois-09-12-2023/event/04005EEBCF451C96",
-    "date": "2023-09-12T17:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
       "Guster and Neko Case"
     ],
     "link": "https://www.ticketmaster.com/guster-and-neko-case-chicago-illinois-09-16-2023/event/04005EB695A01000",
@@ -293,6 +285,14 @@
     ],
     "link": "https://www.ticketmaster.com/mt-joy-chicago-illinois-12-31-2023/event/04005F0792411193",
     "date": "2023-12-31T20:30:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "Cold War Kids: 20 Years Tour"
+    ],
+    "link": "https://www.ticketmaster.com/cold-war-kids-20-years-tour-chicago-illinois-02-23-2024/event/04005F2BA3001327",
+    "date": "2024-02-23T19:00:00",
     "venue": "Salt Shed"
   }
 ]

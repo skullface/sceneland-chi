@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Kamaal Williams with Isaiah Collier, Fess Grandiose"
-    ],
-    "link": "https://lh-st.com/shows/09-12-2023-kamaal-williams/",
-    "date": "2023-09-12T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "BLK ODYSSY, Eimaral Sol"
-    ],
-    "link": "https://lh-st.com/shows/09-12-2023-blk-odyssy/",
-    "date": "2023-09-12T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Kula Shaker, Space Gators"
     ],
     "link": "https://lh-st.com/shows/09-13-2023-kula-shaker/",
@@ -127,6 +111,16 @@
     "link": "https://lh-st.com/shows/09-19-2023-timecop1983/",
     "date": "2023-09-19T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Schlupp",
+      "Madame Reaper & The Gentleman's Club",
+      "Baby Money & the Down Payments"
+    ],
+    "link": "https://lh-st.com/shows/09-19-2023-100-off-bands/",
+    "date": "2023-09-19T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -670,6 +664,14 @@
   },
   {
     "artist": [
+      "The Chicago Moth StorySLAM"
+    ],
+    "link": "https://lh-st.com/shows/10-24-2023-the-chicago-moth-storyslam/",
+    "date": "2023-10-24T19:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Mo Welch"
     ],
     "link": "https://lh-st.com/shows/10-24-2023-mo-welch/",
@@ -829,7 +831,7 @@
   },
   {
     "artist": [
-      "Girl God"
+      "Girl God, Patrick Doran"
     ],
     "link": "https://lh-st.com/shows/11-05-2023-girl-god/",
     "date": "2023-11-05T19:00:00",
@@ -1042,6 +1044,14 @@
   },
   {
     "artist": [
+      "Lily & Madeiline, Brian Dunne"
+    ],
+    "link": "https://lh-st.com/shows/11-27-2023-lily-madeleine/",
+    "date": "2023-11-27T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Ama Lou"
     ],
     "link": "https://lh-st.com/shows/11-30-2023-ama-lou/",
@@ -1115,6 +1125,14 @@
   },
   {
     "artist": [
+      "Lisa Leblanc"
+    ],
+    "link": "https://lh-st.com/shows/12-13-2023-lisa-leblanc/",
+    "date": "2023-12-13T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Yvie Oddly"
     ],
     "link": "https://lh-st.com/shows/12-14-2023-yvie-oddly-presents-strange-love-tour-2023/",
@@ -1152,6 +1170,22 @@
     "sold_out": true,
     "link": "https://lh-st.com/shows/02-24-2024-the-prize-fighter-inferno/",
     "date": "2024-02-24T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Luna"
+    ],
+    "link": "https://lh-st.com/shows/03-15-2024-luna/",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Luna"
+    ],
+    "link": "https://lh-st.com/shows/03-16-2024-luna/",
+    "date": "2024-03-16T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

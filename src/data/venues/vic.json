@@ -345,6 +345,14 @@
   },
   {
     "artist": [
+      "Chicks in the Office"
+    ],
+    "link": "https://www.jamusa.com/events/detail/chicks-in-the-office-501639",
+    "date": "2023-11-10T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "Kasabian"
     ],
     "link": "https://www.jamusa.com/events/detail/kasabian-490551",
@@ -393,10 +401,34 @@
   },
   {
     "artist": [
+      "Sal Vulcano"
+    ],
+    "link": "https://www.jamusa.com/events/detail/sal-vulcano-501469",
+    "date": "2023-12-02T17:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Sal Vulcano"
+    ],
+    "link": "https://www.jamusa.com/events/detail/sal-vulcano-501523",
+    "date": "2023-12-02T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "Giggly Squad"
     ],
     "link": "https://www.jamusa.com/events/detail/giggly-squad-461525",
     "date": "2023-12-03T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Los Lobos 50th Anniversary, Them Coulee Boys"
+    ],
+    "link": "https://www.jamusa.com/events/detail/los-lobos-501942",
+    "date": "2023-12-08T19:30:00",
     "venue": "The Vic Theatre"
   },
   {

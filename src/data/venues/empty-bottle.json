@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Public Memory",
-      "COOL HEAT",
-      "Vivid Vessel"
-    ],
-    "link": "https://www.ticketweb.com/event/public-memory-cool-heat-empty-bottle-tickets/13310588",
-    "date": "2023-09-12T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Empty Bottle Record and Book Fair",
       "Secretly DJs"
     ],
@@ -41,10 +31,11 @@
   },
   {
     "artist": [
-      "Alabaster DePlume"
+      "Alabaster DePlume",
+      "M'Reld Green with Junius Paul"
     ],
-    "link": "https://www.ticketweb.com/event/alabaster-deplume-co-prosperity-co-prosperity-sphere-tickets/13246378",
-    "date": "2023-09-15T21:00:00",
+    "link": "https://www.ticketweb.com/event/alabaster-deplume-mreld-green-co-prosperity-sphere-tickets/13246378",
+    "date": "2023-09-15T21:30:00",
     "venue": "Co-Prosperity Sphere"
   },
   {
@@ -58,9 +49,10 @@
   },
   {
     "artist": [
-      "Alabaster DePlume"
+      "Alabaster DePlume",
+      "Special Guest"
     ],
-    "link": "https://www.ticketweb.com/event/alabaster-deplume-co-prosperity-co-prosperity-sphere-tickets/13246388",
+    "link": "https://www.ticketweb.com/event/alabaster-deplume-special-guest-co-prosperity-sphere-tickets/13246388",
     "date": "2023-09-16T21:00:00",
     "venue": "Co-Prosperity Sphere"
   },
@@ -370,12 +362,31 @@
   },
   {
     "artist": [
+      "Free Range",
+      "Sima Cunningham",
+      "Hazel City"
+    ],
+    "link": "https://www.ticketweb.com/event/free-range-sima-cunningham-empty-bottle-tickets/13592438",
+    "date": "2023-10-19T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Pixel Grip",
       "Body Shop",
       "Cae Mon\u0101e"
     ],
     "link": "https://www.ticketweb.com/event/pixel-grip-body-shop-empty-bottle-tickets/13478908",
     "date": "2023-10-20T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "The Last Soul Summit Party",
+      "Soul Summit DJs"
+    ],
+    "link": "https://www.ticketweb.com/event/the-last-soul-summit-party-empty-bottle-tickets/13621788",
+    "date": "2023-10-21T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -403,6 +414,14 @@
     ],
     "link": "https://www.ticketweb.com/event/a-savage-annie-hart-empty-bottle-tickets/13399948",
     "date": "2023-10-27T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Powerplant"
+    ],
+    "link": "https://www.ticketweb.com/event/powerplant-empty-bottle-tickets/13617018",
+    "date": "2023-10-30T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -536,6 +555,15 @@
     ],
     "link": "https://www.ticketweb.com/event/sapphic-factory-queer-joy-party-empty-bottle-tickets/13468168",
     "date": "2024-01-06T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Horse Lords",
+      "Ka Baird"
+    ],
+    "link": "https://www.ticketweb.com/event/horse-lords-ka-baird-empty-bottle-tickets/13593628",
+    "date": "2024-03-13T21:00:00",
     "venue": "Empty Bottle"
   },
   {

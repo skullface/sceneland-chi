@@ -1,26 +1,10 @@
 [
   {
     "artist": [
-      "Weaklung with The Swabs and Sanctioner"
-    ],
-    "link": "https://hideoutchicago.com/event/weaklung-with-the-swabs-and-sanctioner/hideout-chicago/chicago/",
-    "date": "2023-09-12T21:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Axios Chicago Office Hours"
     ],
     "link": "https://hideoutchicago.com/event/axios-chicago-office-hours-2/hideout-chicago/chicago/",
     "date": "2023-09-13T18:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
-      "De Lux with Family of Geniuses"
-    ],
-    "link": "https://hideoutchicago.com/event/de-lux-with-family-of-geniuses/hideout-chicago/chicago/",
-    "date": "2023-09-13T20:30:00",
     "venue": "Hideout"
   },
   {
@@ -125,6 +109,14 @@
     ],
     "link": "https://hideoutchicago.com/event/reaction-formation/hideout-chicago/chicago/",
     "date": "2023-09-24T15:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Starbucks Workers United Solidarity Hour Fundraiser"
+    ],
+    "link": "https://hideoutchicago.com/event/starbucks-workers-united-solidarity-hour-fundraiser/hideout-chicago/chicago/",
+    "date": "2023-09-24T19:30:00",
     "venue": "Hideout"
   },
   {
@@ -414,6 +406,14 @@
   },
   {
     "artist": [
+      "Edens with Milkswarm and COY"
+    ],
+    "link": "https://hideoutchicago.com/event/edens-with-milkswarm-and-coy/hideout-chicago/chicago/",
+    "date": "2023-11-02T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
       "Molly Martin"
     ],
     "link": "https://hideoutchicago.com/event/molly-martin-with-special-guests/hideout-chicago/chicago/",
@@ -450,6 +450,14 @@
     ],
     "link": "https://hideoutchicago.com/event/the-spectral-distortions-with-vortis-and-yellow-pills/hideout-chicago/chicago/",
     "date": "2023-11-15T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Renaldo Domino and the Heavy Sounds with Gina Bloom"
+    ],
+    "link": "https://hideoutchicago.com/event/renaldo-domino-and-the-heavy-sounds-with-gina-bloom/hideout-chicago/chicago/",
+    "date": "2023-11-18T20:30:00",
     "venue": "Hideout"
   },
   {
