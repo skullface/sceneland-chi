@@ -348,6 +348,14 @@
   },
   {
     "artist": [
+      "Imminence"
+    ],
+    "link": "https://metrochicago.com/event/imminence/metro-chicago/chicago-illinois/",
+    "date": "2023-11-28T20:00:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
       "The Japanese House, quinnie, Ally Evenson"
     ],
     "link": "https://metrochicago.com/event/the-japanese-house/metro-chicago/chicago-illinois/",
@@ -377,6 +385,7 @@
     ],
     "link": "https://metrochicago.com/event/poison-the-well-performing-the-album-you-come-before-you/metro-chicago/chicago-illinois/",
     "date": "2024-01-12T19:30:00",
+    "sold_out": true,
     "venue": "Metro"
   }
 ]

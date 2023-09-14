@@ -1,10 +1,10 @@
 [
   {
     "artist": [
-      "John Carroll Kirby, BSA Gold"
+      "CHIRP DJ Comus Rivera"
     ],
-    "link": "https://link.dice.fm/d08ac7e8a1a2",
-    "date": "2023-09-13T20:30:00",
+    "link": "https://link.dice.fm/R5f84a752502",
+    "date": "2023-09-14T19:00:00",
     "venue": "Sleeping Village"
   },
   {
@@ -81,6 +81,14 @@
   },
   {
     "artist": [
+      "Shokoufeh"
+    ],
+    "link": "https://link.dice.fm/O3602384d854",
+    "date": "2023-09-24T18:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
       "Paulie Gee's Pop-Up"
     ],
     "link": "https://link.dice.fm/af212d2614f3",
@@ -111,6 +119,14 @@
     "link": "https://link.dice.fm/q780365e5e15",
     "sold_out": true,
     "date": "2023-09-26T20:00:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "KIDNAPPED! Presents: HaHaHappy Hour"
+    ],
+    "link": "https://link.dice.fm/Ta31d75a6e79",
+    "date": "2023-09-27T19:00:00",
     "venue": "Sleeping Village"
   },
   {
@@ -411,6 +427,14 @@
   },
   {
     "artist": [
+      "DBN: Billy Joel Jr., Western Bisexual, All Weather Sports"
+    ],
+    "link": "https://link.dice.fm/Ofdb42b754cf",
+    "date": "2023-11-14T20:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
       "Album Release: Nathan Graham, Phillip Michael Scales, The Nettes"
     ],
     "link": "https://link.dice.fm/C72d8eca23fb",
@@ -455,6 +479,14 @@
     ],
     "link": "https://link.dice.fm/Pb229d2d139d",
     "date": "2024-01-10T21:00:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "Please!"
+    ],
+    "link": "https://link.dice.fm/c149381e04f6",
+    "date": "2024-01-13T19:30:00",
     "venue": "Sleeping Village"
   }
 ]

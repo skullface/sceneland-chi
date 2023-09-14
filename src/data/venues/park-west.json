@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KINGDOM"
-    ],
-    "link": "https://www.jamusa.com/events/detail/kingdom-487675",
-    "date": "2023-09-13T20:00:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
       "I've Had It"
     ],
     "link": "https://www.jamusa.com/events/detail/i-ve-had-it-496451",
@@ -69,14 +61,6 @@
     ],
     "link": "https://www.jamusa.com/events/detail/laugh-your-face-off-496991",
     "date": "2023-09-23T19:00:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Max Barskih"
-    ],
-    "link": "https://www.jamusa.com/events/detail/max-barskih-492596",
-    "date": "2023-09-24T20:00:00",
     "venue": "Park West"
   },
   {
@@ -389,6 +373,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/couch-493713",
     "date": "2024-01-26T20:00:00",
+    "venue": "Park West"
+  },
+  {
+    "artist": [
+      "Max Barskih"
+    ],
+    "link": "https://www.jamusa.com/events/detail/max-barskih-492596",
+    "date": "2024-02-23T20:00:00",
     "venue": "Park West"
   },
   {

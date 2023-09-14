@@ -9,14 +9,6 @@
   },
   {
     "artist": [
-      "GREGG HILL"
-    ],
-    "date": "2023-09-14",
-    "link": "https://www.reggieslive.com/show/gregg-hill-record-release-party/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "TALLAH",
       "CONVICTIONS",
       "WE WEREN\u2019T INVITED",
@@ -24,6 +16,14 @@
     ],
     "date": "2023-09-14",
     "link": "https://www.reggieslive.com/show/tallah/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "GREGG HILL"
+    ],
+    "date": "2023-09-14",
+    "link": "https://www.reggieslive.com/show/gregg-hill-record-release-party/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -45,16 +45,20 @@
   },
   {
     "artist": [
-      "THE DANNIE DIESEL DOPE SHOW",
-      "TBA"
+      "THE DANNIE DIESEL DOPE SHOW"
     ],
     "date": "2023-09-15",
     "link": "https://www.reggieslive.com/show/the-dannie-diesel-dope-show/",
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "CHEER-ACCIDENT",
+      "THE MERCURY TREE",
+      "IMELDA MARCOS"
+    ],
     "date": "2023-09-16",
-    "link": "https://www.reggieslive.com/show/open-mic-comedy-89/",
+    "link": "https://www.reggieslive.com/show/cheer-accident-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -67,13 +71,8 @@
     "venue": "Reggie\u2019s"
   },
   {
-    "artist": [
-      "CHEER-ACCIDENT",
-      "THE MERCURY TREE",
-      "IMELDA MARCOS"
-    ],
     "date": "2023-09-16",
-    "link": "https://www.reggieslive.com/show/cheer-accident-2/",
+    "link": "https://www.reggieslive.com/show/open-mic-comedy-89/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -166,14 +165,6 @@
     ],
     "date": "2023-09-22",
     "link": "https://www.reggieslive.com/show/solicitor/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "THE SHAKES ALMIGHTY"
-    ],
-    "date": "2023-09-23",
-    "link": "https://www.reggieslive.com/show/the-shakes-almighty-3/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -922,7 +913,7 @@
       "GOATWHORE",
       "WITHERED",
       "SPITER",
-      "TBA"
+      "SELENOPLEXIA"
     ],
     "date": "2023-11-05",
     "link": "https://www.reggieslive.com/show/goatwhore-4/",
@@ -1121,6 +1112,15 @@
   },
   {
     "artist": [
+      "VANISHING KIDS",
+      "TBA"
+    ],
+    "date": "2023-11-19",
+    "link": "https://www.reggieslive.com/show/vanishing-kids/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "ZACK FEDOR",
       "BLAKE BURKHART"
     ],
@@ -1150,6 +1150,15 @@
   },
   {
     "artist": [
+      "KOFFIN KATS",
+      "TBA"
+    ],
+    "date": "2023-11-24",
+    "link": "https://www.reggieslive.com/show/koffin-kats-8/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "BRUJERIA",
       "PI\u00d1ATA PROTEST",
       "NO/M\u00c1S",
@@ -1162,6 +1171,24 @@
   {
     "date": "2023-11-25",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-99/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "SUGARMAN ALLSTARS",
+      "TBA"
+    ],
+    "date": "2023-11-26",
+    "link": "https://www.reggieslive.com/show/sugarman-allstars-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "WINTERLAND (Dead tribute)",
+      "UGLY RADIO REBELLION (Zappa Tribute)"
+    ],
+    "date": "2023-11-26",
+    "link": "https://www.reggieslive.com/show/grateful-frank/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1321,6 +1348,14 @@
     ],
     "date": "2023-12-31",
     "link": "https://www.reggieslive.com/show/dave-schmidt-and-the-snouts/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "THE SHAKES ALMIGHTY"
+    ],
+    "date": "2024-02-10",
+    "link": "https://www.reggieslive.com/show/the-shakes-almighty-3/",
     "venue": "Reggie\u2019s"
   },
   {

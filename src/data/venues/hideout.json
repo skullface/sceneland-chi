@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Axios Chicago Office Hours"
-    ],
-    "link": "https://hideoutchicago.com/event/axios-chicago-office-hours-2/hideout-chicago/chicago/",
-    "date": "2023-09-13T18:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Viv & Riley with Anna Jordan"
     ],
     "link": "https://hideoutchicago.com/event/viv-riley-with-anna-jordan/hideout-chicago/chicago/",
@@ -137,9 +129,9 @@
   },
   {
     "artist": [
-      "Carlos Truly (of Ava Luna) Solo"
+      "Carlos Truly (of Ava Luna) Solo with Javier Reyes and Head"
     ],
-    "link": "https://hideoutchicago.com/event/carlos-truly-of-ava-luna-solo-with-special-guests/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/carlos-truly-of-ava-luna-solo-with-javier-reyes-and-head/hideout-chicago/chicago/",
     "date": "2023-09-28T20:30:00",
     "venue": "Hideout"
   },
@@ -153,9 +145,9 @@
   },
   {
     "artist": [
-      "Pearl and The Oysters with Estereomance and Corn on My Dinner Plate"
+      "Pearl and The Oysters with Corn on My Dinner Plate"
     ],
-    "link": "https://hideoutchicago.com/event/pearl-and-the-oysters-with-estereomance-and-corn-on-my-dinner-plate/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/pearl-and-the-oysters-with-corn-on-my-dinner-plate/hideout-chicago/chicago/",
     "date": "2023-09-29T21:30:00",
     "venue": "Hideout"
   },
@@ -277,6 +269,14 @@
     ],
     "link": "https://hideoutchicago.com/event/astral-autumn-daze-two-night-pass/hideout-chicago/chicago/",
     "date": "2023-10-13T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Country and Midwestern Part 2: Who Was Win Stracke? Feat. Rachel Drew, Mark Dvorak, Michael Miles, Gerald Dowd and Steve Dawson"
+    ],
+    "link": "https://hideoutchicago.com/event/country-and-midwestern-part-2-who-was-win-stracke-feat-rachel-drew-mark-dvorak-michael-miles-gerald-dowd-and-steve-dawson/hideout-chicago/chicago/",
+    "date": "2023-10-14T15:00:00",
     "venue": "Hideout"
   },
   {

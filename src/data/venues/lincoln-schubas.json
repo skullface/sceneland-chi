@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Kula Shaker, Space Gators"
-    ],
-    "link": "https://lh-st.com/shows/09-13-2023-kula-shaker/",
-    "date": "2023-09-13T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "The Bones of J.R. Jones, Benjamin Dakota Rogers"
-    ],
-    "link": "https://lh-st.com/shows/09-13-2023-the-bones-of-j-r-jones/",
-    "date": "2023-09-13T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Youth Lagoon, Urika's Bedroom"
     ],
     "link": "https://lh-st.com/shows/09-14-2023-youth-lagoon/",
@@ -507,7 +491,7 @@
   },
   {
     "artist": [
-      "Blanco White"
+      "Blanco White, Edwin Raphael"
     ],
     "link": "https://lh-st.com/shows/10-13-2023-blanco-white/",
     "date": "2023-10-13T21:00:00",
@@ -855,6 +839,14 @@
   },
   {
     "artist": [
+      "Haviah Mighty"
+    ],
+    "link": "https://lh-st.com/shows/11-07-2023-haviah-mighty/",
+    "date": "2023-11-07T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "EMEI"
     ],
     "sold_out": true,
@@ -1171,6 +1163,14 @@
     "link": "https://lh-st.com/shows/02-24-2024-the-prize-fighter-inferno/",
     "date": "2024-02-24T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Shay Lia"
+    ],
+    "link": "https://lh-st.com/shows/02-28-2024-shay-lia/",
+    "date": "2024-02-28T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [

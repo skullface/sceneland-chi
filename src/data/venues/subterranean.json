@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Liam Taylor, Josh Trimble, JANET BLACKWELL"
-    ],
-    "date": "2023-09-13T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/liam-taylor-josh-trimble-janet-blackwell/13494638",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "John Mark McMillan, TAYLOR LEONHARDT"
     ],
     "date": "2023-09-14T20:00:00",
@@ -333,10 +325,10 @@
   },
   {
     "artist": [
-      "Spy, Buggin, Toner , Mask"
+      "Spy, Buggin, Toner , Mask, Prowl"
     ],
     "date": "2023-10-13T19:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/spy-buggin-toner-mask/13517978",
+    "link": "https://www.subt.net/event/tw-eventinfo/spy-buggin-toner-mask-prowl/13517978",
     "venue": "Subterranean"
   },
   {
@@ -437,10 +429,10 @@
   },
   {
     "artist": [
-      "Rozwell Kid"
+      "Rozwell Kid, Pretty Pleased"
     ],
     "date": "2023-10-24T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/rozwell-kid/13577988",
+    "link": "https://www.subt.net/event/tw-eventinfo/rozwell-kid-pretty-pleased/13577988",
     "venue": "Subterranean"
   },
   {
@@ -509,6 +501,14 @@
   },
   {
     "artist": [
+      "DREAMWELL, Bleached Cross, THOTCRIME, IWAN"
+    ],
+    "date": "2023-11-05T19:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/dreamwell-bleached-cross-thotcrime-iwan/13622258",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "Pain of Truth, Conservative Military Image, LIFE'S QUESTION, Vomit Forth, BREAK THE CYCLE"
     ],
     "date": "2023-11-08T19:00:00",
@@ -545,6 +545,14 @@
     ],
     "date": "2023-11-15T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/beauty-school-dropout-not-a-toy-ava-maybee/13526948",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "XIUHTEZCATL & MATO WAYUHI - 2 THE MOON & BACK TOUR"
+    ],
+    "date": "2023-11-16T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/xiuhtezcatl-mato-wayuhi-2-the-moon-back-tour/13613868",
     "venue": "Subterranean"
   },
   {
@@ -609,6 +617,14 @@
     ],
     "date": "2024-01-29T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/joey-valence-brae/13602778",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "DYLAN."
+    ],
+    "date": "2024-04-10T19:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/dylan/13479308",
     "venue": "Subterranean"
   }
 ]

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Black Country, New Road, Daneshevskaya"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-black-country-new-thalia-hall-tickets/13162698",
-    "sold_out": true,
-    "date": "2023-09-13T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Joy Oladokun: Living Proof Tour, Becca Mancari"
     ],
     "link": "https://www.ticketweb.com/event/joy-oladokun-living-proof-tour-thalia-hall-tickets/13427388",
@@ -108,9 +99,9 @@
   },
   {
     "artist": [
-      "Common Kings: Road to Maui Tour,, Jakobs Castle"
+      "Common Kings & Julian Marley: Road to Maui Tour,, Jakobs Castle"
     ],
-    "link": "https://www.ticketweb.com/event/common-kings-road-to-maui-thalia-hall-tickets/13336708",
+    "link": "https://www.ticketweb.com/event/common-kings-julian-marley-thalia-hall-tickets/13336708",
     "date": "2023-09-27T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -572,6 +563,14 @@
   },
   {
     "artist": [
+      "Romy"
+    ],
+    "link": "https://www.ticketweb.com/event/romy-thalia-hall-tickets/13592708",
+    "date": "2023-12-04T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Probably a Live Show, Shannon Ford"
     ],
     "link": "https://www.ticketweb.com/event/probably-a-live-show-with-thalia-hall-tickets/13449838",
@@ -585,6 +584,14 @@
     "link": "https://www.ticketweb.com/event/sold-out-dogstar-thalia-hall-tickets/13421008",
     "sold_out": true,
     "date": "2023-12-07T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Vegyn, Louke Man"
+    ],
+    "link": "https://www.ticketweb.com/event/vegyn-with-louke-man-thalia-hall-tickets/13608988",
+    "date": "2023-12-08T19:00:00",
     "venue": "Thalia Hall"
   },
   {

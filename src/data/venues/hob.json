@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kany Garcia USA Tour 2023"
-    ],
-    "link": "https://concerts.livenation.com/kany-garcia-usa-tour-2023-chicago-illinois-09-13-2023/event/04005EA339C85143",
-    "date": "2023-09-13T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Riot Fest Presents Emo Night Brooklyn Feat. Shane Told of Silverstein"
     ],
     "link": "https://concerts.livenation.com/riot-fest-presents-emo-night-brooklyn-chicago-illinois-09-15-2023/event/04005F06D01E2F2F",
@@ -305,6 +297,14 @@
   },
   {
     "artist": [
+      "Lil Skies"
+    ],
+    "link": "https://concerts.livenation.com/lil-skies-chicago-illinois-11-09-2023/event/04005F2B3476089F",
+    "date": "2023-11-09T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Dragonforce"
     ],
     "link": "https://concerts.livenation.com/dragonforce-chicago-illinois-11-10-2023/event/04005EFAF2F14E85",
@@ -361,14 +361,6 @@
   },
   {
     "artist": [
-      "Daniel Seavey"
-    ],
-    "link": "https://concerts.livenation.com/daniel-seavey-chicago-illinois-11-19-2023/event/04005F0FFEA94391",
-    "date": "2023-11-19T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Wild Nothing"
     ],
     "link": "https://concerts.livenation.com/wild-nothing-chicago-illinois-11-20-2023/event/04005F0FBE9628DF",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/deafheaven-chicago-illinois-11-26-2023/event/04005EF9B4641CC5",
     "date": "2023-11-26T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Miserable Faith"
+    ],
+    "link": "https://concerts.livenation.com/miserable-faith-chicago-illinois-11-29-2023/event/04005F21B9B92960",
+    "date": "2023-11-29T18:00:00",
     "venue": "House of Blues"
   }
 ]
