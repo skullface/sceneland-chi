@@ -27,12 +27,30 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
             className='mt-3 flex flex-1 items-end text-zinc-800 dark:text-zinc-300'
             dateTime={new Date(show.date).toISOString()}
           >
-            {new Date(show.date).toLocaleDateString('en-US', {
-              weekday: 'long',
-              year: 'numeric',
-              month: 'long',
-              day: 'numeric',
-            })}
+            <span>
+              <span className='text-zinc-800 dark:text-zinc-300'>
+                {new Date(show.date).toLocaleDateString('en-US', {
+                  timeZone: 'America/Chicago',
+                  weekday: 'short',
+                })}
+              </span>
+              ,{' '}
+              <span className='text-zinc-800 dark:text-zinc-300'>
+                {new Date(show.date).toLocaleDateString('en-US', {
+                  timeZone: 'America/Chicago',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </span>
+            </span>
+            <span className='font-mono text-sm'>
+              {new Date(show.date).toLocaleTimeString('en-US', {
+                timeZone: 'America/Chicago',
+                hour: 'numeric',
+                minute: '2-digit',
+                hour12: true,
+              })}
+            </span>
           </time>
         </a>
       </li>
