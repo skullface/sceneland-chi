@@ -70,7 +70,12 @@ for show in shows:
   if sold_out:
     all_shows_data['sold_out'] = True
 
-  venue = show.find('a', class_='venueLink').text.strip().replace('All-Building Event', 'Metro')
+  if show.find('a', class_='venueLink'):
+    venue = show.find('a', class_='venueLink').text.strip()
+    venue = venue.replace('All-Building Event', 'Metro')
+  else:
+    venue = 'Metro'
+
   if venue == 'Metro':
     all_shows_data['venue'] = 'Metro'
     all_shows_list.append(all_shows_data)
