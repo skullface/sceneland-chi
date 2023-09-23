@@ -1,47 +1,6 @@
 [
   {
     "artist": [
-      "Guster and Neko Case"
-    ],
-    "link": "https://www.ticketmaster.com/guster-and-neko-case-chicago-illinois-09-16-2023/event/04005EB695A01000",
-    "date": "2023-09-16T17:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
-      "Drive-By Truckers with special guests The Jayhawks & American Aquarium"
-    ],
-    "link": "https://www.ticketmaster.com/driveby-truckers-with-special-guests-the-chicago-illinois-09-17-2023/event/04005E9C21A8776A",
-    "date": "2023-09-17T16:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
-      "Jeff Rosenstock"
-    ],
-    "link": "https://www.ticketmaster.com/jeff-rosenstock-chicago-illinois-09-19-2023/event/04005EB2C2702B03",
-    "date": "2023-09-19T19:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "sold_out": true,
-    "artist": [
-      "Bad Omens: CONCRETE FOREVER"
-    ],
-    "link": "https://www.ticketmaster.com/sold-out-bad-omens-concrete-forever-chicago-illinois-09-21-2023/event/04005E7E2AC34E31",
-    "date": "2023-09-21T18:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
-      "Bishop Briggs & MisterWives: The Don't Look Down Tour"
-    ],
-    "link": "https://www.ticketmaster.com/bishop-briggs-misterwives-the-dont-look-chicago-illinois-09-22-2023/event/04005EA1014A3651",
-    "date": "2023-09-22T18:30:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
       "The Postal Service & Death Cab For Cutie: Give Up & Transatlanticism"
     ],
     "link": "https://www.ticketmaster.com/the-postal-service-death-cab-for-chicago-illinois-09-23-2023/event/04005EF8DB7C28AB",
@@ -73,29 +32,26 @@
     "venue": "Salt Shed"
   },
   {
-    "sold_out": true,
     "artist": [
       "RTJX Presents: Run The Jewels 2"
     ],
-    "link": "https://www.ticketmaster.com/sold-out-rtjx-presents-run-the-chicago-illinois-09-28-2023/event/04005E78A80F1B0F",
+    "link": "https://www.ticketmaster.com/rtjx-presents-run-the-jewels-2-chicago-illinois-09-28-2023/event/04005E78A80F1B0F",
     "date": "2023-09-28T19:00:00",
     "venue": "Salt Shed"
   },
   {
-    "sold_out": true,
     "artist": [
       "RTJX Presents: Run The Jewels 3"
     ],
-    "link": "https://www.ticketmaster.com/sold-out-rtjx-presents-run-the-chicago-illinois-09-29-2023/event/04005E78A8D31B1D",
+    "link": "https://www.ticketmaster.com/rtjx-presents-run-the-jewels-3-chicago-illinois-09-29-2023/event/04005E78A8D31B1D",
     "date": "2023-09-29T19:00:00",
     "venue": "Salt Shed"
   },
   {
-    "sold_out": true,
     "artist": [
       "RTJX Presents: RTJ4"
     ],
-    "link": "https://www.ticketmaster.com/sold-out-rtjx-presents-rtj4-chicago-illinois-09-30-2023/event/04005E78A8FD1B1F",
+    "link": "https://www.ticketmaster.com/rtjx-presents-rtj4-chicago-illinois-09-30-2023/event/04005E78A8FD1B1F",
     "date": "2023-09-30T19:00:00",
     "venue": "Salt Shed"
   },
@@ -289,25 +245,44 @@
   },
   {
     "artist": [
+      "Patti Smith and Her Band"
+    ],
+    "link": "https://www.ticketmaster.com/patti-smith-and-her-band-chicago-illinois-12-27-2023/event/04005F310082356F",
+    "date": "2023-12-27T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "93XRT Holiday Jam with Mt. Joy"
+    ],
+    "link": "https://www.ticketmaster.com/93xrt-holiday-jam-with-mt-joy-chicago-illinois-12-28-2023/event/04005F2F9F3A22D8",
+    "date": "2023-12-28T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "sold_out": true,
+    "artist": [
       "Mt. Joy"
     ],
-    "link": "https://www.ticketmaster.com/mt-joy-chicago-illinois-12-29-2023/event/04005F07910E1177",
+    "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-29-2023/event/04005F07910E1177",
     "date": "2023-12-29T19:00:00",
     "venue": "Salt Shed"
   },
   {
+    "sold_out": true,
     "artist": [
       "Mt. Joy"
     ],
-    "link": "https://www.ticketmaster.com/mt-joy-chicago-illinois-12-30-2023/event/04005F0791AE118B",
+    "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-30-2023/event/04005F0791AE118B",
     "date": "2023-12-30T19:00:00",
     "venue": "Salt Shed"
   },
   {
+    "sold_out": true,
     "artist": [
       "Mt. Joy"
     ],
-    "link": "https://www.ticketmaster.com/mt-joy-chicago-illinois-12-31-2023/event/04005F0792411193",
+    "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-31-2023/event/04005F0792411193",
     "date": "2023-12-31T20:30:00",
     "venue": "Salt Shed"
   },

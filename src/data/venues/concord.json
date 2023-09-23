@@ -1,51 +1,6 @@
 [
   {
     "artist": [
-      "Kruder & Dorfmeister - 30 Year Anniversary Tour",
-      "Phantom 45"
-    ],
-    "link": "https://concordmusichall.com/calendar/kruder-dorfmeister/",
-    "date": "2023-09-13T21:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
-      "Overmono",
-      "Ayesha, Mattheo"
-    ],
-    "link": "https://concordmusichall.com/calendar/overmono/",
-    "date": "2023-09-14T22:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night: PUP",
-      "Snotty Nose Rez Kids"
-    ],
-    "link": "https://concordmusichall.com/calendar/riot-fest-late-night-pup/",
-    "date": "2023-09-15T22:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night: The Interrupters",
-      "FEA"
-    ],
-    "link": "https://concordmusichall.com/calendar/riot-fest-late-night-the-interrupters/",
-    "date": "2023-09-16T22:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night: Sleeping With Sirens",
-      "Calva Louise"
-    ],
-    "link": "https://concordmusichall.com/calendar/riot-fest-late-night-sleeping-with-sirens/",
-    "date": "2023-09-17T22:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "Terror Reid",
       "LU, DOMSTA, NOGOOD"
     ],
@@ -56,7 +11,7 @@
   {
     "artist": [
       "Pabllo Vittar",
-      "COBRAH"
+      "COBRAH, Miss Toto"
     ],
     "link": "https://concordmusichall.com/calendar/pabllo-vittar/",
     "date": "2023-09-27T18:00:00",
@@ -64,10 +19,20 @@
   },
   {
     "artist": [
-      "R\u00f6yksopp"
+      "R\u00f6yksopp",
+      "Chess Knight"
     ],
     "link": "https://concordmusichall.com/calendar/royksopp/",
     "date": "2023-09-28T18:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "The Blaze",
+      "YU SU"
+    ],
+    "link": "https://concordmusichall.com/calendar/the-blaze-2/",
+    "date": "2023-09-29T18:00:00",
     "venue": "Concord Music Hall"
   },
   {
@@ -118,15 +83,6 @@
   },
   {
     "artist": [
-      "Our Generation Music Presents: Next Gen Tour 2023",
-      "Kankan, Summrs, f1lthy, Highway, Osamason, Special Guests"
-    ],
-    "link": "https://concordmusichall.com/calendar/our-generation-music-presents-next-gen-tour-2023/",
-    "date": "2023-10-14T19:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "HOL!"
     ],
     "link": "https://concordmusichall.com/calendar/hol/",
@@ -140,6 +96,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/borgore-2/",
     "date": "2023-10-21T22:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "UNTITLED: Joe Kay & Jared Jackson",
+      "House, garage, amapiano, jungle, drum & bass, and more"
+    ],
+    "link": "https://concordmusichall.com/calendar/joe-kay-jared-jackson/",
+    "date": "2023-10-28T21:00:00",
     "venue": "Concord Music Hall"
   },
   {
@@ -206,6 +171,14 @@
   },
   {
     "artist": [
+      "Mochakk"
+    ],
+    "link": "https://concordmusichall.com/calendar/mochakk/",
+    "date": "2023-11-17T22:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
       "Franky Wah x Korolova"
     ],
     "link": "https://concordmusichall.com/calendar/franky-wah-x-korolova/",
@@ -241,7 +214,8 @@
   },
   {
     "artist": [
-      "LP Giobbi"
+      "LP Giobbi",
+      "Bad Snacks"
     ],
     "sold_out": true,
     "link": "https://concordmusichall.com/calendar/lp-giobbi/",
@@ -255,6 +229,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/j-worra/",
     "date": "2023-12-08T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "PEEKABOO",
+      "LYNY, WINK, AIRELOOSH"
+    ],
+    "link": "https://concordmusichall.com/calendar/peekaboo/",
+    "date": "2023-12-09T21:00:00",
     "venue": "Concord Music Hall"
   },
   {

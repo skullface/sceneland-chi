@@ -1,62 +1,6 @@
 [
   {
     "artist": [
-      "I've Had It"
-    ],
-    "link": "https://www.jamusa.com/events/detail/i-ve-had-it-496451",
-    "date": "2023-09-14T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Amy Shark"
-    ],
-    "link": "https://www.jamusa.com/events/detail/amy-shark-491649",
-    "date": "2023-09-15T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Be Our Guest: The Disney DJ Night"
-    ],
-    "link": "https://www.jamusa.com/events/detail/be-our-guest-the-disney-dj-night-495556",
-    "date": "2023-09-15T21:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "ZZ Ward, Jaime Wyatt"
-    ],
-    "link": "https://www.jamusa.com/events/detail/zz-ward-491209",
-    "date": "2023-09-16T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Diogo Nogueira"
-    ],
-    "link": "https://www.jamusa.com/events/detail/diogo-nogueira-494031",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Who? Weekly Live"
-    ],
-    "link": "https://www.jamusa.com/events/detail/whoy-weekly-live-491204",
-    "date": "2023-09-21T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
-      "Monet x Change"
-    ],
-    "link": "https://www.jamusa.com/events/detail/monet-x-change-495560",
-    "date": "2023-09-22T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
       "Laugh Your Face Off, Pat Tomasulo"
     ],
     "link": "https://www.jamusa.com/events/detail/laugh-your-face-off-496991",
@@ -65,7 +9,7 @@
   },
   {
     "artist": [
-      "Son Rompe Pera"
+      "Son Rompe Pera, Cabeza de Chivo"
     ],
     "link": "https://www.jamusa.com/events/detail/son-rompe-pera-493897",
     "date": "2023-10-01T20:00:00",
@@ -349,6 +293,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/pigeons-playing-ping-pong-496250",
     "date": "2023-12-08T20:00:00",
+    "venue": "Park West"
+  },
+  {
+    "artist": [
+      "Kiki & Herb"
+    ],
+    "link": "https://www.jamusa.com/events/detail/kiki-herb-502793",
+    "date": "2023-12-10T19:30:00",
     "venue": "Park West"
   },
   {

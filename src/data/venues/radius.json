@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Dance Gavin Dance",
-      "SiM, Rain City Drive, Within Destruction"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/486243",
-    "date": "2023-09-21T17:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "The Warehouse Initiative: Basement Jaxx (DJ Set)",
-      "DJ Heather, Change Request"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/492024",
-    "date": "2023-09-22T21:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
       "Fit For A King & The Devil Wears Prada: METALCORE DROPOUTS",
       "Counterparts, Landmvrks"
     ],
@@ -33,14 +15,6 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/481656",
     "date": "2023-09-24T16:30:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "The Blaze"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/489864",
-    "date": "2023-09-29T18:00:00",
     "venue": "Radius"
   },
   {
@@ -67,7 +41,7 @@
       "Noizu"
     ],
     "link": "https://www.radius-chicago.com/events/detail/490215",
-    "date": "2023-10-12T21:00:00",
+    "date": "2023-10-12T22:00:00",
     "venue": "Radius"
   },
   {
@@ -108,7 +82,8 @@
   },
   {
     "artist": [
-      "Anjunabeats After Dark"
+      "Anjunabeats After Dark",
+      "Andrew Bayer b2b Oliver Smith, Bexxie, Genix, Kasablanca, Maor Levi"
     ],
     "link": "https://www.radius-chicago.com/events/detail/500286",
     "date": "2023-10-21T22:00:00",
@@ -125,7 +100,8 @@
   },
   {
     "artist": [
-      "deadmau5"
+      "deadmau5",
+      "Spencer Brown, Volaris"
     ],
     "link": "https://www.radius-chicago.com/events/detail/489988",
     "date": "2023-10-27T22:00:00",
@@ -133,7 +109,8 @@
   },
   {
     "artist": [
-      "deadmau5"
+      "deadmau5",
+      "Ben Hemsley, Volaris"
     ],
     "link": "https://www.radius-chicago.com/events/detail/489989",
     "date": "2023-10-28T22:00:00",
@@ -150,7 +127,7 @@
   },
   {
     "artist": [
-      "RL Grime Presents: PLAY\u2122live",
+      "RL Grime",
       "JAWNS, 33 Below"
     ],
     "link": "https://www.radius-chicago.com/events/detail/497054",
@@ -159,7 +136,7 @@
   },
   {
     "artist": [
-      "RL Grime Presents: PLAY\u2122live",
+      "RL Grime",
       "JAWNS, 33 Below"
     ],
     "link": "https://www.radius-chicago.com/events/detail/501689",
@@ -173,6 +150,139 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/491294",
     "date": "2023-11-04T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Armin van Buuren"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/495584",
+    "date": "2023-11-10T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "MK b2b Sonny Fodera"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/504167",
+    "date": "2023-11-11T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Gera MX & Nanpa Basico"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/493025",
+    "date": "2023-11-12T19:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "AKON Super Fan Tour"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/502313",
+    "date": "2023-11-17T18:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Kaskade: Redux"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/501724",
+    "date": "2023-11-17T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Sara Landry"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/504002",
+    "date": "2023-11-18T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "TroyBoi: Shut It Down Tour"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/502333",
+    "date": "2023-12-01T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Lil Uzi Vert - PINK TAPE TOUR"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/497894",
+    "date": "2023-12-04T18:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "August Burns Red: Rescue & Restore 10 Year Anniversary Tour",
+      "Spite, Brand of Sacrifice, Crystal Lake"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/495859",
+    "date": "2023-12-05T18:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "LSDREAM",
+      "ZINGARA, Chmura"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/489550",
+    "date": "2023-12-08T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Honey Dijon",
+      "TSHA, DJ Heather"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/503621",
+    "date": "2023-12-09T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "elrow"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/500653",
+    "date": "2023-12-16T21:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Tchami x Malaa"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/503213",
+    "date": "2023-12-27T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "SIDEPIECE",
+      "Special Guest: Mark Knight, Gene Farris, Freak On"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/502454",
+    "date": "2024-01-13T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Walker & Royce: No Big Deal Tour"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/503426",
+    "date": "2024-01-27T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Static-X and Sevendust",
+      "Dope, Lines Of Loyalty"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/503644",
+    "date": "2024-02-24T17:30:00",
     "venue": "Radius"
   }
 ]

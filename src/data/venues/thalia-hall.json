@@ -1,80 +1,6 @@
 [
   {
     "artist": [
-      "Joy Oladokun: Living Proof Tour, Becca Mancari"
-    ],
-    "link": "https://www.ticketweb.com/event/joy-oladokun-living-proof-tour-thalia-hall-tickets/13427388",
-    "date": "2023-09-14T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Osees, Cel Ray and CB Radio Gorgeous"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-osees-with-cel-thalia-hall-tickets/12863705",
-    "sold_out": true,
-    "date": "2023-09-15T19:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Osees, Population II"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-osees-with-population-thalia-hall-tickets/12864075",
-    "sold_out": true,
-    "date": "2023-09-16T19:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "The Rock and Roll Playhouse plays Music of Queen for Kids + More"
-    ],
-    "link": "https://www.ticketweb.com/event/the-rock-and-roll-playhouse-thalia-hall-tickets/13489218",
-    "date": "2023-09-17T11:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "The Tallest Man On Earth, Andrea von Kampen"
-    ],
-    "link": "https://www.ticketweb.com/event/the-tallest-man-on-earth-thalia-hall-tickets/12996905",
-    "date": "2023-09-17T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "The Milk Carton Kids, Charlie Hickey"
-    ],
-    "link": "https://www.ticketweb.com/event/the-milk-carton-kids-with-thalia-hall-tickets/13248358",
-    "date": "2023-09-18T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Babe Rainbow, Rudy De Anda"
-    ],
-    "link": "https://www.ticketweb.com/event/babe-rainbow-with-rudy-de-thalia-hall-tickets/13358798",
-    "date": "2023-09-20T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Gus Dapperton, Sarah Kinsley"
-    ],
-    "link": "https://www.ticketweb.com/event/gus-dapperton-with-sarah-kinsley-thalia-hall-tickets/13287428",
-    "date": "2023-09-21T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
-      "Sun Room, Sports Team"
-    ],
-    "link": "https://www.ticketweb.com/event/sun-room-with-sports-team-thalia-hall-tickets/13223208",
-    "date": "2023-09-22T18:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Patrick Droney, Cecilia Castleman"
     ],
     "link": "https://www.ticketweb.com/event/patrick-droney-with-cecilia-castleman-thalia-hall-tickets/13348488",
@@ -91,9 +17,9 @@
   },
   {
     "artist": [
-      "Bandalos Chinos"
+      "Bandalos Chinos, Estereomance"
     ],
-    "link": "https://www.ticketweb.com/event/bandalos-chinos-thalia-hall-tickets/13322718",
+    "link": "https://www.ticketweb.com/event/bandalos-chinos-with-estereomance-thalia-hall-tickets/13322718",
     "date": "2023-09-26T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -212,9 +138,9 @@
   },
   {
     "artist": [
-      "Genesis Owusu Presented by Vocalo"
+      "Genesis Owusu, Godly the Ruler Presented by Vocalo"
     ],
-    "link": "https://www.ticketweb.com/event/genesis-owusu-presented-by-vocalo-thalia-hall-tickets/13222668",
+    "link": "https://www.ticketweb.com/event/genesis-owusu-with-godly-the-thalia-hall-tickets/13222668",
     "date": "2023-10-13T20:00:00",
     "venue": "Thalia Hall"
   },
@@ -294,9 +220,9 @@
   },
   {
     "artist": [
-      "Rawayana"
+      "Rawayana, Orestes Gomez"
     ],
-    "link": "https://www.ticketweb.com/event/rawayana-thalia-hall-tickets/13270838",
+    "link": "https://www.ticketweb.com/event/rawayana-with-orestes-gomez-thalia-hall-tickets/13270838",
     "date": "2023-10-24T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -409,7 +335,7 @@
   },
   {
     "artist": [
-      "Foxing & The Hotelier"
+      "Foxing & The Hotelier, Emperor X"
     ],
     "link": "https://www.ticketweb.com/event/sold-out-foxing-the-thalia-hall-tickets/13332268",
     "sold_out": true,
@@ -479,6 +405,14 @@
     ],
     "link": "https://www.ticketweb.com/event/christone-kingfish-ingram-thalia-hall-tickets/13414738",
     "date": "2023-11-18T19:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Randy Feltface"
+    ],
+    "link": "https://www.ticketweb.com/event/randy-feltface-thalia-hall-tickets/13594578",
+    "date": "2023-11-19T19:00:00",
     "venue": "Thalia Hall"
   },
   {
@@ -579,9 +513,9 @@
   },
   {
     "artist": [
-      "Dogstar"
+      "Dogstar, Archer Oh"
     ],
-    "link": "https://www.ticketweb.com/event/sold-out-dogstar-thalia-hall-tickets/13421008",
+    "link": "https://www.ticketweb.com/event/sold-out-dogstar-with-archer-thalia-hall-tickets/13421008",
     "sold_out": true,
     "date": "2023-12-07T19:00:00",
     "venue": "Thalia Hall"
@@ -644,6 +578,30 @@
   },
   {
     "artist": [
+      "Briston Maroney: Ultrapure Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/briston-maroney-ultrapure-tour-thalia-hall-tickets/13622218",
+    "date": "2024-02-08T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Briston Maroney: Ultrapure Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/briston-maroney-ultrapure-tour-thalia-hall-tickets/13622358",
+    "date": "2024-02-09T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "DEAP VALLY live for the last time farewell tour + Sistrionix played in full (10 year anniversary) and other favorites, very special guests Sloppy Jane!"
+    ],
+    "link": "https://www.ticketweb.com/event/deap-vally-live-for-the-thalia-hall-tickets/13632608",
+    "date": "2024-02-10T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Rachael & Vilray"
     ],
     "link": "https://www.ticketweb.com/event/rachael-vilray-thalia-hall-tickets/13558348",
@@ -672,6 +630,14 @@
     ],
     "link": "https://www.ticketweb.com/event/sofiane-pamart-thalia-hall-tickets/13598448",
     "date": "2024-03-18T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Marc Broussard: Carencro 20th Anniversary Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/marc-broussard-carencro-thalia-hall-tickets/13622818",
+    "date": "2024-03-23T19:00:00",
     "venue": "Thalia Hall"
   },
   {

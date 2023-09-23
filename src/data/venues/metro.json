@@ -1,39 +1,6 @@
 [
   {
     "artist": [
-      "Viagra Boys, Enola Gay"
-    ],
-    "link": "https://metrochicago.com/event/viagra-boys/metro-chicago/chicago-illinois/",
-    "date": "2023-09-15T23:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
-      "Thursday (War All The Time album play) & Braid"
-    ],
-    "link": "https://metrochicago.com/event/thursday-war-all-the-time-album-play-braid/metro-chicago/chicago-illinois/",
-    "date": "2023-09-16T23:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
-      "Swans, Norman Westberg"
-    ],
-    "link": "https://metrochicago.com/event/swans/metro-chicago/chicago-illinois/",
-    "date": "2023-09-21T20:00:00",
-    "sold_out": true,
-    "venue": "Metro"
-  },
-  {
-    "artist": [
-      "IAMX, TWIN TRIBES, ASH CODE, NUOVO TESTAMENTO, HARSH SYMMETRY, BLOODY KNIVES"
-    ],
-    "link": "https://metrochicago.com/event/iamx/metro-chicago/chicago-illinois/",
-    "date": "2023-09-22T19:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "Front Line Assembly, A SPLIT SECOND, 16 VOLT, ACUMEN NATION, KANGA, MVTANT"
     ],
     "link": "https://metrochicago.com/event/front-line-assembly-2/metro-chicago/chicago-illinois/",
@@ -107,7 +74,7 @@
   },
   {
     "artist": [
-      "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink"
+      "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink, Footballhead"
     ],
     "link": "https://metrochicago.com/event/kennyhoopla-raised-by-wolves-tour/metro-chicago/chicago-illinois/",
     "date": "2023-10-06T20:00:00",
@@ -260,6 +227,14 @@
   },
   {
     "artist": [
+      "Nocturna All Hallows\u2019 Eve Ball"
+    ],
+    "link": "https://metrochicago.com/event/nocturna-all-hallows-eve-ball-2/",
+    "date": "2023-10-28T22:00:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
       "All Building Hallo-Queen! feat., Derrick Carter, DJ Holographic, Mark Grusane, Justin Cudmore, Michael Serafini, Garrett David, Sorrbet // Hosted by Lucy Stoole, Nico // Guest hosts Christi Davinci, Olaysia, Synthetic"
     ],
     "link": "https://metrochicago.com/event/all-building-hallo-queen-feat/all-building-event/chicago-illinois/",
@@ -348,6 +323,15 @@
   },
   {
     "artist": [
+      "Harms Way, Weekend Nachos, All Out War, Fleshwater, Ingrown"
+    ],
+    "link": "https://metrochicago.com/event/harms-way/metro-chicago/chicago-illinois/",
+    "date": "2023-11-18T19:00:00",
+    "sold_out": true,
+    "venue": "Metro"
+  },
+  {
+    "artist": [
       "Imminence"
     ],
     "link": "https://metrochicago.com/event/imminence/metro-chicago/chicago-illinois/",
@@ -361,6 +345,30 @@
     "link": "https://metrochicago.com/event/the-japanese-house/metro-chicago/chicago-illinois/",
     "date": "2023-12-03T20:00:00",
     "sold_out": true,
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "Sky Ferreira"
+    ],
+    "link": "https://metrochicago.com/event/sky-ferreira/metro-chicago/chicago-illinois/",
+    "date": "2023-12-06T19:30:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "The 9th Annual War on Xmas"
+    ],
+    "link": "https://metrochicago.com/event/the-9th-annual-war-on-xmas-2/metro-chicago/chicago-illinois/",
+    "date": "2023-12-08T20:00:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "The 9th Annual War on Xmas"
+    ],
+    "link": "https://metrochicago.com/event/the-9th-annual-war-on-xmas/metro-chicago/chicago-illinois/",
+    "date": "2023-12-09T20:00:00",
     "venue": "Metro"
   },
   {

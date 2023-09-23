@@ -1,174 +1,6 @@
 [
   {
     "artist": [
-      "THE ANGEL COLON BAND"
-    ],
-    "date": "2023-09-14",
-    "link": "https://www.reggieslive.com/show/the-angel-colon-band-at-reggies-on-the-beach/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "TALLAH",
-      "CONVICTIONS",
-      "WE WEREN\u2019T INVITED",
-      "LA PEST"
-    ],
-    "date": "2023-09-14",
-    "link": "https://www.reggieslive.com/show/tallah/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "GREGG HILL"
-    ],
-    "date": "2023-09-14",
-    "link": "https://www.reggieslive.com/show/gregg-hill-record-release-party/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "DEADLY DAPPER"
-    ],
-    "date": "2023-09-15",
-    "link": "https://www.reggieslive.com/show/wearable-art-pop-up/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "DADBOD",
-      "LITTLE BIG FAT"
-    ],
-    "date": "2023-09-15",
-    "link": "https://www.reggieslive.com/show/dadbod/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "THE DANNIE DIESEL DOPE SHOW"
-    ],
-    "date": "2023-09-15",
-    "link": "https://www.reggieslive.com/show/the-dannie-diesel-dope-show/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "CHEER-ACCIDENT",
-      "THE MERCURY TREE",
-      "IMELDA MARCOS"
-    ],
-    "date": "2023-09-16",
-    "link": "https://www.reggieslive.com/show/cheer-accident-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "T.S.O.L.",
-      "H2O"
-    ],
-    "date": "2023-09-16",
-    "link": "https://www.reggieslive.com/show/h2o-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-16",
-    "link": "https://www.reggieslive.com/show/open-mic-comedy-89/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "VOICE OF ADDICTION",
-      "ESCAPE FROM THE ZOO (members of Days n Daze)",
-      "HOLY LOCUST",
-      "ACTON\u2019S DICTUM"
-    ],
-    "date": "2023-09-17",
-    "link": "https://www.reggieslive.com/show/escape-from-the-zoo/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "THE BRONX",
-      "EARTH CRISIS"
-    ],
-    "date": "2023-09-17",
-    "link": "https://www.reggieslive.com/show/the-bronx-earth-crisis/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "HIPPIE DEATH CULT",
-      "SPIRIT MOTHER",
-      "WE KILLED THE LION",
-      "MEDICINE WIVES"
-    ],
-    "date": "2023-09-18",
-    "link": "https://www.reggieslive.com/show/hippie-death-cult-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "ZACK FEDOR",
-      "BLAKE BURKHART"
-    ],
-    "date": "2023-09-18",
-    "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-18",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-70/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-19",
-    "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-77/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "JUNIOR STOPKA",
-      "TINA YOUKHANA",
-      "GOATBELLY"
-    ],
-    "date": "2023-09-20",
-    "link": "https://www.reggieslive.com/show/junior-stopka-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "ZAO",
-      "CAPRA",
-      "YOUR SPIRIT DIES",
-      "TORENA"
-    ],
-    "date": "2023-09-20",
-    "link": "https://www.reggieslive.com/show/zao/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "MARILEE",
-      "TONY CASTRO",
-      "JC AND THE REUP BAND"
-    ],
-    "date": "2023-09-20",
-    "link": "https://www.reggieslive.com/show/jazz-and-jokes-10/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "SOLICITOR",
-      "ACRACY",
-      "IDOL THRONE",
-      "EVIL BLADE"
-    ],
-    "date": "2023-09-22",
-    "link": "https://www.reggieslive.com/show/solicitor/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "PEELANDER-Z",
       "DOG PARTY",
       "TEXAS TOAST CHAINSAW MASSACRE"
@@ -180,14 +12,6 @@
   {
     "date": "2023-09-23",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-90/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "TOM HOLLAND & THE SHUFFLE KINGS"
-    ],
-    "date": "2023-09-24",
-    "link": "https://www.reggieslive.com/show/tom-holland-and-the-shuffle-kings-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -260,8 +84,8 @@
   },
   {
     "artist": [
-      "VIOLENT FEMMES \u201cVIOLENT FEMMES\u201d (performed by Violent Themmes)",
       "QUEENS OF THE STONE AGE \u201cQUEENS OF THE STONE AGE\u201d (performed by Ricky Liontones)",
+      "VIOLENT FEMMES \u201cVIOLENT FEMMES\u201d (performed by Violent Themmes)",
       "LED ZEPPELIN \u201cHOUSES OF THE HOLY\u201d (performed by Heisenberg Uncertainty Players)"
     ],
     "date": "2023-09-28",
@@ -321,8 +145,18 @@
   },
   {
     "artist": [
+      "HELLBOUND GLORY"
+    ],
+    "date": "2023-10-01",
+    "link": "https://www.reggieslive.com/show/hellbound-glory-duo/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "WYNNE",
-      "TBA"
+      "BOCHA",
+      "DONTE THOMAS",
+      "AUSAR"
     ],
     "date": "2023-10-01",
     "link": "https://www.reggieslive.com/show/wynne/",
@@ -383,7 +217,7 @@
   {
     "artist": [
       "SAM TOMPKINS",
-      "TBA"
+      "JESSE GOLD"
     ],
     "date": "2023-10-05",
     "link": "https://www.reggieslive.com/show/sam-tompkins/",
@@ -391,11 +225,31 @@
   },
   {
     "artist": [
+      "HONEY WHITES (tribute to Morphine)",
+      "PAUL ABELLA\u2019S QUESTIONABLE DECISIONS",
+      "ANDROGYNOUS MUSTACHE",
+      "NEW NOSTALGIA"
+    ],
+    "date": "2023-10-05",
+    "link": "https://www.reggieslive.com/show/honey-whites/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "ALICIA MOLINA (Chicago, IL)",
+      "ANDRAIAH LUGO (Pico Rivera, CA)",
       "ANIRIA TURNEY (Atlanta, GA)",
       "CHRISTINA GUTIERREZ (Chicago, IL)",
-      "ELIANA LA CASA (Chicago, IL)",
+      "COURTNEY ZELAZNY (Chicago, IL)",
+      "ELIANA LA CASA (Chicago, IL via Argentina)",
+      "GLORELYS MORA (New York, NY)",
+      "JANICE RODRIGUEZ (Chicago, IL)",
+      "JILLIAN EBANKS (Chicago, IL)",
+      "MICHELLADONNA (New York, NY)",
+      "MONICA ANDRADE (Chicago, IL)",
+      "NATASHA SAMRENY (Providence, RI)",
       "SOLI SANTOS (Chicago, IL)",
-      "JANICE RODRIGUEZ (Chicago, IL)"
+      "VENESSA PERUDA (Brooklyn, NY)"
     ],
     "date": "2023-10-06",
     "link": "https://www.reggieslive.com/show/2nd-annual-latina-comedy-festival-the-loca-show/",
@@ -415,15 +269,21 @@
   },
   {
     "artist": [
+      "AMY COLON (Elizabeth, NJ)",
       "ANNA LUCERO (Chicago, IL)",
+      "BREN VILA (Mexico City, MX)",
+      "CHONA E (San Antonio, TX)",
+      "CHRISTINA GALSTON (Los Angeles, CA)",
       "ELIZABETH PILAR (NY, NY)",
       "HILARY JIMENEZ (Chicago, IL)",
       "IRMA RUIZ (San Antonio, TX)",
+      "JANICE RODRIGUEZ (Chicago, IL)",
+      "JENNI RODRIGUEZ (South Bend, IN)",
       "JESS MARTINEZ (Chicago, IL)",
-      "CHONA E (San Antonio, TX)",
       "MICHELLE CANTU (San Antonio, TX)",
+      "MOLINA MOLINA (Seattle, WA)",
       "MYSIA CHABERT (Temple, TX)",
-      "MOLINA MOLINA (Seattle, WA)"
+      "SHARI DIAZ (New York City)"
     ],
     "date": "2023-10-06",
     "link": "https://www.reggieslive.com/show/2nd-annual-latina-comedy-festival-the-sucia-show/",
@@ -515,7 +375,6 @@
     "artist": [
       "DAARLING",
       "JOYFRIEND",
-      "HYDRODATE",
       "WONNIE"
     ],
     "date": "2023-10-12",
@@ -534,7 +393,7 @@
   {
     "artist": [
       "DEAD FEATHERS",
-      "ASTRAL HAND",
+      "SATIN BANSHEE",
       "ILIJA AND THE SPOMENIKS"
     ],
     "date": "2023-10-13",
@@ -585,6 +444,16 @@
   },
   {
     "artist": [
+      "DJ WIZZARD",
+      "JUSTIN FAMOUS",
+      "J.ARTIZ"
+    ],
+    "date": "2023-10-15",
+    "link": "https://www.reggieslive.com/show/sunday-night-live-3/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "TEMPLE OF THE FUZZ WITCH",
       "ANCIENT DAYS",
       "GRIM REEFER",
@@ -611,6 +480,16 @@
   {
     "date": "2023-10-17",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-98/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "MARILEE",
+      "M\u2019RELD GREEN",
+      "PARK N RIDE"
+    ],
+    "date": "2023-10-18",
+    "link": "https://www.reggieslive.com/show/jazz-and-jokes-11/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -682,8 +561,25 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "JASON KANE & THE JIVE",
+      "RICKY D AND THE SMOKESTACK MOJOS"
+    ],
+    "date": "2023-10-21",
+    "link": "https://www.reggieslive.com/show/jason-kane-the-jive-19/",
+    "venue": "Reggie\u2019s"
+  },
+  {
     "date": "2023-10-22",
     "link": "https://www.reggieslive.com/show/chicago-bears-tailgate-party-3/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "DIRTY MF & THE SMOKIN\u2019 SEXTION"
+    ],
+    "date": "2023-10-22",
+    "link": "https://www.reggieslive.com/show/dirty-mf-the-smokin-sextion-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -780,15 +676,10 @@
     "artist": [
       "HULDER",
       "PIG\u2019S BLOOD",
-      "TBA"
+      "GROT"
     ],
     "date": "2023-10-28",
     "link": "https://www.reggieslive.com/show/hulder/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-10-28",
-    "link": "https://www.reggieslive.com/show/open-mic-comedy-95/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -798,6 +689,11 @@
     ],
     "date": "2023-10-28",
     "link": "https://www.reggieslive.com/show/iv-and-the-strange-band-3/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "date": "2023-10-28",
+    "link": "https://www.reggieslive.com/show/open-mic-comedy-95/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -954,6 +850,16 @@
   },
   {
     "artist": [
+      "LEFT LANE CRUISER",
+      "SQUIRREL CAGE",
+      "SHUKIN AND THE RAMBLERS"
+    ],
+    "date": "2023-11-10",
+    "link": "https://www.reggieslive.com/show/left-lane-cruiser-12/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "CHICAGO SOUND COLLECTIVE (Formerly Altered Stage)"
     ],
     "date": "2023-11-11",
@@ -977,10 +883,10 @@
       "NOI!SE",
       "FEAR CITY",
       "ANTAGONIZERS ATL",
-      "LIBERTY AND JUSTICE",
       "FIGHTING FOR SCRAPS",
       "OLD SALT",
-      "TBA"
+      "LOST LEGION",
+      "NO GUARD"
     ],
     "date": "2023-11-11",
     "link": "https://www.reggieslive.com/show/anti-heros/",
@@ -1016,6 +922,17 @@
     ],
     "date": "2023-11-12",
     "link": "https://www.reggieslive.com/show/fleetwood-mac-in-chicago-book-event/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "TACO",
+      "ZAE CONNIE",
+      "RE\u2019ALISSA",
+      "TROCHE"
+    ],
+    "date": "2023-11-12",
+    "link": "https://www.reggieslive.com/show/sunday-night-live-4/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1103,6 +1020,17 @@
     ],
     "date": "2023-11-18",
     "link": "https://www.reggieslive.com/show/the-slackers-16/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "BARREN HEIR",
+      "ARCEM",
+      "FARSEER",
+      "OLD SPEAK"
+    ],
+    "date": "2023-11-18",
+    "link": "https://www.reggieslive.com/show/barren-heir/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1267,6 +1195,16 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "RADKEY",
+      "ROTUNDOS",
+      "ANIMAL PANIC"
+    ],
+    "date": "2023-12-09",
+    "link": "https://www.reggieslive.com/show/radkey-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
     "date": "2023-12-09",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-101/",
     "venue": "Reggie\u2019s"
@@ -1315,6 +1253,16 @@
     ],
     "date": "2023-12-20",
     "link": "https://www.reggieslive.com/show/pat-mccurdy-11/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "MINDSIGHT",
+      "PAPA JUPITER",
+      "SUDDEN DARK"
+    ],
+    "date": "2023-12-22",
+    "link": "https://www.reggieslive.com/show/mindsight/",
     "venue": "Reggie\u2019s"
   },
   {

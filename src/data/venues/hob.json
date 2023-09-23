@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Riot Fest Presents Emo Night Brooklyn Feat. Shane Told of Silverstein"
-    ],
-    "link": "https://concerts.livenation.com/riot-fest-presents-emo-night-brooklyn-chicago-illinois-09-15-2023/event/04005F06D01E2F2F",
-    "date": "2023-09-15T22:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Riot Fest Presents Gimme Gimme Disco"
-    ],
-    "link": "https://concerts.livenation.com/riot-fest-presents-gimme-gimme-disco-chicago-illinois-09-16-2023/event/04005F07E4A135DD",
-    "date": "2023-09-16T22:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "David Kushner: The Daylight Tour 2.0"
-    ],
-    "link": "https://concerts.livenation.com/david-kushner-the-daylight-tour-20-chicago-illinois-09-20-2023/event/04005ECDB53B1888",
-    "date": "2023-09-20T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Boywithuke with special guest Naethan Apollo"
-    ],
-    "link": "https://concerts.livenation.com/boywithuke-with-special-guest-naethan-apollo-chicago-illinois-09-22-2023/event/04005E98C9A71F05",
-    "date": "2023-09-22T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Senses Fail"
     ],
     "link": "https://concerts.livenation.com/senses-fail-chicago-illinois-09-23-2023/event/04005EC6C9D440A3",
@@ -381,6 +349,38 @@
     ],
     "link": "https://concerts.livenation.com/miserable-faith-chicago-illinois-11-29-2023/event/04005F21B9B92960",
     "date": "2023-11-29T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "The Maine"
+    ],
+    "link": "https://concerts.livenation.com/the-maine-chicago-illinois-11-30-2023/event/04005F0225C167E0",
+    "date": "2023-11-30T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Sister Hazel"
+    ],
+    "link": "https://concerts.livenation.com/sister-hazel-chicago-illinois-12-02-2023/event/04005F09F654372E",
+    "date": "2023-12-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Sister Hazel 2 Day Ticket: Show =17+ & Brunch = All Ages"
+    ],
+    "link": "https://concerts.livenation.com/sister-hazel-2-day-ticket-show-chicago-illinois-12-03-2023/event/04005F09FA0B38FC",
+    "date": "2023-12-03T09:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Sister Hazel BRUNCH"
+    ],
+    "link": "https://concerts.livenation.com/sister-hazel-brunch-chicago-illinois-12-03-2023/event/04005F09F8573846",
+    "date": "2023-12-03T09:00:00",
     "venue": "House of Blues"
   }
 ]

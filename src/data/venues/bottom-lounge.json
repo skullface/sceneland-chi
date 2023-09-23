@@ -1,48 +1,6 @@
 [
   {
     "artist": [
-      "Riot Fest Late Night Presents: Bayside",
-      "Hawthorne Heights"
-    ],
-    "date": "2023-09-14T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13481548/riot-fest-late-night-presents-bayside",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night Presents: Ride"
-    ],
-    "date": "2023-09-15T23:00:00",
-    "link": "https://bottomlounge.com/13709-2/13481588/riot-fest-late-night-presents-ride",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night Presents: Godspeed You! Black Emperor"
-    ],
-    "date": "2023-09-16T23:00:00",
-    "link": "https://bottomlounge.com/13709-2/13481618/riot-fest-late-night-presents-godspeed-you-black-emperor",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
-      "Delain",
-      "Visions of Atlantis"
-    ],
-    "date": "2023-09-18T19:30:00",
-    "link": "https://bottomlounge.com/13709-2/13035325/delain-visions-of-atlantis",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
-      "Durand Jones"
-    ],
-    "date": "2023-09-22T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13322208/durand-jones",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Prizefighter",
       "The Giving Moon",
       "Drugstore Cowboy",
@@ -119,12 +77,22 @@
   },
   {
     "artist": [
+      "Good Hangs",
+      "Bottom Bunk"
+    ],
+    "date": "2023-10-07T20:00:00",
+    "link": "https://bottomlounge.com/13709-2/13657798/good-hangs-bottom-bunk",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
       "Emarosa",
       "The Dangerous Summer",
-      "First and Forever"
+      "First and Forever",
+      "Zorila"
     ],
     "date": "2023-10-10T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13439208/emarosa-the-dangerous-summer-first-and-forever",
+    "link": "https://bottomlounge.com/13709-2/13439208/emarosa-the-dangerous-summer-first-and-forever-zorila",
     "venue": "Bottom Lounge"
   },
   {
@@ -268,6 +236,15 @@
   },
   {
     "artist": [
+      "The Last Dinner Party",
+      "Brigitte Calls Me Baby"
+    ],
+    "date": "2023-11-09T19:30:00",
+    "link": "https://bottomlounge.com/13709-2/13594718/the-last-dinner-party-brigitte-calls-me-baby",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
       "Driveways",
       "Eternal Boy"
     ],
@@ -385,6 +362,14 @@
   },
   {
     "artist": [
+      "Barrett Martin"
+    ],
+    "date": "2023-12-03T13:00:00",
+    "link": "https://bottomlounge.com/13709-2/13648618/barrett-martin",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
       "THE SUICIDE MACHINES Celebrating 20 Years of \u2018A Match and Some Gasoline' with Against All Authority and Kill Lincoln"
     ],
     "date": "2023-12-03T19:00:00",
@@ -409,6 +394,14 @@
   },
   {
     "artist": [
+      "bea miller \u2013 gauche tour"
+    ],
+    "date": "2023-12-08T21:00:00",
+    "link": "https://bottomlounge.com/13709-2/13186498/bea-miller-gauche-tour",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
       "Craig Owens",
       "Voila",
       "Andres",
@@ -421,7 +414,8 @@
   {
     "artist": [
       "The Flatlinters Present The Holiday Melee",
-      "The Flatliners"
+      "The Flatliners",
+      "Pet Symmetry"
     ],
     "date": "2023-12-16T19:00:00",
     "link": "https://bottomlounge.com/13709-2/13506458/the-flatlinters-present-the-holiday-melee",

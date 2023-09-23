@@ -1,123 +1,11 @@
 [
   {
     "artist": [
-      "Corinne Bailey Rae",
-      "Jon Muq: The Black Rainbows Tour"
+      "Chirp Radio Welcomes MAN ON MAN",
+      "Brent Penny",
+      "Zeetus Lapetus DJ Set"
     ],
-    "link": "https://www.ticketweb.com/event/corinne-bailey-rae-jon-rockefeller-chapel-at-university-of-tickets/13332578",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Rockefeller Chapel at University of Chicago"
-  },
-  {
-    "artist": [
-      "Pod Blotz",
-      "Alex Barnett",
-      "Bakantez",
-      "IG Metall",
-      "Mission To The Sun"
-    ],
-    "link": "https://www.ticketweb.com/event/pod-blotz-alex-barnett-empty-bottle-tickets/13473568",
-    "date": "2023-09-14T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Alabaster DePlume",
-      "M'Reld Green with Junius Paul"
-    ],
-    "link": "https://www.ticketweb.com/event/alabaster-deplume-mreld-green-co-prosperity-sphere-tickets/13246378",
-    "date": "2023-09-15T21:30:00",
-    "venue": "Co-Prosperity Sphere"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night Presents: Nothing & High Vis"
-    ],
-    "sold_out": true,
-    "link": "https://www.ticketweb.com/event/sold-out-riot-fest-late-empty-bottle-tickets/13483008",
-    "date": "2023-09-15T23:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Alabaster DePlume",
-      "Special Guest"
-    ],
-    "link": "https://www.ticketweb.com/event/alabaster-deplume-special-guest-co-prosperity-sphere-tickets/13246388",
-    "date": "2023-09-16T21:00:00",
-    "venue": "Co-Prosperity Sphere"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night Presents: Kim Gordon"
-    ],
-    "sold_out": true,
-    "link": "https://www.ticketweb.com/event/sold-out-riot-fest-late-empty-bottle-tickets/13483028",
-    "date": "2023-09-16T23:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Riot Fest Late Night Presents: Yard Act",
-      "Scam Likely"
-    ],
-    "link": "https://www.ticketweb.com/event/riot-fest-late-night-presents-empty-bottle-tickets/13483048",
-    "date": "2023-09-17T23:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Tongue Depressor",
-      "Who is the Witness?"
-    ],
-    "link": "https://www.ticketweb.com/event/free-monday-w-tongue-depressor-empty-bottle-tickets/13526738",
-    "date": "2023-09-18T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Lunacy",
-      "LLORA",
-      "Conflict Bureau DJ Set"
-    ],
-    "link": "https://www.ticketweb.com/event/lunacy-llora-conflict-empty-bottle-tickets/13478678",
-    "date": "2023-09-19T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Various Distractions"
-    ],
-    "link": "https://www.ticketweb.com/event/various-distractions-empty-bottle-tickets/13556928",
-    "date": "2023-09-20T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "Silicone Prairie",
-      "Answering Machines!",
-      "Tension Pets"
-    ],
-    "link": "https://www.ticketweb.com/event/silicone-prairie-answering-machines-empty-bottle-tickets/13579108",
-    "date": "2023-09-21T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "312unes Presents: Alien Nosejob",
-      "Ace of Spit",
-      "Clickbait"
-    ],
-    "link": "https://www.ticketweb.com/event/312unes-presents-alien-nosejob-empty-bottle-tickets/13404098",
-    "date": "2023-09-22T22:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
-      "MAN ON MAN",
-      "Brent Penny"
-    ],
-    "link": "https://www.ticketweb.com/event/man-on-man-brent-empty-bottle-tickets/13322258",
+    "link": "https://www.ticketweb.com/event/chirp-radio-welcomes-man-on-empty-bottle-tickets/13322258",
     "date": "2023-09-23T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -190,7 +78,8 @@
   {
     "artist": [
       "Loraine James",
-      "Semiratruth"
+      "Semiratruth",
+      "lynyn"
     ],
     "link": "https://www.ticketweb.com/event/loraine-james-semiratruth-empty-bottle-tickets/13358828",
     "date": "2023-10-01T21:00:00",
@@ -202,7 +91,8 @@
       "Good Morning",
       "Joey Nebulous"
     ],
-    "link": "https://www.ticketweb.com/event/frankie-cosmos-good-morning-empty-bottle-tickets/13409418",
+    "sold_out": true,
+    "link": "https://www.ticketweb.com/event/sold-out-frankie-cosmos-empty-bottle-tickets/13409418",
     "date": "2023-10-03T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -230,11 +120,20 @@
   {
     "artist": [
       "Patter",
-      "Floatie"
+      "Floatie",
+      "Moontype"
     ],
-    "link": "https://www.ticketweb.com/event/patter-floatie-empty-bottle-tickets/13578668",
+    "link": "https://www.ticketweb.com/event/patter-floatie-moontype-empty-bottle-tickets/13578668",
     "date": "2023-10-06T22:00:00",
     "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Thee Best Western"
+    ],
+    "link": "https://www.ticketweb.com/event/thee-best-western-outside-the-empty-bottle-tickets/13597798",
+    "date": "2023-10-07T12:00:00",
+    "venue": "Outside the Empty Bottle"
   },
   {
     "artist": [
@@ -318,9 +217,10 @@
   },
   {
     "artist": [
-      "Slauson Malone 1"
+      "Slauson Malone 1",
+      "Colloboh"
     ],
-    "link": "https://www.ticketweb.com/event/slauson-malone-1-co-co-prosperity-sphere-tickets/13431438",
+    "link": "https://www.ticketweb.com/event/slauson-malone-1-colloboh-co-prosperity-sphere-tickets/13431438",
     "date": "2023-10-15T21:00:00",
     "venue": "Co-Prosperity Sphere"
   },
@@ -353,6 +253,14 @@
   },
   {
     "artist": [
+      "Various Distractions"
+    ],
+    "link": "https://www.ticketweb.com/event/various-distractions-empty-bottle-tickets/13664088",
+    "date": "2023-10-18T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Free Range",
       "Sima Cunningham",
       "Hazel City"
@@ -367,7 +275,8 @@
       "Body Shop",
       "Cae Mon\u0101e"
     ],
-    "link": "https://www.ticketweb.com/event/pixel-grip-body-shop-empty-bottle-tickets/13478908",
+    "sold_out": true,
+    "link": "https://www.ticketweb.com/event/sold-out-pixel-grip-empty-bottle-tickets/13478908",
     "date": "2023-10-20T22:00:00",
     "venue": "Empty Bottle"
   },
@@ -401,6 +310,14 @@
   },
   {
     "artist": [
+      "A Night of Modular Synthesis IX"
+    ],
+    "link": "https://www.ticketweb.com/event/a-night-of-modular-synthesis-empty-bottle-tickets/13653878",
+    "date": "2023-10-26T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "A. Savage",
       "Annie Hart"
     ],
@@ -410,10 +327,39 @@
   },
   {
     "artist": [
+      "WAKING THE WITCH"
+    ],
+    "link": "https://www.ticketweb.com/event/waking-the-witch-empty-bottle-tickets/13663838",
+    "date": "2023-10-28T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Powerplant"
     ],
     "link": "https://www.ticketweb.com/event/powerplant-empty-bottle-tickets/13617018",
     "date": "2023-10-30T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Handlebar 20 Year Celebration featuring Pink Frost",
+      "Ethers",
+      "Aitis Band",
+      "Options",
+      "Closetspace",
+      "DJ Takinganap"
+    ],
+    "link": "https://www.ticketweb.com/event/handlebar-20-year-celebration-featuring-empty-bottle-tickets/13654108",
+    "date": "2023-10-31T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Dumbo Gets Mad"
+    ],
+    "link": "https://www.ticketweb.com/event/dumbo-gets-mad-empty-bottle-tickets/13626458",
+    "date": "2023-11-01T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -438,7 +384,8 @@
   {
     "artist": [
       "An Evening With: Mating Ritual",
-      "Loviet"
+      "Loviet",
+      "Monogamy"
     ],
     "link": "https://www.ticketweb.com/event/an-evening-with-mating-ritual-empty-bottle-tickets/13328548",
     "date": "2023-11-07T21:00:00",
@@ -450,6 +397,15 @@
     ],
     "link": "https://www.ticketweb.com/event/el-khat-empty-bottle-tickets/13499458",
     "date": "2023-11-08T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "COCO MARIA  presents",
+      "CLUB COCO"
+    ],
+    "link": "https://www.ticketweb.com/event/coco-maria-presents-club-coco-empty-bottle-tickets/13604108",
+    "date": "2023-11-09T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -526,6 +482,24 @@
   },
   {
     "artist": [
+      "Lydia Loveless"
+    ],
+    "link": "https://www.ticketweb.com/event/lydia-loveless-empty-bottle-tickets/13644208",
+    "date": "2023-11-24T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Dianogah",
+      "Menthol",
+      "Small Awesome"
+    ],
+    "link": "https://www.ticketweb.com/event/dianogah-menthol-small-empty-bottle-tickets/13653728",
+    "date": "2023-11-25T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Urban Heat",
       "Rare DM"
     ],
@@ -535,10 +509,43 @@
   },
   {
     "artist": [
+      "Mandy, Indiana"
+    ],
+    "link": "https://www.ticketweb.com/event/mandy-indiana-empty-bottle-tickets/13651738",
+    "date": "2023-12-05T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Beyond the Gate featuring Stephen O'Malley & Fran\u00e7ois J Bonnet"
+    ],
+    "link": "https://www.ticketweb.com/event/beyond-the-gate-featuring-stephen-bohemian-natl-cemetery-cathedral-tickets/13636188",
+    "date": "2023-12-09T18:15:00",
+    "venue": "Bohemian Nat'l Cemetery Cathedral"
+  },
+  {
+    "artist": [
+      "Beyond the Gate featuring Stephen O'Malley & Fran\u00e7ois J Bonnet"
+    ],
+    "link": "https://www.ticketweb.com/event/beyond-the-gate-featuring-stephen-bohemian-natl-cemetery-cathedral-tickets/13636208",
+    "date": "2023-12-09T21:15:00",
+    "venue": "Bohemian Nat'l Cemetery Cathedral"
+  },
+  {
+    "artist": [
       "bar italia"
     ],
-    "link": "https://www.ticketweb.com/event/bar-italia-empty-bottle-tickets/13223308",
+    "sold_out": true,
+    "link": "https://www.ticketweb.com/event/sold-out-bar-italia-empty-bottle-tickets/13223308",
     "date": "2023-12-10T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "bar italia"
+    ],
+    "link": "https://www.ticketweb.com/event/bar-italia-empty-bottle-tickets/13626598",
+    "date": "2023-12-11T21:00:00",
     "venue": "Empty Bottle"
   },
   {

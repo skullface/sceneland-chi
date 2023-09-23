@@ -1,163 +1,6 @@
 [
   {
     "artist": [
-      "Youth Lagoon, Urika's Bedroom"
-    ],
-    "link": "https://lh-st.com/shows/09-14-2023-youth-lagoon/",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "link": "https://lh-st.com/shows/09-14-2023-schubas-open-mic/",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Madeline Kenney, Ben Sloan"
-    ],
-    "link": "https://lh-st.com/shows/09-15-2023-madeline-kenney/",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Pluko, Pods"
-    ],
-    "link": "https://lh-st.com/shows/09-15-2023-pluko/",
-    "date": "2023-09-15T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Drasii"
-    ],
-    "link": "https://lh-st.com/shows/09-15-2023-meet-me-upstairs/",
-    "date": "2023-09-15T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "The Bright Light Social Hour, Choses Sauvages"
-    ],
-    "link": "https://lh-st.com/shows/09-16-2023-the-bright-light-social-hour/",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Middle Aged Dad Jam Band with Ken Marino and David Wain"
-    ],
-    "link": "https://lh-st.com/shows/09-16-2023-middle-aged-dad-jam-band-ken-marino-david-wain/",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Ryan Beatty"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-17-2023-ryan-beatty/",
-    "date": "2023-09-17T19:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Stavroz"
-    ],
-    "link": "https://lh-st.com/shows/09-17-2023-stavroz/",
-    "date": "2023-09-17T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Ghost Days",
-      "Flowerbabe",
-      "Jerry Russo"
-    ],
-    "link": "https://lh-st.com/shows/09-18-2023-100-off-bands/",
-    "date": "2023-09-18T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "An Evening With Tori Kelly"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-18-2023-tori-kelly/",
-    "date": "2023-09-18T20:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Timecop1983 feat. Josh Dally, The Bad Dreamers"
-    ],
-    "link": "https://lh-st.com/shows/09-19-2023-timecop1983/",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Schlupp",
-      "Madame Reaper & The Gentleman's Club",
-      "Baby Money & the Down Payments"
-    ],
-    "link": "https://lh-st.com/shows/09-19-2023-100-off-bands/",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Minivan, Cruel, Fruitleather"
-    ],
-    "link": "https://lh-st.com/shows/09-20-2023-minivan/",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Corook, morgen"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-21-2023-corook/",
-    "date": "2023-09-21T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "John Craigie, Taylor Rae"
-    ],
-    "link": "https://lh-st.com/shows/09-21-2023-john-craigie/",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Lauren Mayberry, ggwendolyn"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-22-2023-lauren-mayberry/",
-    "date": "2023-09-22T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Vallis Alps"
-    ],
-    "link": "https://lh-st.com/shows/09-22-2023-vallis-alps/",
-    "date": "2023-09-22T20:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Buen Viaje"
-    ],
-    "link": "https://lh-st.com/shows/09-22-2023-meet-me-upstairs/",
-    "date": "2023-09-22T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Oracle Sisters, Ryder the Eagle"
     ],
     "sold_out": true,
@@ -211,14 +54,6 @@
   },
   {
     "artist": [
-      "Schtick"
-    ],
-    "link": "https://lh-st.com/shows/09-25-2023-schtick/",
-    "date": "2023-09-25T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Human Bloom, Duane Powell"
     ],
     "link": "https://lh-st.com/shows/09-26-2023-human-bloom/",
@@ -231,6 +66,14 @@
     ],
     "link": "https://lh-st.com/shows/09-27-2023-delaney-bailey/",
     "date": "2023-09-27T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Schtick"
+    ],
+    "link": "https://lh-st.com/shows/09-25-2023-schtick/",
+    "date": "2023-09-27T20:00:00",
     "venue": "Schubas"
   },
   {
@@ -404,7 +247,15 @@
   },
   {
     "artist": [
-      "Kangaroo Court, The Knee Hi's, The Courts"
+      "Ballout Comedy Night"
+    ],
+    "link": "https://lh-st.com/shows/10-06-2023-ballout-comedy-night/",
+    "date": "2023-10-06T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Kangaroo Court, The Courts, The Knee Hi's"
     ],
     "link": "https://lh-st.com/shows/10-06-2023-kangaroo-court/",
     "date": "2023-10-06T21:00:00",
@@ -515,6 +366,14 @@
   },
   {
     "artist": [
+      "Pig Swig Record Dig"
+    ],
+    "link": "https://lh-st.com/shows/10-15-2023-pig-swig-record-dig/",
+    "date": "2023-10-15T12:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Safekeeping, Why Bother, Strawberry Launch, Walkney"
     ],
     "link": "https://lh-st.com/shows/10-15-2023-safekeeping/",
@@ -555,7 +414,7 @@
   },
   {
     "artist": [
-      "JOHN, Tunic, Hydrodate"
+      "JOHN, Tunic"
     ],
     "link": "https://lh-st.com/shows/10-18-2023-john-timestwo/",
     "date": "2023-10-18T19:30:00",
@@ -592,7 +451,7 @@
   },
   {
     "artist": [
-      "Knucks"
+      "Knucks, Bizzy Crook"
     ],
     "link": "https://lh-st.com/shows/10-20-2023-knucks/",
     "date": "2023-10-20T21:00:00",
@@ -687,15 +546,15 @@
     "venue": "Lincoln Hall"
   },
   {
-    "artist": [
-      "Joey Nebulous, Tenci, Pinksqueeze"
-    ],
-    "link": "https://lh-st.com/shows/10-26-2023-joey-nebulous/",
+    "link": "https://lh-st.com/shows/10-26-2023-schubas-open-mic/",
     "date": "2023-10-26T20:00:00",
     "venue": "Schubas"
   },
   {
-    "link": "https://lh-st.com/shows/10-26-2023-schubas-open-mic/",
+    "artist": [
+      "Joey Nebulous, Tenci, Pinksqueeze"
+    ],
+    "link": "https://lh-st.com/shows/10-26-2023-joey-nebulous/",
     "date": "2023-10-26T20:00:00",
     "venue": "Schubas"
   },
@@ -717,7 +576,7 @@
   },
   {
     "artist": [
-      "grentperez"
+      "grentperez, Nep"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/10-28-2023-grentperez/",
@@ -726,8 +585,8 @@
   },
   {
     "artist": [
-      "Slow Magic",
-      "Beacon Bloom"
+      "Slow Magic, Conrad",
+      "Beacon Bloom, Conrad"
     ],
     "link": "https://lh-st.com/shows/10-29-2023-slow-magic-beacon-bloom/",
     "date": "2023-10-29T19:00:00",
@@ -751,8 +610,17 @@
   },
   {
     "artist": [
+      "daarling, Brady, xyzxyz"
+    ],
+    "link": "https://lh-st.com/shows/10-30-2023-daarling/",
+    "date": "2023-10-30T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Aidan Bissett, Anna Shoemaker"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-31-2023-aidan-bissett/",
     "date": "2023-10-31T19:30:00",
     "venue": "Schubas"
@@ -864,11 +732,35 @@
   },
   {
     "artist": [
+      "Ajani Jones, Wic Whitney, Kweku Collins, DJ Mochi"
+    ],
+    "link": "https://lh-st.com/shows/11-09-2023-ajani-jones/",
+    "date": "2023-11-09T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "The Trenchies, Daundry, The Roof Dogs"
+    ],
+    "link": "https://lh-st.com/shows/11-09-2023-the-trenchies/",
+    "date": "2023-11-09T21:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "S.G. Goodman, Why Bonnie"
     ],
     "link": "https://lh-st.com/shows/11-10-2023-s-g-goodman/",
     "date": "2023-11-10T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Pendejo Time, Max Shanker"
+    ],
+    "link": "https://lh-st.com/shows/11-10-2023-pendejo-time/",
+    "date": "2023-11-10T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -1020,6 +912,14 @@
   },
   {
     "artist": [
+      "Bront\u00eb Fall, Zach Pietrini"
+    ],
+    "link": "https://lh-st.com/shows/11-21-2023-bronte-fall/",
+    "date": "2023-11-21T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Pardyalone"
     ],
     "link": "https://lh-st.com/shows/11-22-2023-pardyalone/",
@@ -1076,6 +976,14 @@
   },
   {
     "artist": [
+      "Raja Kumari"
+    ],
+    "link": "https://lh-st.com/shows/12-03-2023-raja-kumari/",
+    "date": "2023-12-03T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Eartheater"
     ],
     "link": "https://lh-st.com/shows/12-04-2023-eartheater/",
@@ -1089,6 +997,14 @@
     "link": "https://lh-st.com/shows/12-06-2023-dylan-matthew/",
     "date": "2023-12-06T19:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Jensen McRae"
+    ],
+    "link": "https://lh-st.com/shows/12-06-2023-jensen-mcrae/",
+    "date": "2023-12-06T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -1141,6 +1057,14 @@
   },
   {
     "artist": [
+      "The Ike Reilly Assassination"
+    ],
+    "link": "https://lh-st.com/shows/12-22-2023-the-ike-reilly-assassination/",
+    "date": "2023-12-22T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "She's So Quiet, Vandalay, Trickshooter Social Club"
     ],
     "link": "https://lh-st.com/shows/01-07-2024-shes-so-quiet/",
@@ -1153,6 +1077,31 @@
     ],
     "link": "https://lh-st.com/shows/01-25-2024-armand-hammer/",
     "date": "2024-01-25T21:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Ryan Mack"
+    ],
+    "link": "https://lh-st.com/shows/02-05-2024-ryan-mack/",
+    "date": "2024-02-05T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Mir Fontane",
+      "Caleborate"
+    ],
+    "link": "https://lh-st.com/shows/02-18-2024-mir-fontane-caleborate/",
+    "date": "2024-02-18T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Ron Pope"
+    ],
+    "link": "https://lh-st.com/shows/02-20-2024-ron-pope/",
+    "date": "2024-02-20T20:00:00",
     "venue": "Lincoln Hall"
   },
   {
@@ -1171,6 +1120,14 @@
     "link": "https://lh-st.com/shows/02-28-2024-shay-lia/",
     "date": "2024-02-28T20:00:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Beach Weather, Phoneboy, Rec Hall"
+    ],
+    "link": "https://lh-st.com/shows/03-05-2024-beach-weather/",
+    "date": "2024-03-05T19:30:00",
+    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -1194,6 +1151,14 @@
     ],
     "link": "https://lh-st.com/shows/03-20-2024-josiah-and-the-bonnevilles/",
     "date": "2024-03-20T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Kid Francescoli"
+    ],
+    "link": "https://lh-st.com/shows/03-30-2024-kid-francescoli/",
+    "date": "2024-03-30T21:00:00",
     "venue": "Lincoln Hall"
   },
   {

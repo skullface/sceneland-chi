@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "DIVINE BAAZIGAR TOUR, RIAR SAAB"
-    ],
-    "link": "https://www.jamusa.com/events/detail/divine-497755",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
-      "Not Another D&D Podcast"
-    ],
-    "link": "https://www.jamusa.com/events/detail/not-another-d-d-podcast-483413",
-    "date": "2023-09-16T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
-      "Coheed and Cambria, w/ Special Guests Deafheaven"
-    ],
-    "link": "https://www.jamusa.com/events/detail/coheed-and-cambria-466652",
-    "date": "2023-09-19T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
-      "Little Simz"
-    ],
-    "link": "https://www.jamusa.com/events/detail/little-simz-479944",
-    "date": "2023-09-20T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
-      "The Disco Biscuits, SunSquabi"
-    ],
-    "link": "https://www.jamusa.com/events/detail/the-disco-biscuits-490364",
-    "date": "2023-09-21T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
       "Royal Blood, Bad Nerves"
     ],
     "link": "https://www.jamusa.com/events/detail/royal-blood-487426",
@@ -309,6 +269,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/g-jones-494376",
     "date": "2024-01-13T21:00:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Ricky Montgomery"
+    ],
+    "link": "https://www.jamusa.com/events/detail/ricky-montgomery-502655",
+    "date": "2024-03-05T19:30:00",
     "venue": "Riviera Theatre"
   },
   {
