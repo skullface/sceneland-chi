@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sarah and the Safe Word, Bullpup, Ouroboros The Poser And The Heathenz"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13437338/sarah-and-the-safe-word-bullpup-ouroboros-the-poser-and-the-heathenz",
-    "date": "2023-09-24T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "Flickerstick, LOW PHASE, The Darling Suns"
     ],
     "link": "https://www.beatkitchen.com/event-details/13416798/flickerstick-low-phase-the-darling-suns",
@@ -109,6 +101,7 @@
       "Lola Young"
     ],
     "link": "https://www.beatkitchen.com/event-details/13535358/lola-young",
+    "sold_out": true,
     "date": "2023-10-08T19:30:00",
     "venue": "Beat Kitchen"
   },
