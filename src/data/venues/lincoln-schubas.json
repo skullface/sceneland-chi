@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Oracle Sisters, Ryder the Eagle"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-23-2023-oracle-sisters/",
-    "date": "2023-09-23T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Sons of the East, LULLANAS"
-    ],
-    "link": "https://lh-st.com/shows/09-23-2023-sons-of-the-east/",
-    "date": "2023-09-23T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Richy Mitch & The Coal Miners, Evan Honer"
     ],
     "sold_out": true,
@@ -31,6 +14,7 @@
       "Intoner",
       "Cursecharm"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-24-2023-100-off-bands/",
     "date": "2023-09-24T20:00:00",
     "venue": "Schubas"
