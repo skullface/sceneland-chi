@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Richy Mitch & The Coal Miners, Evan Honer"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-24-2023-richy-mitch-and-the-coal-miners/",
-    "date": "2023-09-24T19:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Bled Tape",
-      "Intoner",
-      "Cursecharm"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-24-2023-100-off-bands/",
-    "date": "2023-09-24T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Medium Build, Rett Madison"
     ],
     "sold_out": true,
@@ -56,6 +36,7 @@
     "artist": [
       "Schtick"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-25-2023-schtick/",
     "date": "2023-09-27T20:00:00",
     "venue": "Schubas"
@@ -758,7 +739,6 @@
     "artist": [
       "Ben Kweller"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/11-11-2023-ben-kweller/",
     "date": "2023-11-11T21:00:00",
     "venue": "Lincoln Hall"
