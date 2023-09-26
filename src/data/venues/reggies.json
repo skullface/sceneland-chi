@@ -1,19 +1,5 @@
 [
   {
-    "artist": [
-      "ZACK FEDOR",
-      "BLAKE BURKHART"
-    ],
-    "date": "2023-09-25",
-    "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-4/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-25",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-71/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-09-26",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-80/",
     "venue": "Reggie\u2019s"
@@ -596,7 +582,7 @@
   {
     "artist": [
       "CODEFENDANTS",
-      "TBA"
+      "SOULTRU"
     ],
     "date": "2023-10-25",
     "link": "https://www.reggieslive.com/show/codefendants/",
@@ -1120,6 +1106,15 @@
     ],
     "date": "2023-12-01",
     "link": "https://www.reggieslive.com/show/chicago-emos-not-dead/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "GOZORTENPLAT (Frank Zappa Tribute)",
+      "THE CHICAGO ZAPPA COLLECTIVE (performs Frank Zappa's Billy The Mountain)"
+    ],
+    "date": "2023-12-01",
+    "link": "https://www.reggieslive.com/show/gozortenplat-with-ike-willis/",
     "venue": "Reggie\u2019s"
   },
   {

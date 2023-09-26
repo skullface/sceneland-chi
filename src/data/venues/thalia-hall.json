@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Shannon & The Clams 'In the Round', Gabacho"
-    ],
-    "link": "https://www.ticketweb.com/event/shannon-the-clams-in-thalia-hall-tickets/13337228",
-    "date": "2023-09-25T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Bandalos Chinos, Estereomance"
     ],
     "link": "https://www.ticketweb.com/event/bandalos-chinos-with-estereomance-thalia-hall-tickets/13322718",
@@ -35,7 +27,8 @@
     "artist": [
       "The Midnight, Replicant"
     ],
-    "link": "https://www.ticketweb.com/event/the-midnight-with-replicant-thalia-hall-tickets/13111005",
+    "link": "https://www.ticketweb.com/event/sold-out-the-midnight-with-thalia-hall-tickets/13111005",
+    "sold_out": true,
     "date": "2023-09-29T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -538,9 +531,9 @@
   },
   {
     "artist": [
-      "Bitchin Bajas"
+      "Bitchin Bajas, Glyders"
     ],
-    "link": "https://www.ticketweb.com/event/bitchin-bajas-thalia-hall-tickets/13608948",
+    "link": "https://www.ticketweb.com/event/bitchin-bajas-with-glyders-thalia-hall-tickets/13608948",
     "date": "2023-12-16T19:30:00",
     "venue": "Thalia Hall"
   },

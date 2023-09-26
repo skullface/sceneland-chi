@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Medium Build, Rett Madison"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-25-2023-medium-build/",
-    "date": "2023-09-25T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Field Medic, Olivia Barton"
-    ],
-    "link": "https://lh-st.com/shows/09-25-2023-field-medic/",
-    "date": "2023-09-25T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Human Bloom, Duane Powell"
     ],
     "link": "https://lh-st.com/shows/09-26-2023-human-bloom/",
@@ -26,7 +9,7 @@
   },
   {
     "artist": [
-      "Delaney Bailey"
+      "Delaney Bailey, Mila Degray"
     ],
     "link": "https://lh-st.com/shows/09-27-2023-delaney-bailey/",
     "date": "2023-09-27T19:30:00",
@@ -36,8 +19,7 @@
     "artist": [
       "Schtick"
     ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-25-2023-schtick/",
+    "link": "https://lh-st.com/shows/09-27-2023-schtick/",
     "date": "2023-09-27T20:00:00",
     "venue": "Schubas"
   },
@@ -697,7 +679,10 @@
   },
   {
     "artist": [
-      "Ajani Jones, Wic Whitney, Kweku Collins, DJ Mochi"
+      "Ajani Jones",
+      "Wic Whitney",
+      "Kweku Collins",
+      "DJ Mochi"
     ],
     "link": "https://lh-st.com/shows/11-09-2023-ajani-jones/",
     "date": "2023-11-09T20:00:00",
@@ -854,6 +839,7 @@
     "artist": [
       "MICO"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/11-19-2023-mico/",
     "date": "2023-11-19T19:30:00",
     "venue": "Schubas"
@@ -968,6 +954,14 @@
     ],
     "link": "https://lh-st.com/shows/12-06-2023-jensen-mcrae/",
     "date": "2023-12-06T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Haley Joelle, Lily Williams"
+    ],
+    "link": "https://lh-st.com/shows/12-07-2023-haley-joelle/",
+    "date": "2023-12-07T19:30:00",
     "venue": "Schubas"
   },
   {

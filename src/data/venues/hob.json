@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Glorious Sons: The Glory Tour"
-    ],
-    "link": "https://concerts.livenation.com/the-glorious-sons-the-glory-tour-chicago-illinois-09-25-2023/event/04005EC9EE743A14",
-    "date": "2023-09-25T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Keke Palmer: The Big Boss Tour"
     ],
     "link": "https://concerts.livenation.com/keke-palmer-the-big-boss-tour-chicago-illinois-09-26-2023/event/04005F01C7BA2633",
@@ -149,6 +141,14 @@
     ],
     "link": "https://concerts.livenation.com/peter-mcpoland-the-piggy-tour-chicago-illinois-10-20-2023/event/04005EB847664FC2",
     "date": "2023-10-20T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "House of BOOlesque"
+    ],
+    "link": "https://concerts.livenation.com/house-of-boolesque-chicago-illinois-10-20-2023/event/04005F34441E31BB",
+    "date": "2023-10-20T20:00:00",
     "venue": "House of Blues"
   },
   {
