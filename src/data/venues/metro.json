@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "You Me At Six \u2013 The Truth Decay Tour, MOTHICA, Wolf & Bear"
-    ],
-    "link": "https://metrochicago.com/event/you-me-at-six-the-truth-decay-tour/metro-chicago/chicago-illinois/",
-    "date": "2023-09-26T18:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "Fiddlehead, Buggin', Lifeguard, Restraining Order"
     ],
     "link": "https://metrochicago.com/event/fiddlehead/metro-chicago/chicago-illinois/",
@@ -370,6 +362,14 @@
     ],
     "link": "https://metrochicago.com/event/the-armed/metro-chicago/chicago-illinois/",
     "date": "2023-12-16T20:00:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "Sincere Engineer, The Brokedowns, Canadian Rifle"
+    ],
+    "link": "https://metrochicago.com/event/sincere-engineer/metro-chicago/chicago-illinois/",
+    "date": "2023-12-23T20:00:00",
     "venue": "Metro"
   },
   {

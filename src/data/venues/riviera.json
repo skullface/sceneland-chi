@@ -57,22 +57,6 @@
   },
   {
     "artist": [
-      "RAYE, Absolutely"
-    ],
-    "link": "https://www.jamusa.com/events/detail/raye-486656",
-    "date": "2023-10-10T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
-      "Noname"
-    ],
-    "link": "https://www.jamusa.com/events/detail/noname-498804",
-    "date": "2023-10-11T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
       "Lucinda Williams and Her Band"
     ],
     "link": "https://www.jamusa.com/events/detail/lucinda-williams-and-her-band-492357",
@@ -277,6 +261,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/ricky-montgomery-502655",
     "date": "2024-03-05T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Two Door Cinema Club, Joywave"
+    ],
+    "link": "https://www.jamusa.com/events/detail/two-door-cinema-club-503556",
+    "date": "2024-03-07T19:30:00",
     "venue": "Riviera Theatre"
   },
   {

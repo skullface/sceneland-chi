@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bandalos Chinos, Estereomance"
-    ],
-    "link": "https://www.ticketweb.com/event/bandalos-chinos-with-estereomance-thalia-hall-tickets/13322718",
-    "date": "2023-09-26T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Common Kings & Julian Marley: Road to Maui Tour,, Jakobs Castle"
     ],
     "link": "https://www.ticketweb.com/event/common-kings-julian-marley-thalia-hall-tickets/13336708",
@@ -603,6 +595,22 @@
   },
   {
     "artist": [
+      "Da\u00f0i Freyr"
+    ],
+    "link": "https://www.ticketweb.com/event/dai-freyr-thalia-hall-tickets/13608758",
+    "date": "2024-03-14T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Arlo Parks: My Soft Machine North American Tour, Chloe George"
+    ],
+    "link": "https://www.ticketweb.com/event/arlo-parks-my-thalia-hall-tickets/13598998",
+    "date": "2024-03-16T19:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "The Paper Kites"
     ],
     "link": "https://www.ticketweb.com/event/the-paper-kites-thalia-hall-tickets/13508898",
@@ -679,6 +687,14 @@
     ],
     "link": "https://www.ticketweb.com/event/ty-segall-thalia-hall-tickets/13494518",
     "date": "2024-05-06T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "The Longest Johns"
+    ],
+    "link": "https://www.ticketweb.com/event/the-longest-johns-thalia-hall-tickets/13665198",
+    "date": "2024-05-21T19:00:00",
     "venue": "Thalia Hall"
   }
 ]

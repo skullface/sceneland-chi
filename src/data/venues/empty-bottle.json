@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Interlay",
-      "Another Heaven",
-      "Dead Sun"
-    ],
-    "link": "https://www.ticketweb.com/event/interlay-another-heaven-empty-bottle-tickets/13534558",
-    "date": "2023-09-26T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "creaturefight",
       "Joyfriend",
       "Bled Tape"
@@ -109,10 +99,10 @@
   },
   {
     "artist": [
-      "Kate Bollinger",
+      "Chirp Radio Welcomes: Kate Bollinger",
       "Sam Burton"
     ],
-    "link": "https://www.ticketweb.com/event/kate-bollinger-sam-burton-empty-bottle-tickets/13399648",
+    "link": "https://www.ticketweb.com/event/chirp-radio-welcomes-kate-bollinger-empty-bottle-tickets/13399648",
     "date": "2023-10-07T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -160,10 +150,10 @@
   },
   {
     "artist": [
-      "CIVIC",
+      "Chirp Radio Welcomes: CIVIC",
       "Ganser"
     ],
-    "link": "https://www.ticketweb.com/event/civic-ganser-empty-bottle-tickets/13187988",
+    "link": "https://www.ticketweb.com/event/chirp-radio-welcomes-civic-empty-bottle-tickets/13187988",
     "date": "2023-10-12T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -198,9 +188,10 @@
   },
   {
     "artist": [
-      "Orions Belte"
+      "Orions Belte",
+      "Junegrass"
     ],
-    "link": "https://www.ticketweb.com/event/orions-belte-empty-bottle-tickets/13358788",
+    "link": "https://www.ticketweb.com/event/orions-belte-junegrass-empty-bottle-tickets/13358788",
     "date": "2023-10-15T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -272,6 +263,15 @@
   },
   {
     "artist": [
+      "Fotocrime",
+      "Iron Years"
+    ],
+    "link": "https://www.ticketweb.com/event/free-monday-w-fotocrime-empty-bottle-tickets/13663998",
+    "date": "2023-10-23T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "A Giant Dog",
       "Trouble In The Streets",
       "Avantist"
@@ -303,6 +303,14 @@
     ],
     "link": "https://www.ticketweb.com/event/waking-the-witch-empty-bottle-tickets/13663838",
     "date": "2023-10-28T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Empty Bottle Book Club Discusses: Zone One by Colton Whitehead"
+    ],
+    "link": "https://www.ticketweb.com/event/empty-bottle-book-club-discusses-empty-bottle-tickets/13678208",
+    "date": "2023-10-29T14:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -351,6 +359,16 @@
     ],
     "link": "https://www.ticketweb.com/event/rich-jones-shrapknel-empty-bottle-tickets/13598248",
     "date": "2023-11-04T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Junior Mint Prince",
+      "Dorothy Carlos",
+      "Signal Decay"
+    ],
+    "link": "https://www.ticketweb.com/event/free-monday-w-junior-mint-empty-bottle-tickets/13674588",
+    "date": "2023-11-06T21:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -454,6 +472,16 @@
   },
   {
     "artist": [
+      "Melkbelly",
+      "Paper Mice",
+      "Godstar Megamax"
+    ],
+    "link": "https://www.ticketweb.com/event/melkbelly-paper-mice-empty-bottle-tickets/13658278",
+    "date": "2023-11-22T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Lydia Loveless"
     ],
     "link": "https://www.ticketweb.com/event/lydia-loveless-empty-bottle-tickets/13644208",
@@ -477,6 +505,15 @@
     ],
     "link": "https://www.ticketweb.com/event/urban-heat-rare-dm-empty-bottle-tickets/13537828",
     "date": "2023-11-28T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Kiwi Jr & Stef Chura",
+      "Rui Gabriel"
+    ],
+    "link": "https://www.ticketweb.com/event/kiwi-jr-stef-chura-empty-bottle-tickets/13636868",
+    "date": "2023-12-02T21:00:00",
     "venue": "Empty Bottle"
   },
   {

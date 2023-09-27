@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Human Bloom, Duane Powell"
-    ],
-    "link": "https://lh-st.com/shows/09-26-2023-human-bloom/",
-    "date": "2023-09-26T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Delaney Bailey, Mila Degray"
     ],
     "link": "https://lh-st.com/shows/09-27-2023-delaney-bailey/",
@@ -156,7 +148,7 @@
     "artist": [
       "Lettering",
       "Demo Division",
-      "Bottom Bunk"
+      "Able Baker"
     ],
     "link": "https://lh-st.com/shows/10-04-2023-100-off-bands/",
     "date": "2023-10-04T20:00:00",
@@ -294,6 +286,14 @@
     "link": "https://lh-st.com/shows/10-13-2023-blanco-white/",
     "date": "2023-10-13T21:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Vibes on Logan"
+    ],
+    "link": "https://lh-st.com/shows/10-13-2023-meet-me-upstairs/",
+    "date": "2023-10-13T21:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -520,6 +520,14 @@
     "link": "https://lh-st.com/shows/10-27-2023-cosmic-country-kacy-clayton-esther-rose/",
     "date": "2023-10-27T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Ready For The Floor"
+    ],
+    "link": "https://lh-st.com/shows/10-27-2023-meet-me-upstairs/",
+    "date": "2023-10-27T21:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -894,6 +902,14 @@
   },
   {
     "artist": [
+      "Girlhouse"
+    ],
+    "link": "https://lh-st.com/shows/11-29-2023-girlhouse/",
+    "date": "2023-11-29T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Ama Lou"
     ],
     "link": "https://lh-st.com/shows/11-30-2023-ama-lou/",
@@ -1036,6 +1052,14 @@
     "link": "https://lh-st.com/shows/01-25-2024-armand-hammer/",
     "date": "2024-01-25T21:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Christopher"
+    ],
+    "link": "https://lh-st.com/shows/02-02-2024-christopher/",
+    "date": "2024-02-02T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Flickerstick, LOW PHASE, The Darling Suns"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13416798/flickerstick-low-phase-the-darling-suns",
-    "sold_out": true,
-    "date": "2023-09-27T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "JACKS AND ATOMS, FLWERS, Carrying Torches"
     ],
     "link": "https://www.beatkitchen.com/event-details/13504868/jacks-and-atoms-flwers-carrying-torches",
@@ -151,6 +142,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13267128/off-with-their-heads-dead-bars-black-cross-hotel",
     "date": "2023-10-14T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "THE BARB AND BARRETT SHOW"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13679618/the-barb-and-barrett-show",
+    "date": "2023-10-15T11:30:00",
     "venue": "Beat Kitchen"
   },
   {

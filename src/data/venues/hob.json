@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Keke Palmer: The Big Boss Tour"
-    ],
-    "link": "https://concerts.livenation.com/keke-palmer-the-big-boss-tour-chicago-illinois-09-26-2023/event/04005F01C7BA2633",
-    "date": "2023-09-26T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Switchfoot: The Beautiful Letdown 20th Anniversary Tour"
     ],
     "link": "https://concerts.livenation.com/switchfoot-the-beautiful-letdown-20th-anniversary-chicago-illinois-09-27-2023/event/04005E94BCCC2670",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/justin-quiles-niveles-tour-2023-chicago-illinois-12-08-2023/event/04005ED41A94475C",
     "date": "2023-12-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Mora"
+    ],
+    "link": "https://concerts.livenation.com/mora-chicago-illinois-12-10-2023/event/04005F11348C517E",
+    "date": "2023-12-10T18:00:00",
     "venue": "House of Blues"
   }
 ]

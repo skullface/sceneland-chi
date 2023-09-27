@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Asking Alexandria & The HU, Zero 9:36"
-    ],
-    "link": "https://www.jamusa.com/events/detail/asking-alexandria-the-hu-489281",
-    "date": "2023-09-26T19:00:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "The Wombats, Red Rum Club"
     ],
     "link": "https://www.jamusa.com/events/detail/the-wombats-477528",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/little-dragon-489061",
     "date": "2023-10-07T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "RAYE, Absolutely"
+    ],
+    "link": "https://www.jamusa.com/events/detail/raye-486656",
+    "date": "2023-10-10T19:30:00",
     "venue": "The Vic Theatre"
   },
   {
@@ -321,6 +321,14 @@
   },
   {
     "artist": [
+      "Noname"
+    ],
+    "link": "https://www.jamusa.com/events/detail/noname-498804",
+    "date": "2023-11-24T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "Mortified 20 - Celebrating two decades of shame"
     ],
     "link": "https://www.jamusa.com/events/detail/mortified-20-celebrating-two-decades-of-shame-503966",
@@ -401,6 +409,14 @@
   },
   {
     "artist": [
+      "Magic City Hippies"
+    ],
+    "link": "https://www.jamusa.com/events/detail/magic-city-hippies-503798",
+    "date": "2024-01-26T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "Criminal"
     ],
     "link": "https://www.jamusa.com/events/detail/criminal-504019",
@@ -445,6 +461,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/jimbo-s-drag-circus-495388",
     "date": "2024-04-13T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Justin Willman"
+    ],
+    "link": "https://www.jamusa.com/events/detail/justin-willman-502706",
+    "date": "2024-04-19T19:00:00",
     "venue": "The Vic Theatre"
   },
   {

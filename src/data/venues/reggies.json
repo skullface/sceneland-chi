@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-09-26",
-    "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-80/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-09-27",
     "link": "https://www.reggieslive.com/show/tabletop-fleapit-presents-chicagoland-2/",
     "venue": "Reggie\u2019s"
@@ -504,17 +499,18 @@
     "venue": "Reggie\u2019s"
   },
   {
-    "date": "2023-10-21",
-    "link": "https://www.reggieslive.com/show/open-mic-comedy-94/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "artist": [
       "JASON KANE & THE JIVE",
-      "RICKY D AND THE SMOKESTACK MOJOS"
+      "RICKY D AND THE SMOKESTACK MOJOS",
+      "GATORWATER"
     ],
     "date": "2023-10-21",
     "link": "https://www.reggieslive.com/show/jason-kane-the-jive-19/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "date": "2023-10-21",
+    "link": "https://www.reggieslive.com/show/open-mic-comedy-94/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -847,6 +843,17 @@
   },
   {
     "artist": [
+      "LAS CRUCES",
+      "HOWLING GIANT",
+      "RESTLESS SPIRIT",
+      "COKUS"
+    ],
+    "date": "2023-11-11",
+    "link": "https://www.reggieslive.com/show/howling-giant-4/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "BILLY FLYNN BAND"
     ],
     "date": "2023-11-12",
@@ -1027,7 +1034,8 @@
   {
     "artist": [
       "KOFFIN KATS",
-      "TBA"
+      "THE KRANK DADDIES",
+      "HEADLESS HONCHOS"
     ],
     "date": "2023-11-24",
     "link": "https://www.reggieslive.com/show/koffin-kats-8/",
