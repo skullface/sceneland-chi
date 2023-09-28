@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Broken Planet"
-    ],
-    "link": "https://hideoutchicago.com/event/broken-planet-3/hideout-chicago/chicago/",
-    "date": "2023-09-27T20:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Carlos Truly (of Ava Luna) Solo with Javier Reyes and Head"
     ],
     "link": "https://hideoutchicago.com/event/carlos-truly-of-ava-luna-solo-with-javier-reyes-and-head/hideout-chicago/chicago/",
@@ -89,6 +81,14 @@
   },
   {
     "artist": [
+      "LP\u2019s Happy Hour: Greg Garing"
+    ],
+    "link": "https://hideoutchicago.com/event/lps-happy-hour-greg-garing/hideout-chicago/chicago/",
+    "date": "2023-10-06T18:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
       "Shamarr Allen"
     ],
     "link": "https://hideoutchicago.com/event/shamarr-allen-with-special-guest/hideout-chicago/chicago/",
@@ -117,6 +117,14 @@
     ],
     "link": "https://hideoutchicago.com/event/maria-elena-silva-dulce-album-release-show-with-charles-rumback-quartet-and-acosta-young/hideout-chicago/chicago/",
     "date": "2023-10-08T21:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "JJ and the Daydrinkers with Rachel Drew"
+    ],
+    "link": "https://hideoutchicago.com/event/jj-and-the-daydrinkers-with-rachel-drew/hideout-chicago/chicago/",
+    "date": "2023-10-09T20:00:00",
     "venue": "Hideout"
   },
   {
@@ -185,9 +193,9 @@
   },
   {
     "artist": [
-      "Model/Actriz"
+      "Model/Actriz with Conjunto Primitivo"
     ],
-    "link": "https://hideoutchicago.com/event/model-actriz-with-special-guest/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/model-actriz-with-conjunto-primitivo/hideout-chicago/chicago/",
     "date": "2023-10-15T20:30:00",
     "sold_out": true,
     "venue": "Hideout"
@@ -202,9 +210,9 @@
   },
   {
     "artist": [
-      "Ira Glass with Repent and Pure Intention"
+      "Pure Intention with Repent and Ira Glass"
     ],
-    "link": "https://hideoutchicago.com/event/ira-glass-with-repent-and-pure-intention/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/pure-intention-with-repent-and-ira-glass/hideout-chicago/chicago/",
     "date": "2023-10-18T20:30:00",
     "venue": "Hideout"
   },
@@ -234,9 +242,9 @@
   },
   {
     "artist": [
-      "Semler"
+      "Semler with Imani Graham"
     ],
-    "link": "https://hideoutchicago.com/event/semler-with-special-guest/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/semler-with-imani-graham/hideout-chicago/chicago/",
     "date": "2023-10-23T20:30:00",
     "venue": "Hideout"
   },

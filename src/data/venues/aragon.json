@@ -145,6 +145,14 @@
   },
   {
     "artist": [
+      "Lil Yachty UPGRADE Add-On (Event Ticket Sold Separately)"
+    ],
+    "link": "https://concerts.livenation.com/lil-yachty-upgrade-addon-event-ticket-chicago-illinois-11-03-2023/event/04005F3BBBB81FDE",
+    "date": "2023-11-03T19:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
       "Reventon Sonidero!"
     ],
     "link": "https://concerts.livenation.com/reventon-sonidero-chicago-illinois-11-04-2023/event/04005F11E1CA3426",
@@ -253,6 +261,14 @@
     ],
     "link": "https://concerts.livenation.com/hot-mulligan-chicago-illinois-12-15-2023/event/04005F09B98F22B2",
     "date": "2023-12-15T18:30:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Nora En Pure"
+    ],
+    "link": "https://concerts.livenation.com/nora-en-pure-chicago-illinois-12-31-2023/event/04005F3A0EB92CE0",
+    "date": "2023-12-31T21:00:00",
     "venue": "Aragon Ballroom"
   }
 ]

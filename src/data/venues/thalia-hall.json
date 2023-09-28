@@ -1,17 +1,10 @@
 [
   {
     "artist": [
-      "Common Kings & Julian Marley: Road to Maui Tour,, Jakobs Castle"
-    ],
-    "link": "https://www.ticketweb.com/event/common-kings-julian-marley-thalia-hall-tickets/13336708",
-    "date": "2023-09-27T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Midnight, Flamingosis"
     ],
-    "link": "https://www.ticketweb.com/event/the-midnight-with-flamingosis-thalia-hall-tickets/13110975",
+    "link": "https://www.ticketweb.com/event/sold-out-the-midnight-with-thalia-hall-tickets/13110975",
+    "sold_out": true,
     "date": "2023-09-28T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -131,7 +124,7 @@
   },
   {
     "artist": [
-      "The California Honeydrops: Bye Bye Baby Tour"
+      "The California Honeydrops: Bye Bye Baby Tour, Hollyy"
     ],
     "link": "https://www.ticketweb.com/event/the-california-honeydrops-thalia-hall-tickets/13396898",
     "date": "2023-10-15T19:00:00",
@@ -139,7 +132,7 @@
   },
   {
     "artist": [
-      "The California Honeydrops: Bye Bye Baby Tour"
+      "The California Honeydrops: Bye Bye Baby Tour, The Broomestix"
     ],
     "link": "https://www.ticketweb.com/event/the-california-honeydrops-thalia-hall-tickets/13396928",
     "date": "2023-10-16T19:00:00",

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Comedy Open Mic"
-    ],
-    "link": "https://colesbarchicago.com/event/comedy-open-mic-20/coles-bar/n-milwaukee-illinois/",
-    "date": "2023-09-27T20:00:00",
-    "venue": "Cole\u2019s Bar"
-  },
-  {
-    "artist": [
       "Scott Yoder (Seattle), Carrellee (Madison), Kill Scenes, DJ Scary Lady Sarah"
     ],
     "link": "https://colesbarchicago.com/event/scott-yoder-seattle-carrellee-madison-kill-scenes-dj-scary-lady-sarah/coles-bar/n-milwaukee-illinois/",
@@ -33,9 +25,9 @@
   },
   {
     "artist": [
-      "Alenia, Jack of Heart, 50K Check"
+      "Electric Mothership, Jack of Heart, 50K Check"
     ],
-    "link": "https://colesbarchicago.com/event/alenia-jack-of-heart-50k-check/coles-bar/n-milwaukee-illinois/",
+    "link": "https://colesbarchicago.com/event/electric-mothership-jack-of-heart-50k-check/coles-bar/n-milwaukee-illinois/",
     "date": "2023-10-01T16:00:00",
     "venue": "Cole\u2019s Bar"
   },
@@ -105,9 +97,9 @@
   },
   {
     "artist": [
-      "Emjaiye Royale, M.Whise, Nova the King"
+      "The Throne of Kings: Emjaiye Royale, M.Whise, Nova The King, SamTheSentient"
     ],
-    "link": "https://colesbarchicago.com/event/emjaiye-royale-m-whise-nova-the-king/coles-bar/n-milwaukee-illinois/",
+    "link": "https://colesbarchicago.com/event/the-throne-of-kings-emjaiye-royale-m-whise-nova-the-king-samthesentient/coles-bar/n-milwaukee-illinois/",
     "date": "2023-10-10T22:00:00",
     "venue": "Cole\u2019s Bar"
   },
@@ -153,6 +145,14 @@
   },
   {
     "artist": [
+      "Video Game Music DJ Night with Equip & Mukqs"
+    ],
+    "link": "https://colesbarchicago.com/event/video-game-music-dj-night-with-equip-mukqs-6/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-10-16T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
       "Perfect Mash: A Dating Show"
     ],
     "link": "https://colesbarchicago.com/event/perfect-mash-a-dating-show-2/coles-bar/n-milwaukee-illinois/",
@@ -173,6 +173,14 @@
     ],
     "link": "https://colesbarchicago.com/event/teo-the-artist-alysha-monique-the-family-divine-juice-mazelee/coles-bar/n-milwaukee-illinois/",
     "date": "2023-10-19T22:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "MIC CHECK III: Dre Wave$, Adia Dew, Jesse 5K, Bemi"
+    ],
+    "link": "https://colesbarchicago.com/event/mic-check-iii-dre-wave-adia-dew-jesse-5k-bemi/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-10-20T22:00:00",
     "venue": "Cole\u2019s Bar"
   },
   {

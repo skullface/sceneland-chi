@@ -57,15 +57,6 @@
   },
   {
     "artist": [
-      "Good Hangs",
-      "Bottom Bunk"
-    ],
-    "date": "2023-10-07T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13657798/good-hangs-bottom-bunk",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Emarosa",
       "The Dangerous Summer",
       "First and Forever",
@@ -144,16 +135,6 @@
     ],
     "date": "2023-10-27T20:00:00",
     "link": "https://bottomlounge.com/13709-2/13169498/idk-lute-luna-elle",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
-      "Games We Play",
-      "Jutes",
-      "Ultra Q"
-    ],
-    "date": "2023-10-28T19:00:00",
-    "link": "https://bottomlounge.com/13709-2/13433228/games-we-play-jutes-ultra-q",
     "venue": "Bottom Lounge"
   },
   {
@@ -378,6 +359,17 @@
     ],
     "date": "2023-12-08T21:00:00",
     "link": "https://bottomlounge.com/13709-2/13186498/bea-miller-gauche-tour",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "Nonpoint",
+      "Hed PE",
+      "Sumo Cyco",
+      "VRSTY"
+    ],
+    "date": "2023-12-10T19:00:00",
+    "link": "https://bottomlounge.com/13709-2/13673038/nonpoint-hed-pe-sumo-cyco-vrsty",
     "venue": "Bottom Lounge"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KAT AND THE HURRICANE, Disaster Kid, BILLY JOEL JR., DOGBOD"
-    ],
-    "date": "2023-09-27T19:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/kat-and-the-hurricane-disaster-kid-billy-joel-jr-dogbod/13506878",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "D2X, SONNY, Senite"
     ],
     "date": "2023-09-28T20:00:00",
@@ -73,10 +65,10 @@
   },
   {
     "artist": [
-      "mssv, Eli Winter"
+      "mssv, Eli Winter , WEAKLUNG"
     ],
     "date": "2023-10-02T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/mssv-eli-winter/13226008",
+    "link": "https://www.subt.net/event/tw-eventinfo/mssv-eli-winter-weaklung/13226008",
     "venue": "Subterranean"
   },
   {
@@ -195,10 +187,10 @@
   },
   {
     "artist": [
-      "Chamber, TRACHEOTOMY"
+      "Chamber, TRACHEOTOMY, Excrucis"
     ],
     "date": "2023-10-14T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/chamber-tracheotomy/13579288",
+    "link": "https://www.subt.net/event/tw-eventinfo/chamber-tracheotomy-excrucis/13579288",
     "venue": "Subterranean"
   },
   {
@@ -533,10 +525,26 @@
   },
   {
     "artist": [
+      "DAFT DISKO"
+    ],
+    "date": "2023-12-31T21:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/daft-disko/13685048",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "Joey Valence & Brae"
     ],
     "date": "2024-01-29T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/joey-valence-brae/13602778",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Frank Carter & The Rattlesnakes"
+    ],
+    "date": "2024-05-14T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/frank-carter-the-rattlesnakes/13680998",
     "venue": "Subterranean"
   }
 ]

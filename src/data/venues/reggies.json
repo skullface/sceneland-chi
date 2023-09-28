@@ -1,20 +1,5 @@
 [
   {
-    "date": "2023-09-27",
-    "link": "https://www.reggieslive.com/show/tabletop-fleapit-presents-chicagoland-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "BOOZE & GLORY",
-      "AVEM",
-      "POISON BOYS"
-    ],
-    "date": "2023-09-27",
-    "link": "https://www.reggieslive.com/show/booze-glory-3/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "artist": [
       "CROWBAR",
       "PRIMITIVE MAN",
@@ -164,6 +149,14 @@
     ],
     "date": "2023-10-05",
     "link": "https://www.reggieslive.com/show/sam-tompkins/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "Ha Ha Hollywood Comedy Show"
+    ],
+    "date": "2023-10-05",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -421,6 +414,9 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "BEN CROOCH"
+    ],
     "date": "2023-10-17",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-98/",
     "venue": "Reggie\u2019s"
@@ -489,7 +485,6 @@
       "THE BOLLWEEVILS",
       "SPECIAL GUESTS",
       "CAPGUN HEROES",
-      "WON\u2019T STAY DEAD",
       "THE STEPHENS",
       "GOODBYE SUNSHINE",
       "THE RIP TAYLORS"
@@ -776,6 +771,14 @@
   {
     "date": "2023-11-07",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-101/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "THE LAY DOWN RAMBLERS"
+    ],
+    "date": "2023-11-09",
+    "link": "https://www.reggieslive.com/show/the-lay-down-ramblers-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1195,6 +1198,15 @@
   {
     "date": "2023-12-12",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-109/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "MOTEL BREAKFAST",
+      "SPECIAL GUESTS"
+    ],
+    "date": "2023-12-15",
+    "link": "https://www.reggieslive.com/show/motel-breakfast-8/",
     "venue": "Reggie\u2019s"
   },
   {

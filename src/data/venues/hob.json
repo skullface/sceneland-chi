@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Switchfoot: The Beautiful Letdown 20th Anniversary Tour"
-    ],
-    "link": "https://concerts.livenation.com/switchfoot-the-beautiful-letdown-20th-anniversary-chicago-illinois-09-27-2023/event/04005E94BCCC2670",
-    "date": "2023-09-27T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Here Come the Mummies"
     ],
     "link": "https://concerts.livenation.com/here-come-the-mummies-chicago-illinois-09-29-2023/event/04005E92F25225AA",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/mora-chicago-illinois-12-10-2023/event/04005F11348C517E",
     "date": "2023-12-10T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Roy Woods Me & U Tour"
+    ],
+    "link": "https://concerts.livenation.com/roy-woods-me-u-tour-chicago-illinois-12-11-2023/event/04005F0FB4D823B1",
+    "date": "2023-12-11T19:00:00",
     "venue": "House of Blues"
   }
 ]
