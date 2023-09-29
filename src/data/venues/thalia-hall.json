@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Midnight, Flamingosis"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-the-midnight-with-thalia-hall-tickets/13110975",
-    "sold_out": true,
-    "date": "2023-09-28T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Midnight, Replicant"
     ],
     "link": "https://www.ticketweb.com/event/sold-out-the-midnight-with-thalia-hall-tickets/13111005",
@@ -76,14 +67,6 @@
   },
   {
     "artist": [
-      "Roc Marciano"
-    ],
-    "link": "https://www.ticketweb.com/event/roc-marciano-thalia-hall-tickets/13397298",
-    "date": "2023-10-09T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Dollop!"
     ],
     "link": "https://www.ticketweb.com/event/the-dollop-thalia-hall-tickets/13310488",
@@ -94,7 +77,8 @@
     "artist": [
       "The Brook & The Bluff \u2013 Bluebeard Tour 2023, Bendigo Fletcher"
     ],
-    "link": "https://www.ticketweb.com/event/the-brook-the-bluff-thalia-hall-tickets/13268658",
+    "link": "https://www.ticketweb.com/event/sold-out-the-brook-thalia-hall-tickets/13268658",
+    "sold_out": true,
     "date": "2023-10-11T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -367,6 +351,14 @@
     ],
     "link": "https://www.ticketweb.com/event/josh-johnson-thalia-hall-tickets/13128785",
     "date": "2023-11-16T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "The Wood Brothers:  A Benefit Concert for Beyond Hunger"
+    ],
+    "link": "https://www.ticketweb.com/event/the-wood-brothers-a-thalia-hall-tickets/13630638",
+    "date": "2023-11-17T19:00:00",
     "venue": "Thalia Hall"
   },
   {

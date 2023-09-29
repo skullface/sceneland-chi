@@ -1,16 +1,7 @@
 [
   {
     "artist": [
-      "Pabllo Vittar",
-      "COBRAH, Miss Toto"
-    ],
-    "link": "https://concordmusichall.com/calendar/pabllo-vittar/",
-    "date": "2023-09-27T18:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
-      "R\u00c3\u00b6yksopp",
+      "R\u00f6yksopp",
       "Chess Knight"
     ],
     "link": "https://concordmusichall.com/calendar/royksopp/",
@@ -162,7 +153,7 @@
   },
   {
     "artist": [
-      "Babas\u00c3\u00b3nicos"
+      "Babas\u00f3nicos"
     ],
     "link": "https://concordmusichall.com/calendar/babasonicos/",
     "date": "2023-11-15T18:00:00",
@@ -237,6 +228,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/peekaboo/",
     "date": "2023-12-09T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "The Return of The Superwrestlers",
+      "The Continuing Saga of Earth's Strangest Pro Wrestling Company"
+    ],
+    "link": "https://concordmusichall.com/calendar/the-return-of-the-superwrestlers/",
+    "date": "2023-12-10T18:00:00",
     "venue": "Concord Music Hall"
   },
   {

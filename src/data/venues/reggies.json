@@ -1,26 +1,5 @@
 [
   {
-    "artist": [
-      "CROWBAR",
-      "PRIMITIVE MAN",
-      "BODYBOX",
-      "STOMACH"
-    ],
-    "date": "2023-09-28",
-    "link": "https://www.reggieslive.com/show/crowbar-4/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "QUEENS OF THE STONE AGE \u201cQUEENS OF THE STONE AGE\u201d (performed by Ricky Liontones)",
-      "VIOLENT FEMMES \u201cVIOLENT FEMMES\u201d (performed by Violent Themmes)",
-      "LED ZEPPELIN \u201cHOUSES OF THE HOLY\u201d (performed by Heisenberg Uncertainty Players)"
-    ],
-    "date": "2023-09-28",
-    "link": "https://www.reggieslive.com/show/jim-ryans-classic-albums-night-43/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-09-29",
     "link": "https://www.reggieslive.com/show/pancakes-and-booze-art-show-31/",
     "venue": "Reggie\u2019s"
@@ -153,7 +132,11 @@
   },
   {
     "artist": [
-      "Ha Ha Hollywood Comedy Show"
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
     ],
     "date": "2023-10-05",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show/",
@@ -258,14 +241,6 @@
   {
     "date": "2023-10-07",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-92/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "MIKE WHEELER BAND"
-    ],
-    "date": "2023-10-08",
-    "link": "https://www.reggieslive.com/show/mike-wheeler-band-3/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -456,6 +431,18 @@
   },
   {
     "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-10-19",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "THE QUEERS",
       "SACK",
       "THE RAGING NATHANS",
@@ -590,6 +577,18 @@
   },
   {
     "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-10-26",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-3/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "THE HANDSOME DEVILZ (covering The Smiths, Morrissey & Cure)",
       "NOW I\u2019M NOTHING (tribute to NIN)",
       "BREAKING THE GIRL",
@@ -696,6 +695,18 @@
   },
   {
     "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-11-02",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-4/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "THE STEEPWATER BAND",
       "THE MIDNIGHT CALLS"
     ],
@@ -779,6 +790,18 @@
     ],
     "date": "2023-11-09",
     "link": "https://www.reggieslive.com/show/the-lay-down-ramblers-2/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-11-09",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-5/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -933,6 +956,18 @@
     ],
     "date": "2023-11-15",
     "link": "https://www.reggieslive.com/show/jared-james-nichols/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-11-16",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-6/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1097,6 +1132,18 @@
     ],
     "date": "2023-11-30",
     "link": "https://www.reggieslive.com/show/jer-vial/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "ALLIE K",
+      "TONY SCULFIELD",
+      "KEVIN WILLIAMS",
+      "CHRIS MICHAELS (Pre-Game Antics)",
+      "B. COLE (Host)"
+    ],
+    "date": "2023-11-30",
+    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-7/",
     "venue": "Reggie\u2019s"
   },
   {

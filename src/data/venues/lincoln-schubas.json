@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Johnny Orlando"
-    ],
-    "link": "https://lh-st.com/shows/09-28-2023-johnny-orlando/",
-    "date": "2023-09-28T19:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "link": "https://lh-st.com/shows/09-28-2023-schubas-open-mic/",
-    "date": "2023-09-28T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Midamerican Elevator",
-      "Jane Hobson",
-      "Medical Miracle"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-28-2023-100-off-bands/",
-    "date": "2023-09-28T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Casey, Guests"
     ],
     "link": "https://lh-st.com/shows/09-29-2023-casey/",
@@ -43,6 +19,7 @@
     "artist": [
       "DJ Soup Time"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/09-29-2023-meet-me-upstairs/",
     "date": "2023-09-29T21:00:00",
     "venue": "Schubas"
@@ -906,6 +883,14 @@
   },
   {
     "artist": [
+      "Ariana and The Rose"
+    ],
+    "link": "https://lh-st.com/shows/11-28-2023-ariana-and-the-rose/",
+    "date": "2023-11-28T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Girlhouse"
     ],
     "link": "https://lh-st.com/shows/11-29-2023-girlhouse/",
@@ -919,6 +904,14 @@
     "link": "https://lh-st.com/shows/11-30-2023-ama-lou/",
     "date": "2023-11-30T19:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Jay Wood, Khaliyah X, Cassius Tae"
+    ],
+    "link": "https://lh-st.com/shows/11-30-2023-jay-wood/",
+    "date": "2023-11-30T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -962,6 +955,14 @@
   },
   {
     "artist": [
+      "Confidence Man"
+    ],
+    "link": "https://lh-st.com/shows/12-05-2023-confidence-man/",
+    "date": "2023-12-05T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Dylan Matthew, Rachel Grae"
     ],
     "link": "https://lh-st.com/shows/12-06-2023-dylan-matthew/",
@@ -992,6 +993,14 @@
     "link": "https://lh-st.com/shows/12-07-2023-xavier-omar-elhae/",
     "date": "2023-12-07T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Valebol, Santrio (Solo)"
+    ],
+    "link": "https://lh-st.com/shows/12-08-2023-valebol/",
+    "date": "2023-12-08T21:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
