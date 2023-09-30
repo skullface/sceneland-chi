@@ -1,25 +1,5 @@
 [
   {
-    "date": "2023-09-29",
-    "link": "https://www.reggieslive.com/show/pancakes-and-booze-art-show-31/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "TRAVIS LARSON BAND",
-      "THE MYSTICAL HOT CHOCOLATE ENDEAVORS",
-      "TATE"
-    ],
-    "date": "2023-09-29",
-    "link": "https://www.reggieslive.com/show/travis-larson-band-3/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-09-29",
-    "link": "https://www.reggieslive.com/show/pancakes-and-booze-art-show-29/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-09-30",
     "link": "https://www.reggieslive.com/show/pancakes-and-booze-art-show-30/",
     "venue": "Reggie\u2019s"
@@ -763,6 +743,17 @@
     ],
     "date": "2023-11-05",
     "link": "https://www.reggieslive.com/show/goatwhore-4/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "TORCH THE HIVE",
+      "EVE BLACK",
+      "CRANBERRY BATCAVE",
+      "DEAD LANGUAGES"
+    ],
+    "date": "2023-11-05",
+    "link": "https://www.reggieslive.com/show/torch-the-hive-3/",
     "venue": "Reggie\u2019s"
   },
   {

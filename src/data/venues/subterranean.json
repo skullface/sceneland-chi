@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "AUTOPILOT, The King of Mars, Torch The Hive"
-    ],
-    "date": "2023-09-29T18:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/autopilot-the-king-of-mars-torch-the-hive/13457398",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "THE HUSTLE (DANCE PARTY)"
-    ],
-    "date": "2023-09-29T21:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/the-hustle-dance-party/13326978",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "Turning Birds, TREE PIECE, 50K CHECK"
     ],
     "date": "2023-09-30T19:00:00",
@@ -465,6 +449,14 @@
     "date": "2023-11-22T19:30:00",
     "sold_out": true,
     "link": "https://www.subt.net/event/tw-eventinfo/jazmin-bean/13454408",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "CAPITAL SOIRE\u00c9, Pinksqueeze, Violet Crime, Teen Blush"
+    ],
+    "date": "2023-11-24T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/capital-soiree-pinksqueeze-violet-crime-teen-blush/13689568",
     "venue": "Subterranean"
   },
   {

@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "The Midnight, Replicant"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-the-midnight-with-thalia-hall-tickets/13111005",
-    "sold_out": true,
-    "date": "2023-09-29T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Pat Metheny Dream Box Tour"
     ],
-    "link": "https://www.ticketweb.com/event/pat-metheny-dream-box-tour-thalia-hall-tickets/13352438",
+    "link": "https://www.ticketweb.com/event/sold-out-pat-metheny-dream-thalia-hall-tickets/13352438",
+    "sold_out": true,
     "date": "2023-10-01T19:00:00",
     "venue": "Thalia Hall"
   },

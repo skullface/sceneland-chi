@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Here Come the Mummies"
-    ],
-    "link": "https://concerts.livenation.com/here-come-the-mummies-chicago-illinois-09-29-2023/event/04005E92F25225AA",
-    "date": "2023-09-29T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Neon Trees: The Favorite Daze Tour"
     ],
     "link": "https://concerts.livenation.com/neon-trees-the-favorite-daze-tour-chicago-illinois-10-02-2023/event/04005ECDB8F518EC",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/roy-woods-me-u-tour-chicago-illinois-12-11-2023/event/04005F0FB4D823B1",
     "date": "2023-12-11T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Aqua"
+    ],
+    "link": "https://concerts.livenation.com/aqua-chicago-illinois-12-12-2023/event/04005F18C8232AAA",
+    "date": "2023-12-12T19:00:00",
     "venue": "House of Blues"
   }
 ]

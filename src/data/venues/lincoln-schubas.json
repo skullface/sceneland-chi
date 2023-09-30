@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Casey, Guests"
-    ],
-    "link": "https://lh-st.com/shows/09-29-2023-casey/",
-    "date": "2023-09-29T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Tom the Mail Man, Titus"
-    ],
-    "link": "https://lh-st.com/shows/09-29-2023-tom-the-mail-man/",
-    "date": "2023-09-29T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "DJ Soup Time"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-29-2023-meet-me-upstairs/",
-    "date": "2023-09-29T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Happy Landing, Illinois Joy"
     ],
     "sold_out": true,
@@ -442,7 +417,7 @@
   },
   {
     "artist": [
-      "Michael Minelli, Tony22"
+      "Michael Minelli, Tony22, Jaylon Ashaun"
     ],
     "link": "https://lh-st.com/shows/10-25-2023-michael-minelli/",
     "date": "2023-10-25T20:00:00",
@@ -891,14 +866,6 @@
   },
   {
     "artist": [
-      "Girlhouse"
-    ],
-    "link": "https://lh-st.com/shows/11-29-2023-girlhouse/",
-    "date": "2023-11-29T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Ama Lou"
     ],
     "link": "https://lh-st.com/shows/11-30-2023-ama-lou/",
@@ -992,6 +959,14 @@
     ],
     "link": "https://lh-st.com/shows/12-07-2023-xavier-omar-elhae/",
     "date": "2023-12-07T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Manwolves, Guests"
+    ],
+    "link": "https://lh-st.com/shows/12-08-2023-manwolves/",
+    "date": "2023-12-08T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

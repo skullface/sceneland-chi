@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Igorrr",
-      "Melt-Banana",
-      "Otto Von Schirach"
-    ],
-    "date": "2023-09-29T19:30:00",
-    "link": "https://bottomlounge.com/13709-2/12725545/igorrr-melt-banana-otto-von-schirach",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Fortunate Youth",
       "Dubbest"
     ],
@@ -103,14 +93,6 @@
   },
   {
     "artist": [
-      "Marc E. Bassy - Folk Hero Funk"
-    ],
-    "date": "2023-10-21T19:00:00",
-    "link": "https://bottomlounge.com/13709-2/13419978/marc-e-bassy-folk-hero-funk",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Nai Palm"
     ],
     "date": "2023-10-26T20:00:00",
@@ -197,10 +179,12 @@
   {
     "artist": [
       "Driveways",
-      "Eternal Boy"
+      "Eternal Boy",
+      "Guardrail",
+      "Good Hangs"
     ],
     "date": "2023-11-10T19:30:00",
-    "link": "https://bottomlounge.com/13709-2/13216788/driveways-eternal-boy",
+    "link": "https://bottomlounge.com/13709-2/13216788/driveways-eternal-boy-guardrail-good-hangs",
     "venue": "Bottom Lounge"
   },
   {
@@ -295,14 +279,6 @@
   },
   {
     "artist": [
-      "Imminence"
-    ],
-    "date": "2023-11-28T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13478798/imminence",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Mae",
       "Tedious and Brief",
       "Hembree"
@@ -337,10 +313,11 @@
   },
   {
     "artist": [
-      "James Smith"
+      "James Smith",
+      "Chris Williamson"
     ],
     "date": "2023-12-07T20:30:00",
-    "link": "https://bottomlounge.com/13709-2/13109585/james-smith",
+    "link": "https://bottomlounge.com/13709-2/13109585/james-smith-chris-williamson",
     "venue": "Bottom Lounge"
   },
   {
@@ -349,6 +326,14 @@
     ],
     "date": "2023-12-08T21:00:00",
     "link": "https://bottomlounge.com/13709-2/13186498/bea-miller-gauche-tour",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "bea miller \u2013 gauche tour"
+    ],
+    "date": "2023-12-09T21:00:00",
+    "link": "https://bottomlounge.com/13709-2/13690378/bea-miller-gauche-tour",
     "venue": "Bottom Lounge"
   },
   {
