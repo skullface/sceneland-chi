@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Happy Landing, Illinois Joy"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/09-30-2023-happy-landing/",
-    "date": "2023-09-30T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Miya Folick, Babebee"
-    ],
-    "link": "https://lh-st.com/shows/09-30-2023-miya-folick/",
-    "date": "2023-09-30T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "The Red Pears, Mexican Slum Rats, 60 Juno"
     ],
     "link": "https://lh-st.com/shows/10-01-2023-the-red-pears/",
@@ -940,6 +923,7 @@
     "artist": [
       "Jensen McRae"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/12-06-2023-jensen-mcrae/",
     "date": "2023-12-06T20:00:00",
     "venue": "Schubas"

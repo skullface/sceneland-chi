@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "West Town Social Club: Art Crawl"
-    ],
-    "link": "https://link.dice.fm/qcb3c441cb1c",
-    "date": "2023-09-30T11:00:00",
-    "venue": "Cobra Lounge"
-  },
-  {
-    "artist": [
-      "Venom Inc, Satan, Ringworm, 72 Legions"
-    ],
-    "link": "https://link.dice.fm/t77ddb22df6f",
-    "date": "2023-09-30T18:00:00",
-    "venue": "Cobra Lounge"
-  },
-  {
-    "artist": [
       "High Sunn: The Sky Memori Tour"
     ],
     "link": "https://link.dice.fm/Db0b5a4e4dba",
@@ -85,6 +69,14 @@
     ],
     "link": "https://link.dice.fm/G021dc7b8c44",
     "date": "2023-10-13T19:00:00",
+    "venue": "Cobra Lounge"
+  },
+  {
+    "artist": [
+      "RAIL: Radical Animals Illinois"
+    ],
+    "link": "https://link.dice.fm/h4cf15941412",
+    "date": "2023-10-14T21:00:00",
     "venue": "Cobra Lounge"
   },
   {

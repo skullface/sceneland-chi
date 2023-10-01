@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "CloZee \u2013 Microworlds North American Tour",
-      "Daily Bread, Saturna"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/485330",
-    "date": "2023-09-30T21:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
       "Ben B\u00f6hmer presents Portraet - Chicago",
       "Barry Can't Swim, QRTR"
     ],
@@ -172,6 +163,14 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/501724",
     "date": "2023-11-17T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Sara Landry"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/504002",
+    "date": "2023-11-18T22:00:00",
     "venue": "Radius"
   }
 ]
