@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Electric Mothership, Jack of Heart, 50K Check"
-    ],
-    "link": "https://colesbarchicago.com/event/electric-mothership-jack-of-heart-50k-check/coles-bar/n-milwaukee-illinois/",
-    "date": "2023-10-01T16:00:00",
-    "venue": "Cole\u2019s Bar"
-  },
-  {
-    "artist": [
-      "95 Goldie, Saint Ryan, JORDN"
-    ],
-    "link": "https://colesbarchicago.com/event/95-goldie-saint-ryan-jordn/coles-bar/n-milwaukee-illinois/",
-    "date": "2023-10-01T22:00:00",
-    "venue": "Cole\u2019s Bar"
-  },
-  {
-    "artist": [
       "Vintage Crop (Melbourne AUS), Cel Ray, Miniskirt, Dengus Tarkus"
     ],
     "link": "https://colesbarchicago.com/event/vintage-crop-melbourne-aus-cel-ray-miniskirt-dengus-tarkus/coles-bar/n-milwaukee-illinois/",
@@ -28,6 +12,14 @@
       "Comedy Open Mic"
     ],
     "link": "https://colesbarchicago.com/event/comedy-open-mic-21/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-10-04T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-25/coles-bar/n-milwaukee-illinois/",
     "date": "2023-10-04T20:00:00",
     "venue": "Cole\u2019s Bar"
   },

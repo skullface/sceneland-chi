@@ -1,40 +1,5 @@
 [
   {
-    "date": "2023-10-01",
-    "link": "https://www.reggieslive.com/show/chicago-bears-tailgate-party/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "HELLBOUND GLORY"
-    ],
-    "date": "2023-10-01",
-    "link": "https://www.reggieslive.com/show/hellbound-glory-duo/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "WYNNE",
-      "BOCHA",
-      "DONTE THOMAS",
-      "AUSAR"
-    ],
-    "date": "2023-10-01",
-    "link": "https://www.reggieslive.com/show/wynne/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "RUDE ECHOES",
-      "JESSE RAY AND THE CAROLINA CATFISH",
-      "FIRE CAT!",
-      "EM GRACE & THE UNDERCUTS"
-    ],
-    "date": "2023-10-01",
-    "link": "https://www.reggieslive.com/show/rude-echoes/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "artist": [
       "UNEARTH",
       "REVOCATION",
@@ -576,8 +541,11 @@
   },
   {
     "artist": [
+      "IV AND THE STRANGE BAND + THE GODDAMN GALLOWS CO-HEADLINE",
       "IV AND THE STRANGE BAND",
-      "TBA"
+      "THE GODDAMN GALLOWS",
+      "IRIS MARLOWE",
+      "CITY TWIGS"
     ],
     "date": "2023-10-28",
     "link": "https://www.reggieslive.com/show/iv-and-the-strange-band-3/",
@@ -815,7 +783,7 @@
   {
     "artist": [
       "ANTI-HEROS",
-      "NOI!SE",
+      "THE PROWLERS",
       "FEAR CITY",
       "ANTAGONIZERS ATL",
       "FIGHTING FOR SCRAPS",
@@ -1086,6 +1054,17 @@
   {
     "date": "2023-11-28",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-107/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "HOME ENTERTAINMENT",
+      "KING SANS",
+      "THE SWABS",
+      "RARE FORMS"
+    ],
+    "date": "2023-11-29",
+    "link": "https://www.reggieslive.com/show/home-entertainment/",
     "venue": "Reggie\u2019s"
   },
   {

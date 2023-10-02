@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Gregory Alan Isakov'],
-    link: 'https://www.msg.com/calendar/the-chicago-theatre-october-2023-gregory-alan-isakov/07005E8DB85B320F',
-    date: '2023-10-01T19:30:00',
-    venue: 'Chicago Theatre',
-  },
-  {
     artist: ['Eddie Izzard'],
     link: 'https://www.msg.com/calendar/the-chicago-theatre-october-2023-eddie-izzard/07005ECE99962A7F',
     date: '2023-10-02T20:00:00',
@@ -254,12 +248,6 @@ export const allShows = [
     link: 'https://www.msg.com/calendar/the-chicago-theatre-september-2024-keane/07005F25A6981682',
     date: '2024-09-18T20:00:00',
     venue: 'Chicago Theatre',
-  },
-  {
-    artist: ['Kiefer', 'Luke Titus'],
-    date: '2023-10-01T20:00:00',
-    link: 'https://bottomlounge.com/13709-2/13452488/kiefer-luke-titus',
-    venue: 'Bottom Lounge',
   },
   {
     artist: ['Frankie and the Witch Fingers', 'Wine Lips'],
@@ -528,12 +516,6 @@ export const allShows = [
     date: '2024-05-07T19:30:00',
     link: 'https://bottomlounge.com/13709-2/13522468/soen',
     venue: 'Bottom Lounge',
-  },
-  {
-    artist: [' Lane Beckstrom (Album Release), NIIKA, Late Nite Laundry'],
-    link: 'https://link.dice.fm/w06eb9a705b5',
-    date: '2023-10-01T19:00:00',
-    venue: 'Sleeping Village',
   },
   {
     artist: ['DBN: Volhaus, Sam Pilnick Project, E Woods'],
@@ -1324,18 +1306,6 @@ export const allShows = [
     venue: 'Riviera Theatre',
   },
   {
-    artist: ['The Red Pears, Mexican Slum Rats, 60 Juno'],
-    link: 'https://lh-st.com/shows/10-01-2023-the-red-pears/',
-    date: '2023-10-01T18:30:00',
-    venue: 'Lincoln Hall',
-  },
-  {
-    artist: ['Hannah Jadagu, Miloe'],
-    link: 'https://lh-st.com/shows/10-01-2023-hannah-jadagu/',
-    date: '2023-10-01T19:30:00',
-    venue: 'Schubas',
-  },
-  {
     artist: ['Cian Ducrot, Corey Harper'],
     sold_out: true,
     link: 'https://lh-st.com/shows/10-02-2023-cian-ducrot/',
@@ -2101,6 +2071,12 @@ export const allShows = [
     venue: 'Schubas',
   },
   {
+    artist: ['gum.mp3'],
+    link: 'https://lh-st.com/shows/02-03-2024-gum-mp3/',
+    date: '2024-02-03T21:00:00',
+    venue: 'Schubas',
+  },
+  {
     artist: ['Ryan Mack'],
     link: 'https://lh-st.com/shows/02-05-2024-ryan-mack/',
     date: '2024-02-05T19:30:00',
@@ -2178,12 +2154,6 @@ export const allShows = [
     link: 'https://lh-st.com/shows/05-12-2024-jeffrey-martin/',
     date: '2024-05-12T19:30:00',
     venue: 'Schubas',
-  },
-  {
-    artist: ['Jack Botts, BEN CAMDEN, BEN GOLDSMITH'],
-    link: 'https://www.beatkitchen.com/event-details/13034765/jack-botts-ben-camden-ben-goldsmith',
-    date: '2023-10-02T20:00:00',
-    venue: 'Beat Kitchen',
   },
   {
     artist: ['CMAT'],
@@ -2962,12 +2932,6 @@ export const allShows = [
     venue: 'Aragon Ballroom',
   },
   {
-    artist: ['LYRICAL LEMONADE 10 Year Anniversary'],
-    link: 'https://www.ticketmaster.com/lyrical-lemonade-10-year-anniversary-chicago-illinois-10-01-2023/event/04005F288C88150B',
-    date: '2023-10-01T18:30:00',
-    venue: 'Salt Shed',
-  },
-  {
     artist: ['The Eric Andre Explosion: Presented by Curaleaf Dispensaries'],
     link: 'https://www.ticketmaster.com/the-eric-andre-explosion-presented-by-chicago-illinois-10-06-2023/event/04005F19D32638D1',
     date: '2023-10-06T18:00:00',
@@ -3170,34 +3134,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/metallica-m72-world-tour-sunday-ticket-chicago-illinois-08-11-2024/event/04005E2A012347D0',
     date: '2024-08-11T18:00:00',
     venue: 'Soldier Field',
-  },
-  {
-    date: '2023-10-01',
-    link: 'https://www.reggieslive.com/show/chicago-bears-tailgate-party/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['HELLBOUND GLORY'],
-    date: '2023-10-01',
-    link: 'https://www.reggieslive.com/show/hellbound-glory-duo/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['WYNNE', 'BOCHA', 'DONTE THOMAS', 'AUSAR'],
-    date: '2023-10-01',
-    link: 'https://www.reggieslive.com/show/wynne/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: [
-      'RUDE ECHOES',
-      'JESSE RAY AND THE CAROLINA CATFISH',
-      'FIRE CAT!',
-      'EM GRACE & THE UNDERCUTS',
-    ],
-    date: '2023-10-01',
-    link: 'https://www.reggieslive.com/show/rude-echoes/',
-    venue: 'Reggie\u2019s',
   },
   {
     artist: ['UNEARTH', 'REVOCATION', 'ENTHEOS', 'HIGH COMMAND'],
@@ -3657,7 +3593,13 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: ['IV AND THE STRANGE BAND', 'TBA'],
+    artist: [
+      'IV AND THE STRANGE BAND + THE GODDAMN GALLOWS CO-HEADLINE',
+      'IV AND THE STRANGE BAND',
+      'THE GODDAMN GALLOWS',
+      'IRIS MARLOWE',
+      'CITY TWIGS',
+    ],
     date: '2023-10-28',
     link: 'https://www.reggieslive.com/show/iv-and-the-strange-band-3/',
     venue: 'Reggie\u2019s',
@@ -3847,7 +3789,7 @@ export const allShows = [
   {
     artist: [
       'ANTI-HEROS',
-      'NOI!SE',
+      'THE PROWLERS',
       'FEAR CITY',
       'ANTAGONIZERS ATL',
       'FIGHTING FOR SCRAPS',
@@ -4067,6 +4009,12 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
+    artist: ['HOME ENTERTAINMENT', 'KING SANS', 'THE SWABS', 'RARE FORMS'],
+    date: '2023-11-29',
+    link: 'https://www.reggieslive.com/show/home-entertainment/',
+    venue: 'Reggie\u2019s',
+  },
+  {
     artist: ['JER + VIAL CO-HEADLINE', 'JER', 'VIAL', 'BOY JR.'],
     date: '2023-11-30',
     link: 'https://www.reggieslive.com/show/jer-vial/',
@@ -4259,13 +4207,6 @@ export const allShows = [
     date: '2024-04-20',
     link: 'https://www.reggieslive.com/show/uli-jon-roth-4/',
     venue: 'Reggie\u2019s',
-  },
-  {
-    artist: ['Pat Metheny Dream Box Tour'],
-    link: 'https://www.ticketweb.com/event/sold-out-pat-metheny-dream-thalia-hall-tickets/13352438',
-    sold_out: true,
-    date: '2023-10-01T19:00:00',
-    venue: 'Thalia Hall',
   },
   {
     artist: ['CHAI: We The Chai Tour!, special guests Font'],
@@ -4923,12 +4864,6 @@ export const allShows = [
     venue: 'Radius',
   },
   {
-    artist: ['Son Rompe Pera, Cabeza de Chivo'],
-    link: 'https://www.jamusa.com/events/detail/son-rompe-pera-493897',
-    date: '2023-10-01T20:00:00',
-    venue: 'Park West',
-  },
-  {
     artist: ['Wrabel'],
     link: 'https://www.jamusa.com/events/detail/wrabel-496932',
     date: '2023-10-04T19:30:00',
@@ -5181,12 +5116,6 @@ export const allShows = [
     link: 'https://www.jamusa.com/events/detail/ryan-hamilton-502066',
     date: '2024-02-24T19:00:00',
     venue: 'Park West',
-  },
-  {
-    artist: ['Loraine James', 'Semiratruth', 'lynyn'],
-    link: 'https://www.ticketweb.com/event/loraine-james-semiratruth-empty-bottle-tickets/13358828',
-    date: '2023-10-01T21:00:00',
-    venue: 'Empty Bottle',
   },
   {
     artist: ['Gloin', 'Heet Deth', 'Feller'],
@@ -5909,14 +5838,6 @@ export const allShows = [
     venue: 'The Vic Theatre',
   },
   {
-    artist: [
-      'World Music Fest Presents: Madalitso Band with Luciano Antonio\u2019s Funk no Samba',
-    ],
-    link: 'https://hideoutchicago.com/event/world-music-fest-presents-madalitso-band-with-luciano-antonios-funk-no-samba/hideout-chicago/chicago/',
-    date: '2023-10-01T20:00:00',
-    venue: 'Hideout',
-  },
-  {
     artist: ['Activity with Doom Flower'],
     link: 'https://hideoutchicago.com/event/activity-with-doom-flower/hideout-chicago/chicago/',
     date: '2023-10-03T20:30:00',
@@ -6245,18 +6166,6 @@ export const allShows = [
     venue: 'Tinley Park Amphitheatre',
   },
   {
-    artist: ['Electric Mothership, Jack of Heart, 50K Check'],
-    link: 'https://colesbarchicago.com/event/electric-mothership-jack-of-heart-50k-check/coles-bar/n-milwaukee-illinois/',
-    date: '2023-10-01T16:00:00',
-    venue: 'Cole\u2019s Bar',
-  },
-  {
-    artist: ['95 Goldie, Saint Ryan, JORDN'],
-    link: 'https://colesbarchicago.com/event/95-goldie-saint-ryan-jordn/coles-bar/n-milwaukee-illinois/',
-    date: '2023-10-01T22:00:00',
-    venue: 'Cole\u2019s Bar',
-  },
-  {
     artist: ['Vintage Crop (Melbourne AUS), Cel Ray, Miniskirt, Dengus Tarkus'],
     link: 'https://colesbarchicago.com/event/vintage-crop-melbourne-aus-cel-ray-miniskirt-dengus-tarkus/coles-bar/n-milwaukee-illinois/',
     date: '2023-10-03T22:00:00',
@@ -6265,6 +6174,12 @@ export const allShows = [
   {
     artist: ['Comedy Open Mic'],
     link: 'https://colesbarchicago.com/event/comedy-open-mic-21/coles-bar/n-milwaukee-illinois/',
+    date: '2023-10-04T20:00:00',
+    venue: 'Cole\u2019s Bar',
+  },
+  {
+    artist: ['Comedy Open Mic'],
+    link: 'https://colesbarchicago.com/event/comedy-open-mic-25/coles-bar/n-milwaukee-illinois/',
     date: '2023-10-04T20:00:00',
     venue: 'Cole\u2019s Bar',
   },
@@ -6405,13 +6320,6 @@ export const allShows = [
     link: 'https://colesbarchicago.com/event/perfect-mash-a-dating-show-3/coles-bar/n-milwaukee-illinois/',
     date: '2023-12-19T20:00:00',
     venue: 'Cole\u2019s Bar',
-  },
-  {
-    artist: ['Movements', 'w/ Mannequin Pussy, Softcult, Heart to Gold'],
-    sold_out: true,
-    link: 'https://concordmusichall.com/calendar/movements/',
-    date: '2024-09-30T18:00:00',
-    venue: 'Concord Music Hall',
   },
   {
     artist: ['Thrice', 'The Artist In The Ambulance 20th Anniversary Tour'],
@@ -6593,12 +6501,6 @@ export const allShows = [
     venue: 'Concord Music Hall',
   },
   {
-    artist: ['Man\u00e1'],
-    date: '2023-10-01T20:30:00',
-    link: 'https://www.unitedcenter.com/events/2023/10/01/mana-mexico-lindo-y-querido-tour/',
-    venue: 'United Center',
-  },
-  {
     artist: ['Dave Chappelle'],
     date: '2023-10-04T19:30:00',
     link: 'https://www.unitedcenter.com/events/2023/10/04/dave-chapelle-live/',
@@ -6741,12 +6643,6 @@ export const allShows = [
     date: '2024-05-31T19:00:00',
     link: 'https://www.unitedcenter.com/events/2024/05/31/tim-mcgraw-standing-room-only-tour/',
     venue: 'United Center',
-  },
-  {
-    artist: ['BabyJake, Hotel Fiction, Lunde'],
-    date: '2023-10-01T20:00:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/babyjake-hotel-fiction-lunde/13230458',
-    venue: 'Subterranean',
   },
   {
     artist: ['Anita Velveeta, SAWAMURA NO HITTER, Crush Fund, Kitty Litter'],

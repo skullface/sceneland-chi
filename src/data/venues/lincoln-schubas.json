@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Red Pears, Mexican Slum Rats, 60 Juno"
-    ],
-    "link": "https://lh-st.com/shows/10-01-2023-the-red-pears/",
-    "date": "2023-10-01T18:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Hannah Jadagu, Miloe"
-    ],
-    "link": "https://lh-st.com/shows/10-01-2023-hannah-jadagu/",
-    "date": "2023-10-01T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Cian Ducrot, Corey Harper"
     ],
     "sold_out": true,
@@ -1031,6 +1015,14 @@
     ],
     "link": "https://lh-st.com/shows/02-02-2024-christopher/",
     "date": "2024-02-02T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "gum.mp3"
+    ],
+    "link": "https://lh-st.com/shows/02-03-2024-gum-mp3/",
+    "date": "2024-02-03T21:00:00",
     "venue": "Schubas"
   },
   {
