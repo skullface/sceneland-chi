@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Neon Trees: The Favorite Daze Tour"
-    ],
-    "link": "https://concerts.livenation.com/neon-trees-the-favorite-daze-tour-chicago-illinois-10-02-2023/event/04005ECDB8F518EC",
-    "date": "2023-10-02T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Todrick Hall"
     ],
     "link": "https://concerts.livenation.com/todrick-hall-chicago-illinois-10-03-2023/event/04005E9AD85B229C",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/aqua-chicago-illinois-12-12-2023/event/04005F18C8232AAA",
     "date": "2023-12-12T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Hot Mulligan: MOVED TO BYLINE BANK ARAGON BALLROOM"
+    ],
+    "link": "https://concerts.livenation.com/hot-mulligan-moved-to-byline-bank-chicago-illinois-12-15-2023/event/04005EF5021E6280",
+    "date": "2023-12-15T17:30:00",
     "venue": "House of Blues"
   }
 ]

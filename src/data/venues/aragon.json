@@ -241,6 +241,38 @@
   },
   {
     "artist": [
+      "Twisted XMAS with The Black Keys"
+    ],
+    "link": "https://concerts.livenation.com/twisted-xmas-with-the-black-keys-chicago-illinois-12-05-2023/event/04005F3C477F5A49",
+    "date": "2023-12-05T19:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Twisted XMAS with Lovejoy"
+    ],
+    "link": "https://concerts.livenation.com/twisted-xmas-with-lovejoy-chicago-illinois-12-06-2023/event/04005F3C4A3D5A61",
+    "date": "2023-12-06T19:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Twisted XMAS with Bleachers"
+    ],
+    "link": "https://concerts.livenation.com/twisted-xmas-with-bleachers-chicago-illinois-12-07-2023/event/04005F3C4C4D5A7B",
+    "date": "2023-12-07T19:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Twisted XMAS with Young The Giant"
+    ],
+    "link": "https://concerts.livenation.com/twisted-xmas-with-young-the-giant-chicago-illinois-12-08-2023/event/04005F3C4E4E5A8B",
+    "date": "2023-12-08T19:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
       "Hot Mulligan"
     ],
     "link": "https://concerts.livenation.com/hot-mulligan-chicago-illinois-12-15-2023/event/04005F09B98F22B2",
@@ -253,6 +285,22 @@
     ],
     "link": "https://concerts.livenation.com/nora-en-pure-chicago-illinois-12-31-2023/event/04005F3A0EB92CE0",
     "date": "2023-12-31T21:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Oliver Tree Presents Alone In A Crowd"
+    ],
+    "link": "https://concerts.livenation.com/oliver-tree-presents-alone-in-a-chicago-illinois-01-13-2024/event/04005F3C0B8B5B01",
+    "date": "2024-01-13T20:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Ministry / Gary Numan"
+    ],
+    "link": "https://concerts.livenation.com/ministry-gary-numan-chicago-illinois-03-14-2024/event/04005F3CCDB74BD7",
+    "date": "2024-03-14T19:00:00",
     "venue": "Aragon Ballroom"
   }
 ]

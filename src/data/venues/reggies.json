@@ -1,30 +1,5 @@
 [
   {
-    "artist": [
-      "UNEARTH",
-      "REVOCATION",
-      "ENTHEOS",
-      "HIGH COMMAND"
-    ],
-    "date": "2023-10-02",
-    "link": "https://www.reggieslive.com/show/unearth-revocation/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "ZACK FEDOR",
-      "BLAKE BURKHART"
-    ],
-    "date": "2023-10-02",
-    "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-5/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-10-02",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-72/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-10-03",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-83/",
     "venue": "Reggie\u2019s"
@@ -389,7 +364,8 @@
       "TEENAGE BOTTLEROCKET",
       "THE METHADONES",
       "THE BOLLWEEVILS",
-      "SPECIAL GUESTS",
+      "BRICHEROS",
+      "PUNK ROCK SUPER GROUP",
       "CAPGUN HEROES",
       "THE STEPHENS",
       "GOODBYE SUNSHINE",
@@ -554,6 +530,15 @@
   {
     "date": "2023-10-28",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-95/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "WEDNESDAY NIGHT TITANS",
+      "TBA"
+    ],
+    "date": "2023-10-29",
+    "link": "https://www.reggieslive.com/show/wednesday-night-titans-2/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -1203,6 +1188,15 @@
   {
     "date": "2023-12-16",
     "link": "https://www.reggieslive.com/show/open-mic-comedy-102/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "SUGARMAN ALLSTARS",
+      "SENABELLA \u201cTHE BRONZEVILLE DIVA\u201d WITH THE SUGARMAN BAND"
+    ],
+    "date": "2023-12-17",
+    "link": "https://www.reggieslive.com/show/sugarman-9/",
     "venue": "Reggie\u2019s"
   },
   {

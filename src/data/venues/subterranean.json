@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Anita Velveeta, SAWAMURA NO HITTER, Crush Fund, Kitty Litter"
-    ],
-    "date": "2023-10-02T18:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/anita-velveeta-sawamura-no-hitter-crush-fund-kitty-litter/13540378",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "mssv, Eli Winter , WEAKLUNG"
-    ],
-    "date": "2023-10-02T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/mssv-eli-winter-weaklung/13226008",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "Dead Poet Society, Public Theater , The Keystones"
     ],
     "date": "2023-10-03T20:00:00",
@@ -78,6 +62,14 @@
     ],
     "date": "2023-10-09T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/ollie-wride-parallels/13381168",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Alternative pt.2"
+    ],
+    "date": "2023-10-09T21:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/alternative-pt-2/13701918",
     "venue": "Subterranean"
   },
   {

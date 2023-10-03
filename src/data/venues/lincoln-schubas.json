@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Cian Ducrot, Corey Harper"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-02-2023-cian-ducrot/",
-    "date": "2023-10-02T19:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Washer, The Deals, Edging"
-    ],
-    "link": "https://lh-st.com/shows/10-02-2023-washer/",
-    "date": "2023-10-02T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Teton Gravity Research: Legend Has It"
     ],
     "link": "https://lh-st.com/shows/10-03-2023-teton-gravity-research/",
@@ -34,7 +17,7 @@
   },
   {
     "artist": [
-      "Two Lanes"
+      "Two Lanes, Marty Mars"
     ],
     "link": "https://lh-st.com/shows/10-04-2023-two-lanes/",
     "date": "2023-10-04T20:00:00",
@@ -328,7 +311,7 @@
   },
   {
     "artist": [
-      "Mk.gee"
+      "Mk.gee, Andrew Aged & John Keek (Joint Set)"
     ],
     "link": "https://lh-st.com/shows/10-21-2023-mkgee/",
     "date": "2023-10-21T20:00:00",
@@ -519,6 +502,11 @@
     "venue": "Schubas"
   },
   {
+    "link": "https://lh-st.com/shows/11-02-2023-schubas-open-mic/",
+    "date": "2023-11-02T20:00:00",
+    "venue": "Schubas"
+  },
+  {
     "artist": [
       "Ax and the Hatchetmen, Post Sex Nachos"
     ],
@@ -617,6 +605,11 @@
     "link": "https://lh-st.com/shows/11-09-2023-ajani-jones/",
     "date": "2023-11-09T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "link": "https://lh-st.com/shows/11-09-2023-schubas-open-mic/",
+    "date": "2023-11-09T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -725,6 +718,11 @@
     "venue": "Schubas"
   },
   {
+    "link": "https://lh-st.com/shows/11-16-2023-schubas-open-mic/",
+    "date": "2023-11-16T20:00:00",
+    "venue": "Schubas"
+  },
+  {
     "artist": [
       "Pauli The PSM"
     ],
@@ -809,6 +807,19 @@
   },
   {
     "artist": [
+      "Agua, DJ IGGY, DJ Chava"
+    ],
+    "link": "https://lh-st.com/shows/11-22-2023-agua/",
+    "date": "2023-11-22T21:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "link": "https://lh-st.com/shows/11-23-2023-schubas-open-mic/",
+    "date": "2023-11-23T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Sydney Sprague, Wheelwright"
     ],
     "link": "https://lh-st.com/shows/11-24-2023-sydney-sprague/",
@@ -844,6 +855,11 @@
       "Jay Wood, Khaliyah X, Cassius Tae"
     ],
     "link": "https://lh-st.com/shows/11-30-2023-jay-wood/",
+    "date": "2023-11-30T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "link": "https://lh-st.com/shows/11-30-2023-schubas-open-mic/",
     "date": "2023-11-30T20:00:00",
     "venue": "Schubas"
   },
@@ -907,7 +923,6 @@
     "artist": [
       "Jensen McRae"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/12-06-2023-jensen-mcrae/",
     "date": "2023-12-06T20:00:00",
     "venue": "Schubas"

@@ -33,7 +33,7 @@
   },
   {
     "artist": [
-      "Music Fest 2023"
+      "Music Fest Day 1 2023"
     ],
     "link": "https://colesbarchicago.com/event/musicfest2023/",
     "date": "2023-10-06T20:00:00",
@@ -41,7 +41,7 @@
   },
   {
     "artist": [
-      "Music Fest 2023"
+      "Music Fest Day 2 2023"
     ],
     "link": "https://colesbarchicago.com/event/music-fest-2023/",
     "date": "2023-10-07T20:00:00",
@@ -49,7 +49,7 @@
   },
   {
     "artist": [
-      "Music Fest 2023"
+      "Music Fest Day 3 2023"
     ],
     "link": "https://colesbarchicago.com/event/music-fest-2023-2/",
     "date": "2023-10-08T20:00:00",
@@ -177,6 +177,22 @@
   },
   {
     "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-26/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-11-01T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-34/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-11-08T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
       "His His (Toronto ON), Elijah Berlow, Edie McKenna, Backyard Neighbor"
     ],
     "link": "https://colesbarchicago.com/event/his-his-toronto-on-elijah-berlow-edie-mckenna-backyard-neighbor/coles-bar/n-milwaukee-illinois/",
@@ -185,10 +201,66 @@
   },
   {
     "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-27/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-11-15T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-28/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-11-22T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-29/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-11-29T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-30/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-12-06T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-31/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-12-13T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
       "Perfect Mash: A Dating Show"
     ],
     "link": "https://colesbarchicago.com/event/perfect-mash-a-dating-show-3/coles-bar/n-milwaukee-illinois/",
     "date": "2023-12-19T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-32/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-12-20T20:00:00",
+    "venue": "Cole\u2019s Bar"
+  },
+  {
+    "artist": [
+      "Comedy Open Mic"
+    ],
+    "link": "https://colesbarchicago.com/event/comedy-open-mic-33/coles-bar/n-milwaukee-illinois/",
+    "date": "2023-12-27T20:00:00",
     "venue": "Cole\u2019s Bar"
   }
 ]

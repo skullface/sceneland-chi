@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CHAI: We The Chai Tour!, special guests Font"
-    ],
-    "link": "https://www.ticketweb.com/event/chai-we-the-chai-tour-thalia-hall-tickets/13314188",
-    "date": "2023-10-02T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Wilderado, Sego"
     ],
     "link": "https://www.ticketweb.com/event/sold-out-wilderado-with-sego-thalia-hall-tickets/13162438",
@@ -647,6 +639,14 @@
     "link": "https://www.ticketweb.com/event/sold-out-the-magnetic-thalia-hall-tickets/13348208",
     "sold_out": true,
     "date": "2024-04-20T19:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Giant Rooks"
+    ],
+    "link": "https://www.ticketweb.com/event/giant-rooks-thalia-hall-tickets/13654698",
+    "date": "2024-04-21T19:00:00",
     "venue": "Thalia Hall"
   },
   {
