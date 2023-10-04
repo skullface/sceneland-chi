@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Teton Gravity Research: Legend Has It"
-    ],
-    "link": "https://lh-st.com/shows/10-03-2023-teton-gravity-research/",
-    "date": "2023-10-03T19:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Boyscott, Nova One, Hemlock (Duo)"
-    ],
-    "link": "https://lh-st.com/shows/10-03-2023-boyscott/",
-    "date": "2023-10-03T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Two Lanes, Marty Mars"
     ],
     "link": "https://lh-st.com/shows/10-04-2023-two-lanes/",
@@ -29,6 +13,7 @@
       "Demo Division",
       "Able Baker"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-04-2023-100-off-bands/",
     "date": "2023-10-04T20:00:00",
     "venue": "Schubas"
@@ -143,6 +128,7 @@
     "artist": [
       "Geese, PACKS"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-geese/",
     "date": "2023-10-12T20:00:00",
     "venue": "Lincoln Hall"
@@ -305,6 +291,7 @@
     "artist": [
       "Gatlin, BEL"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-21-2023-gatlin/",
     "date": "2023-10-21T20:00:00",
     "venue": "Schubas"
@@ -367,7 +354,7 @@
   },
   {
     "artist": [
-      "Michael Minelli, Tony22, Jaylon Ashaun"
+      "Michael Minelli, Tony22, Jrob The Chief, Jaylon Ashaun"
     ],
     "link": "https://lh-st.com/shows/10-25-2023-michael-minelli/",
     "date": "2023-10-25T20:00:00",
@@ -809,7 +796,7 @@
     "artist": [
       "Agua, DJ IGGY, DJ Chava"
     ],
-    "link": "https://lh-st.com/shows/11-22-2023-agua/",
+    "link": "https://lh-st.com/shows/11-22-2023-agua-chicago/",
     "date": "2023-11-22T21:00:00",
     "venue": "Lincoln Hall"
   },
@@ -840,6 +827,14 @@
     ],
     "link": "https://lh-st.com/shows/11-28-2023-ariana-and-the-rose/",
     "date": "2023-11-28T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Girlhouse"
+    ],
+    "link": "https://lh-st.com/shows/11-29-2023-girlhouse/",
+    "date": "2023-11-29T19:30:00",
     "venue": "Schubas"
   },
   {
@@ -1092,6 +1087,14 @@
   },
   {
     "artist": [
+      "Cherry Glazerr, Wombo"
+    ],
+    "link": "https://lh-st.com/shows/03-09-2024-cherry-glazerr/",
+    "date": "2024-03-09T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Luna"
     ],
     "link": "https://lh-st.com/shows/03-15-2024-luna/",
@@ -1112,6 +1115,14 @@
     ],
     "link": "https://lh-st.com/shows/03-20-2024-josiah-and-the-bonnevilles/",
     "date": "2024-03-20T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "The Rural Alberta Advantage, Julianna Riolino"
+    ],
+    "link": "https://lh-st.com/shows/03-24-2024-the-rural-alberta-advantage/",
+    "date": "2024-03-24T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

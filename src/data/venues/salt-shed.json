@@ -29,7 +29,7 @@
       "Colter Wall"
     ],
     "link": "https://www.ticketmaster.com/colter-wall-chicago-illinois-10-14-2023/event/04005F0208EC5D21",
-    "date": "2023-10-14T18:00:00",
+    "date": "2023-10-14T19:00:00",
     "venue": "Salt Shed"
   },
   {
@@ -245,6 +245,14 @@
     ],
     "link": "https://www.ticketmaster.com/cold-war-kids-20-years-tour-chicago-illinois-02-23-2024/event/04005F2BA3001327",
     "date": "2024-02-23T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "Neck Deep"
+    ],
+    "link": "https://www.ticketmaster.com/neck-deep-chicago-illinois-02-25-2024/event/04005F3DDB0B293C",
+    "date": "2024-02-25T17:00:00",
     "venue": "Salt Shed"
   }
 ]

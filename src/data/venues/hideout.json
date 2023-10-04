@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Activity with Doom Flower"
-    ],
-    "link": "https://hideoutchicago.com/event/activity-with-doom-flower/hideout-chicago/chicago/",
-    "date": "2023-10-03T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "French Cassettes with Ari Lindo"
     ],
     "link": "https://hideoutchicago.com/event/french-cassettes-with-ari-lindo/hideout-chicago/chicago/",
@@ -17,9 +9,9 @@
   },
   {
     "artist": [
-      "Home Entertainment with Stalled and High Diver"
+      "Home Entertainment with Stalled and LLO LLO"
     ],
-    "link": "https://hideoutchicago.com/event/home-entertainment-with-stalled-and-high-diver/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/home-entertainment-with-stalled-and-llo-llo/hideout-chicago/chicago/",
     "date": "2023-10-05T20:30:00",
     "venue": "Hideout"
   },
@@ -35,7 +27,7 @@
     "artist": [
       "Shamarr Allen"
     ],
-    "link": "https://hideoutchicago.com/event/shamarr-allen-with-special-guest/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/shamarr-allen/hideout-chicago/chicago/",
     "date": "2023-10-06T21:30:00",
     "venue": "Hideout"
   },
@@ -45,6 +37,14 @@
     ],
     "link": "https://hideoutchicago.com/event/black-opry-revue-tylar-bryant-sug-daniels-and-grace-givertz/hideout-chicago/chicago/",
     "date": "2023-10-07T19:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Ariel\u2019s Party: Ariel Zetina and Dalibor Cruz"
+    ],
+    "link": "https://hideoutchicago.com/event/ariels-party-ariel-zetina-and-dalibor-cruz/hideout-chicago/chicago/",
+    "date": "2023-10-07T23:00:00",
     "venue": "Hideout"
   },
   {
@@ -254,9 +254,9 @@
   },
   {
     "artist": [
-      "Zoh Amba and Chris Corsano"
+      "Zoh Amba and Chris Corsano with Ishmael Ali Trio"
     ],
-    "link": "https://hideoutchicago.com/event/zoh-amba-and-chris-corsano-with-special-guest/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/zoh-amba-and-chris-corsano-with-ishmael-ali-trio/hideout-chicago/chicago/",
     "date": "2023-10-29T20:00:00",
     "venue": "Hideout"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "slowdive, with special guests Drab Majesty"
-    ],
-    "link": "https://www.jamusa.com/events/detail/slowdive-490081",
-    "date": "2023-10-03T19:30:00",
-    "venue": "Riviera Theatre"
-  },
-  {
-    "artist": [
       "Sammy Rae & The Friends, KAINA"
     ],
     "link": "https://www.jamusa.com/events/detail/sammy-rae-the-friends-474432",
@@ -209,6 +201,14 @@
   },
   {
     "artist": [
+      "The State"
+    ],
+    "link": "https://www.jamusa.com/events/detail/the-state-504865",
+    "date": "2023-11-25T20:00:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
       "Joe Russo's Almost Dead"
     ],
     "link": "https://www.jamusa.com/events/detail/joe-russo-s-almost-dead-502128",
@@ -249,6 +249,14 @@
   },
   {
     "artist": [
+      "Big Head Todd and the Monsters, with special guest Cracker"
+    ],
+    "link": "https://www.jamusa.com/events/detail/big-head-todd-and-the-monsters-505153",
+    "date": "2024-01-20T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
       "Ricky Montgomery"
     ],
     "link": "https://www.jamusa.com/events/detail/ricky-montgomery-502655",
@@ -261,6 +269,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/two-door-cinema-club-503556",
     "date": "2024-03-07T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Sleater\u2010Kinney"
+    ],
+    "link": "https://www.jamusa.com/events/detail/sleaterykinney-505481",
+    "date": "2024-03-21T19:30:00",
     "venue": "Riviera Theatre"
   },
   {

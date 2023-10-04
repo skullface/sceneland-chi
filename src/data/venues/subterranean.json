@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dead Poet Society, Public Theater , The Keystones"
-    ],
-    "date": "2023-10-03T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/dead-poet-society-public-theater-the-keystones/13430438",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "DAWN OF OUROBOROS, FIRES IN THE DISTANCE, Varaha, Dismalimerence"
     ],
     "date": "2023-10-04T20:00:00",
@@ -142,6 +134,7 @@
       "MALCOLM TODD, CHARLIE ADDIS"
     ],
     "date": "2023-10-15T19:00:00",
+    "sold_out": true,
     "link": "https://www.subt.net/event/tw-eventinfo/malcolm-todd-charlie-addis/13531458",
     "venue": "Subterranean"
   },
@@ -175,6 +168,14 @@
     ],
     "date": "2023-10-20T21:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/under-the-sea-rave/13558158",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Thomas Day"
+    ],
+    "date": "2023-10-21T18:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/thomas-day/13708598",
     "venue": "Subterranean"
   },
   {
@@ -291,10 +292,10 @@
   },
   {
     "artist": [
-      "Royal & The Serpent"
+      "Royal & The Serpent, Carlie Hanson, Baby Fisher"
     ],
     "date": "2023-11-04T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/royal-the-serpent/13511278",
+    "link": "https://www.subt.net/event/tw-eventinfo/royal-the-serpent-carlie-hanson-baby-fisher/13511278",
     "venue": "Subterranean"
   },
   {

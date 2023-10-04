@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Iguana Death Cult, Helicopter Leaves, Sunvolume"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13405268/iguana-death-cult-helicopter-leaves-sunvolume",
-    "date": "2023-10-04T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "RAT BATH, WESTERN BISEXUAL, XYZXYZ, OLIVIA AND THE LOVERS"
     ],
     "link": "https://www.beatkitchen.com/event-details/13630098/rat-bath-western-bisexual-xyzxyz-olivia-and-the-lovers",
@@ -33,9 +25,9 @@
   },
   {
     "artist": [
-      "Lola Young"
+      "Lola Young, Softmax"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13535358/lola-young",
+    "link": "https://www.beatkitchen.com/event-details/13535358/lola-young-softmax",
     "sold_out": true,
     "date": "2023-10-08T19:30:00",
     "venue": "Beat Kitchen"
@@ -58,9 +50,9 @@
   },
   {
     "artist": [
-      "SORRY MOM"
+      "SORRY MOM, Sweetie"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13487788/sorry-mom",
+    "link": "https://www.beatkitchen.com/event-details/13487788/sorry-mom-sweetie",
     "date": "2023-10-11T19:00:00",
     "venue": "Beat Kitchen"
   },
@@ -279,6 +271,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13458758/the-brevet",
     "date": "2023-11-11T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "Pronoun"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13692948/pronoun",
+    "date": "2023-11-15T20:00:00",
     "venue": "Beat Kitchen"
   },
   {

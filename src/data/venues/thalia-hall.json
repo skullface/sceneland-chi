@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Wilderado, Sego"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-wilderado-with-sego-thalia-hall-tickets/13162438",
-    "sold_out": true,
-    "date": "2023-10-03T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Devendra Banhart, Le Ren"
     ],
     "link": "https://www.ticketweb.com/event/devendra-banhart-with-le-ren-thalia-hall-tickets/13311158",
@@ -107,9 +98,9 @@
   },
   {
     "artist": [
-      "She Past Away, Sydney Valette"
+      "She Past Away"
     ],
-    "link": "https://www.ticketweb.com/event/she-past-away-with-sydney-thalia-hall-tickets/12913445",
+    "link": "https://www.ticketweb.com/event/she-past-away-thalia-hall-tickets/12913445",
     "date": "2023-10-18T19:30:00",
     "venue": "Thalia Hall"
   },
@@ -291,7 +282,8 @@
     "artist": [
       "Slow Pulp, Babehoven"
     ],
-    "link": "https://www.ticketweb.com/event/slow-pulp-with-babehoven-thalia-hall-tickets/13342928",
+    "link": "https://www.ticketweb.com/event/sold-out-slow-pulp-with-thalia-hall-tickets/13342928",
+    "sold_out": true,
     "date": "2023-11-11T18:00:00",
     "venue": "Thalia Hall"
   },
@@ -551,6 +543,14 @@
     ],
     "link": "https://www.ticketweb.com/event/squid-thalia-hall-tickets/13145888",
     "date": "2024-02-18T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Maddie Zahm: Now That I\u2019ve Been Honest: The Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/maddie-zahm-now-thalia-hall-tickets/13685408",
+    "date": "2024-02-23T19:00:00",
     "venue": "Thalia Hall"
   },
   {

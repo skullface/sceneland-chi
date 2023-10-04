@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Todrick Hall"
-    ],
-    "link": "https://concerts.livenation.com/todrick-hall-chicago-illinois-10-03-2023/event/04005E9AD85B229C",
-    "date": "2023-10-03T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Chappell Roan"
     ],
     "link": "https://concerts.livenation.com/chappell-roan-chicago-illinois-10-04-2023/event/04005EA94A2F54FA",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/hot-mulligan-moved-to-byline-bank-chicago-illinois-12-15-2023/event/04005EF5021E6280",
     "date": "2023-12-15T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Emo Night Brooklyn"
+    ],
+    "link": "https://concerts.livenation.com/emo-night-brooklyn-chicago-illinois-12-15-2023/event/04005F35F6142ADE",
+    "date": "2023-12-15T21:00:00",
     "venue": "House of Blues"
   }
 ]
