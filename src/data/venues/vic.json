@@ -57,7 +57,7 @@
   },
   {
     "artist": [
-      "The Darkness"
+      "The Darkness, Paris Monster"
     ],
     "link": "https://www.jamusa.com/events/detail/the-darkness-487523",
     "date": "2023-10-13T19:30:00",
@@ -357,6 +357,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/margaret-cho-live-and-livid-494824",
     "date": "2023-12-16T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Action Bronson"
+    ],
+    "link": "https://www.jamusa.com/events/detail/action-bronson-504910",
+    "date": "2023-12-17T20:00:00",
     "venue": "The Vic Theatre"
   },
   {

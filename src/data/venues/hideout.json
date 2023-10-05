@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "French Cassettes with Ari Lindo"
-    ],
-    "link": "https://hideoutchicago.com/event/french-cassettes-with-ari-lindo/hideout-chicago/chicago/",
-    "date": "2023-10-04T20:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Home Entertainment with Stalled and LLO LLO"
     ],
     "link": "https://hideoutchicago.com/event/home-entertainment-with-stalled-and-llo-llo/hideout-chicago/chicago/",
@@ -28,7 +20,7 @@
       "Shamarr Allen"
     ],
     "link": "https://hideoutchicago.com/event/shamarr-allen/hideout-chicago/chicago/",
-    "date": "2023-10-06T21:30:00",
+    "date": "2023-10-06T21:00:00",
     "venue": "Hideout"
   },
   {
@@ -81,9 +73,9 @@
   },
   {
     "artist": [
-      "The Bandulus with The Drastics"
+      "The Bandulus and The Drastics with DJs Kinky P and The Graduate"
     ],
-    "link": "https://hideoutchicago.com/event/the-bandulus-with-the-drastics/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/the-bandulus-and-the-drastics-with-djs-kinky-p-and-the-graduate/hideout-chicago/chicago/",
     "date": "2023-10-11T20:30:00",
     "venue": "Hideout"
   },
@@ -330,6 +322,14 @@
     ],
     "link": "https://hideoutchicago.com/event/jeremy-pinnell-with-brandon-good/hideout-chicago/chicago/",
     "date": "2023-11-12T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "No Star with 3 Point Sinker"
+    ],
+    "link": "https://hideoutchicago.com/event/no-star-with-3-point-sinker/hideout-chicago/chicago/",
+    "date": "2023-11-14T20:30:00",
     "venue": "Hideout"
   },
   {

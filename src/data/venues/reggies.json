@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "CLEVELAND AVENUE",
-      "UNCANNY VALLEY",
-      "DEFINITELY MAYBE",
-      "SECOND CITY SEANCE"
-    ],
-    "date": "2023-10-04",
-    "link": "https://www.reggieslive.com/show/cleveland-avenue/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "SAM TOMPKINS",
       "JESSE GOLD"
     ],
@@ -386,6 +375,20 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "HANNAH ROESCHLEIN",
+      "DALE MCPEEK",
+      "RAY WISBROCK",
+      "JASON MELTON",
+      "GABRIEL ALVIZO",
+      "MS. BROWN",
+      "FIRST STEP TO GLORY"
+    ],
+    "date": "2023-10-21",
+    "link": "https://www.reggieslive.com/show/ha-ha-to-hell-4/",
+    "venue": "Reggie\u2019s"
+  },
+  {
     "date": "2023-10-22",
     "link": "https://www.reggieslive.com/show/chicago-bears-tailgate-party-3/",
     "venue": "Reggie\u2019s"
@@ -450,7 +453,8 @@
   {
     "artist": [
       "CODEFENDANTS",
-      "SOULTRU"
+      "SOULTRU",
+      "LAMON MANUEL"
     ],
     "date": "2023-10-25",
     "link": "https://www.reggieslive.com/show/codefendants/",
@@ -627,7 +631,7 @@
   {
     "artist": [
       "WOOKIEFOOT",
-      "TBA"
+      "BIG BLITZ"
     ],
     "date": "2023-11-03",
     "link": "https://www.reggieslive.com/show/wookiefoot-20/",
@@ -650,7 +654,7 @@
   {
     "artist": [
       "WOOKIEFOOT",
-      "TBA"
+      "SPARE CHANGE TRIO"
     ],
     "date": "2023-11-04",
     "link": "https://www.reggieslive.com/show/wookiefoot-21/",

@@ -1,27 +1,9 @@
 [
   {
     "artist": [
-      "Two Lanes, Marty Mars"
-    ],
-    "link": "https://lh-st.com/shows/10-04-2023-two-lanes/",
-    "date": "2023-10-04T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Lettering",
-      "Demo Division",
-      "Able Baker"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-04-2023-100-off-bands/",
-    "date": "2023-10-04T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Krooked Kings, Early Eyes"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-05-2023-krooked-kings/",
     "date": "2023-10-05T19:30:00",
     "venue": "Lincoln Hall"
@@ -101,7 +83,7 @@
   {
     "artist": [
       "Stalled",
-      "Perfect Shirt",
+      "Joyfriend",
       "to you, deary"
     ],
     "link": "https://lh-st.com/shows/10-10-2023-100-off-bands/",
@@ -421,6 +403,14 @@
     "link": "https://lh-st.com/shows/10-28-2023-grentperez/",
     "date": "2023-10-28T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "PVA"
+    ],
+    "link": "https://lh-st.com/shows/10-28-2023-pva/",
+    "date": "2023-10-28T21:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -753,7 +743,7 @@
   },
   {
     "artist": [
-      "MICO"
+      "MICO, Highvyn"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/11-19-2023-mico/",
@@ -918,6 +908,7 @@
     "artist": [
       "Jensen McRae"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/12-06-2023-jensen-mcrae/",
     "date": "2023-12-06T20:00:00",
     "venue": "Schubas"
@@ -953,6 +944,14 @@
     ],
     "link": "https://lh-st.com/shows/12-08-2023-valebol/",
     "date": "2023-12-08T21:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Neva Dinova"
+    ],
+    "link": "https://lh-st.com/shows/12-11-2023-neva-dinova/",
+    "date": "2023-12-11T19:30:00",
     "venue": "Schubas"
   },
   {

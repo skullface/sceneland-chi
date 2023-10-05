@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "W. H. Lung",
-      "Rose Lake",
-      "Courtesy"
-    ],
-    "link": "https://www.ticketweb.com/event/w-h-lung-rose-empty-bottle-tickets/13359008",
-    "date": "2023-10-04T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Provider",
       "CalicoLoco",
       "North By North",
@@ -109,17 +99,6 @@
   },
   {
     "artist": [
-      "Visceral Anatomy",
-      "DJ Speedsick",
-      "Nico",
-      "Patrixia"
-    ],
-    "link": "https://www.ticketweb.com/event/visceral-anatomy-dj-speedsick-empty-bottle-tickets/13508848",
-    "date": "2023-10-14T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Slauson Malone 1",
       "Colloboh"
     ],
@@ -182,6 +161,14 @@
     "sold_out": true,
     "link": "https://www.ticketweb.com/event/sold-out-pixel-grip-empty-bottle-tickets/13478908",
     "date": "2023-10-20T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Empty Bottle & Chicago Music Scene Present: It May Be Crowded, But Don't Fu#%ing Touch Me"
+    ],
+    "link": "https://www.ticketweb.com/event/empty-bottle-chicago-music-empty-bottle-tickets/13713198",
+    "date": "2023-10-21T13:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -358,6 +345,14 @@
   },
   {
     "artist": [
+      "Fantasy Lunch: Dungeons and Dragons \"Curated Play\""
+    ],
+    "link": "https://www.ticketweb.com/event/fantasy-lunch-dungeons-empty-bottle-tickets/13713158",
+    "date": "2023-11-12T12:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Pisse",
       "Period Bomb"
     ],
@@ -424,9 +419,10 @@
   },
   {
     "artist": [
-      "Lydia Loveless"
+      "Lydia Loveless",
+      "Reese McHenry"
     ],
-    "link": "https://www.ticketweb.com/event/lydia-loveless-empty-bottle-tickets/13644208",
+    "link": "https://www.ticketweb.com/event/lydia-loveless-reese-mchenry-empty-bottle-tickets/13644208",
     "date": "2023-11-24T22:00:00",
     "venue": "Empty Bottle"
   },
