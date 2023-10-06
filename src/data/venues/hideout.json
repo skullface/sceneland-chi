@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Home Entertainment with Stalled and LLO LLO"
-    ],
-    "link": "https://hideoutchicago.com/event/home-entertainment-with-stalled-and-llo-llo/hideout-chicago/chicago/",
-    "date": "2023-10-05T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "LP\u2019s Happy Hour: Greg Garing"
     ],
     "link": "https://hideoutchicago.com/event/lps-happy-hour-greg-garing/hideout-chicago/chicago/",
@@ -182,6 +174,7 @@
     ],
     "link": "https://hideoutchicago.com/event/semler-with-imani-graham/hideout-chicago/chicago/",
     "date": "2023-10-23T20:30:00",
+    "sold_out": true,
     "venue": "Hideout"
   },
   {
@@ -254,6 +247,14 @@
   },
   {
     "artist": [
+      "Dyke Fright: A Halloween Fest Presented By Dyke Nite, Hot Potato Hearts and The Queer Social Club"
+    ],
+    "link": "https://hideoutchicago.com/event/dyke-fright-a-halloween-fest-presented-by-dyke-nite-hot-potato-hearts-and-the-queer-social-club/hideout-chicago/chicago/",
+    "date": "2023-10-30T19:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
       "Leah Senior with Johanna Samuels"
     ],
     "link": "https://hideoutchicago.com/event/leah-senior-with-johanna-samuels/hideout-chicago/chicago/",
@@ -278,9 +279,9 @@
   },
   {
     "artist": [
-      "Kendra Morris"
+      "Kendra Morris with Alicia Walter"
     ],
-    "link": "https://hideoutchicago.com/event/kendra-morris-with-special-guest/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/kendra-morris-with-alicia-walter/hideout-chicago/chicago/",
     "date": "2023-11-05T20:30:00",
     "venue": "Hideout"
   },
@@ -378,6 +379,14 @@
     ],
     "link": "https://hideoutchicago.com/event/g-e-e-z-with-jeff-braun/hideout-chicago/chicago/",
     "date": "2023-11-30T21:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Thompson Springs Album Release with Head"
+    ],
+    "link": "https://hideoutchicago.com/event/thompson-springs-album-release-with-head/hideout-chicago/chicago/",
+    "date": "2023-12-01T20:30:00",
     "venue": "Hideout"
   },
   {

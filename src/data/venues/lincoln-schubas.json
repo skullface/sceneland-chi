@@ -1,28 +1,6 @@
 [
   {
     "artist": [
-      "Krooked Kings, Early Eyes"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-05-2023-krooked-kings/",
-    "date": "2023-10-05T19:30:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Bre Kennedy, Sarah Walk"
-    ],
-    "link": "https://lh-st.com/shows/10-05-2023-bre-kennedy/",
-    "date": "2023-10-05T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "link": "https://lh-st.com/shows/10-05-2023-schubas-open-mic/",
-    "date": "2023-10-05T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Tommy Lefroy, Haley Blais"
     ],
     "sold_out": true,
@@ -65,7 +43,7 @@
   },
   {
     "artist": [
-      "Hemlocke Springs"
+      "Hemlocke Springs, Girl K"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/10-08-2023-hemlocke-springs/",
@@ -110,7 +88,6 @@
     "artist": [
       "Geese, PACKS"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-geese/",
     "date": "2023-10-12T20:00:00",
     "venue": "Lincoln Hall"
@@ -202,7 +179,7 @@
   },
   {
     "artist": [
-      "Gaidaa"
+      "Gaidaa, Mariah Colon"
     ],
     "link": "https://lh-st.com/shows/10-17-2023-gaidaa/",
     "date": "2023-10-17T20:00:00",
@@ -280,7 +257,7 @@
   },
   {
     "artist": [
-      "Mk.gee, Andrew Aged & John Keek (Joint Set)"
+      "Mk.gee, Andrew Aged & John Keek"
     ],
     "link": "https://lh-st.com/shows/10-21-2023-mkgee/",
     "date": "2023-10-21T20:00:00",
@@ -549,7 +526,7 @@
   },
   {
     "artist": [
-      "Haviah Mighty"
+      "Haviah Mighty, Psalm One"
     ],
     "link": "https://lh-st.com/shows/11-07-2023-haviah-mighty/",
     "date": "2023-11-07T20:00:00",

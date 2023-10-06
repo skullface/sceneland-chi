@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Tangerine Dream, Forest Management"
-    ],
-    "link": "https://metrochicago.com/event/tangerine-dream/metro-chicago/chicago-illinois/",
-    "date": "2023-10-05T20:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink, Footballhead"
     ],
     "link": "https://metrochicago.com/event/kennyhoopla-raised-by-wolves-tour/metro-chicago/chicago-illinois/",
@@ -183,6 +175,7 @@
     ],
     "link": "https://metrochicago.com/event/del-water-gap/metro-chicago/chicago-illinois/",
     "date": "2023-10-31T19:30:00",
+    "sold_out": true,
     "venue": "Metro"
   },
   {

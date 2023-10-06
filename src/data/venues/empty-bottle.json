@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Provider",
-      "CalicoLoco",
-      "North By North",
-      "Lavender Point"
-    ],
-    "link": "https://www.ticketweb.com/event/provider-calicoloco-north-empty-bottle-tickets/13453848",
-    "date": "2023-10-05T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Patter",
       "Floatie",
       "Moontype"
@@ -490,7 +479,8 @@
   },
   {
     "artist": [
-      "bar italia"
+      "bar italia",
+      "Mika Zhan\u00e9"
     ],
     "sold_out": true,
     "link": "https://www.ticketweb.com/event/sold-out-bar-italia-empty-bottle-tickets/13223308",
@@ -499,9 +489,10 @@
   },
   {
     "artist": [
-      "bar italia"
+      "bar italia",
+      "Noise Shrine"
     ],
-    "link": "https://www.ticketweb.com/event/bar-italia-empty-bottle-tickets/13626598",
+    "link": "https://www.ticketweb.com/event/bar-italia-noise-shrine-empty-bottle-tickets/13626598",
     "date": "2023-12-11T21:00:00",
     "venue": "Empty Bottle"
   },

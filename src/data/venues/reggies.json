@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "SAM TOMPKINS",
-      "JESSE GOLD"
-    ],
-    "date": "2023-10-05",
-    "link": "https://www.reggieslive.com/show/sam-tompkins/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
-      "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
-    ],
-    "date": "2023-10-05",
-    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "HONEY WHITES (tribute to Morphine)",
-      "PAUL ABELLA\u2019S QUESTIONABLE DECISIONS",
-      "ANDROGYNOUS MUSTACHE",
-      "NEW NOSTALGIA"
-    ],
-    "date": "2023-10-05",
-    "link": "https://www.reggieslive.com/show/honey-whites/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "ALICIA MOLINA (Chicago, IL)",
       "ANDRAIAH LUGO (Pico Rivera, CA)",
       "ANIRIA TURNEY (Atlanta, GA)",
@@ -1257,6 +1225,16 @@
     "venue": "Reggie\u2019s"
   },
   {
+    "artist": [
+      "MAIDEN CHICAGO (Iron Maiden Tribute)",
+      "SABBATHA (Black Sabbath Tribute)",
+      "REIGN IN BLOOD (Slayer Tribute)"
+    ],
+    "date": "2023-12-30",
+    "link": "https://www.reggieslive.com/show/maiden-chicago-4/",
+    "venue": "Reggie\u2019s"
+  },
+  {
     "date": "2023-12-31",
     "link": "https://www.reggieslive.com/show/chicago-bears-tailgate-party-6/",
     "venue": "Reggie\u2019s"
@@ -1267,6 +1245,14 @@
     ],
     "date": "2023-12-31",
     "link": "https://www.reggieslive.com/show/dave-schmidt-and-the-snouts/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "Rooftop NYE Package 2023!"
+    ],
+    "date": "2023-12-31",
+    "link": "https://www.reggieslive.com/show/rooftop-nye-package-2023/",
     "venue": "Reggie\u2019s"
   },
   {

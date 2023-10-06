@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pains, Livid, Mutilatred, SCUMBAG SKIPPY"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13632108/pains-livid-mutilatred-scumbag-skippy",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "Chris Farren, MO TROPER, Gay Meat"
     ],
     "link": "https://www.beatkitchen.com/event-details/13205298/chris-farren-mo-troper-gay-meat",
@@ -29,6 +21,7 @@
       "Kneecap, Air Credits"
     ],
     "link": "https://www.beatkitchen.com/event-details/13134915/kneecap-air-credits",
+    "sold_out": true,
     "date": "2023-10-09T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -323,9 +316,9 @@
   },
   {
     "artist": [
-      "Gyasi"
+      "Gyasi, The Giving Moon"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13479208/gyasi",
+    "link": "https://www.beatkitchen.com/event-details/13479208/gyasi-the-giving-moon",
     "date": "2023-12-03T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -343,6 +336,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13490118/welshly-arms",
     "date": "2023-12-06T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "DOUBLECAMP, ALT BLOOM"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13717538/doublecamp-alt-bloom",
+    "date": "2023-12-07T19:00:00",
     "venue": "Beat Kitchen"
   },
   {

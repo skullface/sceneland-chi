@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Generationals, mmeadows"
-    ],
-    "link": "https://www.ticketweb.com/event/generationals-with-mmeadows-thalia-hall-tickets/13050135",
-    "date": "2023-10-05T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Mission (UK), Chameleons and Theatre of Hate"
     ],
     "link": "https://eventbrite.com/e/188446246797#tickets",
@@ -90,9 +82,9 @@
   },
   {
     "artist": [
-      "She Past Away"
+      "She Past Away, Panterah"
     ],
-    "link": "https://www.ticketweb.com/event/she-past-away-thalia-hall-tickets/12913445",
+    "link": "https://www.ticketweb.com/event/she-past-away-with-panterah-thalia-hall-tickets/12913445",
     "date": "2023-10-18T19:30:00",
     "venue": "Thalia Hall"
   },
@@ -231,9 +223,9 @@
   },
   {
     "artist": [
-      "Rosie Tucker"
+      "Rosie Tucker, Half Gringa"
     ],
-    "link": "https://www.ticketweb.com/event/rosie-tucker-tack-room-tickets/13561698",
+    "link": "https://www.ticketweb.com/event/rosie-tucker-with-half-gringa-tack-room-tickets/13561698",
     "date": "2023-11-04T18:00:00",
     "venue": "Thalia Hall"
   },
@@ -549,7 +541,8 @@
     "artist": [
       "Da\u00f0i Freyr"
     ],
-    "link": "https://www.ticketweb.com/event/dai-freyr-thalia-hall-tickets/13608758",
+    "link": "https://www.ticketweb.com/event/sold-out-dai-freyr-thalia-hall-tickets/13608758",
+    "sold_out": true,
     "date": "2024-03-14T19:00:00",
     "venue": "Thalia Hall"
   },

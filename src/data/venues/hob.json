@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Chappell Roan"
-    ],
-    "link": "https://concerts.livenation.com/chappell-roan-chicago-illinois-10-05-2023/event/04005EB202364577",
-    "date": "2023-10-05T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Adekunle Gold: Tequila Ever After Tour"
     ],
     "link": "https://concerts.livenation.com/adekunle-gold-tequila-ever-after-tour-chicago-illinois-10-06-2023/event/04005ECEF792380A",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/hot-mulligan-chicago-illinois-12-16-2023/event/04005EF5038C63F1",
     "date": "2023-12-16T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "It's Beginning To Look a Lot Like Alaska ... A Christmas Show"
+    ],
+    "link": "https://concerts.livenation.com/its-beginning-to-look-a-lot-chicago-illinois-12-21-2023/event/04005EFADFA3492A",
+    "date": "2023-12-21T19:00:00",
     "venue": "House of Blues"
   }
 ]
