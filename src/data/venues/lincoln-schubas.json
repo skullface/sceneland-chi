@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Tommy Lefroy, Haley Blais"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-06-2023-tommy-lefroy/",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Ballout Comedy Night"
-    ],
-    "link": "https://lh-st.com/shows/10-06-2023-ballout-comedy-night/",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Kangaroo Court, The Courts, The Knee Hi's"
-    ],
-    "link": "https://lh-st.com/shows/10-06-2023-kangaroo-court/",
-    "date": "2023-10-06T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Trousdale, Anna Vaus"
     ],
     "sold_out": true,
@@ -88,6 +63,7 @@
     "artist": [
       "Geese, PACKS"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-geese/",
     "date": "2023-10-12T20:00:00",
     "venue": "Lincoln Hall"
@@ -426,7 +402,6 @@
     "artist": [
       "Aidan Bissett, Anna Shoemaker"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-31-2023-aidan-bissett/",
     "date": "2023-10-31T19:30:00",
     "venue": "Schubas"
@@ -864,6 +839,14 @@
     "link": "https://lh-st.com/shows/12-04-2023-eartheater/",
     "date": "2023-12-04T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Olivia Barton"
+    ],
+    "link": "https://lh-st.com/shows/12-04-2023-olivia-barton/",
+    "date": "2023-12-04T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Mission (UK), Chameleons and Theatre of Hate"
-    ],
-    "link": "https://eventbrite.com/e/188446246797#tickets",
-    "date": "2023-10-06T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Maude Latour: Twin Flame Tour, Devon Again"
     ],
     "link": "https://www.ticketweb.com/event/maude-latour-twin-flame-tour-thalia-hall-tickets/13311418",
@@ -191,9 +183,9 @@
   },
   {
     "artist": [
-      "Blonde Redhead"
+      "Blonde Redhead, Lutalo"
     ],
-    "link": "https://www.ticketweb.com/event/blonde-redhead-thalia-hall-tickets/13271858",
+    "link": "https://www.ticketweb.com/event/blonde-redhead-with-lutalo-thalia-hall-tickets/13271858",
     "date": "2023-10-31T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -467,6 +459,14 @@
   },
   {
     "artist": [
+      "Mariachi Herencia De Mexico: A Mariachi Christmas Spectacle"
+    ],
+    "link": "https://www.ticketweb.com/event/mariachi-herencia-de-mexico-a-thalia-hall-tickets/13713658",
+    "date": "2023-12-17T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Ratboys, Disq"
     ],
     "link": "https://www.ticketweb.com/event/ratboys-with-disq-thalia-hall-tickets/13318228",
@@ -485,7 +485,8 @@
     "artist": [
       "Allison Russell: The Returner Tour"
     ],
-    "link": "https://www.ticketweb.com/event/allison-russell-the-returner-tour-thalia-hall-tickets/13481628",
+    "link": "https://www.ticketweb.com/event/sold-out-allison-russell-the-thalia-hall-tickets/13481628",
+    "sold_out": true,
     "date": "2024-01-14T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -511,6 +512,14 @@
     ],
     "link": "https://www.ticketweb.com/event/deap-vally-live-for-the-thalia-hall-tickets/13632608",
     "date": "2024-02-10T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Sarah Jarosz: Polaroid Lovers Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/sarah-jarosz-polaroid-lovers-tour-thalia-hall-tickets/13693998",
+    "date": "2024-02-13T19:00:00",
     "venue": "Thalia Hall"
   },
   {

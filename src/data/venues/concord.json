@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Thrice",
-      "The Artist In The Ambulance 20th Anniversary Tour"
-    ],
-    "link": "https://concordmusichall.com/calendar/thrice-3/",
-    "date": "2023-10-05T19:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "Midnight Tyrannosaurus",
       "JIQUI, Dr.Lee"
     ],
@@ -245,6 +236,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/story-of-the-year-20-years-of-page-avenue/",
     "date": "2024-01-26T18:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "HEALTH",
+      "Pixel Grip, King Yosef"
+    ],
+    "link": "https://concordmusichall.com/calendar/health/",
+    "date": "2024-03-22T19:00:00",
     "venue": "Concord Music Hall"
   }
 ]

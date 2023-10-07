@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KennyHoopla \u2013 Raised By Wolves Tour, Groupthink, Footballhead"
-    ],
-    "link": "https://metrochicago.com/event/kennyhoopla-raised-by-wolves-tour/metro-chicago/chicago-illinois/",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "VNV Nation, Traitrs"
     ],
     "link": "https://metrochicago.com/event/vnv-nation/metro-chicago/chicago-illinois/",
@@ -339,6 +331,14 @@
     "link": "https://metrochicago.com/event/poison-the-well-performing-the-album-you-come-before-you/metro-chicago/chicago-illinois/",
     "date": "2024-01-12T19:30:00",
     "sold_out": true,
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "Claire Rosinkranz: A Live Experience"
+    ],
+    "link": "https://metrochicago.com/event/claire-rosinkranz-a-live-experience/metro-chicago/chicago-illinois/",
+    "date": "2024-03-22T19:30:00",
     "venue": "Metro"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Michelle Wolf"
-    ],
-    "link": "https://www.jamusa.com/events/detail/michelle-wolf-482173",
-    "date": "2023-10-06T19:00:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
-      "Michelle Wolf"
-    ],
-    "link": "https://www.jamusa.com/events/detail/michelle-wolf-492979",
-    "date": "2023-10-06T21:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Little Dragon, April + VISTA"
     ],
     "link": "https://www.jamusa.com/events/detail/little-dragon-489061",
@@ -341,6 +325,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/chris-fleming-500617",
     "date": "2023-12-09T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Matt Rogers"
+    ],
+    "link": "https://www.jamusa.com/events/detail/matt-rogers-505622",
+    "date": "2023-12-15T19:30:00",
     "venue": "The Vic Theatre"
   },
   {
