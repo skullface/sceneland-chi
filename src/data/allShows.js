@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Ben Schwartz & Friends'],
-    link: 'https://www.msg.com/calendar/the-chicago-theatre-october-2023-ben-schwartz-friends/07005E75C1131D40',
-    date: '2023-10-07T20:00:00',
-    venue: 'Chicago Theatre',
-  },
-  {
     artist: ['Bonnie Raitt'],
     link: 'https://www.msg.com/calendar/the-chicago-theatre-october-2023-bonnie-raitt/07005E35D6EF48B4',
     date: '2023-10-08T19:30:00',
@@ -512,12 +506,6 @@ export const allShows = [
     venue: 'Bottom Lounge',
   },
   {
-    artist: ['CHIRP Radio Welcomes: Margaret Glaspy, Tasha'],
-    link: 'https://link.dice.fm/Pe8b27feffd6',
-    date: '2023-10-07T21:00:00',
-    venue: 'Sleeping Village',
-  },
-  {
     artist: ['Marina Herlop, Carlile (Welcomed by Experimental Sound Studio)'],
     link: 'https://link.dice.fm/od38ad1e849a',
     date: '2023-10-08T20:00:00',
@@ -792,12 +780,6 @@ export const allShows = [
     venue: 'Sleeping Village',
   },
   {
-    artist: ['VNV Nation, Traitrs'],
-    link: 'https://metrochicago.com/event/vnv-nation/metro-chicago/chicago-illinois/',
-    date: '2023-10-07T20:00:00',
-    venue: 'Metro',
-  },
-  {
     artist: ['Arkells, Robert DeLong'],
     link: 'https://metrochicago.com/event/arkells/metro-chicago/chicago-illinois/',
     date: '2023-10-08T19:00:00',
@@ -1062,12 +1044,6 @@ export const allShows = [
     venue: 'Metro',
   },
   {
-    artist: ['Grace Potter, The Cactus Blossoms'],
-    link: 'https://www.jamusa.com/events/detail/grace-potter-490625',
-    date: '2023-10-07T20:00:00',
-    venue: 'Riviera Theatre',
-  },
-  {
     artist: ['The Wonder Years, Anxious, Sweet Pill, Action/Adventure'],
     link: 'https://www.jamusa.com/events/detail/the-wonder-years-487736',
     date: '2023-10-08T17:45:00',
@@ -1264,19 +1240,6 @@ export const allShows = [
     link: 'https://www.jamusa.com/events/detail/gilberto-santa-rosa-498703',
     date: '2024-03-23T19:30:00',
     venue: 'Riviera Theatre',
-  },
-  {
-    artist: ['Trousdale, Anna Vaus'],
-    sold_out: true,
-    link: 'https://lh-st.com/shows/10-07-2023-trousdale/',
-    date: '2023-10-07T20:00:00',
-    venue: 'Schubas',
-  },
-  {
-    artist: ['Yumi Zouma, Guests'],
-    link: 'https://lh-st.com/shows/10-07-2023-yumi-zouma/',
-    date: '2023-10-07T21:00:00',
-    venue: 'Lincoln Hall',
   },
   {
     artist: ['Hemlocke Springs, Girl K'],
@@ -2111,13 +2074,6 @@ export const allShows = [
     venue: 'Schubas',
   },
   {
-    artist: ['Lola Young, Softmax'],
-    link: 'https://www.beatkitchen.com/event-details/13535358/lola-young-softmax',
-    sold_out: true,
-    date: '2023-10-08T19:30:00',
-    venue: 'Beat Kitchen',
-  },
-  {
     artist: ['Kneecap, Air Credits'],
     link: 'https://www.beatkitchen.com/event-details/13134915/kneecap-air-credits',
     sold_out: true,
@@ -2392,12 +2348,6 @@ export const allShows = [
     venue: 'Northerly Island',
   },
   {
-    artist: ['Vacations & Last Dinosaurs Present TOURZILLA'],
-    link: 'https://concerts.livenation.com/vacations-last-dinosaurs-present-tourzilla-chicago-illinois-10-07-2023/event/04005EC1C68F342B',
-    date: '2023-10-07T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Christian French'],
     link: 'https://concerts.livenation.com/christian-french-chicago-illinois-10-08-2023/event/04005EC2BAEF45AE',
     date: '2023-10-08T17:30:00',
@@ -2458,6 +2408,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Night of Inspiration'],
+    link: 'https://concerts.livenation.com/night-of-inspiration-chicago-illinois-10-22-2023/event/04005F47BF1019AE',
+    date: '2023-10-22T16:45:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['TV Girl: MOVED TO BYLINE BANK ARAGON BALLROOM'],
     link: 'https://concerts.livenation.com/tv-girl-moved-to-byline-bank-chicago-illinois-10-22-2023/event/04005EA94F535527',
     date: '2023-10-22T18:00:00',
@@ -2503,6 +2459,12 @@ export const allShows = [
     artist: ['Armor For Sleep'],
     link: 'https://concerts.livenation.com/armor-for-sleep-chicago-illinois-10-30-2023/event/04005EF4F7353DBF',
     date: '2023-10-30T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Next Showcase USA Artist Spotlight'],
+    link: 'https://concerts.livenation.com/next-showcase-usa-artist-spotlight-chicago-illinois-10-31-2023/event/04005F47C1E41B83',
+    date: '2023-10-31T18:00:00',
     venue: 'House of Blues',
   },
   {
@@ -2672,24 +2634,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/its-beginning-to-look-a-lot-chicago-illinois-12-21-2023/event/04005EFADFA3492A',
     date: '2023-12-21T19:00:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['Shrek Rave'],
-    link: 'https://concerts.livenation.com/shrek-rave-chicago-illinois-12-31-2023/event/04005F21BD4C2EF0',
-    date: '2023-12-31T21:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Sorry Papi Tour: The All Girl Party'],
-    link: 'https://concerts.livenation.com/sorry-papi-tour-the-all-girl-chicago-illinois-10-06-2023/event/04005E94C9A52A8A',
-    date: '2023-10-06T22:00:00',
-    venue: 'Aragon Ballroom',
-  },
-  {
-    artist: ['Eladio Carrion'],
-    link: 'https://concerts.livenation.com/eladio-carrion-chicago-illinois-10-07-2023/event/04005EC806E448FB',
-    date: '2023-10-07T20:00:00',
-    venue: 'Aragon Ballroom',
   },
   {
     artist: ['The Band CAMINO: Screaming in the Dark Tour'],
@@ -3120,39 +3064,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/metallica-m72-world-tour-sunday-ticket-chicago-illinois-08-11-2024/event/04005E2A012347D0',
     date: '2024-08-11T18:00:00',
     venue: 'Soldier Field',
-  },
-  {
-    artist: ['CHICAGO SOUND COLLECTIVE (Formerly Altered Stage)'],
-    date: '2023-10-07',
-    link: 'https://www.reggieslive.com/show/chicago-sound-collective/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: [
-      'MONUMENTS',
-      'FOR THE FALLEN DREAMS',
-      'VRSTY',
-      'WITHOUT WAVES',
-      'DREAM ALAZIA',
-    ],
-    date: '2023-10-07',
-    link: 'https://www.reggieslive.com/show/monuments-2/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    artist: [
-      'EL PERRO (featuring Parker Griggs of Radio Moscow)',
-      'THE EVICTIONS',
-      'SILVERTONE',
-    ],
-    date: '2023-10-07',
-    link: 'https://www.reggieslive.com/show/el-perro-4/',
-    venue: 'Reggie\u2019s',
-  },
-  {
-    date: '2023-10-07',
-    link: 'https://www.reggieslive.com/show/open-mic-comedy-92/',
-    venue: 'Reggie\u2019s',
   },
   {
     artist: ['KENTHEMAN', 'DJ CEE WATTS'],
@@ -4652,15 +4563,6 @@ export const allShows = [
     venue: 'Thalia Hall',
   },
   {
-    artist: [
-      'Ben B\u00f6hmer presents Portraet - Chicago',
-      "Barry Can't Swim, QRTR",
-    ],
-    link: 'https://www.radius-chicago.com/events/detail/483340',
-    date: '2023-10-07T22:00:00',
-    venue: 'Radius',
-  },
-  {
     artist: ['ZHU', 'Noizu'],
     link: 'https://www.radius-chicago.com/events/detail/490215',
     date: '2023-10-12T22:00:00',
@@ -4781,10 +4683,10 @@ export const allShows = [
     venue: 'Radius',
   },
   {
-    artist: ['Carlos Ballarta'],
-    link: 'https://www.jamusa.com/events/detail/carlos-ballarta-480762',
-    date: '2023-10-07T19:30:00',
-    venue: 'Park West',
+    artist: ['Konstantinos Argiros'],
+    link: 'https://www.radius-chicago.com/events/detail/502864',
+    date: '2023-11-22T20:30:00',
+    venue: 'Radius',
   },
   {
     artist: ['Samantha Fish, Eric Johanson'],
@@ -5021,18 +4923,6 @@ export const allShows = [
     link: 'https://www.jamusa.com/events/detail/ryan-hamilton-502066',
     date: '2024-02-24T19:00:00',
     venue: 'Park West',
-  },
-  {
-    artist: ['Thee Best Western'],
-    link: 'https://www.ticketweb.com/event/thee-best-western-outside-the-empty-bottle-tickets/13597798',
-    date: '2023-10-07T12:00:00',
-    venue: 'Outside the Empty Bottle',
-  },
-  {
-    artist: ['Chirp Radio Welcomes: Kate Bollinger', 'Sam Burton'],
-    link: 'https://www.ticketweb.com/event/chirp-radio-welcomes-kate-bollinger-empty-bottle-tickets/13399648',
-    date: '2023-10-07T21:00:00',
-    venue: 'Empty Bottle',
   },
   {
     artist: [
@@ -5400,12 +5290,6 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
-    artist: ['Little Dragon, April + VISTA'],
-    link: 'https://www.jamusa.com/events/detail/little-dragon-489061',
-    date: '2023-10-07T20:00:00',
-    venue: 'The Vic Theatre',
-  },
-  {
     artist: ['RAYE, Absolutely'],
     link: 'https://www.jamusa.com/events/detail/raye-486656',
     date: '2023-10-10T19:30:00',
@@ -5722,18 +5606,6 @@ export const allShows = [
     link: 'https://www.jamusa.com/events/detail/sexy-liberal-tour-487785',
     date: '2024-08-17T20:00:00',
     venue: 'The Vic Theatre',
-  },
-  {
-    artist: ['Black Opry Revue: Tylar Bryant, Sug Daniels and Grace Givertz'],
-    link: 'https://hideoutchicago.com/event/black-opry-revue-tylar-bryant-sug-daniels-and-grace-givertz/hideout-chicago/chicago/',
-    date: '2023-10-07T19:30:00',
-    venue: 'Hideout',
-  },
-  {
-    artist: ['Ariel\u2019s Party: Ariel Zetina and Dalibor Cruz'],
-    link: 'https://hideoutchicago.com/event/ariels-party-ariel-zetina-and-dalibor-cruz/hideout-chicago/chicago/',
-    date: '2023-10-07T23:00:00',
-    venue: 'Hideout',
   },
   {
     artist: ['Sunday Sessions with A Light Sleeper and Akosuen'],
@@ -6059,12 +5931,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-tinley-park-illinois-07-09-2024/event/04005EB3F6EA498C',
     date: '2024-07-09T19:30:00',
     venue: 'Tinley Park Amphitheatre',
-  },
-  {
-    artist: ['Music Fest Day 2 2023'],
-    link: 'https://colesbarchicago.com/event/music-fest-2023/',
-    date: '2023-10-07T20:00:00',
-    venue: 'Cole\u2019s Bar',
   },
   {
     artist: ['Music Fest Day 3 2023'],
@@ -6437,12 +6303,6 @@ export const allShows = [
     venue: 'Concord Music Hall',
   },
   {
-    artist: ['Dave Chappelle'],
-    date: '2023-10-04T19:30:00',
-    link: 'https://www.unitedcenter.com/events/2023/10/04/dave-chapelle-live/',
-    venue: 'United Center',
-  },
-  {
     artist: ['Wu-Tang Clan and Nas'],
     date: '2023-10-08T20:00:00',
     link: 'https://www.unitedcenter.com/events/2023/10/08/ny-state-of-mind-tour/',
@@ -6591,19 +6451,6 @@ export const allShows = [
     date: '2024-06-13T19:30:00',
     link: 'https://www.unitedcenter.com/events/2024/06/13/tyler-childers-mule-pull-tour/',
     venue: 'United Center',
-  },
-  {
-    artist: ['SIN., Ryan Borens, DAYLONGSIGH, SHOTGUN FUNERAL'],
-    date: '2023-10-07T18:30:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/sin-ryan-borens-daylongsigh-shotgun-funeral/13487488',
-    venue: 'Subterranean',
-  },
-  {
-    artist: ['Zulu, Soul Glo, Playytime'],
-    date: '2023-10-07T20:00:00',
-    sold_out: true,
-    link: 'https://www.subt.net/event/tw-eventinfo/zulu-soul-glo-playytime/13449788',
-    venue: 'Subterranean',
   },
   {
     artist: [

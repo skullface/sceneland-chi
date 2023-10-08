@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Ben B\u00f6hmer presents Portraet - Chicago",
-      "Barry Can't Swim, QRTR"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/483340",
-    "date": "2023-10-07T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
       "ZHU",
       "Noizu"
     ],
@@ -172,6 +163,14 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/504002",
     "date": "2023-11-18T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Konstantinos Argiros"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/502864",
+    "date": "2023-11-22T20:30:00",
     "venue": "Radius"
   }
 ]

@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Trousdale, Anna Vaus"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-07-2023-trousdale/",
-    "date": "2023-10-07T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Yumi Zouma, Guests"
-    ],
-    "link": "https://lh-st.com/shows/10-07-2023-yumi-zouma/",
-    "date": "2023-10-07T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Hemlocke Springs, Girl K"
     ],
     "sold_out": true,

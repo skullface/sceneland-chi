@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Vacations & Last Dinosaurs Present TOURZILLA"
-    ],
-    "link": "https://concerts.livenation.com/vacations-last-dinosaurs-present-tourzilla-chicago-illinois-10-07-2023/event/04005EC1C68F342B",
-    "date": "2023-10-07T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Christian French"
     ],
     "link": "https://concerts.livenation.com/christian-french-chicago-illinois-10-08-2023/event/04005EC2BAEF45AE",
@@ -89,6 +81,14 @@
   },
   {
     "artist": [
+      "Night of Inspiration"
+    ],
+    "link": "https://concerts.livenation.com/night-of-inspiration-chicago-illinois-10-22-2023/event/04005F47BF1019AE",
+    "date": "2023-10-22T16:45:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "TV Girl: MOVED TO BYLINE BANK ARAGON BALLROOM"
     ],
     "link": "https://concerts.livenation.com/tv-girl-moved-to-byline-bank-chicago-illinois-10-22-2023/event/04005EA94F535527",
@@ -149,6 +149,14 @@
     ],
     "link": "https://concerts.livenation.com/armor-for-sleep-chicago-illinois-10-30-2023/event/04005EF4F7353DBF",
     "date": "2023-10-30T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Next Showcase USA Artist Spotlight"
+    ],
+    "link": "https://concerts.livenation.com/next-showcase-usa-artist-spotlight-chicago-illinois-10-31-2023/event/04005F47C1E41B83",
+    "date": "2023-10-31T18:00:00",
     "venue": "House of Blues"
   },
   {
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/its-beginning-to-look-a-lot-chicago-illinois-12-21-2023/event/04005EFADFA3492A",
     "date": "2023-12-21T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Shrek Rave"
-    ],
-    "link": "https://concerts.livenation.com/shrek-rave-chicago-illinois-12-31-2023/event/04005F21BD4C2EF0",
-    "date": "2023-12-31T21:00:00",
     "venue": "House of Blues"
   }
 ]
