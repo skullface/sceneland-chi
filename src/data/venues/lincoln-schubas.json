@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Hemlocke Springs, Girl K"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-08-2023-hemlocke-springs/",
-    "date": "2023-10-08T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "GUM, GIFT"
     ],
     "link": "https://lh-st.com/shows/10-10-2023-gum/",
@@ -55,6 +46,7 @@
     "artist": [
       "Pr\u00f3xima Parada, Olive Klug"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-proxima-parada/",
     "date": "2023-10-12T20:00:00",
     "venue": "Schubas"

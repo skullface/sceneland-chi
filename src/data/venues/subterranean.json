@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Genevieve Heyward, TV Blackout, Anteeter, Sparkling Urbana, Winter TV"
-    ],
-    "date": "2023-10-08T18:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/genevieve-heyward-tv-blackout-anteeter-sparkling-urbana-winter-tv/13635668",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "Scowl, Militarie Gun, Big Laugh, Enervate"
-    ],
-    "date": "2023-10-08T18:30:00",
-    "sold_out": true,
-    "link": "https://www.subt.net/event/tw-eventinfo/scowl-militarie-gun-big-laugh-enervate/13229188",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "Ollie Wride, Parallels"
     ],
     "date": "2023-10-09T20:00:00",
@@ -30,6 +13,14 @@
     ],
     "date": "2023-10-09T21:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/alternative-pt-2/13701918",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "CAMPING IN ALASKA, RILEY!"
+    ],
+    "date": "2023-10-11T16:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/camping-in-alaska-riley/13728208",
     "venue": "Subterranean"
   },
   {
@@ -263,6 +254,7 @@
       "Royal & The Serpent, Carlie Hanson, Baby Fisher"
     ],
     "date": "2023-11-04T20:00:00",
+    "sold_out": true,
     "link": "https://www.subt.net/event/tw-eventinfo/royal-the-serpent-carlie-hanson-baby-fisher/13511278",
     "venue": "Subterranean"
   },

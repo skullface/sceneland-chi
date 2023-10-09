@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Maude Latour: Twin Flame Tour, Devon Again"
-    ],
-    "link": "https://www.ticketweb.com/event/maude-latour-twin-flame-tour-thalia-hall-tickets/13311418",
-    "date": "2023-10-08T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Dollop!"
     ],
     "link": "https://www.ticketweb.com/event/the-dollop-thalia-hall-tickets/13310488",
@@ -388,7 +380,8 @@
     "artist": [
       "Angel Olsen, Natural Information Society Presented by 93XRT"
     ],
-    "link": "https://www.ticketweb.com/event/angel-olsen-with-natural-information-thalia-hall-tickets/13054815",
+    "link": "https://www.ticketweb.com/event/sold-out-angel-olsen-with-thalia-hall-tickets/13054815",
+    "sold_out": true,
     "date": "2023-12-02T19:00:00",
     "venue": "Thalia Hall"
   },

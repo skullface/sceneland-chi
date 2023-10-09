@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Christian French"
-    ],
-    "link": "https://concerts.livenation.com/christian-french-chicago-illinois-10-08-2023/event/04005EC2BAEF45AE",
-    "date": "2023-10-08T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Why Is This Happening? The Chris Hayes Podcast 2023 Live Tour"
     ],
     "link": "https://concerts.livenation.com/why-is-this-happening-the-chris-chicago-illinois-10-09-2023/event/04005F0339E850E6",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/its-beginning-to-look-a-lot-chicago-illinois-12-21-2023/event/04005EFADFA3492A",
     "date": "2023-12-21T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Shrek Rave"
+    ],
+    "link": "https://concerts.livenation.com/shrek-rave-chicago-illinois-12-31-2023/event/04005F21BD4C2EF0",
+    "date": "2023-12-31T21:00:00",
     "venue": "House of Blues"
   }
 ]

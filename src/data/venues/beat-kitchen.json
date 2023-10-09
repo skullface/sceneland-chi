@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Kneecap, Air Credits"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13134915/kneecap-air-credits",
-    "sold_out": true,
-    "date": "2023-10-09T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "THREEZERO, Yna, Chaepter"
     ],
     "link": "https://www.beatkitchen.com/event-details/13558138/threezero-yna-chaepter",
@@ -45,6 +36,7 @@
       "Off With Their Heads, Dead Bars, BLACK CROSS HOTEL"
     ],
     "link": "https://www.beatkitchen.com/event-details/13267128/off-with-their-heads-dead-bars-black-cross-hotel",
+    "sold_out": true,
     "date": "2023-10-14T20:00:00",
     "venue": "Beat Kitchen"
   },
