@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "THREEZERO, Yna, Chaepter"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13558138/threezero-yna-chaepter",
-    "date": "2023-10-10T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "SORRY MOM, Sweetie"
     ],
     "link": "https://www.beatkitchen.com/event-details/13487788/sorry-mom-sweetie",
@@ -36,7 +28,6 @@
       "Off With Their Heads, Dead Bars, BLACK CROSS HOTEL"
     ],
     "link": "https://www.beatkitchen.com/event-details/13267128/off-with-their-heads-dead-bars-black-cross-hotel",
-    "sold_out": true,
     "date": "2023-10-14T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -131,9 +122,9 @@
   },
   {
     "artist": [
-      "TROY CARTWRIGHT"
+      "TROY CARTWRIGHT, Woodrow Hart & the Haymaker"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13531698/troy-cartwright",
+    "link": "https://www.beatkitchen.com/event-details/13531698/troy-cartwright-woodrow-hart-the-haymaker",
     "date": "2023-10-26T20:00:00",
     "venue": "Beat Kitchen"
   },

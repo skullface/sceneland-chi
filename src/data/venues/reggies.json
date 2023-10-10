@@ -1,19 +1,5 @@
 [
   {
-    "artist": [
-      "ZACK FEDOR",
-      "BLAKE BURKHART"
-    ],
-    "date": "2023-10-09",
-    "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-10-09",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-73/",
-    "venue": "Reggie\u2019s"
-  },
-  {
     "date": "2023-10-10",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-97/",
     "venue": "Reggie\u2019s"
@@ -598,6 +584,16 @@
   },
   {
     "artist": [
+      "CHAEPTER",
+      "DOOM GONG",
+      "BLINKER"
+    ],
+    "date": "2023-11-09",
+    "link": "https://www.reggieslive.com/show/chaepter/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
       "Ha\u0308llas",
       "FREEWAYS"
     ],
@@ -710,6 +706,14 @@
     ],
     "date": "2023-11-13",
     "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-9/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "LADIES OF PANAMA"
+    ],
+    "date": "2023-11-13",
+    "link": "https://www.reggieslive.com/show/the-ladies-of-panama/",
     "venue": "Reggie\u2019s"
   },
   {

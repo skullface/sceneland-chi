@@ -13,6 +13,7 @@
       "Joyfriend",
       "to you, deary"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-10-2023-100-off-bands/",
     "date": "2023-10-10T20:00:00",
     "venue": "Schubas"
@@ -334,7 +335,7 @@
   },
   {
     "artist": [
-      "PVA"
+      "PVA, Born Days"
     ],
     "link": "https://lh-st.com/shows/10-28-2023-pva/",
     "date": "2023-10-28T21:00:00",
@@ -484,7 +485,7 @@
   },
   {
     "artist": [
-      "EMEI"
+      "EMEI, Lulu Simon"
     ],
     "sold_out": true,
     "link": "https://lh-st.com/shows/11-08-2023-emei/",
@@ -777,6 +778,14 @@
   },
   {
     "artist": [
+      "Maiden King, Astrachan"
+    ],
+    "link": "https://lh-st.com/shows/12-01-2023-maiden-king/",
+    "date": "2023-12-01T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "NEFFEX"
     ],
     "link": "https://lh-st.com/shows/12-01-2023-neffex/",
@@ -1010,6 +1019,14 @@
     "link": "https://lh-st.com/shows/02-28-2024-shay-lia/",
     "date": "2024-02-28T20:00:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Em Beihold"
+    ],
+    "link": "https://lh-st.com/shows/03-02-2024-em-beihold/",
+    "date": "2024-03-02T20:00:00",
+    "venue": "Lincoln Hall"
   },
   {
     "artist": [

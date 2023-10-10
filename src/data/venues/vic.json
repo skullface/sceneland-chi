@@ -49,7 +49,7 @@
   },
   {
     "artist": [
-      "Little Feat: The Albums Tour"
+      "Little Feat: The Albums Tour, Neal Francis"
     ],
     "link": "https://www.jamusa.com/events/detail/little-feat-482326",
     "date": "2023-10-16T19:30:00",
@@ -125,14 +125,6 @@
     ],
     "link": "https://www.jamusa.com/events/detail/faye-webster-vic",
     "date": "2023-10-29T19:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
-      "Sampha"
-    ],
-    "link": "https://www.jamusa.com/events/detail/sampha-501156",
-    "date": "2023-11-01T20:00:00",
     "venue": "The Vic Theatre"
   },
   {
@@ -365,6 +357,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/criminal-504019",
     "date": "2024-02-10T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Petey"
+    ],
+    "link": "https://www.jamusa.com/events/detail/petey-503825",
+    "date": "2024-03-01T20:30:00",
     "venue": "The Vic Theatre"
   },
   {

@@ -81,6 +81,14 @@
   },
   {
     "artist": [
+      "Sampha"
+    ],
+    "link": "https://www.jamusa.com/events/detail/sampha-501156",
+    "date": "2023-11-01T20:00:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
       "Nicole Byer"
     ],
     "link": "https://www.jamusa.com/events/detail/nicole-byer-492929",
@@ -201,7 +209,7 @@
   },
   {
     "artist": [
-      "Andrew McMahon in the Wilderness, Michigander"
+      "Andrew McMahon in the Wilderness, Michigander, Wildermiss"
     ],
     "link": "https://www.jamusa.com/events/detail/andrew-mcmahon-in-the-wilderness-490213",
     "date": "2023-12-08T18:30:00",
@@ -253,6 +261,22 @@
     ],
     "link": "https://www.jamusa.com/events/detail/gilberto-santa-rosa-498703",
     "date": "2024-03-23T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Andres Cepeda, Alejandro Santamaria"
+    ],
+    "link": "https://www.jamusa.com/events/detail/andres-cepeda-507057",
+    "date": "2024-04-13T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Madison Beer, Charlotte Lawrence"
+    ],
+    "link": "https://www.jamusa.com/events/detail/madison-beer-505113",
+    "date": "2024-04-26T20:00:00",
     "venue": "Riviera Theatre"
   }
 ]

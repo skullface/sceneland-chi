@@ -110,7 +110,8 @@
     "artist": [
       "Rawayana, Orestes Gomez"
     ],
-    "link": "https://www.ticketweb.com/event/rawayana-with-orestes-gomez-thalia-hall-tickets/13270838",
+    "link": "https://www.ticketweb.com/event/sold-out-rawayana-with-orestes-thalia-hall-tickets/13270838",
+    "sold_out": true,
     "date": "2023-10-24T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -448,6 +449,14 @@
     ],
     "link": "https://www.ticketweb.com/event/bitchin-bajas-with-glyders-thalia-hall-tickets/13608948",
     "date": "2023-12-16T19:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "The Rock and Roll Playhouse plays Music of Taylor Swift + More for Kids"
+    ],
+    "link": "https://www.ticketweb.com/event/the-rock-and-roll-playhouse-thalia-hall-tickets/13718248",
+    "date": "2023-12-17T11:00:00",
     "venue": "Thalia Hall"
   },
   {

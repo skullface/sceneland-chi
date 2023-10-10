@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JJ and the Daydrinkers with Rachel Drew"
-    ],
-    "link": "https://hideoutchicago.com/event/jj-and-the-daydrinkers-with-rachel-drew/hideout-chicago/chicago/",
-    "date": "2023-10-09T20:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Jon Langford and His Fancy Men with Dennis J. Leise and Sally Timms"
     ],
     "link": "https://hideoutchicago.com/event/jon-langford-and-his-fancy-men-with-dennis-j-leise-and-sally-timms/hideout-chicago/chicago/",
@@ -227,6 +219,14 @@
     ],
     "link": "https://hideoutchicago.com/event/molly-martin-with-special-guests/hideout-chicago/chicago/",
     "date": "2023-11-03T21:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "The Curls with Junegrass and Free Times"
+    ],
+    "link": "https://hideoutchicago.com/event/the-curls-with-junegrass-and-free-times/hideout-chicago/chicago/",
+    "date": "2023-11-04T20:30:00",
     "venue": "Hideout"
   },
   {

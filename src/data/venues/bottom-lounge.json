@@ -338,10 +338,19 @@
     "artist": [
       "The Flatlinters Present The Holiday Melee",
       "The Flatliners",
-      "Pet Symmetry"
+      "Pet Symmetry",
+      "Kali Masi"
     ],
     "date": "2023-12-16T19:00:00",
     "link": "https://bottomlounge.com/13709-2/13506458/the-flatlinters-present-the-holiday-melee",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "I Fight Dragons"
+    ],
+    "date": "2023-12-30T19:00:00",
+    "link": "https://bottomlounge.com/13709-2/13718778/i-fight-dragons",
     "venue": "Bottom Lounge"
   },
   {
