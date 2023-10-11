@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "yeule, SASAMI"
-    ],
-    "link": "https://metrochicago.com/event/yeule/metro-chicago/chicago-illinois/",
-    "date": "2023-10-10T20:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "The Revivalists"
     ],
     "link": "https://metrochicago.com/event/the-revivalists/metro-chicago/chicago-illinois/",
@@ -266,6 +258,7 @@
     ],
     "link": "https://metrochicago.com/event/sky-ferreira/metro-chicago/chicago-illinois/",
     "date": "2023-12-06T19:30:00",
+    "sold_out": true,
     "venue": "Metro"
   },
   {

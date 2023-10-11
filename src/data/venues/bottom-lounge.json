@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Emarosa",
-      "The Dangerous Summer",
-      "First and Forever",
-      "Zorila"
-    ],
-    "date": "2023-10-10T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13439208/emarosa-the-dangerous-summer-first-and-forever-zorila",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Superheaven",
       "KOYO"
     ],
@@ -359,6 +348,25 @@
     ],
     "date": "2024-01-23T20:00:00",
     "link": "https://bottomlounge.com/13709-2/13526708/amber-liu",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "Mickey Darling"
+    ],
+    "date": "2024-01-25T20:00:00",
+    "link": "https://bottomlounge.com/13709-2/13732138/mickey-darling",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "Holding Absence",
+      "Casey",
+      "Capstan",
+      "Acres"
+    ],
+    "date": "2024-02-07T19:00:00",
+    "link": "https://bottomlounge.com/13709-2/13708468/holding-absence-casey-capstan-acres",
     "venue": "Bottom Lounge"
   },
   {

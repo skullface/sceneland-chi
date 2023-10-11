@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "RAYE, Absolutely"
-    ],
-    "link": "https://www.jamusa.com/events/detail/raye-486656",
-    "date": "2023-10-10T19:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Seu Jorge and Daniel Jobim"
     ],
     "link": "https://www.jamusa.com/events/detail/seu-jorge-and-daniel-jobim-494981",
@@ -361,6 +353,14 @@
   },
   {
     "artist": [
+      "Jamila Woods, Kara Jackson"
+    ],
+    "link": "https://www.jamusa.com/events/detail/jamila-woods-505095",
+    "date": "2024-02-23T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
       "Petey"
     ],
     "link": "https://www.jamusa.com/events/detail/petey-503825",
@@ -381,6 +381,22 @@
     ],
     "link": "https://www.jamusa.com/events/detail/jared-freid-500515",
     "date": "2024-03-02T22:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "StardewValley Festival of Seasons, Chicago Philharmonic"
+    ],
+    "link": "https://www.jamusa.com/events/detail/chicago-philharmonic-504796",
+    "date": "2024-03-09T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Dorian Electra, Uffie, Izzy Spears"
+    ],
+    "link": "https://www.jamusa.com/events/detail/dorian-electra-507153",
+    "date": "2024-03-16T20:00:00",
     "venue": "The Vic Theatre"
   },
   {

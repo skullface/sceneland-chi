@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SORRY MOM, Sweetie"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13487788/sorry-mom-sweetie",
-    "date": "2023-10-11T19:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "Teddy Bear Orchestra , PROBLEMS"
     ],
     "link": "https://www.beatkitchen.com/event-details/13466228/teddy-bear-orchestra-problems",
@@ -28,6 +20,7 @@
       "Off With Their Heads, Dead Bars, BLACK CROSS HOTEL"
     ],
     "link": "https://www.beatkitchen.com/event-details/13267128/off-with-their-heads-dead-bars-black-cross-hotel",
+    "sold_out": true,
     "date": "2023-10-14T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -178,9 +171,9 @@
   },
   {
     "artist": [
-      "TX2"
+      "TX2, Kid Baron"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13658848/tx2",
+    "link": "https://www.beatkitchen.com/event-details/13658848/tx2-kid-baron",
     "date": "2023-11-02T19:00:00",
     "venue": "Beat Kitchen"
   },
@@ -202,7 +195,7 @@
   },
   {
     "artist": [
-      "Arch Echo, STELLAR CIRCUITS"
+      "Arch Echo, Stellar Circuits"
     ],
     "link": "https://www.beatkitchen.com/event-details/13336068/arch-echo-stellar-circuits",
     "date": "2023-11-08T20:00:00",
@@ -290,9 +283,9 @@
   },
   {
     "artist": [
-      "LIGHTHEARTED, THE COURTS, DEE BEAM"
+      "LIGHTHEARTED, THE COURTS, HARVEY WATERS, DEE BEAM"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13712498/lighthearted-the-courts-dee-beam",
+    "link": "https://www.beatkitchen.com/event-details/13712498/lighthearted-the-courts-harvey-waters-dee-beam",
     "date": "2023-12-05T20:00:00",
     "venue": "Beat Kitchen"
   },

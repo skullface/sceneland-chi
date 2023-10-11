@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "GUM, GIFT"
-    ],
-    "link": "https://lh-st.com/shows/10-10-2023-gum/",
-    "date": "2023-10-10T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Stalled",
-      "Joyfriend",
-      "to you, deary"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-10-2023-100-off-bands/",
-    "date": "2023-10-10T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Cece Coakley, Caroline Culver"
     ],
     "link": "https://lh-st.com/shows/10-11-2023-cece-coakley/",
@@ -28,7 +9,7 @@
   },
   {
     "artist": [
-      "Sam Gellaitry"
+      "Sam Gellaitry, FINGY"
     ],
     "link": "https://lh-st.com/shows/10-11-2023-sam-gellaitry/",
     "date": "2023-10-11T20:00:00",
@@ -38,7 +19,6 @@
     "artist": [
       "Geese, PACKS"
     ],
-    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-geese/",
     "date": "2023-10-12T20:00:00",
     "venue": "Lincoln Hall"
@@ -209,7 +189,7 @@
   },
   {
     "artist": [
-      "Mk.gee, Andrew Aged & John Keek"
+      "Mk.gee"
     ],
     "link": "https://lh-st.com/shows/10-21-2023-mkgee/",
     "date": "2023-10-21T20:00:00",
@@ -238,6 +218,16 @@
     "link": "https://lh-st.com/shows/10-23-2023-french-79/",
     "date": "2023-10-23T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "CRASHprez",
+      "Woes",
+      "Gordmin"
+    ],
+    "link": "https://lh-st.com/shows/10-23-2023-100-off-bands/",
+    "date": "2023-10-23T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -461,6 +451,14 @@
   },
   {
     "artist": [
+      "The Chicago Moth StorySLAM"
+    ],
+    "link": "https://lh-st.com/shows/11-06-2023-the-chicago-moth-storyslam/",
+    "date": "2023-11-06T19:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "julie, Blimp"
     ],
     "link": "https://lh-st.com/shows/11-06-2023-julie/",
@@ -637,7 +635,7 @@
   },
   {
     "artist": [
-      "Under the Rug"
+      "Under the Rug, Social Animals (Solo)"
     ],
     "link": "https://lh-st.com/shows/11-17-2023-under-the-rug/",
     "date": "2023-11-17T20:00:00",
@@ -892,6 +890,14 @@
   },
   {
     "artist": [
+      "Covers For Cover"
+    ],
+    "link": "https://lh-st.com/shows/12-09-2023-covers-4-cover/",
+    "date": "2023-12-09T18:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Neva Dinova"
     ],
     "link": "https://lh-st.com/shows/12-11-2023-neva-dinova/",
@@ -1030,6 +1036,14 @@
   },
   {
     "artist": [
+      "Sid Sriram"
+    ],
+    "link": "https://lh-st.com/shows/03-04-2024-sid-sriram/",
+    "date": "2024-03-04T19:30:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Beach Weather, Phoneboy, Rec Hall"
     ],
     "link": "https://lh-st.com/shows/03-05-2024-beach-weather/",
@@ -1038,11 +1052,27 @@
   },
   {
     "artist": [
+      "TopHouse"
+    ],
+    "link": "https://lh-st.com/shows/03-07-2024-tophouse/",
+    "date": "2024-03-07T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Cherry Glazerr, Wombo"
     ],
     "link": "https://lh-st.com/shows/03-09-2024-cherry-glazerr/",
     "date": "2024-03-09T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Gengahr, Ginger Taylor"
+    ],
+    "link": "https://lh-st.com/shows/03-10-2024-gengahr/",
+    "date": "2024-03-10T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -1107,5 +1137,13 @@
     "link": "https://lh-st.com/shows/05-12-2024-jeffrey-martin/",
     "date": "2024-05-12T19:30:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Buck Meek"
+    ],
+    "link": "https://lh-st.com/shows/05-24-2024-buck-meek/",
+    "date": "2024-05-24T20:00:00",
+    "venue": "Lincoln Hall"
   }
 ]

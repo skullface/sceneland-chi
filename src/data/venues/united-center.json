@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SZA"
-    ],
-    "date": "2023-10-10T20:00:00",
-    "link": "https://www.unitedcenter.com/events/2023/10/10/SZA-sos-tour/",
-    "venue": "United Center"
-  },
-  {
-    "artist": [
       "Phish"
     ],
     "date": "2023-10-13T19:30:00",
@@ -173,6 +165,14 @@
     ],
     "date": "2024-03-22T19:00:00",
     "link": "https://www.unitedcenter.com/events/2024/03/22/dan-and-shay-the-heartbreak-on-the-map-tour/",
+    "venue": "United Center"
+  },
+  {
+    "artist": [
+      "Bert Kreischer"
+    ],
+    "date": "2024-04-04T19:00:00",
+    "link": "https://www.unitedcenter.com/events/2024/04/04/bert-kreischer-tops-off-world-tour/",
     "venue": "United Center"
   },
   {

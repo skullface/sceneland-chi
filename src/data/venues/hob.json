@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "TesseracT: WAR OF BEING WORLD TOUR"
-    ],
-    "link": "https://concerts.livenation.com/tesseract-war-of-being-world-tour-chicago-illinois-10-10-2023/event/04005EC6BE9D3D5F",
-    "date": "2023-10-10T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "A R I Z O N A: LIVE FOR A NIGHT"
     ],
     "link": "https://concerts.livenation.com/a-r-i-z-o-n-chicago-illinois-10-11-2023/event/04005ECDC2B61A88",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/trippin-billies-chicago-illinois-01-06-2024/event/04005F2EC5C4568D",
     "date": "2024-01-06T19:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Led Zeppelin 2 and Friends"
+    ],
+    "link": "https://concerts.livenation.com/led-zeppelin-2-and-friends-chicago-illinois-01-12-2024/event/04005F2B31920832",
+    "date": "2024-01-12T19:00:00",
     "venue": "House of Blues"
   }
 ]
