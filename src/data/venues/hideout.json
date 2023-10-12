@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Bandulus and The Drastics with DJs Kinky P and The Graduate"
-    ],
-    "link": "https://hideoutchicago.com/event/the-bandulus-and-the-drastics-with-djs-kinky-p-and-the-graduate/hideout-chicago/chicago/",
-    "date": "2023-10-11T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Amy LaVere and Will Sexton with Gerald Dowd"
     ],
     "link": "https://hideoutchicago.com/event/amy-lavere-and-will-sexton-with-gerald-dowd/hideout-chicago/chicago/",
@@ -303,9 +295,9 @@
   },
   {
     "artist": [
-      "Maeve and Quinn Album Release Show Edith Judith"
+      "Maeve and Quinn Album Release Show Edith Judith and Fine Dining"
     ],
-    "link": "https://hideoutchicago.com/event/maeve-and-quinn-album-release-show-with-special-guest-edith-judith/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/maeve-and-quinn-album-release-show-with-special-guests-edith-judith-and-fine-dining/hideout-chicago/chicago/",
     "date": "2023-11-19T19:30:00",
     "venue": "Hideout"
   },
@@ -315,6 +307,14 @@
     ],
     "link": "https://hideoutchicago.com/event/the-big-bloom-with-ponyboy-and-the-idiots/hideout-chicago/chicago/",
     "date": "2023-11-21T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Wakai with Sol Chyld"
+    ],
+    "link": "https://hideoutchicago.com/event/wakai-with-sol-chyld/hideout-chicago/chicago/",
+    "date": "2023-11-29T20:30:00",
     "venue": "Hideout"
   },
   {

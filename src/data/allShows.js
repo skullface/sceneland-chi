@@ -184,6 +184,12 @@ export const allShows = [
     venue: 'Chicago Theatre',
   },
   {
+    artist: ['Brett Goldstein'],
+    link: 'https://www.msg.com/calendar/the-chicago-theatre-january-2024-brett-goldstein/07005F44CCFD2686',
+    date: '2024-01-19T19:00:00',
+    venue: 'Chicago Theatre',
+  },
+  {
     artist: ['Ali Siddiq: I Got A Story To Tell'],
     link: 'https://www.msg.com/calendar/the-chicago-theatre-january-2024-ali-siddiq-i-got-a-story-to-tell/07005F3BC5612B89',
     date: '2024-01-26T19:00:00',
@@ -525,12 +531,6 @@ export const allShows = [
     venue: 'Bottom Lounge',
   },
   {
-    artist: ['Metro Presents... Blue Hawaii * TRQPiTECA (DJ Set)'],
-    link: 'https://link.dice.fm/O75c490396c3',
-    date: '2023-10-11T20:00:00',
-    venue: 'Sleeping Village',
-  },
-  {
     artist: ['Jessy Lanza, Golden Donna'],
     link: 'https://link.dice.fm/v730e3bf2ffd',
     date: '2023-10-12T21:00:00',
@@ -653,6 +653,7 @@ export const allShows = [
   {
     artist: ['Snow Strippers, Evilgiane, DJ Kenn'],
     link: 'https://link.dice.fm/ab91856937ff',
+    sold_out: true,
     date: '2023-10-29T20:00:00',
     venue: 'Sleeping Village',
   },
@@ -791,13 +792,6 @@ export const allShows = [
     link: 'https://link.dice.fm/c149381e04f6',
     date: '2024-01-13T19:30:00',
     venue: 'Sleeping Village',
-  },
-  {
-    artist: ['The Revivalists'],
-    link: 'https://metrochicago.com/event/the-revivalists/metro-chicago/chicago-illinois/',
-    date: '2023-10-11T20:00:00',
-    sold_out: true,
-    venue: 'Metro',
   },
   {
     artist: ['Everything Everything, Pierre Kwenders'],
@@ -1238,6 +1232,14 @@ export const allShows = [
     venue: 'Riviera Theatre',
   },
   {
+    artist: [
+      'The Kooks, With Very Special Guest: The Vaccines, Daisy the Great',
+    ],
+    link: 'https://www.jamusa.com/events/detail/the-kooks-the-vaccines-506827',
+    date: '2024-03-15T19:30:00',
+    venue: 'Riviera Theatre',
+  },
+  {
     artist: ['GROUPLOVE, Bully'],
     link: 'https://www.jamusa.com/events/detail/grouplove-507040',
     date: '2024-03-16T20:00:00',
@@ -1268,19 +1270,8 @@ export const allShows = [
     venue: 'Riviera Theatre',
   },
   {
-    artist: ['Cece Coakley, Caroline Culver'],
-    link: 'https://lh-st.com/shows/10-11-2023-cece-coakley/',
-    date: '2023-10-11T19:30:00',
-    venue: 'Schubas',
-  },
-  {
-    artist: ['Sam Gellaitry, FINGY'],
-    link: 'https://lh-st.com/shows/10-11-2023-sam-gellaitry/',
-    date: '2023-10-11T20:00:00',
-    venue: 'Lincoln Hall',
-  },
-  {
     artist: ['Geese, PACKS'],
+    sold_out: true,
     link: 'https://lh-st.com/shows/10-12-2023-geese/',
     date: '2023-10-12T20:00:00',
     venue: 'Lincoln Hall',
@@ -1358,13 +1349,13 @@ export const allShows = [
     venue: 'Schubas',
   },
   {
-    artist: ['Infinity Song'],
+    artist: ['Infinity Song, Alemeda'],
     link: 'https://lh-st.com/shows/10-17-2023-infinity-song/',
     date: '2023-10-17T20:00:00',
     venue: 'Lincoln Hall',
   },
   {
-    artist: ['JOHN, Tunic'],
+    artist: ['JOHN, Tunic, Interlay'],
     link: 'https://lh-st.com/shows/10-18-2023-john-timestwo/',
     date: '2023-10-18T19:30:00',
     venue: 'Schubas',
@@ -2002,6 +1993,12 @@ export const allShows = [
     venue: 'Lincoln Hall',
   },
   {
+    artist: ['Juice, The Hails'],
+    link: 'https://lh-st.com/shows/01-27-2024-juice/',
+    date: '2024-01-27T20:00:00',
+    venue: 'Lincoln Hall',
+  },
+  {
     artist: ['Christopher'],
     link: 'https://lh-st.com/shows/02-02-2024-christopher/',
     date: '2024-02-02T20:00:00',
@@ -2133,12 +2130,6 @@ export const allShows = [
     link: 'https://lh-st.com/shows/05-24-2024-buck-meek/',
     date: '2024-05-24T20:00:00',
     venue: 'Lincoln Hall',
-  },
-  {
-    artist: ['Teddy Bear Orchestra , PROBLEMS'],
-    link: 'https://www.beatkitchen.com/event-details/13466228/teddy-bear-orchestra-problems',
-    date: '2023-10-12T20:00:00',
-    venue: 'Beat Kitchen',
   },
   {
     artist: ['Young Bride, Mr. West, Division Point, Rai'],
@@ -2301,6 +2292,12 @@ export const allShows = [
     venue: 'Beat Kitchen',
   },
   {
+    artist: ['MONALEO'],
+    link: 'https://www.beatkitchen.com/event-details/13730848/monaleo',
+    date: '2023-11-14T19:30:00',
+    venue: 'Beat Kitchen',
+  },
+  {
     artist: ['Pronoun'],
     link: 'https://www.beatkitchen.com/event-details/13692948/pronoun',
     date: '2023-11-15T20:00:00',
@@ -2340,6 +2337,12 @@ export const allShows = [
     artist: ['Sam Tinnesz, Bryce Fox, Wildered'],
     link: 'https://www.beatkitchen.com/event-details/13399888/sam-tinnesz-bryce-fox-wildered',
     date: '2023-11-30T20:00:00',
+    venue: 'Beat Kitchen',
+  },
+  {
+    artist: ['Ella Vos - The Microdose Tour'],
+    link: 'https://www.beatkitchen.com/event-details/13734568/ella-vos-the-microdose-tour',
+    date: '2023-12-02T20:00:00',
     venue: 'Beat Kitchen',
   },
   {
@@ -2389,12 +2392,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/king-gizzard-the-lizard-wizard-chicago-illinois-09-01-2024/event/04005F19E2703F1B',
     date: '2024-09-01T18:30:00',
     venue: 'Northerly Island',
-  },
-  {
-    artist: ['A R I Z O N A: LIVE FOR A NIGHT'],
-    link: 'https://concerts.livenation.com/a-r-i-z-o-n-chicago-illinois-10-11-2023/event/04005ECDC2B61A88',
-    date: '2023-10-11T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Rod Tuffcurls & the Bench Press'],
@@ -2679,6 +2676,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Led Zeppelin 2'],
+    link: 'https://concerts.livenation.com/led-zeppelin-2-chicago-illinois-01-13-2024/event/04005F2B3205087E',
+    date: '2024-01-13T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: [
       'Rene\u00e9 Rapp: Snow Hard Feelings Tour With special guests Alexander 23',
     ],
@@ -2917,7 +2920,7 @@ export const allShows = [
       "Les Claypool's Fearless Flying Frog Brigade The Hunt for Green October",
     ],
     link: 'https://www.ticketmaster.com/les-claypools-fearless-flying-frog-brigade-chicago-illinois-10-18-2023/event/04005EC9E83A382D',
-    date: '2023-10-18T18:00:00',
+    date: '2023-10-18T19:00:00',
     venue: 'Salt Shed',
   },
   {
@@ -4100,15 +4103,6 @@ export const allShows = [
     venue: 'Reggie\u2019s',
   },
   {
-    artist: [
-      'The Brook & The Bluff \u2013 Bluebeard Tour 2023, Bendigo Fletcher',
-    ],
-    link: 'https://www.ticketweb.com/event/sold-out-the-brook-thalia-hall-tickets/13268658',
-    sold_out: true,
-    date: '2023-10-11T19:00:00',
-    venue: 'Thalia Hall',
-  },
-  {
     artist: ['Drugdealer, Immaterial Possession'],
     link: 'https://www.ticketweb.com/event/drugdealer-with-immaterial-possession-thalia-hall-tickets/13376758',
     date: '2023-10-12T19:00:00',
@@ -4479,6 +4473,14 @@ export const allShows = [
     venue: 'Thalia Hall',
   },
   {
+    artist: [
+      'Digable Planets Reachin\u2019 30th Anniversary Tour, special guest Kassa Overall',
+    ],
+    link: 'https://www.ticketweb.com/event/digable-planets-reachin-30th-anniversary-thalia-hall-tickets/13719688',
+    date: '2024-01-26T19:00:00',
+    venue: 'Thalia Hall',
+  },
+  {
     artist: ['Briston Maroney: Ultrapure Tour'],
     link: 'https://www.ticketweb.com/event/briston-maroney-ultrapure-tour-thalia-hall-tickets/13622218',
     date: '2024-02-08T18:30:00',
@@ -4758,10 +4760,103 @@ export const allShows = [
     venue: 'Radius',
   },
   {
-    artist: ['Judge John Hodgman'],
-    link: 'https://www.jamusa.com/events/detail/judge-john-hodgman-495694',
-    date: '2023-10-11T20:00:00',
-    venue: 'Park West',
+    artist: ['TroyBoi: Shut It Down Tour'],
+    link: 'https://www.radius-chicago.com/events/detail/502333',
+    date: '2023-12-01T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Lil Uzi Vert - PINK TAPE TOUR'],
+    link: 'https://www.radius-chicago.com/events/detail/497894',
+    date: '2023-12-04T18:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: [
+      'August Burns Red: Rescue & Restore 10 Year Anniversary Tour',
+      'Spite, Brand of Sacrifice, Crystal Lake',
+    ],
+    link: 'https://www.radius-chicago.com/events/detail/495859',
+    date: '2023-12-05T18:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['LSDREAM', 'ZINGARA, Chmura'],
+    link: 'https://www.radius-chicago.com/events/detail/489550',
+    date: '2023-12-08T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Honey Dijon', 'TSHA, DJ Heather'],
+    link: 'https://www.radius-chicago.com/events/detail/503621',
+    date: '2023-12-09T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['elrow'],
+    link: 'https://www.radius-chicago.com/events/detail/500653',
+    date: '2023-12-16T21:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Tchami x Malaa'],
+    link: 'https://www.radius-chicago.com/events/detail/503213',
+    date: '2023-12-27T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Purple Disco Machine'],
+    link: 'https://www.radius-chicago.com/events/detail/507098',
+    date: '2023-12-28T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['FISHER', 'JOSHWA, SOSA, ARIELLE FREE'],
+    link: 'https://www.radius-chicago.com/events/detail/504533',
+    date: '2023-12-29T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['James Hype x Meduza'],
+    link: 'https://www.radius-chicago.com/events/detail/505440',
+    date: '2023-12-30T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Hot Since 82', 'Alan Nieves, Portals & Parachutes (DJ Set)'],
+    link: 'https://www.radius-chicago.com/events/detail/507240',
+    date: '2023-12-31T21:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Gorgon City', 'Azzecca'],
+    link: 'https://www.radius-chicago.com/events/detail/505514',
+    date: '2023-12-31T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['SIDEPIECE', 'Special Guest: Mark Knight, Gene Farris, Freak On'],
+    link: 'https://www.radius-chicago.com/events/detail/502454',
+    date: '2024-01-13T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Walker & Royce: No Big Deal Tour'],
+    link: 'https://www.radius-chicago.com/events/detail/503426',
+    date: '2024-01-27T22:00:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['Static-X and Sevendust', 'Dope, Lines Of Loyalty'],
+    link: 'https://www.radius-chicago.com/events/detail/503644',
+    date: '2024-02-24T17:30:00',
+    venue: 'Radius',
+  },
+  {
+    artist: ['LSR/CITY V3 by Gareth Emery'],
+    link: 'https://www.radius-chicago.com/events/detail/505469',
+    date: '2024-03-02T22:00:00',
+    venue: 'Radius',
   },
   {
     artist: ['Kiana Led\u00e9, Phabo'],
@@ -4994,15 +5089,10 @@ export const allShows = [
     venue: 'Park West',
   },
   {
-    artist: [
-      'AWEFUL (Record Release)',
-      'Lollygagger',
-      'Beastii',
-      'DJ Ivanna Riot',
-    ],
-    link: 'https://www.ticketweb.com/event/aweful-record-release-lollygagger-empty-bottle-tickets/13560498',
-    date: '2023-10-11T21:00:00',
-    venue: 'Empty Bottle',
+    artist: ["Willow Pill presents God's Child"],
+    link: 'https://www.jamusa.com/events/detail/willow-pill-presents-god-s-child-507206',
+    date: '2024-10-05T20:00:00',
+    venue: 'Park West',
   },
   {
     artist: ['Chirp Radio Welcomes: CIVIC', 'Ganser'],
@@ -5305,6 +5395,12 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
+    artist: ['Body of Light'],
+    link: 'https://www.ticketweb.com/event/body-of-light-empty-bottle-tickets/13723398',
+    date: '2023-12-03T21:00:00',
+    venue: 'Empty Bottle',
+  },
+  {
     artist: ['Mandy, Indiana'],
     link: 'https://www.ticketweb.com/event/mandy-indiana-empty-bottle-tickets/13651738',
     date: '2023-12-05T21:00:00',
@@ -5352,16 +5448,16 @@ export const allShows = [
     venue: 'Empty Bottle',
   },
   {
+    artist: ['Elephant Stone'],
+    link: 'https://www.ticketweb.com/event/elephant-stone-empty-bottle-tickets/13717758',
+    date: '2024-03-29T22:00:00',
+    venue: 'Empty Bottle',
+  },
+  {
     artist: ['Steve Mason (of The Beta Band)'],
     link: 'https://www.ticketweb.com/event/steve-mason-of-the-beta-empty-bottle-tickets/13314918',
     date: '2024-04-16T21:00:00',
     venue: 'Empty Bottle',
-  },
-  {
-    artist: ['Seu Jorge and Daniel Jobim'],
-    link: 'https://www.jamusa.com/events/detail/seu-jorge-and-daniel-jobim-494981',
-    date: '2023-10-11T20:00:00',
-    venue: 'The Vic Theatre',
   },
   {
     artist: ['The Chats, Cosmic Psychos, THE SCHIZOPHONICS, GYMSHORTS'],
@@ -5688,12 +5784,6 @@ export const allShows = [
     venue: 'The Vic Theatre',
   },
   {
-    artist: ['The Bandulus and The Drastics with DJs Kinky P and The Graduate'],
-    link: 'https://hideoutchicago.com/event/the-bandulus-and-the-drastics-with-djs-kinky-p-and-the-graduate/hideout-chicago/chicago/',
-    date: '2023-10-11T20:30:00',
-    venue: 'Hideout',
-  },
-  {
     artist: ['Amy LaVere and Will Sexton with Gerald Dowd'],
     link: 'https://hideoutchicago.com/event/amy-lavere-and-will-sexton-with-gerald-dowd/hideout-chicago/chicago/',
     date: '2023-10-12T20:30:00',
@@ -5928,8 +6018,8 @@ export const allShows = [
     venue: 'Hideout',
   },
   {
-    artist: ['Maeve and Quinn Album Release Show Edith Judith'],
-    link: 'https://hideoutchicago.com/event/maeve-and-quinn-album-release-show-with-special-guest-edith-judith/hideout-chicago/chicago/',
+    artist: ['Maeve and Quinn Album Release Show Edith Judith and Fine Dining'],
+    link: 'https://hideoutchicago.com/event/maeve-and-quinn-album-release-show-with-special-guests-edith-judith-and-fine-dining/hideout-chicago/chicago/',
     date: '2023-11-19T19:30:00',
     venue: 'Hideout',
   },
@@ -5937,6 +6027,12 @@ export const allShows = [
     artist: ['The Big Bloom with Ponyboy and The Idiots'],
     link: 'https://hideoutchicago.com/event/the-big-bloom-with-ponyboy-and-the-idiots/hideout-chicago/chicago/',
     date: '2023-11-21T20:30:00',
+    venue: 'Hideout',
+  },
+  {
+    artist: ['Wakai with Sol Chyld'],
+    link: 'https://hideoutchicago.com/event/wakai-with-sol-chyld/hideout-chicago/chicago/',
+    date: '2023-11-29T20:30:00',
     venue: 'Hideout',
   },
   {
@@ -5989,12 +6085,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-tinley-park-illinois-07-09-2024/event/04005EB3F6EA498C',
     date: '2024-07-09T19:30:00',
     venue: 'Tinley Park Amphitheatre',
-  },
-  {
-    artist: ['Comedy Open Mic'],
-    link: 'https://colesbarchicago.com/event/comedy-open-mic-22/coles-bar/n-milwaukee-illinois/',
-    date: '2023-10-11T20:00:00',
-    venue: 'Cole\u2019s Bar',
   },
   {
     artist: ['Sonoma the Kid, King Melik, Call me Sy!, 6ixteenth'],
@@ -6522,19 +6612,6 @@ export const allShows = [
     venue: 'United Center',
   },
   {
-    artist: ['CAMPING IN ALASKA, RILEY!'],
-    date: '2023-10-11T16:00:00',
-    link: 'https://www.subt.net/event/tw-eventinfo/camping-in-alaska-riley/13728208',
-    venue: 'Subterranean',
-  },
-  {
-    artist: ['underscores, Torr'],
-    date: '2023-10-11T19:30:00',
-    sold_out: true,
-    link: 'https://www.subt.net/event/tw-eventinfo/underscores-torr/13298858',
-    venue: 'Subterranean',
-  },
-  {
     artist: ['MUSTARD SERVICE, JW Francis, Ryan Wright'],
     date: '2023-10-12T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/mustard-service-jw-francis-ryan-wright/13506788',
@@ -6593,6 +6670,12 @@ export const allShows = [
     artist: ['EASY HONEY, Northwest, The Back Alley'],
     date: '2023-10-18T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/easy-honey-northwest-the-back-alley/13365118',
+    venue: 'Subterranean',
+  },
+  {
+    artist: ['Heartbreak & Homies'],
+    date: '2023-10-18T21:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/heartbreak-homies/13739578',
     venue: 'Subterranean',
   },
   {
@@ -6657,7 +6740,7 @@ export const allShows = [
   },
   {
     artist: ['BL\u00dc EYES, AVERY LYNCH'],
-    date: '2023-10-27T20:00:00',
+    date: '2023-10-27T19:30:00',
     link: 'https://www.subt.net/event/tw-eventinfo/blu-eyes-avery-lynch/13318798',
     venue: 'Subterranean',
   },
@@ -6837,6 +6920,12 @@ export const allShows = [
     venue: 'Subterranean',
   },
   {
+    artist: ['Josh Radnor'],
+    date: '2023-12-06T20:00:00',
+    link: 'https://www.subt.net/event/tw-eventinfo/josh-radnor/13735158',
+    venue: 'Subterranean',
+  },
+  {
     artist: ['milk.'],
     date: '2023-12-07T19:30:00',
     link: 'https://www.subt.net/event/tw-eventinfo/milk/13617238',
@@ -6883,12 +6972,6 @@ export const allShows = [
     date: '2024-05-14T20:00:00',
     link: 'https://www.subt.net/event/tw-eventinfo/frank-carter-the-rattlesnakes/13680998',
     venue: 'Subterranean',
-  },
-  {
-    artist: ['The Orchard, Pool Hall, Midwest Blender Co'],
-    link: 'https://link.dice.fm/cbf28c7e15c1',
-    date: '2023-10-11T19:00:00',
-    venue: 'Cobra Lounge',
   },
   {
     artist: ['Body Thief, Coletta'],

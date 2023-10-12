@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Metro Presents... Blue Hawaii * TRQPiTECA (DJ Set)"
-    ],
-    "link": "https://link.dice.fm/O75c490396c3",
-    "date": "2023-10-11T20:00:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
       "Jessy Lanza, Golden Donna"
     ],
     "link": "https://link.dice.fm/v730e3bf2ffd",
@@ -172,6 +164,7 @@
       "Snow Strippers, Evilgiane, DJ Kenn"
     ],
     "link": "https://link.dice.fm/ab91856937ff",
+    "sold_out": true,
     "date": "2023-10-29T20:00:00",
     "venue": "Sleeping Village"
   },

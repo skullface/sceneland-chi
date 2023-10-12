@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "A R I Z O N A: LIVE FOR A NIGHT"
-    ],
-    "link": "https://concerts.livenation.com/a-r-i-z-o-n-chicago-illinois-10-11-2023/event/04005ECDC2B61A88",
-    "date": "2023-10-11T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Rod Tuffcurls & the Bench Press"
     ],
     "link": "https://concerts.livenation.com/rod-tuffcurls-the-bench-press-chicago-illinois-10-13-2023/event/04005EC7E198495C",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/led-zeppelin-2-and-friends-chicago-illinois-01-12-2024/event/04005F2B31920832",
     "date": "2024-01-12T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Led Zeppelin 2"
+    ],
+    "link": "https://concerts.livenation.com/led-zeppelin-2-chicago-illinois-01-13-2024/event/04005F2B3205087E",
+    "date": "2024-01-13T19:00:00",
     "venue": "House of Blues"
   }
 ]

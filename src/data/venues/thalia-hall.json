@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Brook & The Bluff \u2013 Bluebeard Tour 2023, Bendigo Fletcher"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-the-brook-thalia-hall-tickets/13268658",
-    "sold_out": true,
-    "date": "2023-10-11T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Drugdealer, Immaterial Possession"
     ],
     "link": "https://www.ticketweb.com/event/drugdealer-with-immaterial-possession-thalia-hall-tickets/13376758",
@@ -482,6 +473,14 @@
     "link": "https://www.ticketweb.com/event/sold-out-allison-russell-the-thalia-hall-tickets/13481628",
     "sold_out": true,
     "date": "2024-01-14T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Digable Planets Reachin\u2019 30th Anniversary Tour, special guest Kassa Overall"
+    ],
+    "link": "https://www.ticketweb.com/event/digable-planets-reachin-30th-anniversary-thalia-hall-tickets/13719688",
+    "date": "2024-01-26T19:00:00",
     "venue": "Thalia Hall"
   },
   {

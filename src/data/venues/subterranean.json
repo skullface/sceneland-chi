@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "CAMPING IN ALASKA, RILEY!"
-    ],
-    "date": "2023-10-11T16:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/camping-in-alaska-riley/13728208",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "underscores, Torr"
-    ],
-    "date": "2023-10-11T19:30:00",
-    "sold_out": true,
-    "link": "https://www.subt.net/event/tw-eventinfo/underscores-torr/13298858",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "MUSTARD SERVICE, JW Francis, Ryan Wright"
     ],
     "date": "2023-10-12T20:00:00",
@@ -95,6 +78,14 @@
     ],
     "date": "2023-10-18T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/easy-honey-northwest-the-back-alley/13365118",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Heartbreak & Homies"
+    ],
+    "date": "2023-10-18T21:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/heartbreak-homies/13739578",
     "venue": "Subterranean"
   },
   {
@@ -181,7 +172,7 @@
     "artist": [
       "BL\u00dc EYES, AVERY LYNCH"
     ],
-    "date": "2023-10-27T20:00:00",
+    "date": "2023-10-27T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/blu-eyes-avery-lynch/13318798",
     "venue": "Subterranean"
   },
@@ -410,6 +401,14 @@
     ],
     "date": "2023-12-02T18:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/the-orphan-the-poet-definitely-maybe/13675098",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Josh Radnor"
+    ],
+    "date": "2023-12-06T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/josh-radnor/13735158",
     "venue": "Subterranean"
   },
   {

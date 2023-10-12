@@ -1,24 +1,9 @@
 [
   {
     "artist": [
-      "Cece Coakley, Caroline Culver"
-    ],
-    "link": "https://lh-st.com/shows/10-11-2023-cece-coakley/",
-    "date": "2023-10-11T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Sam Gellaitry, FINGY"
-    ],
-    "link": "https://lh-st.com/shows/10-11-2023-sam-gellaitry/",
-    "date": "2023-10-11T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Geese, PACKS"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-12-2023-geese/",
     "date": "2023-10-12T20:00:00",
     "venue": "Lincoln Hall"
@@ -119,7 +104,7 @@
   },
   {
     "artist": [
-      "Infinity Song"
+      "Infinity Song, Alemeda"
     ],
     "link": "https://lh-st.com/shows/10-17-2023-infinity-song/",
     "date": "2023-10-17T20:00:00",
@@ -127,7 +112,7 @@
   },
   {
     "artist": [
-      "JOHN, Tunic"
+      "JOHN, Tunic, Interlay"
     ],
     "link": "https://lh-st.com/shows/10-18-2023-john-timestwo/",
     "date": "2023-10-18T19:30:00",
@@ -966,6 +951,14 @@
     ],
     "link": "https://lh-st.com/shows/01-25-2024-armand-hammer/",
     "date": "2024-01-25T21:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Juice, The Hails"
+    ],
+    "link": "https://lh-st.com/shows/01-27-2024-juice/",
+    "date": "2024-01-27T20:00:00",
     "venue": "Lincoln Hall"
   },
   {
