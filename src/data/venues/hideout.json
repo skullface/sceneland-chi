@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Amy LaVere and Will Sexton with Gerald Dowd"
-    ],
-    "link": "https://hideoutchicago.com/event/amy-lavere-and-will-sexton-with-gerald-dowd/hideout-chicago/chicago/",
-    "date": "2023-10-12T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Astral Autumn Daze Night 1: Damon and Naomi, Powers / Rolin Duo, Spiral Galaxy"
     ],
     "link": "https://hideoutchicago.com/event/astral-autumn-daze-night-1-damon-and-naomi-powers-rolin-duo-spiral-galaxy-with-special-guests/hideout-chicago/chicago/",
@@ -25,9 +17,9 @@
   },
   {
     "artist": [
-      "Country and Midwestern Part 2: Who Was Win Stracke? Feat. Rachel Drew, Mark Dvorak, Michael Miles, Gerald Dowd and Steve Dawson"
+      "Country and Midwestern Part 2: Who Was Win Stracke? Feat. Rachel Drew, Mark Dvorak, Michael Miles, Gerald Dowd and Danny Black"
     ],
-    "link": "https://hideoutchicago.com/event/country-and-midwestern-part-2-who-was-win-stracke-feat-rachel-drew-mark-dvorak-michael-miles-gerald-dowd-and-steve-dawson/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/country-and-midwestern-part-2-who-was-win-stracke-feat-rachel-drew-mark-dvorak-michael-miles-gerald-dowd-and-danny-black/hideout-chicago/chicago/",
     "date": "2023-10-14T15:00:00",
     "venue": "Hideout"
   },
@@ -372,6 +364,14 @@
     ],
     "link": "https://hideoutchicago.com/event/waco-brothers-winter-wonderland-night-2-with-deano-and-jo-jane-hobson-and-band/hideout-chicago/chicago/",
     "date": "2023-12-27T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Outronaut with John San Juan and Depravos de la Mour"
+    ],
+    "link": "https://hideoutchicago.com/event/outronaut-with-john-san-juan-and-depravos-de-la-mour/hideout-chicago/chicago/",
+    "date": "2023-12-29T20:30:00",
     "venue": "Hideout"
   }
 ]

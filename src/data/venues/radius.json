@@ -4,15 +4,6 @@
       "ZHU",
       "Noizu"
     ],
-    "link": "https://www.radius-chicago.com/events/detail/490215",
-    "date": "2023-10-12T22:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
-      "ZHU",
-      "Noizu"
-    ],
     "link": "https://www.radius-chicago.com/events/detail/490290",
     "date": "2023-10-13T22:00:00",
     "venue": "Radius"
@@ -41,7 +32,7 @@
       "ANNA, Chachi Guerrero, Christopher Coe, Derrick Carter, Josh Wink, Julia Govor"
     ],
     "link": "https://www.radius-chicago.com/events/detail/487462",
-    "date": "2023-10-20T22:00:00",
+    "date": "2023-10-20T20:00:00",
     "venue": "Radius"
   },
   {
@@ -162,6 +153,14 @@
       "Sara Landry"
     ],
     "link": "https://www.radius-chicago.com/events/detail/504002",
+    "date": "2023-11-18T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Afrojack"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/507795",
     "date": "2023-11-18T22:00:00",
     "venue": "Radius"
   },

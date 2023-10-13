@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Thundercat: In Yo Girl's City Tour 2023"
-    ],
-    "link": "https://www.ticketmaster.com/thundercat-in-yo-girls-city-tour-chicago-illinois-10-12-2023/event/04005E9A4B6E4396",
-    "date": "2023-10-12T19:00:00",
-    "venue": "Salt Shed"
-  },
-  {
-    "artist": [
       "Band of Horses with Phosphorescent and Bella White: Presented by XRT"
     ],
     "link": "https://www.ticketmaster.com/band-of-horses-with-phosphorescent-and-chicago-illinois-10-13-2023/event/04005ECB1B133368",
@@ -16,10 +8,11 @@
     "venue": "Salt Shed"
   },
   {
+    "sold_out": true,
     "artist": [
       "Colter Wall"
     ],
-    "link": "https://www.ticketmaster.com/colter-wall-chicago-illinois-10-14-2023/event/04005F0208EC5D21",
+    "link": "https://www.ticketmaster.com/sold-out-colter-wall-chicago-illinois-10-14-2023/event/04005F0208EC5D21",
     "date": "2023-10-14T19:00:00",
     "venue": "Salt Shed"
   },
@@ -252,6 +245,14 @@
     ],
     "link": "https://www.ticketmaster.com/lany-a-beautiful-blur-the-world-chicago-illinois-03-29-2024/event/04005F43CB432277",
     "date": "2024-03-29T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "artist": [
+      "LANY: a beautiful blur: the world tour 2024"
+    ],
+    "link": "https://www.ticketmaster.com/lany-a-beautiful-blur-the-world-chicago-illinois-03-30-2024/event/04005F4CD0DD230E",
+    "date": "2024-03-30T19:00:00",
     "venue": "Salt Shed"
   }
 ]

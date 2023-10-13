@@ -1,29 +1,6 @@
 [
   {
     "artist": [
-      "Geese, PACKS"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-12-2023-geese/",
-    "date": "2023-10-12T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Pr\u00f3xima Parada, Olive Klug"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-12-2023-proxima-parada/",
-    "date": "2023-10-12T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "link": "https://lh-st.com/shows/10-12-2023-schubas-open-mic/",
-    "date": "2023-10-12T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Esm\u00e9 Patterson, V.V. Lightbody"
     ],
     "link": "https://lh-st.com/shows/10-13-2023-esme-patterson/",
@@ -42,6 +19,7 @@
     "artist": [
       "Vibes on Logan"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-13-2023-meet-me-upstairs/",
     "date": "2023-10-13T21:00:00",
     "venue": "Schubas"
@@ -446,6 +424,7 @@
     "artist": [
       "julie, Blimp"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/11-06-2023-julie/",
     "date": "2023-11-06T20:00:00",
     "venue": "Schubas"
@@ -628,6 +607,14 @@
   },
   {
     "artist": [
+      "School of Rock Andersonville School-Wide Season Preview"
+    ],
+    "link": "https://lh-st.com/shows/11-18-2023-school-of-rock-andersonville-showcase/",
+    "date": "2023-11-18T11:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Yam Haus",
       "Sawyer"
     ],
@@ -646,7 +633,7 @@
   },
   {
     "artist": [
-      "Netta"
+      "Netta, DJ Moonlanding"
     ],
     "link": "https://lh-st.com/shows/11-19-2023-netta/",
     "date": "2023-11-19T19:30:00",
@@ -1121,6 +1108,14 @@
     ],
     "link": "https://lh-st.com/shows/04-24-2024-jordan-mackampa/",
     "date": "2024-04-24T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Lola Kirke"
+    ],
+    "link": "https://lh-st.com/shows/05-09-2024-lola-kirke/",
+    "date": "2024-05-09T20:00:00",
     "venue": "Schubas"
   },
   {

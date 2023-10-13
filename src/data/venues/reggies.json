@@ -1,27 +1,6 @@
 [
   {
     "artist": [
-      "EXCITER",
-      "WRAITH",
-      "WRATH",
-      "BAPHOMET"
-    ],
-    "date": "2023-10-12",
-    "link": "https://www.reggieslive.com/show/exciter-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "DAARLING",
-      "JOYFRIEND",
-      "WONNIE"
-    ],
-    "date": "2023-10-12",
-    "link": "https://www.reggieslive.com/show/daarling/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "HIGHSPEEDIRT (Megadeth Tribute)",
       "AFTER FOREVER (Black Sabbath Tribute)"
     ],
@@ -96,7 +75,7 @@
       "TEMPLE OF THE FUZZ WITCH",
       "ANCIENT DAYS",
       "GRIM REEFER",
-      "BLUNT"
+      "PLAGUE OF CARCOSA"
     ],
     "date": "2023-10-16",
     "link": "https://www.reggieslive.com/show/temple-of-the-fuzz-witch/",
@@ -176,7 +155,7 @@
       "THE RAGING NATHANS",
       "FLAMINGO NOSEBLEED",
       "HOSPITAL JOB",
-      "THE WINKS"
+      "ZOANOIDS"
     ],
     "date": "2023-10-20",
     "link": "https://www.reggieslive.com/show/the-queers-6/",
@@ -203,7 +182,8 @@
       "CAPGUN HEROES",
       "THE STEPHENS",
       "GOODBYE SUNSHINE",
-      "THE RIP TAYLORS"
+      "THE RIP TAYLORS",
+      "THE WINKS"
     ],
     "date": "2023-10-21",
     "link": "https://www.reggieslive.com/show/teenage-bottlerocket-2/",
@@ -263,8 +243,8 @@
     "artist": [
       "THE WORLD WITHOUT US",
       "WHITMORE",
-      "OPEN FIRE",
-      "TRAGIC TIMES"
+      "NOVEMBER RIOT",
+      "NIGHTCAP"
     ],
     "date": "2023-10-22",
     "link": "https://www.reggieslive.com/show/the-world-without-us/",
@@ -830,7 +810,9 @@
   {
     "artist": [
       "VANISHING KIDS",
-      "TBA"
+      "LOS BLACK DOGS",
+      "PSYONIC PARK",
+      "SYNTHETIC SMILES"
     ],
     "date": "2023-11-19",
     "link": "https://www.reggieslive.com/show/vanishing-kids/",
