@@ -1,27 +1,10 @@
 [
   {
     "artist": [
-      "Off With Their Heads, Dead Bars, BLACK CROSS HOTEL"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13267128/off-with-their-heads-dead-bars-black-cross-hotel",
-    "sold_out": true,
-    "date": "2023-10-14T20:00:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
       "THE BARB AND BARRETT SHOW"
     ],
     "link": "https://www.beatkitchen.com/event-details/13679618/the-barb-and-barrett-show",
     "date": "2023-10-15T11:30:00",
-    "venue": "Beat Kitchen"
-  },
-  {
-    "artist": [
-      "Billy Raffoul, Peter Raffoul , THE INDIANA DRONES"
-    ],
-    "link": "https://www.beatkitchen.com/event-details/13307448/billy-raffoul-peter-raffoul-the-indiana-drones",
-    "date": "2023-10-15T20:00:00",
     "venue": "Beat Kitchen"
   },
   {
@@ -155,9 +138,9 @@
   },
   {
     "artist": [
-      "TX2, Kid Baron"
+      "TX2, Kid Baron, DAYLONGSIGH"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13658848/tx2-kid-baron",
+    "link": "https://www.beatkitchen.com/event-details/13658848/tx2-kid-baron-daylongsigh",
     "date": "2023-11-02T19:00:00",
     "venue": "Beat Kitchen"
   },
@@ -167,6 +150,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13645768/taylors-version-a-taylor-dance-party",
     "date": "2023-11-03T21:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "Midcentury Llama, PEPPER SAID"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13745018/midcentury-llama-pepper-said",
+    "date": "2023-11-04T20:00:00",
     "venue": "Beat Kitchen"
   },
   {
@@ -227,9 +218,9 @@
   },
   {
     "artist": [
-      "Demob Happy"
+      "Demob Happy, Ricky Liontones"
     ],
-    "link": "https://www.beatkitchen.com/event-details/13327508/demob-happy",
+    "link": "https://www.beatkitchen.com/event-details/13327508/demob-happy-ricky-liontones",
     "date": "2023-11-16T20:00:00",
     "venue": "Beat Kitchen"
   },
@@ -319,6 +310,14 @@
     ],
     "link": "https://www.beatkitchen.com/event-details/13489898/joe-samba-joey-harkum",
     "date": "2023-12-09T20:00:00",
+    "venue": "Beat Kitchen"
+  },
+  {
+    "artist": [
+      "Billy Raffoul, Peter Raffoul , THE INDIANA DRONES"
+    ],
+    "link": "https://www.beatkitchen.com/event-details/13307448/billy-raffoul-peter-raffoul-the-indiana-drones",
+    "date": "2023-12-12T20:00:00",
     "venue": "Beat Kitchen"
   },
   {

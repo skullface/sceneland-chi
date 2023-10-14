@@ -1,28 +1,9 @@
 [
   {
     "artist": [
-      "HIGHSPEEDIRT (Megadeth Tribute)",
-      "AFTER FOREVER (Black Sabbath Tribute)"
-    ],
-    "date": "2023-10-13",
-    "link": "https://www.reggieslive.com/show/after-forever-highspeeddirt/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "DEAD FEATHERS",
-      "SATIN BANSHEE",
-      "ILIJA AND THE SPOMENIKS"
-    ],
-    "date": "2023-10-13",
-    "link": "https://www.reggieslive.com/show/dead-feathers-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "THE WOGGLES",
       "SNAKE WINE",
-      "BLACK CAT HEART ATTACK"
+      "CLEAR COAT"
     ],
     "date": "2023-10-14",
     "link": "https://www.reggieslive.com/show/the-woggles-4/",
@@ -300,15 +281,6 @@
   },
   {
     "artist": [
-      "PEARL JAM \u201c10\u201d (performed by Ten Chicago)",
-      "ALANIS MORRISETTTE \u201cJAGGED LITTLE PILL\u201d (performed by Jagged Little Pill Chicago)"
-    ],
-    "date": "2023-10-26",
-    "link": "https://www.reggieslive.com/show/jim-ryans-classic-albums-night-44/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "ALLIE K",
       "TONY SCULFIELD",
       "KEVIN WILLIAMS",
@@ -317,6 +289,15 @@
     ],
     "date": "2023-10-26",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-3/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "PEARL JAM \u201c10\u201d (performed by Ten Chicago)",
+      "ALANIS MORRISETTTE \u201cJAGGED LITTLE PILL\u201d (performed by Jagged Little Pill Chicago)"
+    ],
+    "date": "2023-10-26",
+    "link": "https://www.reggieslive.com/show/jim-ryans-classic-albums-night-44/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -917,7 +898,8 @@
       "JER + VIAL CO-HEADLINE",
       "JER",
       "VIAL",
-      "BOY JR."
+      "BOY JR.",
+      "ARCADIA GREY"
     ],
     "date": "2023-11-30",
     "link": "https://www.reggieslive.com/show/jer-vial/",
@@ -933,6 +915,15 @@
     ],
     "date": "2023-11-30",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-7/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "THE BLACK CROWES \u201cSHAKE YOUR MONEY MAKER\u201d (performed by JakCrowes)",
+      "SHERYL CROW \u201cTUESDAY NIGHT MUSIC CLUB\u201d (performed by Sucker Punch & Friends)"
+    ],
+    "date": "2023-11-30",
+    "link": "https://www.reggieslive.com/show/jim-ryans-classic-albums-night-45/",
     "venue": "Reggie\u2019s"
   },
   {
@@ -996,6 +987,17 @@
   {
     "date": "2023-12-05",
     "link": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-108/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "JARHEAD FERTILIZER",
+      "PHOBOPHILIC",
+      "BACKSLIDER",
+      "MELTING ROT"
+    ],
+    "date": "2023-12-08",
+    "link": "https://www.reggieslive.com/show/jarhead-fertilizer/",
     "venue": "Reggie\u2019s"
   },
   {

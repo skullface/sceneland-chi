@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "G Flip, Miki Ratsula"
-    ],
-    "link": "https://www.jamusa.com/events/detail/g-flip-484597",
-    "date": "2023-10-13T19:30:00",
-    "venue": "Park West"
-  },
-  {
-    "artist": [
       "Tommy Emmanuel, CGP, Larry Campbell & Teresa Williams"
     ],
     "link": "https://www.jamusa.com/events/detail/tommy-emmanuel-472808",
@@ -261,6 +253,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/freddy-jones-band-502355",
     "date": "2023-12-30T19:30:00",
+    "venue": "Park West"
+  },
+  {
+    "artist": [
+      "VAV"
+    ],
+    "link": "https://www.jamusa.com/events/detail/vav-506886",
+    "date": "2024-01-07T19:00:00",
     "venue": "Park West"
   },
   {

@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Esm\u00e9 Patterson, V.V. Lightbody"
-    ],
-    "link": "https://lh-st.com/shows/10-13-2023-esme-patterson/",
-    "date": "2023-10-13T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Blanco White, Edwin Raphael"
-    ],
-    "link": "https://lh-st.com/shows/10-13-2023-blanco-white/",
-    "date": "2023-10-13T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Vibes on Logan"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-13-2023-meet-me-upstairs/",
-    "date": "2023-10-13T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Stop Light Observations, Cheap Monarchy"
     ],
     "link": "https://lh-st.com/shows/10-14-2023-stop-light-observations/",
@@ -95,14 +70,6 @@
     "link": "https://lh-st.com/shows/10-18-2023-john-timestwo/",
     "date": "2023-10-18T19:30:00",
     "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Bag Raiders, Brothertiger"
-    ],
-    "link": "https://lh-st.com/shows/10-18-2023-bag-raiders/",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -910,10 +877,28 @@
   },
   {
     "artist": [
+      "Hollyy, Special Guests"
+    ],
+    "link": "https://lh-st.com/shows/12-15-2023-hollyy/",
+    "date": "2023-12-15T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "veggi"
     ],
     "link": "https://lh-st.com/shows/12-16-2023-veggi/",
     "date": "2023-12-16T21:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "T Star Verse",
+      "Linda Sol",
+      "Sammicee"
+    ],
+    "link": "https://lh-st.com/shows/12-19-2023-100-off-bands/",
+    "date": "2023-12-19T20:00:00",
     "venue": "Schubas"
   },
   {

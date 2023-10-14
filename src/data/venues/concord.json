@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "NoCap",
-      "Lil Poppa, ITS HAB, LG Malique"
-    ],
-    "link": "https://concordmusichall.com/calendar/nocap/",
-    "date": "2023-10-12T18:30:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "Polaris: Fatalism Tour",
       "Currents, Varials, Paledusk"
     ],
@@ -250,6 +241,14 @@
   },
   {
     "artist": [
+      "\u2020\u2020\u2020 (Crosses)"
+    ],
+    "link": "https://concordmusichall.com/calendar/%e2%80%a0%e2%80%a0%e2%80%a0-crosses/",
+    "date": "2024-02-13T18:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
       "Wilkinson",
       "Grafix"
     ],
@@ -264,6 +263,14 @@
     ],
     "link": "https://concordmusichall.com/calendar/health/",
     "date": "2024-03-22T19:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "William Black"
+    ],
+    "link": "https://concordmusichall.com/calendar/william-black/",
+    "date": "2024-03-30T22:00:00",
     "venue": "Concord Music Hall"
   }
 ]
