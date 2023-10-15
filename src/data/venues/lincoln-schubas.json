@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Stop Light Observations, Cheap Monarchy"
-    ],
-    "link": "https://lh-st.com/shows/10-14-2023-stop-light-observations/",
-    "date": "2023-10-14T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Margo Cilker, Christy Hays"
-    ],
-    "link": "https://lh-st.com/shows/10-14-2023-margo-cilker/",
-    "date": "2023-10-14T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Pig Swig Record Dig"
     ],
     "link": "https://lh-st.com/shows/10-15-2023-pig-swig-record-dig/",
@@ -208,15 +192,15 @@
     "venue": "Lincoln Hall"
   },
   {
-    "link": "https://lh-st.com/shows/10-26-2023-schubas-open-mic/",
-    "date": "2023-10-26T20:00:00",
-    "venue": "Schubas"
-  },
-  {
     "artist": [
       "Joey Nebulous, Tenci, Pinksqueeze"
     ],
     "link": "https://lh-st.com/shows/10-26-2023-joey-nebulous/",
+    "date": "2023-10-26T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "link": "https://lh-st.com/shows/10-26-2023-schubas-open-mic/",
     "date": "2023-10-26T20:00:00",
     "venue": "Schubas"
   },

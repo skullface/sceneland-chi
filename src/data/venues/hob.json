@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jessie Murph presents the Cowboys and Angels Tour"
-    ],
-    "link": "https://concerts.livenation.com/jessie-murph-presents-the-cowboys-and-chicago-illinois-10-14-2023/event/04005EB73FBF5793",
-    "date": "2023-10-14T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Aces: I've Loved You For So Long World Tour"
     ],
     "link": "https://concerts.livenation.com/the-aces-ive-loved-you-for-chicago-illinois-10-17-2023/event/04005E92E3FC21BB",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-chicago-illinois-02-02-2024/event/04005F32005C2B5B",
     "date": "2024-02-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Meet Me @ The Altar: Say It To My Face Tour"
+    ],
+    "link": "https://concerts.livenation.com/meet-me-the-altar-say-it-chicago-illinois-02-03-2024/event/04005F3C1C455B3A",
+    "date": "2024-02-03T17:30:00",
     "venue": "House of Blues"
   }
 ]
