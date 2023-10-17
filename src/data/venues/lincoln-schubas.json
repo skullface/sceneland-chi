@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Amindi, ChloTheGod"
-    ],
-    "link": "https://lh-st.com/shows/10-16-2023-amindi/",
-    "date": "2023-10-16T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Gaidaa, Mariah Colon"
     ],
     "link": "https://lh-st.com/shows/10-17-2023-gaidaa/",
@@ -79,7 +71,7 @@
   },
   {
     "artist": [
-      "Mk.gee"
+      "An Evening With Mk.gee"
     ],
     "link": "https://lh-st.com/shows/10-21-2023-mkgee/",
     "date": "2023-10-21T20:00:00",
@@ -248,7 +240,7 @@
   },
   {
     "artist": [
-      "daarling, Brady, xyzxyz"
+      "daarling, Guest, xyzxyz"
     ],
     "link": "https://lh-st.com/shows/10-30-2023-daarling/",
     "date": "2023-10-30T20:00:00",
@@ -269,6 +261,14 @@
     "link": "https://lh-st.com/shows/10-31-2023-susto/",
     "date": "2023-10-31T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "BOTH SIDES NOW: A CHIRP VINYL LISTENING BAR"
+    ],
+    "link": "https://lh-st.com/shows/11-01-2023-both-sides-now-chirp-vinyl/",
+    "date": "2023-11-01T19:30:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -863,6 +863,14 @@
   },
   {
     "artist": [
+      "Six Foot Blonde, Zorila, Emily How"
+    ],
+    "link": "https://lh-st.com/shows/12-21-2023-six-foot-blonde/",
+    "date": "2023-12-21T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "The Ike Reilly Assassination"
     ],
     "link": "https://lh-st.com/shows/12-22-2023-the-ike-reilly-assassination/",
@@ -891,6 +899,14 @@
     ],
     "link": "https://lh-st.com/shows/01-27-2024-juice/",
     "date": "2024-01-27T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Jamie Wyatt, Joshua Quimby"
+    ],
+    "link": "https://lh-st.com/shows/02-01-2024-jamie-wyatt/",
+    "date": "2024-02-01T20:00:00",
     "venue": "Lincoln Hall"
   },
   {
@@ -1019,6 +1035,7 @@
     "artist": [
       "Josiah and the Bonnevilles, Mon Rovia"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/03-20-2024-josiah-and-the-bonnevilles/",
     "date": "2024-03-20T20:00:00",
     "venue": "Lincoln Hall"

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "tobi lou \u2013 Perish Blue Tour, grouptherapy"
-    ],
-    "link": "https://metrochicago.com/event/tobi-lou-the-parrish-blue-tour/metro-chicago/chicago-illinois/",
-    "date": "2023-10-16T20:00:00",
-    "venue": "Metro"
-  },
-  {
-    "artist": [
       "Sextile & N8NOFACE"
     ],
     "link": "https://metrochicago.com/event/sextile-n8noface/metro-chicago/chicago-illinois/",
@@ -279,10 +271,26 @@
   },
   {
     "artist": [
+      "Code Orange, Teenage Wrist, Soul Blind"
+    ],
+    "link": "https://metrochicago.com/event/code-orange/metro-chicago/chicago-illinois/",
+    "date": "2024-03-02T19:30:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
       "Claire Rosinkranz: A Live Experience"
     ],
     "link": "https://metrochicago.com/event/claire-rosinkranz-a-live-experience/metro-chicago/chicago-illinois/",
     "date": "2024-03-22T19:30:00",
+    "venue": "Metro"
+  },
+  {
+    "artist": [
+      "MIKE: Somebody Fine Me Trouble Tour, with Special Guests"
+    ],
+    "link": "https://metrochicago.com/event/mike-somebody-fine-me-trouble-tour/",
+    "date": "2024-04-25T20:00:00",
     "venue": "Metro"
   }
 ]

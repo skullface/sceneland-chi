@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "TEMPLE OF THE FUZZ WITCH",
-      "ANCIENT DAYS",
-      "GRIM REEFER",
-      "PLAGUE OF CARCOSA"
-    ],
-    "date": "2023-10-16",
-    "link": "https://www.reggieslive.com/show/temple-of-the-fuzz-witch/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "ZACK FEDOR",
-      "BLAKE BURKHART"
-    ],
-    "date": "2023-10-16",
-    "link": "https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-3/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "date": "2023-10-16",
-    "link": "https://www.reggieslive.com/show/bingo-with-tyler-74/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "BEN CROOCH"
     ],
     "date": "2023-10-17",
@@ -67,9 +42,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
+      "CHEVY DEBBIE",
+      "KHALEEL",
+      "JAY DEEP",
       "CHRIS MICHAELS (Pre-Game Antics)",
       "B. COLE (Host)"
     ],
@@ -229,11 +204,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
+      "B. COLE (Host)",
+      "TBA"
     ],
     "date": "2023-10-26",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-3/",
@@ -351,11 +324,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
+      "B. COLE (Host)",
+      "TBA"
     ],
     "date": "2023-11-02",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-4/",
@@ -471,11 +442,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
+      "B. COLE (Host)",
+      "TBA"
     ],
     "date": "2023-11-09",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-5/",
@@ -655,11 +624,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
+      "B. COLE (Host)",
+      "TBA"
     ],
     "date": "2023-11-16",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-6/",
@@ -855,11 +822,9 @@
   },
   {
     "artist": [
-      "ALLIE K",
-      "TONY SCULFIELD",
-      "KEVIN WILLIAMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
+      "B. COLE (Host)",
+      "TBA"
     ],
     "date": "2023-11-30",
     "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-7/",
@@ -1116,6 +1081,16 @@
     ],
     "date": "2024-01-06",
     "link": "https://www.reggieslive.com/show/psithurism/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "DAMAGED JUSTICE (Metallica Tribute)",
+      "OPERATION EMPIRE (Queensryche Tribute)",
+      "MAIDEN 81 (Di'Anno era Iron Maiden Tribute)"
+    ],
+    "date": "2024-01-27",
+    "link": "https://www.reggieslive.com/show/damaged-justice-metallica-tribute-4/",
     "venue": "Reggie\u2019s"
   },
   {

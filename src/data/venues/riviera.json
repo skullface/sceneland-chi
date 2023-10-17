@@ -209,6 +209,14 @@
   },
   {
     "artist": [
+      "Pete Davidson Live"
+    ],
+    "link": "https://www.jamusa.com/events/detail/pete-davidson-live-505631",
+    "date": "2023-12-09T19:00:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
       "G Jones, Mala, Sayer"
     ],
     "link": "https://www.jamusa.com/events/detail/g-jones-494376",
@@ -237,6 +245,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/two-door-cinema-club-503556",
     "date": "2024-03-07T19:30:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Beartooth, The Plot In You, Invent Animate, Sleep Theory"
+    ],
+    "link": "https://www.jamusa.com/events/detail/beartooth-507155",
+    "date": "2024-03-08T18:00:00",
     "venue": "Riviera Theatre"
   },
   {
@@ -285,6 +301,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/madison-beer-505113",
     "date": "2024-04-26T20:00:00",
+    "venue": "Riviera Theatre"
+  },
+  {
+    "artist": [
+      "Our Last Night, Broadside, Sam Tinnesz"
+    ],
+    "link": "https://www.jamusa.com/events/detail/our-last-night-507499",
+    "date": "2024-05-04T19:30:00",
     "venue": "Riviera Theatre"
   }
 ]
