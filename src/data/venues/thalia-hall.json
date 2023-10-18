@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Amigo the Devil, Tejon Street Corner Thieves and Nate Bergman"
-    ],
-    "link": "https://www.ticketweb.com/event/amigo-the-devil-with-tejon-thalia-hall-tickets/13475568",
-    "date": "2023-10-17T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "She Past Away, Panterah"
     ],
     "link": "https://www.ticketweb.com/event/she-past-away-with-panterah-thalia-hall-tickets/12913445",
@@ -307,7 +299,8 @@
     "artist": [
       "Angel Olsen, Kara Jackson Presented by 93XRT"
     ],
-    "link": "https://www.ticketweb.com/event/angel-olsen-with-kara-jackson-thalia-hall-tickets/13054795",
+    "link": "https://www.ticketweb.com/event/sold-out-angel-olsen-with-thalia-hall-tickets/13054795",
+    "sold_out": true,
     "date": "2023-12-01T19:00:00",
     "venue": "Thalia Hall"
   },
@@ -524,6 +517,22 @@
   },
   {
     "artist": [
+      "Otoboke Beaver, Drinking Boys and Girls Choir"
+    ],
+    "link": "https://www.ticketweb.com/event/otoboke-beaver-with-drinking-boys-thalia-hall-tickets/13736208",
+    "date": "2024-03-09T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Otoboke Beaver, Drinking Boys and Girls Choir"
+    ],
+    "link": "https://www.ticketweb.com/event/otoboke-beaver-with-drinking-boys-thalia-hall-tickets/13736218",
+    "date": "2024-03-10T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Da\u00f0i Freyr"
     ],
     "link": "https://www.ticketweb.com/event/sold-out-dai-freyr-thalia-hall-tickets/13608758",
@@ -625,6 +634,14 @@
     ],
     "link": "https://www.ticketweb.com/event/giant-rooks-thalia-hall-tickets/13654698",
     "date": "2024-04-21T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Helado Negro"
+    ],
+    "link": "https://www.ticketweb.com/event/helado-negro-thalia-hall-tickets/13748808",
+    "date": "2024-04-30T19:00:00",
     "venue": "Thalia Hall"
   },
   {

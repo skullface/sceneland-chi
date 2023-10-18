@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Aunty Donna"
-    ],
-    "link": "https://www.jamusa.com/events/detail/aunty-donna-475315",
-    "date": "2023-10-17T20:00:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Ann Wilson of Heart & Tripsitter"
     ],
     "link": "https://www.jamusa.com/events/detail/ann-wilson-of-heart-tripsitter-497902",
@@ -185,7 +177,7 @@
   },
   {
     "artist": [
-      "Noname"
+      "Noname, Stout"
     ],
     "link": "https://www.jamusa.com/events/detail/noname-498804",
     "date": "2023-11-24T19:30:00",
@@ -293,6 +285,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/magic-city-hippies-503798",
     "date": "2024-01-26T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Josh Ritter & the Royal City Band"
+    ],
+    "link": "https://www.jamusa.com/events/detail/josh-ritter-the-royal-city-band-507463",
+    "date": "2024-02-07T19:30:00",
     "venue": "The Vic Theatre"
   },
   {

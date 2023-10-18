@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Gaidaa, Mariah Colon"
-    ],
-    "link": "https://lh-st.com/shows/10-17-2023-gaidaa/",
-    "date": "2023-10-17T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Infinity Song, Alemeda"
-    ],
-    "link": "https://lh-st.com/shows/10-17-2023-infinity-song/",
-    "date": "2023-10-17T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "JOHN, Tunic, Interlay"
     ],
     "link": "https://lh-st.com/shows/10-18-2023-john-timestwo/",
@@ -813,6 +797,14 @@
   },
   {
     "artist": [
+      "Hovvdy"
+    ],
+    "link": "https://lh-st.com/shows/12-12-2023-hovvdy/",
+    "date": "2023-12-12T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Durry, Mega Mango"
     ],
     "link": "https://lh-st.com/shows/12-13-2023-durry/",
@@ -884,6 +876,54 @@
     "link": "https://lh-st.com/shows/01-07-2024-shes-so-quiet/",
     "date": "2024-01-07T19:30:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "TORRES, Aisha Burns"
+    ],
+    "link": "https://lh-st.com/shows/01-18-2024-torres-tnk/",
+    "date": "2024-01-18T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Buggin, Big Laugh, Enervate"
+    ],
+    "link": "https://lh-st.com/shows/01-18-2024-buggin-tnk/",
+    "date": "2024-01-18T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Squirrel Flower, Guests"
+    ],
+    "link": "https://lh-st.com/shows/01-19-2024-squirrel-flower-tnk/",
+    "date": "2024-01-19T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "L'Rain, Guests"
+    ],
+    "link": "https://lh-st.com/shows/01-19-2024-lrain-tnk/",
+    "date": "2024-01-19T21:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Lowertown, Soft and Dumb, Ruth in the Bardo"
+    ],
+    "link": "https://lh-st.com/shows/01-20-2024-lowertown-tnk/",
+    "date": "2024-01-20T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Nabihah Iqbal, Rahill"
+    ],
+    "link": "https://lh-st.com/shows/01-20-2024-nabihah-iqbal-tnk/",
+    "date": "2024-01-20T21:00:00",
+    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -965,6 +1005,14 @@
     ],
     "link": "https://lh-st.com/shows/02-28-2024-shay-lia/",
     "date": "2024-02-28T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Karina Rykman"
+    ],
+    "link": "https://lh-st.com/shows/03-01-2024-karina-rykman/",
+    "date": "2024-03-01T20:00:00",
     "venue": "Schubas"
   },
   {
@@ -1054,6 +1102,14 @@
     ],
     "link": "https://lh-st.com/shows/03-30-2024-kid-francescoli/",
     "date": "2024-03-30T21:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Destroyer (solo), Lightning Dust"
+    ],
+    "link": "https://lh-st.com/shows/04-11-2024-destroyer/",
+    "date": "2024-04-16T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

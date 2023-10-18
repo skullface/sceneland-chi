@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Eddie Zuko"
-    ],
-    "date": "2023-10-17T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13216748/eddie-zuko",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Halloween 2023 Graveyard Party"
     ],
     "date": "2023-10-20T19:00:00",
@@ -157,10 +149,12 @@
   },
   {
     "artist": [
-      "Scene Queen"
+      "Scene Queen",
+      "Ellise",
+      "Rivals"
     ],
     "date": "2023-11-14T19:00:00",
-    "link": "https://bottomlounge.com/13709-2/13556428/scene-queen",
+    "link": "https://bottomlounge.com/13709-2/13556428/scene-queen-ellise-rivals",
     "venue": "Bottom Lounge"
   },
   {

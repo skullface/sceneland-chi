@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Aces: I've Loved You For So Long World Tour"
-    ],
-    "link": "https://concerts.livenation.com/the-aces-ive-loved-you-for-chicago-illinois-10-17-2023/event/04005E92E3FC21BB",
-    "date": "2023-10-17T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Owl City"
     ],
     "link": "https://concerts.livenation.com/owl-city-chicago-illinois-10-18-2023/event/04005E69AFF41AAC",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/meet-me-the-altar-say-it-chicago-illinois-02-03-2024/event/04005F3C1C455B3A",
     "date": "2024-02-03T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Sixteen Candles"
+    ],
+    "link": "https://concerts.livenation.com/sixteen-candles-chicago-illinois-02-17-2024/event/04005F33C4931DF4",
+    "date": "2024-02-17T19:30:00",
     "venue": "House of Blues"
   }
 ]

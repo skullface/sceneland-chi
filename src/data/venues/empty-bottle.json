@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Carl Stone",
-      "Mukqs",
-      "Mrs. Hands"
-    ],
-    "link": "https://www.ticketweb.com/event/carl-stone-mukqs-empty-bottle-tickets/13416538",
-    "date": "2023-10-17T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Various Distractions"
     ],
     "link": "https://www.ticketweb.com/event/various-distractions-empty-bottle-tickets/13664088",
@@ -255,6 +245,16 @@
   },
   {
     "artist": [
+      "Products Band",
+      "Courtesy",
+      "Discus"
+    ],
+    "link": "https://www.ticketweb.com/event/free-monday-w-products-band-empty-bottle-tickets/13757248",
+    "date": "2023-11-13T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Ian Sweet",
       "The Hecks"
     ],
@@ -424,6 +424,14 @@
     ],
     "link": "https://www.ticketweb.com/event/sapphic-factory-queer-joy-party-empty-bottle-tickets/13468168",
     "date": "2024-01-06T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "The Coronas"
+    ],
+    "link": "https://www.ticketweb.com/event/the-coronas-empty-bottle-tickets/13740158",
+    "date": "2024-03-05T21:00:00",
     "venue": "Empty Bottle"
   },
   {

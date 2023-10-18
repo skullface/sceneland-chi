@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kiss the Tiger with Old Joy and The Burning Lights"
-    ],
-    "link": "https://hideoutchicago.com/event/kiss-the-tiger-with-old-joy-and-the-burning-lights/hideout-chicago/chicago/",
-    "date": "2023-10-17T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Pure Intention with Repent and Ira Glass"
     ],
     "link": "https://hideoutchicago.com/event/pure-intention-with-repent-and-ira-glass/hideout-chicago/chicago/",
@@ -126,9 +118,9 @@
   },
   {
     "artist": [
-      "Leah Senior with Johanna Samuels"
+      "Leah Senior with Johanna Samuels and Case Oats"
     ],
-    "link": "https://hideoutchicago.com/event/leah-senior-with-johanna-samuels/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/leah-senior-with-johanna-samuels-and-case-oats/hideout-chicago/chicago/",
     "date": "2023-11-01T20:30:00",
     "venue": "Hideout"
   },
@@ -150,10 +142,26 @@
   },
   {
     "artist": [
+      "Blah Blah Blah Motorcycles Storytelling Hour"
+    ],
+    "link": "https://hideoutchicago.com/event/blah-blah-blah-motorcycles-storytelling-hour-2/hideout-chicago/chicago/",
+    "date": "2023-11-04T16:00:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
       "The Curls with Junegrass and Free Times"
     ],
     "link": "https://hideoutchicago.com/event/the-curls-with-junegrass-and-free-times/hideout-chicago/chicago/",
     "date": "2023-11-04T20:30:00",
+    "venue": "Hideout"
+  },
+  {
+    "artist": [
+      "Wicked Drawl"
+    ],
+    "link": "https://hideoutchicago.com/event/wicked-drawl/hideout-chicago/chicago/",
+    "date": "2023-11-05T16:00:00",
     "venue": "Hideout"
   },
   {

@@ -98,7 +98,15 @@
   },
   {
     "artist": [
-      "Mochakk"
+      "Mochakk - Night 1"
+    ],
+    "link": "https://concordmusichall.com/calendar/mochakk-night-1/",
+    "date": "2023-11-16T22:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "Mochakk - Night 2"
     ],
     "sold_out": true,
     "link": "https://concordmusichall.com/calendar/mochakk/",
@@ -228,6 +236,15 @@
     ],
     "link": "https://concordmusichall.com/calendar/thursday-war-all-the-time-live/",
     "date": "2024-01-30T18:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "Machine Head",
+      "Fear Factory, Orbit Culture, Gates to Hell"
+    ],
+    "link": "https://concordmusichall.com/calendar/machine-head-2/",
+    "date": "2024-01-31T18:00:00",
     "venue": "Concord Music Hall"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Chicago Debut: ULRIKA SPACEK , Holy Wave, Toosh"
-    ],
-    "link": "https://link.dice.fm/Y653ac2ee056",
-    "date": "2023-10-17T20:45:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
       "KIDNAPPED! Presents: Milk Carton Comedy Hour"
     ],
     "link": "https://link.dice.fm/d4578c4a95fa",
@@ -210,6 +202,14 @@
   },
   {
     "artist": [
+      "An Evening of Sophisti-Pop"
+    ],
+    "link": "https://link.dice.fm/q884c134d34c",
+    "date": "2023-11-13T19:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
       "DBN: Billy Joel Jr., Western Bisexual, All Weather Sports"
     ],
     "link": "https://link.dice.fm/Ofdb42b754cf",
@@ -266,6 +266,14 @@
   },
   {
     "artist": [
+      "DBN: THREEZERO, Jared Jones, Anessa Rivera"
+    ],
+    "link": "https://link.dice.fm/H59068203762",
+    "date": "2023-12-05T21:00:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
       "partywatcher (Album Release), George Arthur Calendar, Jesse"
     ],
     "link": "https://link.dice.fm/m910f50c5011",
@@ -310,6 +318,14 @@
     ],
     "link": "https://link.dice.fm/c149381e04f6",
     "date": "2024-01-13T19:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "TNK: Mila La Morena"
+    ],
+    "link": "https://link.dice.fm/U1e9d52f66c0",
+    "date": "2024-01-18T21:00:00",
     "venue": "Sleeping Village"
   }
 ]
