@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pure Intention with Repent and Ira Glass"
-    ],
-    "link": "https://hideoutchicago.com/event/pure-intention-with-repent-and-ira-glass/hideout-chicago/chicago/",
-    "date": "2023-10-18T20:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "Jim Lauderdale with The Texas Rubies"
     ],
     "link": "https://hideoutchicago.com/event/jim-lauderdale-with-the-texas-rubies/hideout-chicago/chicago/",
@@ -114,6 +106,7 @@
     ],
     "link": "https://hideoutchicago.com/event/dyke-fright-a-halloween-fest-presented-by-dyke-nite-hot-potato-hearts-and-the-queer-social-club/hideout-chicago/chicago/",
     "date": "2023-10-30T19:00:00",
+    "sold_out": true,
     "venue": "Hideout"
   },
   {
@@ -134,9 +127,9 @@
   },
   {
     "artist": [
-      "Molly Martin"
+      "Molly Martin with Pictoria Vark"
     ],
-    "link": "https://hideoutchicago.com/event/molly-martin-with-special-guests/hideout-chicago/chicago/",
+    "link": "https://hideoutchicago.com/event/molly-martin-with-pictoria-vark/hideout-chicago/chicago/",
     "date": "2023-11-03T21:30:00",
     "venue": "Hideout"
   },

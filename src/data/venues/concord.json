@@ -10,15 +10,6 @@
   },
   {
     "artist": [
-      "Borgore",
-      "Yakz, Sisto"
-    ],
-    "link": "https://concordmusichall.com/calendar/borgore-2/",
-    "date": "2023-10-21T22:00:00",
-    "venue": "Concord Music Hall"
-  },
-  {
-    "artist": [
       "Klub Nocturno Presents Rockero Night"
     ],
     "link": "https://concordmusichall.com/calendar/klub-nocturno-presents-rockero-night/",
@@ -45,7 +36,8 @@
   },
   {
     "artist": [
-      "Mau P"
+      "Mau P",
+      "Panfil & Rubh"
     ],
     "sold_out": true,
     "link": "https://concordmusichall.com/calendar/mau-p/",
@@ -213,6 +205,15 @@
   },
   {
     "artist": [
+      "Glassjaw",
+      "Celebrating XXX years of making things"
+    ],
+    "link": "https://concordmusichall.com/calendar/glassjaw/",
+    "date": "2023-12-28T18:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
       "Zakk Sabbath",
       "The Native Howl"
     ],
@@ -262,6 +263,14 @@
     ],
     "link": "https://concordmusichall.com/calendar/wilkinson/",
     "date": "2024-02-18T21:00:00",
+    "venue": "Concord Music Hall"
+  },
+  {
+    "artist": [
+      "Borgore"
+    ],
+    "link": "https://concordmusichall.com/calendar/borgore-2/",
+    "date": "2024-02-24T22:00:00",
     "venue": "Concord Music Hall"
   },
   {

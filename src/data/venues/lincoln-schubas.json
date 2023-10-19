@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JOHN, Tunic, Interlay"
-    ],
-    "link": "https://lh-st.com/shows/10-18-2023-john-timestwo/",
-    "date": "2023-10-18T19:30:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "This Is The Kit, Gruff Rhys"
     ],
     "link": "https://lh-st.com/shows/10-19-2023-this-is-the-kit/",
@@ -415,7 +407,7 @@
   },
   {
     "artist": [
-      "Gretel H\u00e4nlyn, Grace Bloom"
+      "Gretel H\u00e4nlyn, Grace Bloom, Natsuma"
     ],
     "link": "https://lh-st.com/shows/11-11-2023-gretel-hanlyn/",
     "date": "2023-11-11T20:00:00",
@@ -453,6 +445,16 @@
     "link": "https://lh-st.com/shows/11-13-2023-flyte/",
     "date": "2023-11-13T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Helicopter Leaves",
+      "Screeners",
+      "Clowder"
+    ],
+    "link": "https://lh-st.com/shows/11-13-2023-100-off-bands/",
+    "date": "2023-11-13T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -943,9 +945,9 @@
   },
   {
     "artist": [
-      "Jamie Wyatt, Joshua Quimby"
+      "Jaime Wyatt, Joshua Quimby"
     ],
-    "link": "https://lh-st.com/shows/02-01-2024-jamie-wyatt/",
+    "link": "https://lh-st.com/shows/02-01-2024-jaime-wyatt/",
     "date": "2024-02-01T20:00:00",
     "venue": "Lincoln Hall"
   },
@@ -971,6 +973,22 @@
     ],
     "link": "https://lh-st.com/shows/02-05-2024-ryan-mack/",
     "date": "2024-02-05T19:30:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Siena Liggins, Daisha McBride"
+    ],
+    "link": "https://lh-st.com/shows/02-07-2024-siena-liggins/",
+    "date": "2024-02-07T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Wolves of Glendale"
+    ],
+    "link": "https://lh-st.com/shows/02-08-2024-wolves-of-glendale/",
+    "date": "2024-02-08T20:00:00",
     "venue": "Schubas"
   },
   {
@@ -1065,11 +1083,27 @@
   },
   {
     "artist": [
+      "Sleepytime Gorilla Museum, Dead Rider, Cheer-Accident"
+    ],
+    "link": "https://lh-st.com/shows/03-13-2024-sleepytime-gorilla-museum/",
+    "date": "2024-03-13T18:30:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
       "Luna"
     ],
     "link": "https://lh-st.com/shows/03-15-2024-luna/",
     "date": "2024-03-15T20:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Video Age"
+    ],
+    "link": "https://lh-st.com/shows/03-15-2024-video-age/",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -1086,6 +1120,14 @@
     "sold_out": true,
     "link": "https://lh-st.com/shows/03-20-2024-josiah-and-the-bonnevilles/",
     "date": "2024-03-20T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "This Will Destroy You, Christopher Tignor"
+    ],
+    "link": "https://lh-st.com/shows/03-23-2024-this-will-destroy-you/",
+    "date": "2024-03-23T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

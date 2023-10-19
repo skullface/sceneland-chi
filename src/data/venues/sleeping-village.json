@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "KIDNAPPED! Presents: Milk Carton Comedy Hour"
-    ],
-    "link": "https://link.dice.fm/d4578c4a95fa",
-    "date": "2023-10-18T19:00:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
-      "Metro + smartbar Present Jitwam (Live), Joe Powers, Leja Hazer"
-    ],
-    "link": "https://link.dice.fm/m5380c99d292",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
       "Ready For Death, Pinko, Salvation, ILLS"
     ],
     "link": "https://link.dice.fm/a948e06ce008",
@@ -306,6 +290,14 @@
   },
   {
     "artist": [
+      "La Rosa Noir (Album Release), The Renters, Future Nobodies, Machin"
+    ],
+    "link": "https://link.dice.fm/W16ea132bef8",
+    "date": "2023-12-16T21:00:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
       "Plaid, Abstract Science DJs"
     ],
     "link": "https://link.dice.fm/Pb229d2d139d",
@@ -326,6 +318,14 @@
     ],
     "link": "https://link.dice.fm/U1e9d52f66c0",
     "date": "2024-01-18T21:00:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "Dylan LeBlanc"
+    ],
+    "link": "https://link.dice.fm/Le6628c61244",
+    "date": "2024-02-01T20:00:00",
     "venue": "Sleeping Village"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "EASY HONEY, Northwest, The Back Alley"
-    ],
-    "date": "2023-10-18T20:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/easy-honey-northwest-the-back-alley/13365118",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
-      "Heartbreak & Homies"
-    ],
-    "date": "2023-10-18T21:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/heartbreak-homies/13739578",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "Sam Nelson"
     ],
     "date": "2023-10-19T20:00:00",
@@ -113,6 +97,14 @@
   },
   {
     "artist": [
+      "Sarin, Shrivel Up, GONZOVIOLENCE, HALLUCINATION REALIZED, FED ASH"
+    ],
+    "date": "2023-10-28T18:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/sarin-shrivel-up-gonzoviolence-hallucination-realized-fed-ash/13769108",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "2000s Hip Hop HALLOWEEN Party"
     ],
     "date": "2023-10-28T22:00:00",
@@ -156,7 +148,6 @@
       "Royal & The Serpent, Carlie Hanson, Baby Fisher"
     ],
     "date": "2023-11-04T20:00:00",
-    "sold_out": true,
     "link": "https://www.subt.net/event/tw-eventinfo/royal-the-serpent-carlie-hanson-baby-fisher/13511278",
     "venue": "Subterranean"
   },
@@ -186,10 +177,10 @@
   },
   {
     "artist": [
-      "Lurk, Taking Meds, INSTILL, Turquoise"
+      "Lurk, Taking Meds, INSTILL, Turquoise, HOLD MY OWN"
     ],
     "date": "2023-11-10T19:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/lurk-taking-meds-instill-turquoise/13572858",
+    "link": "https://www.subt.net/event/tw-eventinfo/lurk-taking-meds-instill-turquoise-hold-my-own/13572858",
     "venue": "Subterranean"
   },
   {

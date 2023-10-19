@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Various Distractions"
-    ],
-    "link": "https://www.ticketweb.com/event/various-distractions-empty-bottle-tickets/13664088",
-    "date": "2023-10-18T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Free Range",
       "Sima Cunningham",
       "Hazel City"
@@ -147,9 +139,10 @@
   },
   {
     "artist": [
-      "Dumbo Gets Mad"
+      "Dumbo Gets Mad",
+      "Jude Shuma"
     ],
-    "link": "https://www.ticketweb.com/event/dumbo-gets-mad-empty-bottle-tickets/13626458",
+    "link": "https://www.ticketweb.com/event/dumbo-gets-mad-jude-empty-bottle-tickets/13626458",
     "date": "2023-11-01T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -216,6 +209,14 @@
     ],
     "link": "https://www.ticketweb.com/event/we-are-scientists-empty-bottle-tickets/13450058",
     "date": "2023-11-10T21:30:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770268",
+    "date": "2023-11-11T12:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -385,6 +386,14 @@
   },
   {
     "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770278",
+    "date": "2023-12-09T12:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "Beyond the Gate featuring Stephen O'Malley & Fran\u00e7ois J Bonnet"
     ],
     "link": "https://www.ticketweb.com/event/beyond-the-gate-featuring-stephen-bohemian-natl-cemetery-cathedral-tickets/13636188",
@@ -428,10 +437,34 @@
   },
   {
     "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770288",
+    "date": "2024-01-13T12:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770298",
+    "date": "2024-02-10T12:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "The Coronas"
     ],
     "link": "https://www.ticketweb.com/event/the-coronas-empty-bottle-tickets/13740158",
     "date": "2024-03-05T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770318",
+    "date": "2024-03-09T12:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -449,6 +482,14 @@
     ],
     "link": "https://www.ticketweb.com/event/elephant-stone-empty-bottle-tickets/13717758",
     "date": "2024-03-29T22:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Handmade Market"
+    ],
+    "link": "https://www.ticketweb.com/event/handmade-market-empty-bottle-tickets/13770328",
+    "date": "2024-04-13T12:00:00",
     "venue": "Empty Bottle"
   },
   {
