@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ann Wilson of Heart & Tripsitter"
-    ],
-    "link": "https://www.jamusa.com/events/detail/ann-wilson-of-heart-tripsitter-497902",
-    "date": "2023-10-19T19:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
-      "Rachel Hollis"
-    ],
-    "link": "https://www.jamusa.com/events/detail/rachel-hollis-496411",
-    "date": "2023-10-20T19:30:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Pinky Patel"
     ],
     "link": "https://www.jamusa.com/events/detail/pinky-patel-486281",
@@ -36,6 +20,14 @@
       "Christine and the Queens, bbymutha"
     ],
     "link": "https://www.jamusa.com/events/detail/christine-and-the-queens-487258",
+    "date": "2023-10-26T19:30:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Rachel Hollis"
+    ],
+    "link": "https://www.jamusa.com/events/detail/rachel-hollis-496411",
     "date": "2023-10-26T19:30:00",
     "venue": "The Vic Theatre"
   },
@@ -129,7 +121,7 @@
   },
   {
     "artist": [
-      "Kasabian"
+      "Kasabian, Silvertone"
     ],
     "link": "https://www.jamusa.com/events/detail/kasabian-490551",
     "date": "2023-11-11T19:30:00",

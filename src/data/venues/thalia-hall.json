@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Brandy Clark, Tattletale Saints"
-    ],
-    "link": "https://www.ticketweb.com/event/brandy-clark-with-tattletale-saints-thalia-hall-tickets/13310358",
-    "date": "2023-10-19T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "The Main Squeeze, Braxton Cook and Rich Ruth"
     ],
     "link": "https://www.ticketweb.com/event/the-main-squeeze-with-braxton-thalia-hall-tickets/13350638",
@@ -404,6 +396,14 @@
   },
   {
     "artist": [
+      "MOTION CITY SOUNDTRACK \u2013 I AM THE MOVIE 20TH ANNIVERSARY TOUR, Gully Boys"
+    ],
+    "link": "https://www.ticketweb.com/event/motion-city-soundtrack-i-thalia-hall-tickets/13750008",
+    "date": "2024-01-02T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Rebirth Brass Band"
     ],
     "link": "https://www.ticketweb.com/event/rebirth-brass-band-thalia-hall-tickets/13574118",
@@ -666,6 +666,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-longest-johns-thalia-hall-tickets/13665198",
     "date": "2024-05-21T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Bloodbath, Primordial, Grave, Archgoat, and Cardiac Arrest presented by Maryland Death Fest"
+    ],
+    "link": "https://www.ticketweb.com/event/bloodbath-with-primordial-grave-archgoat-thalia-hall-tickets/13759218",
+    "date": "2024-05-28T17:30:00",
     "venue": "Thalia Hall"
   }
 ]

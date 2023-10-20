@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Free Range",
-      "Sima Cunningham",
-      "Hazel City"
-    ],
-    "link": "https://www.ticketweb.com/event/free-range-sima-cunningham-empty-bottle-tickets/13592438",
-    "date": "2023-10-19T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Pixel Grip",
       "Body Shop",
       "Cae Mon\u0101e"
@@ -118,9 +108,11 @@
   },
   {
     "artist": [
-      "Powerplant"
+      "Powerplant",
+      "Dang\u00fcs Tark\u00fcs",
+      "Answering Machines!"
     ],
-    "link": "https://www.ticketweb.com/event/powerplant-empty-bottle-tickets/13617018",
+    "link": "https://www.ticketweb.com/event/powerplant-dangs-tarks-empty-bottle-tickets/13617018",
     "date": "2023-10-30T21:00:00",
     "venue": "Empty Bottle"
   },

@@ -1,29 +1,9 @@
 [
   {
     "artist": [
-      "This Is The Kit, Gruff Rhys"
-    ],
-    "link": "https://lh-st.com/shows/10-19-2023-this-is-the-kit/",
-    "date": "2023-10-19T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Subsonic Eye, Cusp"
-    ],
-    "link": "https://lh-st.com/shows/10-19-2023-subsonic-eye/",
-    "date": "2023-10-19T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "link": "https://lh-st.com/shows/10-19-2023-schubas-open-mic/",
-    "date": "2023-10-19T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Knucks, Bizzy Crook"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-20-2023-knucks/",
     "date": "2023-10-20T21:00:00",
     "venue": "Schubas"
@@ -216,7 +196,7 @@
   },
   {
     "artist": [
-      "daarling, Guest, xyzxyz"
+      "daarling, Jerry Russo, xyzxyz"
     ],
     "link": "https://lh-st.com/shows/10-30-2023-daarling/",
     "date": "2023-10-30T20:00:00",
@@ -226,6 +206,7 @@
     "artist": [
       "Aidan Bissett, Anna Shoemaker"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-31-2023-aidan-bissett/",
     "date": "2023-10-31T19:30:00",
     "venue": "Schubas"
@@ -897,7 +878,7 @@
   },
   {
     "artist": [
-      "Squirrel Flower, Guests"
+      "Squirrel Flower"
     ],
     "link": "https://lh-st.com/shows/01-19-2024-squirrel-flower-tnk/",
     "date": "2024-01-19T20:00:00",
@@ -905,7 +886,7 @@
   },
   {
     "artist": [
-      "L'Rain, Guests"
+      "L'Rain"
     ],
     "link": "https://lh-st.com/shows/01-19-2024-lrain-tnk/",
     "date": "2024-01-19T21:00:00",

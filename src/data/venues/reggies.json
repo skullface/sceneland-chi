@@ -1,41 +1,6 @@
 [
   {
     "artist": [
-      "FLATFOOT 56",
-      "HUNTINGTONS",
-      "TAKE THE REINS",
-      "SPACE AGE ZEROS",
-      "SEX DREAM"
-    ],
-    "date": "2023-10-19",
-    "link": "https://www.reggieslive.com/show/flatfoot-56-9/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "WHEN WE WAS KIDS",
-      "THE SKIES ARE SHIFTING",
-      "ANFANG",
-      "KANBINA"
-    ],
-    "date": "2023-10-19",
-    "link": "https://www.reggieslive.com/show/when-we-was-kids/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "CHEVY DEBBIE",
-      "KHALEEL",
-      "JAY DEEP",
-      "CHRIS MICHAELS (Pre-Game Antics)",
-      "B. COLE (Host)"
-    ],
-    "date": "2023-10-19",
-    "link": "https://www.reggieslive.com/show/ha-ha-hollywood-comedy-show-2/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "THE QUEERS",
       "SACK",
       "THE RAGING NATHANS",
@@ -186,6 +151,9 @@
   },
   {
     "artist": [
+      "DR. DREA",
+      "MUHAMMAD",
+      "TEDDY BIGGUMS",
       "CHRIS MICHAELS (Pre-Game Antics)",
       "B. COLE (Host)",
       "TBA"
@@ -677,7 +645,7 @@
       "BARREN HEIR",
       "ARCEM",
       "FARSEER",
-      "OLD SPEAK"
+      "OLDSPEAK"
     ],
     "date": "2023-11-18",
     "link": "https://www.reggieslive.com/show/barren-heir/",
@@ -1066,6 +1034,14 @@
     ],
     "date": "2024-01-06",
     "link": "https://www.reggieslive.com/show/psithurism/",
+    "venue": "Reggie\u2019s"
+  },
+  {
+    "artist": [
+      "KASHMIR"
+    ],
+    "date": "2024-01-20",
+    "link": "https://www.reggieslive.com/show/kashmir-5/",
     "venue": "Reggie\u2019s"
   },
   {

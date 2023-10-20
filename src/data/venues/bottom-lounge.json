@@ -27,16 +27,6 @@
   },
   {
     "artist": [
-      "IDK",
-      "Lute",
-      "Luna Elle"
-    ],
-    "date": "2023-10-27T20:00:00",
-    "link": "https://bottomlounge.com/13709-2/13169498/idk-lute-luna-elle",
-    "venue": "Bottom Lounge"
-  },
-  {
-    "artist": [
       "Mike Dimes",
       "Dro Kenji",
       "Sid Shyne",
@@ -341,6 +331,14 @@
     ],
     "date": "2024-02-07T19:00:00",
     "link": "https://bottomlounge.com/13709-2/13708468/holding-absence-casey-capstan-acres",
+    "venue": "Bottom Lounge"
+  },
+  {
+    "artist": [
+      "Living Colour"
+    ],
+    "date": "2024-02-08T19:30:00",
+    "link": "https://bottomlounge.com/13709-2/13762038/living-colour",
     "venue": "Bottom Lounge"
   },
   {

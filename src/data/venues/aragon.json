@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Kim Petras: Feed The Beast World Tour"
-    ],
-    "link": "https://concerts.livenation.com/kim-petras-feed-the-beast-world-chicago-illinois-10-18-2023/event/04005ED20E2A442C",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Aragon Ballroom"
-  },
-  {
-    "artist": [
-      "Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite"
-    ],
-    "link": "https://concerts.livenation.com/boys-like-girls-the-speaking-our-chicago-illinois-10-19-2023/event/04005EB1FA915B6B",
-    "date": "2023-10-19T19:00:00",
-    "venue": "Aragon Ballroom"
-  },
-  {
-    "artist": [
       "Men I Trust"
     ],
     "link": "https://concerts.livenation.com/men-i-trust-chicago-illinois-10-20-2023/event/04005EAAF319481D",
@@ -28,7 +12,7 @@
       "Motionless In White: The Touring The End Of The World Tour"
     ],
     "link": "https://concerts.livenation.com/motionless-in-white-the-touring-the-chicago-illinois-10-21-2023/event/04005E93D9102122",
-    "date": "2023-10-21T18:30:00",
+    "date": "2023-10-21T18:00:00",
     "venue": "Aragon Ballroom"
   },
   {
@@ -253,6 +237,14 @@
     ],
     "link": "https://concerts.livenation.com/oliver-tree-presents-alone-in-a-chicago-illinois-01-13-2024/event/04005F3C0B8B5B01",
     "date": "2024-01-13T20:00:00",
+    "venue": "Aragon Ballroom"
+  },
+  {
+    "artist": [
+      "Chelsea Cutler: The Beauty Is Everywhere Tour"
+    ],
+    "link": "https://concerts.livenation.com/chelsea-cutler-the-beauty-is-everywhere-chicago-illinois-03-02-2024/event/04005F440E384B2E",
+    "date": "2024-03-02T20:00:00",
     "venue": "Aragon Ballroom"
   },
   {
