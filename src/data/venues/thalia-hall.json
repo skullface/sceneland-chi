@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Main Squeeze, Braxton Cook and Rich Ruth"
-    ],
-    "link": "https://www.ticketweb.com/event/the-main-squeeze-with-braxton-thalia-hall-tickets/13350638",
-    "date": "2023-10-20T19:30:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "Laufey \u2013 The Bewitched Tour, Adam Melchor"
     ],
     "link": "https://www.ticketweb.com/event/sold-out-laufey-the-thalia-hall-tickets/13195468",
@@ -275,7 +267,8 @@
     "artist": [
       "An Evening With Hania Rani"
     ],
-    "link": "https://www.ticketweb.com/event/an-evening-with-hania-rani-thalia-hall-tickets/13093605",
+    "link": "https://www.ticketweb.com/event/sold-out-an-evening-with-thalia-hall-tickets/13093605",
+    "sold_out": true,
     "date": "2023-11-30T19:00:00",
     "venue": "Thalia Hall"
   },

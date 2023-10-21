@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "THE QUEERS",
-      "SACK",
-      "THE RAGING NATHANS",
-      "FLAMINGO NOSEBLEED",
-      "HOSPITAL JOB",
-      "ZOANOIDS"
-    ],
-    "date": "2023-10-20",
-    "link": "https://www.reggieslive.com/show/the-queers-6/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
-      "CHARMING DISASTER",
-      "THE HANDCUFFS",
-      "TENNIS COURT OATH",
-      "CLAMOR & LACE"
-    ],
-    "date": "2023-10-20",
-    "link": "https://www.reggieslive.com/show/charming-disaster/",
-    "venue": "Reggie\u2019s"
-  },
-  {
-    "artist": [
       "TEENAGE BOTTLEROCKET",
       "THE METHADONES",
       "THE BOLLWEEVILS",
@@ -430,6 +406,7 @@
     "artist": [
       "LEFT LANE CRUISER",
       "SQUIRREL CAGE",
+      "SNAKE WINE",
       "SHUKIN AND THE RAMBLERS"
     ],
     "date": "2023-11-10",

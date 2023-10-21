@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Peter McPoland: The Piggy Tour"
-    ],
-    "link": "https://concerts.livenation.com/peter-mcpoland-the-piggy-tour-chicago-illinois-10-20-2023/event/04005EB847664FC2",
-    "date": "2023-10-20T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "House of BOOlesque"
-    ],
-    "link": "https://concerts.livenation.com/house-of-boolesque-chicago-illinois-10-20-2023/event/04005F34441E31BB",
-    "date": "2023-10-20T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Night of Inspiration"
     ],
     "link": "https://concerts.livenation.com/night-of-inspiration-chicago-illinois-10-22-2023/event/04005F47BF1019AE",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/gaelic-storm-chicago-illinois-03-15-2024/event/04005F34E5372042",
     "date": "2024-03-15T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Gaelic Storm"
+    ],
+    "link": "https://concerts.livenation.com/gaelic-storm-chicago-illinois-03-16-2024/event/04005F34E5FD2052",
+    "date": "2024-03-16T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "JP Saxe: A Grey Area Tour"
+    ],
+    "link": "https://concerts.livenation.com/jp-saxe-a-grey-area-tour-chicago-illinois-03-19-2024/event/04005F0FB4F623C5",
+    "date": "2024-03-19T19:00:00",
     "venue": "House of Blues"
   }
 ]

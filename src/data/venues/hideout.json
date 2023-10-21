@@ -1,18 +1,11 @@
 [
   {
     "artist": [
-      "BCMC Record Release with Sam Prekop"
-    ],
-    "link": "https://hideoutchicago.com/event/bcmc-record-release-with-sam-prekop/hideout-chicago/chicago/",
-    "date": "2023-10-20T21:30:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "My Brightest Diamond"
     ],
     "link": "https://hideoutchicago.com/event/my-brightest-diamond/hideout-chicago/chicago/",
     "date": "2023-10-21T17:30:00",
+    "sold_out": true,
     "venue": "Hideout"
   },
   {

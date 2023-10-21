@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Pixel Grip",
-      "Body Shop",
-      "Cae Mon\u0101e"
-    ],
-    "sold_out": true,
-    "link": "https://www.ticketweb.com/event/sold-out-pixel-grip-empty-bottle-tickets/13478908",
-    "date": "2023-10-20T22:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "Empty Bottle & Chicago Music Scene Present: It May Be Crowded, But Don't Fu#%ing Touch Me"
     ],
     "link": "https://www.ticketweb.com/event/empty-bottle-chicago-music-empty-bottle-tickets/13713198",
@@ -61,6 +50,14 @@
     ],
     "link": "https://www.ticketweb.com/event/312unes-presents-a-giant-dog-empty-bottle-tickets/13332178",
     "date": "2023-10-24T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "CREEPSHOW: A Celebration of All Things Creepy"
+    ],
+    "link": "https://www.ticketweb.com/event/creepshow-a-celebration-of-all-empty-bottle-tickets/13777478",
+    "date": "2023-10-25T20:00:00",
     "venue": "Empty Bottle"
   },
   {
@@ -253,6 +250,14 @@
     ],
     "link": "https://www.ticketweb.com/event/ian-sweet-the-hecks-empty-bottle-tickets/13515838",
     "date": "2023-11-14T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Various Distractions"
+    ],
+    "link": "https://www.ticketweb.com/event/various-distractions-empty-bottle-tickets/13778208",
+    "date": "2023-11-15T21:00:00",
     "venue": "Empty Bottle"
   },
   {

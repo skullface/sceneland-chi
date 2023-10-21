@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Knucks, Bizzy Crook"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-20-2023-knucks/",
-    "date": "2023-10-20T21:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Vagabon, Nourished by Time"
-    ],
-    "link": "https://lh-st.com/shows/10-20-2023-vagabon/",
-    "date": "2023-10-20T21:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Gatlin, BEL"
     ],
     "sold_out": true,
@@ -77,7 +60,7 @@
   },
   {
     "artist": [
-      "Mo Welch"
+      "Mo Welch, Maggie Winters"
     ],
     "link": "https://lh-st.com/shows/10-24-2023-mo-welch/",
     "date": "2023-10-24T20:00:00",
@@ -485,7 +468,7 @@
   },
   {
     "artist": [
-      "Pauli The PSM"
+      "Pauli The PSM, The Parrisian"
     ],
     "link": "https://lh-st.com/shows/11-17-2023-pauli-the-psm/",
     "date": "2023-11-17T20:00:00",
@@ -518,20 +501,12 @@
   },
   {
     "artist": [
-      "Khanvict",
-      "Raaginder"
+      "Khanvict, Lapgan",
+      "Raaginder, Lapgan"
     ],
     "link": "https://lh-st.com/shows/11-18-2023-khanvict-raaginder/",
     "date": "2023-11-18T21:00:00",
     "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "Netta, DJ Moonlanding"
-    ],
-    "link": "https://lh-st.com/shows/11-19-2023-netta/",
-    "date": "2023-11-19T19:30:00",
-    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -663,6 +638,14 @@
     "link": "https://lh-st.com/shows/12-02-2023-darci/",
     "date": "2023-12-02T21:00:00",
     "venue": "Schubas"
+  },
+  {
+    "artist": [
+      "Mr. Dave\u2019s 7th Annual Holiday Jamboree"
+    ],
+    "link": "https://lh-st.com/shows/12-31-2022-mr-dave-holiday-jamboree/",
+    "date": "2023-12-03T11:00:00",
+    "venue": "Lincoln Hall"
   },
   {
     "artist": [
@@ -922,6 +905,14 @@
     ],
     "link": "https://lh-st.com/shows/01-27-2024-juice/",
     "date": "2024-01-27T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Young Gun Silver Fox"
+    ],
+    "link": "https://lh-st.com/shows/01-31-2024-young-gun-silver-fox/",
+    "date": "2024-01-31T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

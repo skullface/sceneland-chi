@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "UNDER THE SEA RAVE"
-    ],
-    "date": "2023-10-20T21:00:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/under-the-sea-rave/13558158",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "THOMAS DAY: LOVE ME FOR ANOTHER DAY TOUR"
     ],
     "date": "2023-10-21T18:00:00",
@@ -364,6 +356,22 @@
   },
   {
     "artist": [
+      "The Symposium, HEALTH CLUB"
+    ],
+    "date": "2023-12-29T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-symposium-health-club/13773198",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "The Symposium"
+    ],
+    "date": "2023-12-30T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-symposium/13773258",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "DAFT DISKO"
     ],
     "date": "2023-12-31T21:00:00",
@@ -376,6 +384,14 @@
     ],
     "date": "2024-01-29T19:30:00",
     "link": "https://www.subt.net/event/tw-eventinfo/joey-valence-brae/13602778",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "THE LAGOONS"
+    ],
+    "date": "2024-02-23T20:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/the-lagoons/13761618",
     "venue": "Subterranean"
   },
   {
