@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Gatlin, BEL"
-    ],
-    "sold_out": true,
-    "link": "https://lh-st.com/shows/10-21-2023-gatlin/",
-    "date": "2023-10-21T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
-      "An Evening With Mk.gee"
-    ],
-    "link": "https://lh-st.com/shows/10-21-2023-mkgee/",
-    "date": "2023-10-21T20:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
       "Mike Viola, DUSK"
     ],
     "link": "https://lh-st.com/shows/10-22-2023-mike-viola/",
@@ -1123,7 +1106,7 @@
       "Destroyer (solo), Lightning Dust"
     ],
     "link": "https://lh-st.com/shows/04-11-2024-destroyer/",
-    "date": "2024-04-16T20:00:00",
+    "date": "2024-04-11T20:00:00",
     "venue": "Lincoln Hall"
   },
   {
