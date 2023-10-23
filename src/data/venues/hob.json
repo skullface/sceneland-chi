@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Night of Inspiration"
-    ],
-    "link": "https://concerts.livenation.com/night-of-inspiration-chicago-illinois-10-22-2023/event/04005F47BF1019AE",
-    "date": "2023-10-22T16:45:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "TV Girl: MOVED TO BYLINE BANK ARAGON BALLROOM"
-    ],
-    "link": "https://concerts.livenation.com/tv-girl-moved-to-byline-bank-chicago-illinois-10-22-2023/event/04005EA94F535527",
-    "date": "2023-10-22T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "TV Girl: MOVED TO BYLINE BANK ARAGON BALLROOM"
-    ],
-    "link": "https://concerts.livenation.com/tv-girl-moved-to-byline-bank-chicago-illinois-10-22-2023/event/04005EA94EB8551D",
-    "date": "2023-10-22T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Victoria Mon\u00e9t: The JAGUAR Tour"
-    ],
-    "link": "https://concerts.livenation.com/victoria-monet-the-jaguar-tour-chicago-illinois-10-22-2023/event/04005EE5FD2B3C1F",
-    "date": "2023-10-22T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Victoria Mon\u00e9t: The JAGUAR Tour"
     ],
     "link": "https://concerts.livenation.com/victoria-monet-the-jaguar-tour-chicago-illinois-10-23-2023/event/04005EEDA67D19FF",
@@ -381,6 +349,38 @@
     ],
     "link": "https://concerts.livenation.com/jp-saxe-a-grey-area-tour-chicago-illinois-03-19-2024/event/04005F0FB4F623C5",
     "date": "2024-03-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Amaarae: Fountain Baby Tour"
+    ],
+    "link": "https://concerts.livenation.com/amaarae-fountain-baby-tour-chicago-illinois-03-21-2024/event/04005F22A68C1F8B",
+    "date": "2024-03-21T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Queen of the Night: A Tribute to Whitney Houston"
+    ],
+    "link": "https://concerts.livenation.com/queen-of-the-night-a-tribute-chicago-illinois-03-24-2024/event/04005F44B660213C",
+    "date": "2024-03-24T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Mahalia: In Real Life"
+    ],
+    "link": "https://concerts.livenation.com/mahalia-in-real-life-chicago-illinois-03-26-2024/event/04005F34E3352018",
+    "date": "2024-03-26T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Matt Maltese: Touring Just To Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/matt-maltese-touring-just-to-tour-chicago-illinois-03-29-2024/event/04005F2BF01A2948",
+    "date": "2024-03-29T19:00:00",
     "venue": "House of Blues"
   }
 ]

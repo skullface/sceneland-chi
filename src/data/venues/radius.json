@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Thievery Corporation + DJ Shadow",
-      "Cosmic Trigger"
-    ],
-    "link": "https://www.radius-chicago.com/events/detail/494284",
-    "date": "2023-10-22T19:00:00",
-    "venue": "Radius"
-  },
-  {
-    "artist": [
       "deadmau5",
       "Spencer Brown, Volaris"
     ],
@@ -167,6 +158,14 @@
     ],
     "link": "https://www.radius-chicago.com/events/detail/503213",
     "date": "2023-12-27T22:00:00",
+    "venue": "Radius"
+  },
+  {
+    "artist": [
+      "Purple Disco Machine"
+    ],
+    "link": "https://www.radius-chicago.com/events/detail/507098",
+    "date": "2023-12-28T22:00:00",
     "venue": "Radius"
   }
 ]
