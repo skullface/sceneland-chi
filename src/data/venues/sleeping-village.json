@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Stephen Steinbrink, Charlie Reed, Jessica Mindrum"
-    ],
-    "link": "https://link.dice.fm/Jba6c7f64af5",
-    "date": "2023-10-23T20:00:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
       "DBN: The Daisy Heaves, Miniskirt, Division Point"
     ],
     "link": "https://link.dice.fm/g7abfeeadf72",
@@ -44,6 +36,7 @@
       "Slo \u2018Mo Presents: The Coven Classic"
     ],
     "link": "https://link.dice.fm/a40538b3bcc9",
+    "sold_out": true,
     "date": "2023-10-28T21:00:00",
     "venue": "Sleeping Village"
   },
@@ -178,7 +171,7 @@
   },
   {
     "artist": [
-      "Album Release: Nathan Graham, The Nettes"
+      "Album Release: Nathan Graham, Meg & The Wheelers, The Nettes"
     ],
     "link": "https://link.dice.fm/C72d8eca23fb",
     "date": "2023-11-18T21:00:00",

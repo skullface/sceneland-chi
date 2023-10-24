@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Victoria Mon\u00e9t: The JAGUAR Tour"
-    ],
-    "link": "https://concerts.livenation.com/victoria-monet-the-jaguar-tour-chicago-illinois-10-23-2023/event/04005EEDA67D19FF",
-    "date": "2023-10-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Dear Hunter: Migrant 10th Anniversary Tour"
     ],
     "link": "https://concerts.livenation.com/the-dear-hunter-migrant-10th-anniversary-chicago-illinois-10-26-2023/event/04005EC6CE74424D",
@@ -101,6 +93,14 @@
     ],
     "link": "https://concerts.livenation.com/real-friends-knuckle-puck-chicago-illinois-11-11-2023/event/04005EE5E90C324D",
     "date": "2023-11-11T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Ben Alldis: Raise The Bar Book Tour"
+    ],
+    "link": "https://concerts.livenation.com/ben-alldis-raise-the-bar-book-chicago-illinois-11-13-2023/event/04005F56C2E8245C",
+    "date": "2023-11-13T18:30:00",
     "venue": "House of Blues"
   },
   {
@@ -305,6 +305,14 @@
   },
   {
     "artist": [
+      "Mick Jenkins: Thank You For Waiting Tour"
+    ],
+    "link": "https://concerts.livenation.com/mick-jenkins-thank-you-for-waiting-chicago-illinois-01-19-2024/event/04005F52C9E72944",
+    "date": "2024-01-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Badfish: A Tribute To Sublime"
     ],
     "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-chicago-illinois-02-02-2024/event/04005F32005C2B5B",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/mahalia-in-real-life-chicago-illinois-03-26-2024/event/04005F34E3352018",
     "date": "2024-03-26T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Matt Maltese: Touring Just To Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/matt-maltese-touring-just-to-tour-chicago-illinois-03-29-2024/event/04005F2BF01A2948",
-    "date": "2024-03-29T19:00:00",
     "venue": "House of Blues"
   }
 ]

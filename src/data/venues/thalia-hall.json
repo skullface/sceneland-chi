@@ -209,7 +209,8 @@
     "artist": [
       "Kyle Kinane"
     ],
-    "link": "https://www.ticketweb.com/event/kyle-kinane-thalia-hall-tickets/13465828",
+    "link": "https://www.ticketweb.com/event/sold-out-kyle-kinane-thalia-hall-tickets/13465828",
+    "sold_out": true,
     "date": "2023-11-21T19:30:00",
     "venue": "Thalia Hall"
   },
@@ -231,9 +232,9 @@
   },
   {
     "artist": [
-      "Sen Morimoto"
+      "Sen Morimoto, Ang\u00e9lica Garcia & Neptune's Core"
     ],
-    "link": "https://www.ticketweb.com/event/sen-morimoto-thalia-hall-tickets/13412348",
+    "link": "https://www.ticketweb.com/event/sen-morimoto-with-anglica-garcia-thalia-hall-tickets/13412348",
     "date": "2023-11-25T18:00:00",
     "venue": "Thalia Hall"
   },
@@ -359,6 +360,14 @@
     ],
     "link": "https://www.ticketweb.com/event/mariachi-herencia-de-mexico-a-thalia-hall-tickets/13713658",
     "date": "2023-12-17T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Delmark Blues & Jazz All-Stars Holiday Concert"
+    ],
+    "link": "https://www.ticketweb.com/event/delmark-blues-jazz-all-thalia-hall-tickets/13777508",
+    "date": "2023-12-20T19:00:00",
     "venue": "Thalia Hall"
   },
   {
@@ -625,6 +634,14 @@
     ],
     "link": "https://www.ticketweb.com/event/helado-negro-thalia-hall-tickets/13748808",
     "date": "2024-04-30T19:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "The Strumbellas, Cece Coakley"
+    ],
+    "link": "https://www.ticketweb.com/event/the-strumbellas-with-cece-coakley-thalia-hall-tickets/13749058",
+    "date": "2024-05-02T19:00:00",
     "venue": "Thalia Hall"
   },
   {

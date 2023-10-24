@@ -1,27 +1,10 @@
 [
   {
     "artist": [
-      "Semler with Imani Graham"
-    ],
-    "link": "https://hideoutchicago.com/event/semler-with-imani-graham/hideout-chicago/chicago/",
-    "date": "2023-10-23T20:30:00",
-    "sold_out": true,
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
       "DAVi MUSiC with Tyresta and Jnana"
     ],
     "link": "https://hideoutchicago.com/event/davi-music-with-tyresta-and-jnana/hideout-chicago/chicago/",
     "date": "2023-10-24T20:00:00",
-    "venue": "Hideout"
-  },
-  {
-    "artist": [
-      "The Circus Dogs"
-    ],
-    "link": "https://hideoutchicago.com/event/the-circus-dogs/hideout-chicago/chicago/",
-    "date": "2023-10-26T18:00:00",
     "venue": "Hideout"
   },
   {

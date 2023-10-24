@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "TRAUNA, BOY BANDICOOT, MOONY"
-    ],
-    "date": "2023-10-23T19:30:00",
-    "link": "https://www.subt.net/event/tw-eventinfo/trauna-boy-bandicoot-moony/13537508",
-    "venue": "Subterranean"
-  },
-  {
-    "artist": [
       "Rozwell Kid, Edging, Pretty Pleased"
     ],
     "date": "2023-10-24T20:00:00",
@@ -202,6 +194,14 @@
   },
   {
     "artist": [
+      "Hotbox Sparrin' Release"
+    ],
+    "date": "2023-11-15T21:30:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/hotbox-sparrin-release/13786938",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
       "XIUHTEZCATL & MATO WAYUHI - 2 THE MOON & BACK TOUR"
     ],
     "date": "2023-11-16T20:00:00",
@@ -256,6 +256,14 @@
     "date": "2023-11-22T19:30:00",
     "sold_out": true,
     "link": "https://www.subt.net/event/tw-eventinfo/jazmin-bean-lucy-loone/13454408",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "EL APAGON"
+    ],
+    "date": "2023-11-22T22:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/el-apagon/13787318",
     "venue": "Subterranean"
   },
   {
@@ -376,6 +384,14 @@
     ],
     "date": "2024-03-02T20:00:00",
     "link": "https://www.subt.net/event/tw-eventinfo/raffaella/13730788",
+    "venue": "Subterranean"
+  },
+  {
+    "artist": [
+      "Powfu, Cody Lawless, Jomie"
+    ],
+    "date": "2024-03-12T19:00:00",
+    "link": "https://www.subt.net/event/tw-eventinfo/powfu-cody-lawless-jomie/13769058",
     "venue": "Subterranean"
   },
   {
