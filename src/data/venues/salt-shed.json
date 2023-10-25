@@ -150,7 +150,16 @@
     "artist": [
       "Black Pumas with The Dip"
     ],
-    "link": "https://www.ticketmaster.com/black-pumas-with-the-dip-chicago-illinois-01-26-2024/event/04005F3DD0A425C4",
+    "link": "https://www.ticketmaster.com/black-pumas-with-the-dip-chicago-illinois-01-25-2024/event/04005F57996B0CD7",
+    "date": "2024-01-25T19:00:00",
+    "venue": "Salt Shed"
+  },
+  {
+    "sold_out": true,
+    "artist": [
+      "Black Pumas with The Dip"
+    ],
+    "link": "https://www.ticketmaster.com/sold-out-black-pumas-with-the-chicago-illinois-01-26-2024/event/04005F3DD0A425C4",
     "date": "2024-01-26T19:00:00",
     "venue": "Salt Shed"
   },

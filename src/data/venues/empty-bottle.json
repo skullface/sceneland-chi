@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "312unes Presents: A Giant Dog",
-      "Trouble In The Streets",
-      "Avantist"
-    ],
-    "link": "https://www.ticketweb.com/event/312unes-presents-a-giant-dog-empty-bottle-tickets/13332178",
-    "date": "2023-10-24T21:00:00",
-    "venue": "Empty Bottle"
-  },
-  {
-    "artist": [
       "CREEPSHOW: A Celebration of All Things Creepy"
     ],
     "link": "https://www.ticketweb.com/event/creepshow-a-celebration-of-all-empty-bottle-tickets/13777478",
@@ -23,6 +13,14 @@
     ],
     "link": "https://www.ticketweb.com/event/a-night-of-modular-synthesis-empty-bottle-tickets/13653878",
     "date": "2023-10-26T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
+      "Haunted Honky Tonk Featuring Meg & The Wheelers"
+    ],
+    "link": "https://www.ticketweb.com/event/haunted-honky-tonk-featuring-meg-empty-bottle-tickets/13011755",
+    "date": "2023-10-27T17:30:00",
     "venue": "Empty Bottle"
   },
   {
@@ -115,8 +113,7 @@
   {
     "artist": [
       "Junior Mint Prince",
-      "Dorothy Carlos",
-      "Signal Decay"
+      "Dorothy Carlos"
     ],
     "link": "https://www.ticketweb.com/event/free-monday-w-junior-mint-empty-bottle-tickets/13674588",
     "date": "2023-11-06T21:00:00",
@@ -151,9 +148,10 @@
   },
   {
     "artist": [
-      "We Are Scientists"
+      "We Are Scientists",
+      "Sean McVerry"
     ],
-    "link": "https://www.ticketweb.com/event/we-are-scientists-empty-bottle-tickets/13450058",
+    "link": "https://www.ticketweb.com/event/we-are-scientists-sean-empty-bottle-tickets/13450058",
     "date": "2023-11-10T21:30:00",
     "venue": "Empty Bottle"
   },
@@ -167,9 +165,10 @@
   },
   {
     "artist": [
-      "Puma Blue"
+      "Puma Blue",
+      "Dweller"
     ],
-    "link": "https://www.ticketweb.com/event/puma-blue-empty-bottle-tickets/13322318",
+    "link": "https://www.ticketweb.com/event/puma-blue-dweller-empty-bottle-tickets/13322318",
     "date": "2023-11-11T21:00:00",
     "venue": "Empty Bottle"
   },
@@ -305,6 +304,16 @@
   },
   {
     "artist": [
+      "Ghost Days (Album Release)",
+      "Future Nobodies",
+      "Flowerbabe"
+    ],
+    "link": "https://www.ticketweb.com/event/ghost-days-album-release-empty-bottle-tickets/13786658",
+    "date": "2023-11-29T21:00:00",
+    "venue": "Empty Bottle"
+  },
+  {
+    "artist": [
       "blood club",
       "TEEN BLUSH",
       "DustBowlChampion"
@@ -332,9 +341,10 @@
   },
   {
     "artist": [
-      "Mandy, Indiana"
+      "Mandy, Indiana",
+      "MASS"
     ],
-    "link": "https://www.ticketweb.com/event/mandy-indiana-empty-bottle-tickets/13651738",
+    "link": "https://www.ticketweb.com/event/mandy-indiana-mass-empty-bottle-tickets/13651738",
     "date": "2023-12-05T21:00:00",
     "venue": "Empty Bottle"
   },

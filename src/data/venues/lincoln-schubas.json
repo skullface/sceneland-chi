@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Chicago Moth StorySLAM"
-    ],
-    "link": "https://lh-st.com/shows/10-24-2023-the-chicago-moth-storyslam/",
-    "date": "2023-10-24T19:00:00",
-    "venue": "Lincoln Hall"
-  },
-  {
-    "artist": [
-      "Mo Welch, Maggie Winters"
-    ],
-    "link": "https://lh-st.com/shows/10-24-2023-mo-welch/",
-    "date": "2023-10-24T20:00:00",
-    "venue": "Schubas"
-  },
-  {
-    "artist": [
       "Be Your Own Pet, Birthday Girl"
     ],
     "link": "https://lh-st.com/shows/10-25-2023-be-your-own-pet/",
@@ -25,7 +9,7 @@
   },
   {
     "artist": [
-      "Michael Minelli, Tony22, Jrob The Chief, Jaylon Ashaun"
+      "Michael Minelli, Tony22, Jrob The Chief"
     ],
     "link": "https://lh-st.com/shows/10-25-2023-michael-minelli/",
     "date": "2023-10-25T20:00:00",
@@ -35,6 +19,7 @@
     "artist": [
       "Schtick"
     ],
+    "sold_out": true,
     "link": "https://lh-st.com/shows/10-25-2023-schtick/",
     "date": "2023-10-25T20:00:00",
     "venue": "Schubas"
@@ -112,7 +97,7 @@
   },
   {
     "artist": [
-      "The Lighthouse and the Whaler, MEOWBOYS"
+      "The Lighthouse and the Whaler, Zorila"
     ],
     "link": "https://lh-st.com/shows/10-29-2023-the-lighthouse-and-the-whaler/",
     "date": "2023-10-29T19:30:00",
@@ -540,6 +525,16 @@
   },
   {
     "artist": [
+      "Sick Day",
+      "LLO LLO",
+      "Fake English"
+    ],
+    "link": "https://lh-st.com/shows/11-25-2023-100-off-bands/",
+    "date": "2023-11-25T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Lily & Madeiline, Brian Dunne"
     ],
     "link": "https://lh-st.com/shows/11-27-2023-lily-madeleine/",
@@ -805,6 +800,14 @@
   },
   {
     "artist": [
+      "Joe Hertler and the Rainbow Seekers, Of Good Nature"
+    ],
+    "link": "https://lh-st.com/shows/12-29-2023-joe-hertler-the-rainbow-seekers/",
+    "date": "2023-12-29T20:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "She's So Quiet, Vandalay, Trickshooter Social Club"
     ],
     "link": "https://lh-st.com/shows/01-07-2024-shes-so-quiet/",
@@ -858,6 +861,14 @@
     "link": "https://lh-st.com/shows/01-20-2024-nabihah-iqbal-tnk/",
     "date": "2024-01-20T21:00:00",
     "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Los Rolling Ruanas"
+    ],
+    "link": "https://lh-st.com/shows/01-23-2024-los-rolling-ruanas/",
+    "date": "2024-01-23T19:30:00",
+    "venue": "Schubas"
   },
   {
     "artist": [
@@ -941,6 +952,15 @@
   },
   {
     "artist": [
+      "Alaina Stacey",
+      "Madeleine Kelson"
+    ],
+    "link": "https://lh-st.com/shows/02-16-2024-alaina-stacey-madeleine-kelson/",
+    "date": "2024-02-16T19:00:00",
+    "venue": "Schubas"
+  },
+  {
+    "artist": [
       "Mir Fontane",
       "Caleborate"
     ],
@@ -995,6 +1015,14 @@
     ],
     "link": "https://lh-st.com/shows/03-02-2024-em-beihold/",
     "date": "2024-03-02T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "Katy Kirby, Allegra Krieger"
+    ],
+    "link": "https://lh-st.com/shows/03-03-2024-katy-kirby/",
+    "date": "2024-03-03T18:00:00",
     "venue": "Lincoln Hall"
   },
   {
@@ -1092,6 +1120,14 @@
     ],
     "link": "https://lh-st.com/shows/03-24-2024-the-rural-alberta-advantage/",
     "date": "2024-03-24T20:00:00",
+    "venue": "Lincoln Hall"
+  },
+  {
+    "artist": [
+      "San Fermin"
+    ],
+    "link": "https://lh-st.com/shows/03-27-2024-san-fermin/",
+    "date": "2024-03-27T20:00:00",
     "venue": "Lincoln Hall"
   },
   {

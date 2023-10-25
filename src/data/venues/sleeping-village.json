@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "DBN: The Daisy Heaves, Miniskirt, Division Point"
-    ],
-    "link": "https://link.dice.fm/g7abfeeadf72",
-    "date": "2023-10-24T21:00:00",
-    "venue": "Sleeping Village"
-  },
-  {
-    "artist": [
       "SV + The Whistler Present: Butcher Brown, CARRTOONS"
     ],
     "link": "https://link.dice.fm/U46f2ce15dc7",
@@ -17,7 +9,7 @@
   },
   {
     "artist": [
-      "JMSN"
+      "JMSN, Nicole Miglis, Ghost In The Arena"
     ],
     "link": "https://link.dice.fm/Y2404ed23381",
     "date": "2023-10-26T21:00:00",
@@ -71,6 +63,14 @@
     ],
     "link": "https://link.dice.fm/A0e0817524de",
     "date": "2023-11-01T20:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "HaHaHappy Hour: The Good Guy Show"
+    ],
+    "link": "https://link.dice.fm/Ucd95b8332c4",
+    "date": "2023-11-02T18:00:00",
     "venue": "Sleeping Village"
   },
   {
@@ -155,7 +155,7 @@
   },
   {
     "artist": [
-      "DBN: Billy Joel Jr., Western Bisexual, All Weather Sports"
+      "DBN: Billy Joel Jr., All Weather Sports"
     ],
     "link": "https://link.dice.fm/Ofdb42b754cf",
     "date": "2023-11-14T20:30:00",
@@ -163,7 +163,7 @@
   },
   {
     "artist": [
-      "Umru and Petal Supply"
+      "Umru + Petal Supply, Andrew Goes To Hell"
     ],
     "link": "https://link.dice.fm/za751d3ab77b",
     "date": "2023-11-17T21:00:00",
@@ -183,6 +183,14 @@
     ],
     "link": "https://link.dice.fm/f11a945e52a7",
     "date": "2023-11-21T20:30:00",
+    "venue": "Sleeping Village"
+  },
+  {
+    "artist": [
+      "Steve Hauschildt"
+    ],
+    "link": "https://link.dice.fm/Ua7adafaf014",
+    "date": "2023-11-25T20:00:00",
     "venue": "Sleeping Village"
   },
   {

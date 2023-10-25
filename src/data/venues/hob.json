@@ -137,6 +137,14 @@
   },
   {
     "artist": [
+      "Mute Duo"
+    ],
+    "link": "https://concerts.livenation.com/mute-duo-chicago-illinois-11-17-2023/event/04005F58BEA42904",
+    "date": "2023-11-17T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Moon Taxi"
     ],
     "link": "https://concerts.livenation.com/moon-taxi-chicago-illinois-11-18-2023/event/04005EB2C0AB2AB4",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/queen-of-the-night-a-tribute-chicago-illinois-03-24-2024/event/04005F44B660213C",
     "date": "2024-03-24T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Mahalia: In Real Life"
-    ],
-    "link": "https://concerts.livenation.com/mahalia-in-real-life-chicago-illinois-03-26-2024/event/04005F34E3352018",
-    "date": "2024-03-26T17:30:00",
     "venue": "House of Blues"
   }
 ]

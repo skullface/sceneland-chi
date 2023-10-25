@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Rawayana, Orestes Gomez"
-    ],
-    "link": "https://www.ticketweb.com/event/sold-out-rawayana-with-orestes-thalia-hall-tickets/13270838",
-    "sold_out": true,
-    "date": "2023-10-24T19:00:00",
-    "venue": "Thalia Hall"
-  },
-  {
-    "artist": [
       "William Basinski, Claire Rousay"
     ],
     "link": "https://www.ticketweb.com/event/william-basinski-with-claire-rousay-thalia-hall-tickets/13101355",
@@ -84,7 +75,7 @@
   },
   {
     "artist": [
-      "NIA ARCHIVES: UP YA ARCHIVES USA TOUR"
+      "NIA ARCHIVES: UP YA ARCHIVES USA TOUR, SadBoi"
     ],
     "link": "https://www.ticketweb.com/event/nia-archives-up-ya-archives-thalia-hall-tickets/13503128",
     "date": "2023-11-03T19:30:00",
@@ -324,6 +315,14 @@
   },
   {
     "artist": [
+      "The Long Hair Don't Care Show, Ravyn Lenae, Joseph Chilliams, and Matt Muse"
+    ],
+    "link": "https://www.ticketweb.com/event/the-long-hair-dont-care-thalia-hall-tickets/13770398",
+    "date": "2023-12-10T18:00:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
       "Single AF: An Evening for Bad Bitches, Ariana Madix"
     ],
     "link": "https://www.ticketweb.com/event/single-af-an-evening-for-thalia-hall-tickets/13741378",
@@ -554,6 +553,14 @@
     ],
     "link": "https://www.ticketweb.com/event/mitch-rowland-thalia-hall-tickets/13723838",
     "date": "2024-03-21T18:30:00",
+    "venue": "Thalia Hall"
+  },
+  {
+    "artist": [
+      "Mo Lowda & The Humble + The Bright Light Social Hour"
+    ],
+    "link": "https://www.ticketweb.com/event/mo-lowda-the-humble-thalia-hall-tickets/13777358",
+    "date": "2024-03-22T19:00:00",
     "venue": "Thalia Hall"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Don Broco and The Home Team, Skyler Acord, The Color 8"
-    ],
-    "link": "https://www.jamusa.com/events/detail/don-broco-and-the-home-team-491560",
-    "date": "2023-10-24T18:00:00",
-    "venue": "The Vic Theatre"
-  },
-  {
-    "artist": [
       "Christine and the Queens, bbymutha"
     ],
     "link": "https://www.jamusa.com/events/detail/christine-and-the-queens-487258",
@@ -269,6 +261,14 @@
     ],
     "link": "https://www.jamusa.com/events/detail/magic-city-hippies-503798",
     "date": "2024-01-26T20:00:00",
+    "venue": "The Vic Theatre"
+  },
+  {
+    "artist": [
+      "Lucius, Jeff Taylor"
+    ],
+    "link": "https://www.jamusa.com/events/detail/lucius-509113",
+    "date": "2024-01-27T19:30:00",
     "venue": "The Vic Theatre"
   },
   {
